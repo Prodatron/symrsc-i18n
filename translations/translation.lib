@@ -1,0 +1,7044 @@
+{
+  "Error while loading": {
+    "JPN": "ロードちゅうにエラーがはっせいしました。",
+    "DEU": "Fehler beim Laden",
+    "NLD": "Fout bij laden",
+    "ELL": "Σφάλμα κατά τη φόρτωση",
+    "SPA": "Error al cargar",
+    "TUR": "Yüklerken hata oluştu",
+    "POR": "Erro ao carregar",
+    "ITA": "Errore durante il caricamento"
+  },
+  "Control Panel": {
+    "JPN": "コントロールパネル",
+    "DEU": "Systemsteuerung",
+    "NLD": "Configuratiescherm",
+    "ELL": "Πίνακας Ελέγχου",
+    "SPA": "Panel de Control",
+    "TUR": "Yönetim Paneli",
+    "POR": "Painel de Controle",
+    "ITA": "Pannello di controllo"
+  },
+  "Object(s)": {
+    "JPN": "オブジェクト",
+    "DEU": "Element(e)",
+    "NLD": "objecten",
+    "ELL": "Αντικείμενα",
+    "SPA": "Objeto(s)",
+    "TUR": "Nesne",
+    "POR": "objeto(s)",
+    "ITA": "elementi"
+  },
+  "File": {
+    "JPN": "ファイル",
+    "DEU": "Datei",
+    "NLD": "Bestand",
+    "ELL": "Αρχείο",
+    "SPA": "Archivo",
+    "TUR": "Dosya",
+    "POR": "Arquivo",
+    "ITA": "File"
+  },
+  "?": {
+    "JPN": "？",
+    "DEU": "?",
+    "NLD": "?",
+    "ELL": "?",
+    "SPA": "?",
+    "TUR": "?",
+    "POR": "?",
+    "ITA": "?",
+    "UKR": "?"
+  },
+  "Load settings": {
+    "JPN": "せっていをロード",
+    "DEU": "Laden",
+    "NLD": "Instellingen laden",
+    "ELL": "Φόρτωση ρυθμίσεων",
+    "SPA": "Cargar opciones",
+    "TUR": "Ayarları yükle",
+    "POR": "Carregar configurações",
+    "ITA": "Carica"
+  },
+  "Save settings": {
+    "JPN": "せっていをセーブ",
+    "DEU": "Speichern",
+    "NLD": "Instellingen opslaan",
+    "ELL": "Αποθήκευση ρυθμίσεων",
+    "SPA": "Guardar opciones",
+    "TUR": "Ayarları kaydet",
+    "POR": "Salvar configurações",
+    "ITA": "Salva"
+  },
+  "Autosave": {
+    "JPN": "オートセーブ",
+    "DEU": "Autom.speichern",
+    "NLD": "Auto-opslag",
+    "ELL": "Αυτόματη αποθήκευση",
+    "SPA": "Autoguardado",
+    "TUR": "Otomatik kaydet",
+    "POR": "Salvamento automático",
+    "ITA": "Automatico"
+  },
+  "Close": {
+    "JPN": "とじる",
+    "DEU": "Beenden",
+    "NLD": "Sluiten",
+    "ELL": "Κλείσιμο",
+    "SPA": "Cerrar",
+    "TUR": "Kapat",
+    "POR": "Fechar",
+    "ITA": "Chiudi"
+  },
+  "Helptopics": {
+    "JPN": "ヘルプトピック",
+    "DEU": "Hilfethemen",
+    "NLD": "Help",
+    "ELL": "Θέματα βοήθειας",
+    "SPA": "Ayuda",
+    "TUR": "Yardım konuları",
+    "POR": "Tópicos de ajuda",
+    "ITA": "Aiuto"
+  },
+  "Info": {
+    "JPN": "じょうほう",
+    "DEU": "Info",
+    "NLD": "Info",
+    "ELL": "Πληροφορίες",
+    "SPA": "Información",
+    "TUR": "Bilgi",
+    "POR": "Info",
+    "ITA": "Info"
+  },
+  "Keyboard": {
+    "JPN": "キーホﾞートﾞ",
+    "DEU": "Tastatur",
+    "NLD": "Toetsen",
+    "ELL": "Πληκτρο",
+    "SPA": "Teclado",
+    "TUR": "Klavye",
+    "POR": "Teclado",
+    "ITA": "Tastiera"
+  },
+  "Mouse": {
+    "JPN": "マウス",
+    "DEU": "Maus",
+    "NLD": "Muis",
+    "ELL": "Ποντίκι",
+    "SPA": "Ratón",
+    "TUR": "Fare",
+    "POR": "Mouse",
+    "ITA": "Mouse"
+  },
+  "Display": {
+    "JPN": "テﾞィスフﾟレイ",
+    "DEU": "Anzeige",
+    "NLD": "Weergave",
+    "ELL": "Οθόνη",
+    "SPA": "Pantalla",
+    "TUR": "Ekran",
+    "POR": "Tela",
+    "ITA": "Display"
+  },
+  "Date and": {
+    "JPN": "日時",
+    "DEU": "Datum &",
+    "NLD": "Datum en",
+    "ELL": "Ημερομ",
+    "SPA": "Fecha y",
+    "TUR": "Tarih ve",
+    "POR": "Data e",
+    "ITA": "Data e"
+  },
+  "Time": {
+    "DEU": "Uhrzeit",
+    "NLD": "Tijd",
+    "ELL": "και Ώρα",
+    "JPN": "時かん",
+    "SPA": "Hora",
+    "TUR": "Saat",
+    "POR": "Hora",
+    "ITA": "Ora"
+  },
+  "Font and": {
+    "JPN": "フォント and",
+    "DEU": "Schriftart",
+    "NLD": "Lettertype",
+    "ELL": "Γραμ",
+    "SPA": "Fuente e",
+    "TUR": "Font ve",
+    "POR": "Fonte e",
+    "ITA": "Carattere e"
+  },
+  "Language": {
+    "DEU": "& Sprache",
+    "NLD": "en taal",
+    "ELL": "και Γλώσσα",
+    "SPA": "Idioma",
+    "TUR": "Dil",
+    "POR": "Idioma",
+    "ITA": "Lingua"
+  },
+  "System": {
+    "JPN": "システム",
+    "DEU": "System",
+    "NLD": "Systeem",
+    "ELL": "Σύστημα",
+    "SPA": "Sistema",
+    "TUR": "Sistem",
+    "POR": "Sistema",
+    "ITA": "Sistema"
+  },
+  "Mass": {
+    "JPN": "マス",
+    "DEU": "Massen",
+    "NLD": "Opslag",
+    "ELL": "Μαζική",
+    "SPA": "Unidades de",
+    "TUR": "Yığın",
+    "POR": "Armazena",
+    "ITA": "Dischi"
+  },
+  "Storage": {
+    "JPN": "ストレーシﾞ",
+    "DEU": "speicher",
+    "NLD": "Bronnen",
+    "ELL": "Αποθ",
+    "SPA": "almacenamiento",
+    "TUR": "Depolama",
+    "POR": "mento"
+  },
+  "Desktop": {
+    "JPN": "デスクトップ",
+    "DEU": "Verknüpfungen",
+    "NLD": "Bureaublad",
+    "ELL": "Συντομεύσεις",
+    "SPA": "Escritorio",
+    "TUR": "Masaüstü",
+    "POR": "Área de trabalho",
+    "ITA": "Desktop"
+  },
+  "Shortcuts": {
+    "JPN": "リンク",
+    "NLD": "Snelkoppelingen",
+    "SPA": "Atajos",
+    "TUR": "Kısayollar",
+    "POR": "Atalhos",
+    "ITA": "Collegamenti"
+  },
+  "Startmenu": {
+    "JPN": "スタートメニュー",
+    "DEU": "Startmenü",
+    "NLD": "Startmenu",
+    "ELL": "Μενού",
+    "SPA": "Menú Inicio",
+    "TUR": "Başlat Menüsü",
+    "POR": "Menu Iniciar",
+    "ITA": "Menù start"
+  },
+  "Font and Language": {
+    "JPN": "フォント",
+    "DEU": "Schriftart und Sprache",
+    "NLD": "Lettertype en taal",
+    "ELL": "Γραμματοσειρά και Γλώσσα",
+    "SPA": "Fuente e Idioma",
+    "TUR": "Font ve Dil",
+    "POR": "Fonte e idioma",
+    "ITA": "Carattere e Lingua"
+  },
+  "Desktop and Startmenu Links": {
+    "JPN": "デスクトップとスタートメニューのリンク",
+    "DEU": "Verknüpfungen",
+    "NLD": "Bureaublad en Startmenu",
+    "ELL": "Συντομεύσεις",
+    "SPA": "Escritorio y Elementos de Menú Inicio",
+    "TUR": "Masaüstü ve Başlat Menüsü Bağlantıları",
+    "POR": "Atalhos",
+    "ITA": "Desktop e collegamenti del menù start"
+  },
+  "Ok": {
+    "JPN": "OK",
+    "DEU": "Ok",
+    "NLD": "OK",
+    "ELL": "ΟΚ",
+    "SPA": "Aceptar",
+    "TUR": "Ok",
+    "POR": "Ok",
+    "ITA": "Ok"
+  },
+  "Cancel": {
+    "JPN": "キャンセル",
+    "DEU": "Abbruch",
+    "NLD": "Annuleer",
+    "ELL": "Άκυρο",
+    "SPA": "Cancelar",
+    "TUR": "İptal",
+    "POR": "Cancelar",
+    "ITA": "Annulla"
+  },
+  "Apply": {
+    "JPN": "てきよう",
+    "DEU": "Überneh",
+    "NLD": "Bevestig",
+    "ELL": "Εφαρμ",
+    "SPA": "Aplicar",
+    "TUR": "Uygula",
+    "POR": "Aplicar",
+    "ITA": "Applica"
+  },
+  "Load": {
+    "JPN": "ロード",
+    "DEU": "Laden",
+    "NLD": "Laden",
+    "ELL": "Φόρτ",
+    "SPA": "Cargar",
+    "TUR": "Yükle",
+    "POR": "Carregar",
+    "ITA": "Carica"
+  },
+  "Save": {
+    "JPN": "セーブ",
+    "DEU": "Speichern",
+    "NLD": "Opslaan",
+    "ELL": "Αποθ",
+    "SPA": "Guardar",
+    "TUR": "Kaydet",
+    "POR": "Salvar",
+    "ITA": "Salva"
+  },
+  "Mass Storage Devices": {
+    "JPN": "マスストレージデバイス",
+    "DEU": "Massenspeicher",
+    "NLD": "Opslagapparaten",
+    "ELL": "Συσκ. Αποθ",
+    "SPA": "Dispositivos de Almacenamiento",
+    "TUR": "Yığın Depolama Aygıtları",
+    "POR": "Armazenamento",
+    "ITA": "Dispositivi di archiviazione"
+  },
+  "Drives": {
+    "JPN": "ドライブ",
+    "DEU": "Laufwerke",
+    "NLD": "Stations",
+    "ELL": "Μονάδες",
+    "SPA": "Unidades",
+    "TUR": "Sürücüler",
+    "POR": "Unidades",
+    "ITA": "Dischi"
+  },
+  "Settings": {
+    "JPN": "せってい",
+    "DEU": "Einstellungen",
+    "NLD": "Instellingen",
+    "ELL": "Ρυθμίσεις",
+    "SPA": "Opciones",
+    "TUR": "Ayarlar",
+    "POR": "Configurações",
+    "ITA": "Impostazioni"
+  },
+  "Del": {
+    "ELL": "Διαγραφή",
+    "SPA": "Borr",
+    "TUR": "Sil",
+    "POR": "Excluir"
+  },
+  "Add": {
+    "JPN": "+",
+    "DEU": "+",
+    "NLD": "+",
+    "ELL": "Προσθήκη",
+    "SPA": "Añad",
+    "TUR": "Ekle",
+    "POR": "Adicionar",
+    "ITA": "+"
+  },
+  "Name": {
+    "JPN": "なまえ",
+    "DEU": "Name",
+    "NLD": "Naam",
+    "ELL": "Όνομα",
+    "SPA": "Nombre",
+    "TUR": "Ad:",
+    "POR": "Nome",
+    "ITA": "Nome"
+  },
+  "Floppy disk": {
+    "JPN": "フロッピーディスク",
+    "DEU": "Diskette",
+    "NLD": "Diskette",
+    "ELL": "Δισκέτα",
+    "SPA": "Undiad de disco",
+    "TUR": "Floppy disk",
+    "POR": "Disquete",
+    "ITA": "Floppy disk"
+  },
+  "IDE device": {
+    "JPN": "IDEデバイス",
+    "DEU": "IDE Gerät",
+    "NLD": "IDE-apparaat",
+    "ELL": "Συσκευή IDE",
+    "SPA": "Dispositivo IDE",
+    "TUR": "IDE aygıtı",
+    "POR": "IDE",
+    "ITA": "IDE"
+  },
+  "SD/MMC card reader": {
+    "JPN": "SD／MMCカードリーダー",
+    "DEU": "SD/MMC Leser",
+    "NLD": "SD/MMC-lezer",
+    "ELL": "SD/MMC reader",
+    "SPA": "Lector SD/MMC",
+    "TUR": "SD/MMC kart okuyucu",
+    "POR": "SD/MMC",
+    "ITA": "SD/MMC"
+  },
+  "SCSI/USB device": {
+    "JPN": "SCSI／USBデバイス",
+    "DEU": "SCSI/USB Gerät",
+    "NLD": "SCSI/USB-apparaat",
+    "ELL": "Συσκευή SCSI/USB",
+    "SPA": "Dispositivo SCSI/USB",
+    "TUR": "SCSI/USB aygıtı",
+    "POR": "SCSI/USB",
+    "ITA": "SCSI/USB"
+  },
+  "Removeable medium": {
+    "JPN": "リムーバブルメディア",
+    "DEU": "Wechseldatenträger",
+    "NLD": "Verwisselbaar medium",
+    "ELL": "Αφαιρούμενο μέσο",
+    "SPA": "Unidad extraíble",
+    "TUR": "Çıkarılabilir ortam",
+    "POR": "Mídia removível",
+    "ITA": "Disco rimovibile"
+  },
+  "Specifics": {
+    "JPN": "くわしく",
+    "DEU": "Spezifisch",
+    "NLD": "Details",
+    "ELL": "Λεπτομέρειες",
+    "SPA": "Detalles",
+    "TUR": "Detaylar",
+    "POR": "Detalhes",
+    "ITA": "Specifiche"
+  },
+  "Drive letter": {
+    "JPN": "ドライブレター",
+    "DEU": "Laufwerkbuchs",
+    "NLD": "Stationletter",
+    "ELL": "Γράμμα μονάδας",
+    "SPA": "Letra Unidad",
+    "TUR": "Sürücü Harfi",
+    "POR": "Letra da unidade",
+    "ITA": "Lettera di unità"
+  },
+  "Double step": {
+    "JPN": "ダブルステップ",
+    "DEU": "Doppelschritt",
+    "NLD": "Dubbele stap",
+    "ELL": "Διπλό βήμα",
+    "SPA": "Doble paso",
+    "TUR": "Çift adım",
+    "POR": "Passo duplo",
+    "ITA": "Doppio passaggio"
+  },
+  "Master": {
+    "JPN": "マスター",
+    "DEU": "Master",
+    "NLD": "Master",
+    "ELL": "Κύρια",
+    "SPA": "Maestro",
+    "TUR": "Master",
+    "POR": "Mestre",
+    "ITA": "Master"
+  },
+  "Slave": {
+    "JPN": "スレーブ",
+    "DEU": "Slave",
+    "NLD": "Slave",
+    "ELL": "Δευτερεύουσα",
+    "SPA": "Esclavo",
+    "TUR": "Slave",
+    "POR": "Escravo",
+    "ITA": "Slave"
+  },
+  "Slot": {
+    "JPN": "スロット",
+    "DEU": "Slot",
+    "NLD": "Slot",
+    "ELL": "Θέση",
+    "SPA": "Ranura",
+    "TUR": "Yuva",
+    "POR": "Slot",
+    "ITA": "Slot"
+  },
+  "Device": {
+    "JPN": "デバイス",
+    "DEU": "Gerät",
+    "NLD": "Appar",
+    "ELL": "Συσκ",
+    "SPA": "Dispositivo",
+    "TUR": "Aygıt",
+    "POR": "Dispositivo",
+    "ITA": "Disp"
+  },
+  "Head": {
+    "JPN": "ヘッド",
+    "DEU": "Kopf",
+    "NLD": "Kop",
+    "ELL": "Κεφαλή",
+    "SPA": "Cabeza",
+    "TUR": "Başlık",
+    "POR": "Cabeça",
+    "ITA": "Testina"
+  },
+  "Not partitioned": {
+    "JPN": "パーティションなし",
+    "DEU": "Nicht partitioniert",
+    "NLD": "Geen partitie",
+    "ELL": "Χωρίς διαμέριση",
+    "SPA": "Sin particionar",
+    "TUR": "Bölümlendirilmemiş",
+    "POR": "Não particionado",
+    "ITA": "Non partizionato"
+  },
+  "Primary partition": {
+    "JPN": "プライマリーパーティション",
+    "DEU": "Prim.Partition",
+    "NLD": "Partition",
+    "ELL": "διαμέρισμα",
+    "SPA": "Partición Primaria",
+    "TUR": "Birincil bölüm",
+    "POR": "Partição",
+    "ITA": "Partiz"
+  },
+  "Definitions": {
+    "JPN": "ていぎ",
+    "DEU": "Belegung",
+    "NLD": "Definities",
+    "ELL": "Ορισμοί",
+    "SPA": "Definiciones",
+    "TUR": "Tanımlar",
+    "POR": "Definições",
+    "ITA": "Definizioni"
+  },
+  "Speed": {
+    "JPN": "スピード",
+    "DEU": "Geschwindigkeit",
+    "NLD": "Snelheid",
+    "ELL": "Ταχύτητα",
+    "SPA": "Velocidad",
+    "TUR": "Hız",
+    "POR": "Velocidade",
+    "ITA": "Velocità"
+  },
+  "Buttons": {
+    "JPN": "ボタン",
+    "DEU": "Taste",
+    "NLD": "Knoppen",
+    "ELL": "Κουμπιά",
+    "SPA": "Botones",
+    "TUR": "Butonlar",
+    "POR": "Botões",
+    "ITA": "Pulsanti"
+  },
+  "Key": {
+    "JPN": "キー",
+    "DEU": "Taste",
+    "NLD": "Toets",
+    "ELL": "Πλήκτρο",
+    "SPA": "Tecla",
+    "TUR": "Tuş",
+    "POR": "Tecla",
+    "ITA": "Tasto"
+  },
+  "Normal": {
+    "JPN": "ノーマル",
+    "DEU": "Normal",
+    "NLD": "Norm",
+    "ELL": "Κανονικό",
+    "SPA": "Normal",
+    "TUR": "Normal",
+    "POR": "Normal",
+    "ITA": "Normale"
+  },
+  "Shift": {
+    "JPN": "シフト",
+    "DEU": "Umsch",
+    "NLD": "Shift",
+    "ELL": "Shift",
+    "SPA": "Mays",
+    "TUR": "Shift",
+    "POR": "Shift",
+    "ITA": "Shift"
+  },
+  "Control": {
+    "JPN": "コントロ",
+    "DEU": "Strg",
+    "NLD": "Ctrl",
+    "ELL": "Control",
+    "SPA": "Control",
+    "TUR": "Control",
+    "POR": "Ctrl",
+    "ITA": "Control"
+  },
+  "Alt": {
+    "JPN": "Alt",
+    "DEU": "Alt",
+    "NLD": "Alt",
+    "ELL": "Alt",
+    "SPA": "Alt",
+    "TUR": "Alt",
+    "POR": "Alt",
+    "ITA": "Alt"
+  },
+  "Delay": {
+    "JPN": "ディレイ",
+    "DEU": "Verzög",
+    "NLD": "Vertrg",
+    "ELL": "Καθυστέρηση",
+    "SPA": "Retraso",
+    "TUR": "Gecikme",
+    "POR": "Atraso",
+    "ITA": "Ritardo"
+  },
+  "Repeat": {
+    "JPN": "リピート",
+    "DEU": "Wdh.rate",
+    "NLD": "Herhaal",
+    "ELL": "Επανάληψη",
+    "SPA": "Repetir",
+    "TUR": "Tekrar",
+    "POR": "Repetir",
+    "ITA": "Ripetizione"
+  },
+  "Test": {
+    "JPN": "テスト",
+    "DEU": "Test",
+    "NLD": "Test",
+    "ELL": "Δοκιμή",
+    "SPA": "Probar",
+    "TUR": "Test",
+    "POR": "Testar",
+    "ITA": "Test"
+  },
+  "Joystick Settings": {
+    "JPN": "ジョイスティックせってい",
+    "DEU": "Joystick",
+    "NLD": "Joystickinstellingen",
+    "ELL": "Ρυθμίσεις Joystick",
+    "SPA": "Opciones de Joystick",
+    "TUR": "Joystick Ayarları",
+    "POR": "Joystick",
+    "ITA": "Joystick"
+  },
+  "Mouse Settings": {
+    "JPN": "マウスせってい",
+    "DEU": "Maus",
+    "NLD": "Muisinstellingen",
+    "ELL": "Ρυθμίσεις Ποντικιού",
+    "SPA": "Opciones de Ratón",
+    "TUR": "Fare Ayarları",
+    "POR": "Mouse",
+    "ITA": "Mouse"
+  },
+  "Button Settings": {
+    "JPN": "ボタンせってい",
+    "DEU": "Maustasten",
+    "NLD": "Knopinstellingen",
+    "ELL": "Ρυθμίσεις Κουμπιών",
+    "SPA": "Opciones de Botón",
+    "TUR": "Buton Ayarları",
+    "POR": "Botões",
+    "ITA": "Pulsanti"
+  },
+  "Acceler": {
+    "JPN": "アクセル",
+    "DEU": "Beschleu",
+    "NLD": "Versnl",
+    "ELL": "Επιτάχυνση",
+    "SPA": "Aceleración"
+  },
+  "Swap left/right button": {
+    "JPN": "ひだりみぎボタンをこうかん",
+    "DEU": "Links/rechts tauschen",
+    "NLD": "Knoppen wisselen",
+    "ELL": "Αντιστρ. Αρ./Δεξ",
+    "SPA": "Intercambiar botones izq./der",
+    "TUR": "Sol/sağ butonu değiştir",
+    "POR": "Trocar esquerdo/direito",
+    "ITA": "Inverti pulsanti"
+  },
+  "DoublClick": {
+    "JPN": "ダブクリ",
+    "DEU": "Doppelkl",
+    "NLD": "Dubbelkl",
+    "ELL": "Διπλό κλικ",
+    "SPA": "Doble Clic"
+  },
+  "Wheel": {
+    "JPN": "ホイール",
+    "DEU": "Rad",
+    "NLD": "Wiel",
+    "ELL": "Τροχός",
+    "SPA": "Rueda",
+    "TUR": "Tekerlek",
+    "POR": "Roda",
+    "ITA": "Rotella"
+  },
+  "General": {
+    "JPN": "いっぱん",
+    "DEU": "Allgemein",
+    "NLD": "Algemeen",
+    "ELL": "Γενικά",
+    "SPA": "General",
+    "TUR": "Genel",
+    "POR": "Geral",
+    "ITA": "Generali"
+  },
+  "File types": {
+    "JPN": "ファイルタイプ",
+    "DEU": "Dateizuordnungen",
+    "NLD": "Bestandstypen",
+    "ELL": "Τύποι αρχείων",
+    "SPA": "Tipos de archivo",
+    "TUR": "Dosya tipleri",
+    "POR": "Tipos de arquivo",
+    "ITA": "Associazioni"
+  },
+  "System info": {
+    "JPN": "システムじょうほう",
+    "DEU": "Systeminfo",
+    "NLD": "Systeeminfo",
+    "ELL": "Πληροφορίες συστήματος",
+    "SPA": "Info del Sistema",
+    "TUR": "Sistem bilgisi",
+    "POR": "Informações do sistema",
+    "ITA": "Info di Sistema"
+  },
+  "Platform": {
+    "JPN": "プラットフォーム",
+    "DEU": "Plattform",
+    "NLD": "Platform",
+    "ELL": "Πλατφόρμα",
+    "SPA": "Plataforma",
+    "TUR": "Platform",
+    "POR": "Plataforma",
+    "ITA": "Piattaforma"
+  },
+  "CPU Memory": {
+    "JPN": "CPUメモリ",
+    "DEU": "Speicher",
+    "NLD": "CPU-geheugen",
+    "ELL": "Μνήμη CPU",
+    "SPA": "Memoria de CPU",
+    "TUR": "CPU Bellek",
+    "POR": "Memória CPU",
+    "ITA": "Memoria"
+  },
+  "OS Version": {
+    "JPN": "OSバージョン",
+    "DEU": "OS Version",
+    "NLD": "OS-versie",
+    "ELL": "Έκδοση Λειτουργικού",
+    "SPA": "Versión de SO",
+    "TUR": "İşletim Sistemi Sürümü",
+    "POR": "Versão do SO",
+    "ITA": "Versione OS"
+  },
+  "[Unknown]": {
+    "JPN": "[アンノウン]",
+    "DEU": "[Unbekannt]",
+    "NLD": "[Onbekend]",
+    "ELL": "[Άγνωστο]"
+  },
+  "Miscellaneous": {
+    "JPN": "そのた",
+    "DEU": "Allgemein",
+    "NLD": "Diversen",
+    "ELL": "Διάφορα",
+    "SPA": "Varios",
+    "TUR": "Çeşitli",
+    "POR": "Diversos",
+    "ITA": "Altre Info"
+  },
+  "System path": {
+    "JPN": "システムパス",
+    "DEU": "Systempfad",
+    "NLD": "Systeempad",
+    "ELL": "Διαδρ. συστ",
+    "SPA": "Ruta de Sistema",
+    "TUR": "Sistem yolu",
+    "POR": "Caminho de sistema",
+    "ITA": "Cartella di sistema"
+  },
+  "(these options require a reboot)": {
+    "JPN": "（リブートがひつようです）",
+    "DEU": "(Optionen erfordern Neustart)",
+    "NLD": "(vereist herstart)",
+    "ELL": "(απαιτ. επανεκκ.)",
+    "SPA": "(estas opciones requieren reinicio)",
+    "TUR": "(Bu seçenekler yeniden başlatmayı gerektirir)",
+    "POR": "(estas opções exigem reinicialização)",
+    "ITA": "(è necessario un riavvio)"
+  },
+  "Boot Extended Desktop": {
+    "JPN": "エクステンデッドデスクトップ",
+    "DEU": "lade Extended Desktop",
+    "NLD": "Gebruik Extended Desktop",
+    "ELL": "Εκκίν. εκτ. επιφ",
+    "SPA": "Arrancar Escritorio Extendido",
+    "TUR": "Genişletilmiş Masaüstü Başlat",
+    "POR": "Inicializar área de trabalho estendida",
+    "ITA": "Desktop esteso all'avvio"
+  },
+  "File browser uses max memory": {
+    "JPN": "ブラウザのさいだいメモリ",
+    "DEU": "max.Speicher für Dateibrowser",
+    "NLD": "max.bestandsbrowsergeheugen",
+    "ELL": "Διαχ. αρχ. μέγ. μνήμ",
+    "SPA": "Explorador de archivos usa memoria máx",
+    "TUR": "Dosya tarayıcısı maksimum bellek kullanıyor",
+    "POR": "O navegador de arquivos usa o máximo de memória",
+    "ITA": "Memoria massima al file browser"
+  },
+  "Show alternative Startbutton": {
+    "JPN": "べつのスタートボタンをひょうじ",
+    "DEU": "alternativer Startknopf",
+    "NLD": "Alternatieve Startknop tonen",
+    "ELL": "Εμφ. εναλ. κουμπ. Έναρ",
+    "SPA": "Mostrar botón Inicio alternativo",
+    "TUR": "Alternatif Başlat Menüsü göster",
+    "POR": "Mostrar botão Iniciar alternativo",
+    "ITA": "Pulsante Start alternativo"
+  },
+  "Autoexec": {
+    "JPN": "Autoexec",
+    "DEU": "Autoexec",
+    "NLD": "Autoexec",
+    "ELL": "Autoexec",
+    "SPA": "Autoejecutar",
+    "TUR": "Autoexec",
+    "POR": "Autoexec",
+    "ITA": "Esegui all'avvio"
+  },
+  "Boot drive": {
+    "JPN": "ブートドライブ",
+    "DEU": "Bootlaufwerk",
+    "NLD": "Opstartstation",
+    "ELL": "Μον. εκκ",
+    "SPA": "Unidad de arranque",
+    "TUR": "Başlangıç sürücüsü",
+    "POR": "Unid. de boot",
+    "ITA": "Drive di avvio"
+  },
+  "Extension(s)": {
+    "JPN": "エクステンション",
+    "DEU": "Dateiendung(en)",
+    "NLD": "Extensie(s)",
+    "ELL": "Επεκτ",
+    "SPA": "Extension(es)",
+    "TUR": "Uzantı(lar)",
+    "POR": "Extensão(ões)",
+    "ITA": "Estensioni"
+  },
+  "Application path": {
+    "JPN": "アプリケーションパス",
+    "DEU": "Öffnen mit",
+    "NLD": "Applicatiepad",
+    "ELL": "Διαδρ. εφαρμ",
+    "SPA": "Ruta de Aplicación",
+    "TUR": "Uygulama yolu",
+    "POR": "Caminho do aplicativo",
+    "ITA": "Percorso dell'app"
+  },
+  "Edit entry": {
+    "JPN": "エントリをへんしゅう",
+    "DEU": "Bearbeiten",
+    "NLD": "Bewerken",
+    "ELL": "Επεξ. καταχ",
+    "SPA": "Editar entrada",
+    "TUR": "Girişi düzenle",
+    "POR": "Editar entrada",
+    "ITA": "Settaggi"
+  },
+  "Browse": {
+    "JPN": "せんたく",
+    "DEU": "Wählen",
+    "NLD": "Bladeren",
+    "ELL": "Αναζήτ",
+    "SPA": "Explorar",
+    "TUR": "Gözat…",
+    "POR": "Procurar",
+    "ITA": "Sfoglia"
+  },
+  "Appearance (": {
+    "JPN": "フォントのみため (",
+    "DEU": "Ansicht (",
+    "NLD": "Weergave (",
+    "ELL": "Εμφάνιση (",
+    "SPA": "Apariencia (",
+    "TUR": "Görünüş ("
+  },
+  "characters)": {
+    "DEU": "Zeichen)",
+    "NLD": "tekens)",
+    "ELL": "χαρ.)",
+    "SPA": "caracteres)",
+    "TUR": "karakter)",
+    "POR": "caracteres)",
+    "ITA": "caratteri)"
+  },
+  "Load new font": {
+    "JPN": "あたらしいフォントをロード",
+    "DEU": "Schriftart laden",
+    "NLD": "Nieuw lettertype laden",
+    "ELL": "Νέα γραμ/ρά",
+    "SPA": "Cargar nueva fuente",
+    "TUR": "Yeni font yükle",
+    "POR": "Carregar nova fonte",
+    "ITA": "Aggiungi nuovo font"
+  },
+  "Use enhanced 255 characters font": {
+    "JPN": "かくちょう２５５もじフォントをしよう",
+    "DEU": "auf 255 Zeichen erweitern",
+    "NLD": "Verbeterd 255-tekens lettertype",
+    "ELL": "Ενισχ. 255 χαρ",
+    "SPA": "Usar fuente para 255 caracteres",
+    "TUR": "Gelişmiş 255 karakterlik font kullan",
+    "POR": "Usar fonte estendida de 255 caracteres",
+    "ITA": "Usa font avanzato da 255 caratteri"
+  },
+  "The five boxing wizards jump quickly": {
+    "JPN": "(Japanese characters not previewable)",
+    "DEU": "Franz jagt im komplett verwahrlosten Taxi quer durch Bayern",
+    "NLD": "Op brute wijze ving de schooljuf de quasi-kalme lynx",
+    "ELL": "(Greek characters not previewable)",
+    "SPA": "Los cinco magos del boxeo saltan rápidamente",
+    "TUR": "Beş boks sihirbazı hızla zıplıyor",
+    "POR": "Vovô quis paz em férias na Grécia",
+    "ITA": "L’Italia è un paese che parla al cuore"
+  },
+  "Font": {
+    "JPN": "フォント",
+    "DEU": "Schriftart",
+    "NLD": "Lettertype",
+    "ELL": "Γραμ/ρά",
+    "SPA": "Fuente",
+    "TUR": "Font",
+    "POR": "Fonte",
+    "ITA": "Caratteri"
+  },
+  "Primary": {
+    "DEU": "Primär",
+    "NLD": "Primair",
+    "ELL": "Κύρια",
+    "SPA": "Primario",
+    "TUR": "Birincil",
+    "POR": "Primário",
+    "ITA": "Principale"
+  },
+  "Fallback": {
+    "DEU": "Ersatz",
+    "NLD": "Fallback",
+    "ELL": "Εφεδρ",
+    "SPA": "Retroceder",
+    "TUR": "Yedek",
+    "POR": "Reserva",
+    "ITA": "Alternativa"
+  },
+  "Language packages": {
+    "DEU": "Sprachpakete",
+    "NLD": "Taalpakketten",
+    "ELL": "Πακέτα γλώσ",
+    "SPA": "Paquetes de Idioma",
+    "TUR": "Dil paketleri",
+    "POR": "Pacotes de idioma",
+    "ITA": "Pacchetto lingua"
+  },
+  "[default]": {
+    "DEU": "[standard]",
+    "NLD": "[standaard]",
+    "ELL": "[προεπ.]"
+  },
+  "[self-defined]": {
+    "DEU": "[definiert]",
+    "NLD": "[eigen]",
+    "ELL": "[ορισμ. χρήστ.]"
+  },
+  "Enhanced keyboard layouts": {
+    "DEU": "Erweiterter Tastatur-Modus",
+    "NLD": "Toetsenbordmodus",
+    "ELL": "Ενισχ. διατ. πλήκτρ",
+    "SPA": "Esquemas de teclado ampliados",
+    "TUR": "Geliştirilmiş klavye düzenleri"
+  },
+  "Activate": {
+    "DEU": "Aktivieren",
+    "ELL": "Ενεργ",
+    "SPA": "Activar",
+    "TUR": "Etkinleştir",
+    "POR": "Ativar",
+    "ITA": "Attivare"
+  },
+  "Show layout icon": {
+    "DEU": "Zeige Symbol",
+    "ELL": "Εικον. διάταξης",
+    "SPA": "Mostrar icono de esquema",
+    "TUR": "Düzen simgesini göster",
+    "POR": "Mostrar ícone do layout",
+    "ITA": "Mostra lo schema icone"
+  },
+  "Selected keyboard is not": {
+    "DEU": "Tastaturlayout passt nicht zum",
+    "ELL": "Το πλήκτρ. δεν είναι",
+    "SPA": "El teclado seleccionado no es",
+    "TUR": "Seçilen klavye, yazı sistemiyle",
+    "POR": "O teclado selecionado não",
+    "ITA": "La tastiera selezionata non"
+  },
+  "compatible with the writing system": {
+    "DEU": "Schriftsystem. Bitte Zeichensatz",
+    "ELL": "συμβατό με το σύστ. γραφής",
+    "SPA": "compatible con el sistema de escritura",
+    "TUR": "uyumlu değil",
+    "POR": "é compatível com a escrita",
+    "ITA": "è compatibile con il sistema di scrittura"
+  },
+  "Please adjust font or keyboard": {
+    "DEU": "oder Tastatur anpassen",
+    "ELL": "Ρύθμ. γραμ/ρά ή πλήκτρ",
+    "SPA": "Por favor, ajuste la fuente o el teclado",
+    "TUR": "Lütfen fontu veya klavyeyi ayarlayın",
+    "POR": "Ajuste fonte ou teclado",
+    "ITA": "Cambia font o tastiera"
+  },
+  "Palette": {
+    "JPN": "パレット",
+    "DEU": "Palette",
+    "NLD": "Palet",
+    "ELL": "Παλέτα",
+    "SPA": "Paleta",
+    "TUR": "Palet",
+    "POR": "Paleta",
+    "ITA": "Palette"
+  },
+  "Define": {
+    "JPN": "ていぎ",
+    "DEU": "Setzen",
+    "NLD": "Definieer",
+    "ELL": "Ορισμ",
+    "SPA": "Definir",
+    "TUR": "Tanımla",
+    "POR": "Definir",
+    "ITA": "Imposta…"
+  },
+  "Taskbar": {
+    "JPN": "タスクバー",
+    "DEU": "Taskbar",
+    "NLD": "Taakbalk",
+    "ELL": "Γραμ. εργασ",
+    "SPA": "Barra de tareas",
+    "TUR": "Görev Çubuğu",
+    "POR": "Barra de tarefas",
+    "ITA": "Taskbar…"
+  },
+  "Deskt": {
+    "JPN": "デスク",
+    "DEU": "Desk",
+    "NLD": "Bureaublad",
+    "ELL": "Γραφ",
+    "SPA": "Escrit",
+    "TUR": "Masaüstü",
+    "POR": "Área",
+    "ITA": "Deskt"
+  },
+  "Saver": {
+    "JPN": "セーバー",
+    "DEU": "Bildschon",
+    "NLD": "Saver",
+    "ELL": "Φύλακας",
+    "SPA": "Salvap",
+    "TUR": "Koruyucu",
+    "POR": "Proteção",
+    "ITA": "Saver"
+  },
+  "Colours": {
+    "JPN": "カラー",
+    "DEU": "Farben",
+    "NLD": "Kleuren",
+    "ELL": "Χρώματα",
+    "SPA": "Colores",
+    "TUR": "Renkler",
+    "POR": "Cores",
+    "ITA": "Colori"
+  },
+  "Modi": {
+    "JPN": "モード",
+    "DEU": "Modus",
+    "NLD": "Modi",
+    "ELL": "Λειτ",
+    "SPA": "Modo",
+    "TUR": "Mod",
+    "POR": "Modos",
+    "ITA": "Risol"
+  },
+  "Background": {
+    "JPN": "バックグラウンド",
+    "DEU": "Hintergrund",
+    "NLD": "Achtergrond",
+    "ELL": "Φόντο",
+    "SPA": "Fondo",
+    "TUR": "Arkaplan",
+    "POR": "Fundo",
+    "ITA": "Sfondo"
+  },
+  "Setup": {
+    "JPN": "セット",
+    "DEU": "Setup",
+    "NLD": "Instel",
+    "ELL": "Ρύθμιση",
+    "SPA": "Opciones",
+    "TUR": "Kurulum",
+    "POR": "Configurar",
+    "ITA": "Imposta"
+  },
+  "Screensaver": {
+    "JPN": "スクリーンセーバー",
+    "DEU": "Bildschirmschoner",
+    "NLD": "Screensaver",
+    "ELL": "Φύλακας οθ",
+    "SPA": "Salvapantallas",
+    "TUR": "Ekran Koruyucu",
+    "POR": "Protetor de tela",
+    "ITA": "Screensaver"
+  },
+  "Wait": {
+    "JPN": "ウェイト",
+    "DEU": "Zeit",
+    "NLD": "Na",
+    "ELL": "Αναμονή",
+    "SPA": "Esperar",
+    "TUR": "Bekle",
+    "POR": "Aguardar",
+    "ITA": "Avvio"
+  },
+  "min": {
+    "JPN": "分",
+    "DEU": "min",
+    "NLD": "min",
+    "ELL": "λεπ",
+    "SPA": "min",
+    "TUR": "dak",
+    "POR": "min",
+    "ITA": "min"
+  },
+  "Elements": {
+    "JPN": "エレメント",
+    "DEU": "Elemente",
+    "NLD": "Elementen",
+    "ELL": "Στοιχεία",
+    "SPA": "Elementos",
+    "TUR": "Öğeler",
+    "POR": "Elementos",
+    "ITA": "Elementi"
+  },
+  "Definition": {
+    "JPN": "ていぎ",
+    "DEU": "Definition",
+    "NLD": "Definitie",
+    "ELL": "Ορισμός",
+    "SPA": "Definición",
+    "TUR": "Tanım",
+    "POR": "Definição",
+    "ITA": "Definizione"
+  },
+  "Roll": {
+    "JPN": "ロール",
+    "DEU": "Roll",
+    "NLD": "Rol",
+    "ELL": "Κύλιση",
+    "SPA": "Enrollar",
+    "TUR": "Yuvarla",
+    "POR": "Rotação",
+    "ITA": "Roll"
+  },
+  "Flip": {
+    "JPN": "フリップ",
+    "DEU": "Wcs",
+    "NLD": "Flip",
+    "ELL": "Αναστρ",
+    "SPA": "Girar",
+    "TUR": "Çevir",
+    "POR": "Inversão",
+    "ITA": "Inverti"
+  },
+  "Bright": {
+    "JPN": "ブライト",
+    "DEU": "Hell",
+    "NLD": "Licht",
+    "ELL": "Φωτειν",
+    "SPA": "Claro",
+    "TUR": "Aydınlık",
+    "POR": "Claro",
+    "ITA": "Chiaro"
+  },
+  "Dark": {
+    "JPN": "ダーク",
+    "DEU": "Dunk",
+    "NLD": "Donk",
+    "ELL": "Σκοτειν",
+    "SPA": "Oscuro",
+    "TUR": "Karanlık",
+    "POR": "Escuro",
+    "ITA": "Scuro"
+  },
+  "Screenmodi": {
+    "JPN": "スクリーンモード",
+    "DEU": "Auflösung",
+    "NLD": "Schermmodi",
+    "ELL": "Λειτ. οθόνης",
+    "SPA": "Modo de pantalla",
+    "TUR": "Ekran modu",
+    "POR": "Modos de tela",
+    "ITA": "Risoluzioni"
+  },
+  "x 256 (2 colours)": {
+    "JPN": "x２５６（２カラー）",
+    "DEU": "x 256 (2 Farben)",
+    "NLD": "x256 (2 kleuren)",
+    "ELL": "x256 (2 χρ.)",
+    "SPA": "x 256 (2 colores)",
+    "TUR": "x 256 (2 renk)",
+    "POR": "x 256 (2c)",
+    "ITA": "x 256 (2c)"
+  },
+  "x 200 (4 colours)": {
+    "JPN": "x２００（４カラー）",
+    "DEU": "x 200 (4 Farben)",
+    "NLD": "x200 (4 kleuren)",
+    "ELL": "x 200 (4 χρ.)",
+    "SPA": "x 200 (4 colores)",
+    "TUR": "x 200 (4 renk)",
+    "POR": "x 200 (4c)",
+    "ITA": "x 200 (4c)"
+  },
+  "x 200 (2 colours)": {
+    "JPN": "x２００（２カラー）",
+    "DEU": "x 200 (2 Farben)",
+    "NLD": "x200 (2 kleuren)",
+    "ELL": "x 200 (2 χρ.)",
+    "SPA": "x 200 (2 colores)",
+    "TUR": "x 200 (2 renk)",
+    "POR": "x 200 (2c)",
+    "ITA": "x 200 (2c)"
+  },
+  "x 212 (16 colours)": {
+    "JPN": "x２１２（１６カラー）",
+    "DEU": "x 212 (16 Farben)",
+    "NLD": "x212 (16 kleuren)",
+    "ELL": "x 212 (16 χρ.)",
+    "SPA": "x 212 (16 colores)",
+    "TUR": "x 212 (16 renk)",
+    "POR": "x 212 (16c)",
+    "ITA": "x 212 (16c)"
+  },
+  "x 212 (4 colours)": {
+    "JPN": "x２１２（４カラー）",
+    "DEU": "x 212 (4 Farben)",
+    "NLD": "x212 (4 kleuren)",
+    "ELL": "x 212 (4 χρ.)",
+    "SPA": "x 212 (4 colores)",
+    "TUR": "x 212 (4 renk)",
+    "POR": "x 212 (4c)",
+    "ITA": "x 212 (4c)"
+  },
+  "x 128 (2 colours)": {
+    "JPN": "x１２８（２カラー）",
+    "DEU": "x 128 (2 Farben)",
+    "NLD": "x128 (2 kleuren)",
+    "ELL": "x 128 (2 χρ.)",
+    "SPA": "x 128 (2 colores)",
+    "TUR": "x 128 (2 renk)",
+    "POR": "x 128 (2c)",
+    "ITA": "x 128 (2c)"
+  },
+  "x 226 (16 colours)": {
+    "JPN": "x２２６（１６カラー）",
+    "DEU": "x 226 (16 Farben)",
+    "NLD": "x226 (16 kleuren)",
+    "ELL": "x 226 (16 χρ.)",
+    "SPA": "x 226 (16 colores)",
+    "TUR": "x 226 (16 renk)",
+    "POR": "x 226 (16c)",
+    "ITA": "x 226 (16c)"
+  },
+  "x 256 (16 colours)": {
+    "JPN": "x２５６（１６カラー）",
+    "DEU": "x 256 (16 Farben)",
+    "NLD": "x256 (16 kleuren)",
+    "ELL": "x 256 (16 χρ.)",
+    "SPA": "x 256 (16 colores)",
+    "TUR": "x 256 (16 renk)",
+    "POR": "x 256 (16c)",
+    "ITA": "x 256 (16c)"
+  },
+  "x 400 (16 colours)": {
+    "JPN": "x４００（１６カラー）",
+    "DEU": "x 400 (16 Farben)",
+    "NLD": "x400 (16 kleuren)",
+    "ELL": "x 400 (16 χρ.)",
+    "SPA": "x 400 (16 colores)",
+    "TUR": "x 400 (16 renk)",
+    "POR": "x 400 (16c)",
+    "ITA": "x 400 (16c)"
+  },
+  "x240 (legacy)": {
+    "JPN": "x２４０（レガシー）",
+    "DEU": "x240 (Retro)",
+    "NLD": "x240 (legacy)",
+    "ELL": "x240 (legacy)",
+    "SPA": "x240 (heredado)",
+    "TUR": "x240 (miras)",
+    "POR": "x",
+    "ITA": "x"
+  },
+  "Low": {
+    "JPN": "ロー",
+    "DEU": "Niedr",
+    "NLD": "Laag",
+    "ELL": "Χαμ",
+    "SPA": "Bajo",
+    "TUR": "Düşük",
+    "POR": "Baixo",
+    "ITA": "Bassa"
+  },
+  "High": {
+    "JPN": "ハイ",
+    "DEU": "Höher",
+    "NLD": "Hoog",
+    "ELL": "Υψηλ",
+    "SPA": "Alto",
+    "TUR": "Yüksek",
+    "POR": "Alto",
+    "ITA": "Alta"
+  },
+  "x240x16 (normal)": {
+    "JPN": "x２４０x１６（ノーマル）",
+    "DEU": "x240x",
+    "NLD": "x240x16 (Edo mode)",
+    "ELL": "x240x16 (κανον.)",
+    "SPA": "x240x16 (normal)",
+    "TUR": "x240x16 (normal)",
+    "POR": "x240x",
+    "ITA": "x240x"
+  },
+  "x240x16 (512 virtual)": {
+    "JPN": "x２４０x１６（５１２ バーチャル）",
+    "DEU": "x240x16 (512 virtuell)",
+    "NLD": "x240x16 (512 virt.)",
+    "ELL": "x240x16 (512 εικ.)",
+    "SPA": "x240x16 (512 virtual)",
+    "TUR": "x240x16 (512 sanal)",
+    "POR": "x240x16 (512 virtual)",
+    "ITA": "x240x16 (512 virtuali)"
+  },
+  "x240x16 (1000 virtual)": {
+    "JPN": "x２４０x１６（１０００ バーチャル）",
+    "DEU": "x240x16 (1000 virtuell)",
+    "NLD": "x240x16 (1000 virt.)",
+    "ELL": "x240x16 (1000 εικ.)",
+    "SPA": "x240x16 (1000 virtual)",
+    "TUR": "x240x16 (1000 sanal)",
+    "POR": "x240x16 (1000 virtual)",
+    "ITA": "x240x16 (1000 virtuali)"
+  },
+  "x212x16 (normal)": {
+    "JPN": "x２１２x１６（ノーマル）",
+    "DEU": "x212x",
+    "NLD": "x212x16 (normaal)",
+    "ELL": "x212x16 (κανον.)",
+    "SPA": "x212x16 (normal)",
+    "TUR": "x212x16 (normal)",
+    "POR": "x212x",
+    "ITA": "x212x"
+  },
+  "x212x16 (1000 virtual)": {
+    "JPN": "x２１２x１６（１０００ バーチャル）",
+    "DEU": "x212x16 (1000 virtuell)",
+    "NLD": "x212x16 (1000 virt.)",
+    "ELL": "x212x16 (1000 εικ.)",
+    "SPA": "x212x16 (1000 virtual)",
+    "TUR": "x212x16 (1000 sanal)",
+    "POR": "x212x16 (1000 virtual)",
+    "ITA": "x212x16 (1000 virtuali)"
+  },
+  "Frame": {
+    "JPN": "フレーム",
+    "DEU": "Rahmen",
+    "NLD": "Frame",
+    "ELL": "Πλαισ",
+    "SPA": "Frame",
+    "TUR": "Çerçeve",
+    "POR": "Frame",
+    "ITA": "Frame"
+  },
+  "Backgr": {
+    "JPN": "バック",
+    "DEU": "Hintergr",
+    "NLD": "Achtergr",
+    "ELL": "Φόντο",
+    "SPA": "Fondo",
+    "TUR": "Arkaplan",
+    "POR": "Fundo",
+    "ITA": "Sfondo"
+  },
+  "Text": {
+    "JPN": "テキスト",
+    "DEU": "Text",
+    "NLD": "Tekst",
+    "ELL": "Κείμενο",
+    "SPA": "Texto",
+    "TUR": "Metin",
+    "POR": "Texto",
+    "ITA": "Testo"
+  },
+  "Colour": {
+    "JPN": "カラー",
+    "DEU": "Farbe",
+    "NLD": "Kleur",
+    "ELL": "Χρώμα",
+    "SPA": "Color",
+    "TUR": "Renk",
+    "POR": "Cor",
+    "ITA": "Colore"
+  },
+  "Bar": {
+    "JPN": "バー",
+    "DEU": "Leiste",
+    "NLD": "Balk",
+    "ELL": "Μπάρα",
+    "SPA": "Barra",
+    "TUR": "Çubuk",
+    "POR": "Barra",
+    "ITA": "Barra"
+  },
+  "Invert": {
+    "JPN": "はんてん",
+    "DEU": "Invers",
+    "NLD": "Omkeren",
+    "ELL": "Αντιστροφή",
+    "SPA": "Invertir",
+    "TUR": "Tersine çevir",
+    "POR": "Inverter",
+    "ITA": "Inverti"
+  },
+  "Preview": {
+    "JPN": "プレビュー",
+    "DEU": "Vorschau",
+    "NLD": "Voorbeeld",
+    "ELL": "Προεπ",
+    "SPA": "Vista preliminar",
+    "TUR": "Önizleme",
+    "POR": "Visualizar",
+    "ITA": "Anteprima"
+  },
+  "Title": {
+    "JPN": "タイトル",
+    "DEU": "Titel",
+    "NLD": "Titel",
+    "ELL": "Τίτλος",
+    "SPA": "Título",
+    "TUR": "Başlık",
+    "POR": "Título",
+    "ITA": "Titolo"
+  },
+  "Status": {
+    "JPN": "ステータス",
+    "DEU": "Status",
+    "NLD": "Status",
+    "ELL": "Κατάστ",
+    "SPA": "Estado",
+    "TUR": "Durum",
+    "POR": "Status",
+    "ITA": "Stato"
+  },
+  "Slider": {
+    "JPN": "スライダー",
+    "DEU": "Balken",
+    "NLD": "Schuif",
+    "ELL": "Δείκτης",
+    "SPA": "Deslizador",
+    "TUR": "Kaydırıcı",
+    "POR": "Controle",
+    "ITA": "Slider"
+  },
+  "Menu (1)": {
+    "JPN": "メニュー（１）",
+    "DEU": "Menu (1)",
+    "NLD": "Menu (1)",
+    "ELL": "Μενού (1)",
+    "SPA": "Menú (1)",
+    "TUR": "Menü (1)",
+    "POR": "Menu (1)",
+    "ITA": "Menu (1)"
+  },
+  "Menu (2)": {
+    "JPN": "メニュー（２）",
+    "DEU": "Menu (1)",
+    "NLD": "Menu (2)",
+    "ELL": "Μενού (2)",
+    "SPA": "Menú (2)",
+    "TUR": "Menü (2)",
+    "POR": "Menu (2)",
+    "ITA": "Menu (2)"
+  },
+  "Icons": {
+    "JPN": "アイコン",
+    "DEU": "Icons",
+    "NLD": "Iconen",
+    "ELL": "Εικονίδ",
+    "SPA": "Iconos",
+    "TUR": "Simgeler",
+    "POR": "Ícones",
+    "ITA": "Icone"
+  },
+  "Content": {
+    "JPN": "コンテンツ",
+    "DEU": "Inhalt",
+    "NLD": "Inhoud",
+    "ELL": "Περιεχ",
+    "SPA": "Contenido",
+    "TUR": "İçerik",
+    "POR": "Conteúdo",
+    "ITA": "Contenuto"
+  },
+  "Symbols": {
+    "JPN": "シンボル",
+    "DEU": "Symbole",
+    "NLD": "Symbolen",
+    "ELL": "Σύμβολα",
+    "SPA": "Símbolos",
+    "TUR": "Semboller",
+    "POR": "Símbolos",
+    "ITA": "Simboli"
+  },
+  "Startlogo": {
+    "JPN": "スタートロゴ",
+    "DEU": "Startlogo",
+    "NLD": "Startlogo",
+    "ELL": "Λογότυπ",
+    "SPA": "Logo Inicio",
+    "TUR": "Başlangıç Logosu",
+    "POR": "Logo inicial",
+    "ITA": "Logo iniziale"
+  },
+  "Path too long": {
+    "JPN": "パスがながすぎます。",
+    "DEU": "Pfad zu lang",
+    "NLD": "Pad te lang",
+    "ELL": "Διαδρ. πολύ μ/λη",
+    "SPA": "Ruta demasiado larga",
+    "TUR": "Yol fazla uzun",
+    "POR": "Caminho muito longo",
+    "ITA": "Percorso troppo lungo"
+  },
+  "The length of the full path": {
+    "JPN": "フルパスのながさは",
+    "DEU": "Der Pfad darf nicht länger",
+    "NLD": "Volledig pad",
+    "ELL": "Η πλήρης διαδρ",
+    "SPA": "La longitud de la ruta completa",
+    "TUR": "Tam yolun uzunluğu",
+    "POR": "Comprimento do caminho não",
+    "ITA": "Usa un percorso di"
+  },
+  "shouldn't exceed 32 chars": {
+    "JPN": "もじをこえてはいけません。",
+    "DEU": "als 32 Zeichen sein",
+    "NLD": "max 32 tekens",
+    "ELL": "<=32 χαρ",
+    "SPA": "no debe exceder 32 caracteres",
+    "TUR": "karakteri geçmemelidir",
+    "POR": "deve exceder 32 caracteres",
+    "ITA": "massimo 32 caratteri"
+  },
+  "Up": {
+    "JPN": "うえ",
+    "DEU": "Auf",
+    "NLD": "Op",
+    "ELL": "Πάνω",
+    "SPA": "Arriba",
+    "TUR": "Yukarı",
+    "POR": "Acima",
+    "ITA": "Su"
+  },
+  "Down": {
+    "JPN": "した",
+    "DEU": "Ab",
+    "NLD": "Neer",
+    "ELL": "Κάτω",
+    "SPA": "Abajo",
+    "TUR": "Aşağı",
+    "POR": "Abaixo",
+    "ITA": "Giu"
+  },
+  "Path": {
+    "JPN": "パス",
+    "DEU": "Pfad",
+    "NLD": "Pad",
+    "ELL": "Διαδρομή",
+    "SPA": "Ruta",
+    "TUR": "Yol",
+    "POR": "Caminho",
+    "ITA": "Percorso"
+  },
+  "Icon": {
+    "JPN": "アイコン",
+    "DEU": "Icon",
+    "NLD": "Icoon",
+    "ELL": "Εικον",
+    "SPA": "Icono",
+    "TUR": "Simge",
+    "POR": "Ícone",
+    "ITA": "Icona"
+  },
+  "Use file icon": {
+    "JPN": "ファイルアイコンをしよう",
+    "DEU": "Von Datei nehmen",
+    "NLD": "Uit bestand halen",
+    "ELL": "Εικον. αρχείου",
+    "SPA": "Usar icono de archivo",
+    "TUR": "Dosya simgesini kullan",
+    "POR": "Usar ícone do arquivo",
+    "ITA": "Usa icona del file"
+  },
+  "Select icon": {
+    "JPN": "アイコンをせんたく",
+    "DEU": "Icon wählen",
+    "NLD": "Icoon kiezen",
+    "ELL": "Επιλ. εικον",
+    "SPA": "Seleccionar icono",
+    "TUR": "Simge seç…",
+    "POR": "Selecionar ícone",
+    "ITA": "Scegli icona…"
+  },
+  "XPos": {
+    "JPN": "Xざひょう",
+    "DEU": "XPos",
+    "NLD": "Xpos",
+    "ELL": "X",
+    "SPA": "PosX",
+    "TUR": "XPos",
+    "POR": "PosX",
+    "ITA": "XPos"
+  },
+  "YPos": {
+    "JPN": "Yざひょう",
+    "DEU": "YPos",
+    "NLD": "Ypos",
+    "ELL": "Y",
+    "SPA": "PosY",
+    "TUR": "YPos",
+    "POR": "PosY",
+    "ITA": "YPos"
+  },
+  "Startmenu Editor": {
+    "JPN": "スタートメニューエディター",
+    "DEU": "Startmenu Editor",
+    "NLD": "Startmenu-editor",
+    "ELL": "Επεξ. Μενού Έναρξης",
+    "SPA": "Editor de Menú Inicio",
+    "TUR": "Başlat Menüsü Düzenleyici",
+    "POR": "Editor do Menu Iniciar",
+    "ITA": "Editor menù start"
+  },
+  "Current location:": {
+    "JPN": "カレントロケーション：",
+    "DEU": "Ort:",
+    "NLD": "Huidige locatie:",
+    "ELL": "Τρέχ. θέση:",
+    "SPA": "Ubicación actual:",
+    "TUR": "Mevcut konum:",
+    "POR": "Local atual:",
+    "ITA": "Posizione attuale:"
+  },
+  "Tree": {
+    "JPN": "ツリー",
+    "DEU": "Baum",
+    "NLD": "Boom",
+    "ELL": "Δέντρο",
+    "SPA": "Carpetas",
+    "TUR": "Ağaç",
+    "POR": "Árvore",
+    "ITA": "Cartelle"
+  },
+  "Add shortcut": {
+    "JPN": "リンクをついか",
+    "DEU": "Neue Verkn",
+    "NLD": "Nieuwe snelk",
+    "ELL": "Προσθ. συντ",
+    "SPA": "Añadir atajo",
+    "TUR": "Kısayol ekle",
+    "POR": "Adicionar atalho",
+    "ITA": "Nuovo collegamento"
+  },
+  "Add submenu": {
+    "JPN": "メニューをついか",
+    "DEU": "Neues Menü",
+    "NLD": "Nieuw menu",
+    "ELL": "Προσθ. υπομ",
+    "SPA": "Añadir submenú",
+    "TUR": "Alt menü ekle",
+    "POR": "Adicionar submenu",
+    "ITA": "Nuovo sottomenù"
+  },
+  "Delete": {
+    "JPN": "けす",
+    "DEU": "Löschen",
+    "NLD": "Verwijderen",
+    "ELL": "Διαγρ",
+    "SPA": "Borrar",
+    "TUR": "Sil",
+    "POR": "Excluir",
+    "ITA": "Elimina"
+  },
+  "Entry up": {
+    "JPN": "エントリをうえへ",
+    "DEU": "Eintrag auf",
+    "NLD": "Omhoog",
+    "ELL": "Πάνω",
+    "SPA": "Subir entrada",
+    "TUR": "Yukarı taşı",
+    "POR": "Mover acima",
+    "ITA": "Sposta su"
+  },
+  "Entry down": {
+    "JPN": "エントリをしたへ",
+    "DEU": "Eintrag ab",
+    "NLD": "Omlaag",
+    "ELL": "Κάτω",
+    "SPA": "Bajar entrada",
+    "TUR": "Aşağı taşı",
+    "POR": "Mover abaixo",
+    "ITA": "Sposta giù"
+  },
+  "[entry is read only]": {
+    "JPN": "［エントリはよみとりせんようです］",
+    "DEU": "[schreibgeschützt]",
+    "NLD": "[alleen-lezen]",
+    "ELL": "[μόνο ανάν.]"
+  },
+  "Target": {
+    "JPN": "ターゲット",
+    "DEU": "Ziel",
+    "NLD": "Doel",
+    "ELL": "Στόχος",
+    "SPA": "Destino",
+    "TUR": "Hedef",
+    "POR": "Destino",
+    "ITA": "Destinazione"
+  },
+  "Start in": {
+    "JPN": "スタート",
+    "DEU": "Läuft in",
+    "NLD": "Start in",
+    "ELL": "Έναρξη σε",
+    "SPA": "Iniciar en",
+    "TUR": "İçinde başla",
+    "POR": "Iniciar em",
+    "ITA": "Esegui in"
+  },
+  "Run": {
+    "JPN": "じっこう",
+    "DEU": "Fenster",
+    "NLD": "Venster",
+    "ELL": "Εκτ",
+    "SPA": "Ejecutar",
+    "TUR": "Çalıştır…",
+    "POR": "Executar",
+    "ITA": "Esegui"
+  },
+  "Refresh": {
+    "JPN": "リフレッシュ",
+    "DEU": "Aktualisieren",
+    "NLD": "Vernieuwen",
+    "ELL": "Ανανέωση",
+    "SPA": "Refrescar",
+    "TUR": "Yenile",
+    "POR": "Atualizar",
+    "ITA": "Aggiorna"
+  },
+  "Default": {
+    "JPN": "デフォルト",
+    "DEU": "Standard",
+    "NLD": "Standaard",
+    "ELL": "Προεπ",
+    "SPA": "Por defecto",
+    "TUR": "Varsayılan",
+    "POR": "Padrão",
+    "ITA": "Default"
+  },
+  "Normal window": {
+    "JPN": "ノーマルウィンドウ",
+    "DEU": "Normal",
+    "NLD": "Normaal",
+    "ELL": "Κανονικό",
+    "SPA": "Ventana normal",
+    "TUR": "Normal pencere",
+    "POR": "Janela normal",
+    "ITA": "Finestra"
+  },
+  "Minimized": {
+    "JPN": "さいしょう",
+    "DEU": "Minimiert",
+    "NLD": "Geminimaliseerd",
+    "ELL": "Ελαχ",
+    "SPA": "Minimizado",
+    "TUR": "Küçültülmüş",
+    "POR": "Minimizado",
+    "ITA": "Minimizzata"
+  },
+  "Maximized": {
+    "JPN": "さいだい",
+    "DEU": "Maximiert",
+    "NLD": "Gemaximaliseerd",
+    "ELL": "Μεγ",
+    "SPA": "Maximizado",
+    "TUR": "Büyütülmüş",
+    "POR": "Maximizado",
+    "ITA": "Ingrandita"
+  },
+  "Memory full!": {
+    "JPN": "メモリがいっぱいです。",
+    "DEU": "Speicher voll!",
+    "NLD": "Geheugen vol!",
+    "ELL": "Γέμισε μνήμη!",
+    "SPA": "¡Memoria llena!",
+    "TUR": "Bellek dolu!",
+    "POR": "Memória cheia!",
+    "ITA": "Memoria Piena!"
+  },
+  "There is no memory left for": {
+    "JPN": "このそうさをかんりょうするための",
+    "DEU": "Operation kann nicht",
+    "NLD": "Onvoldoende geheugen",
+    "ELL": "Δεν υπάρχει μνήμη",
+    "SPA": "No hay memoria para",
+    "TUR": "Bu işlemi tamamlamak için",
+    "POR": "Não há memória para",
+    "ITA": "Non c'è abbastanza memoria"
+  },
+  "completing this operation": {
+    "JPN": "メモリがのこっていません。",
+    "DEU": "ausgeführt werden",
+    "NLD": "voor deze actie",
+    "ELL": "για την ενέργεια",
+    "SPA": "completar esta operación",
+    "TUR": "yeterli bellek kalmadı",
+    "POR": "concluir esta operação",
+    "ITA": "per completare l'operazione"
+  },
+  "Too many entries! The maximum": {
+    "JPN": "エントリがおおすぎます。",
+    "DEU": "Zu viele Einträge! Pro",
+    "NLD": "Te veel items!",
+    "ELL": "Πολλές καταχ.!",
+    "SPA": "¡Demasiadas entradas! El número",
+    "TUR": "Çok fazla giriş var!",
+    "POR": "Muitas entradas! O máximo",
+    "ITA": "Troppe voci! Nei sottomenù"
+  },
+  "amount of entries (24) for this": {
+    "JPN": "このサブメニューのさいだいすう",
+    "DEU": "Untermenü sind bis zu",
+    "NLD": "Aantal items (24) is bereikt",
+    "ELL": "Μέγ. 24 στο",
+    "SPA": "máximo de entradas (24) para este",
+    "TUR": "Bu alt menü için maksimum",
+    "POR": "de entradas (24) para este",
+    "ITA": "possono esserci 24 voci"
+  },
+  "submenu has been reached": {
+    "JPN": "（２４）にたっしました。",
+    "DEU": "Einträge möglich",
+    "NLD": "voor dit submenu",
+    "ELL": "υπομενού",
+    "SPA": "submenú se ha alcanzado",
+    "TUR": "giriş sayısına (24) ulaşıldı",
+    "POR": "submenu foi atingido",
+    "ITA": "al massimo"
+  },
+  "Too many nested submenus!": {
+    "JPN": "サブメニューのかさねすぎです。",
+    "DEU": "Zuviele Untermenüs!",
+    "NLD": "Te veel submenu's!",
+    "ELL": "Πολύ βαθιά υπομενού!",
+    "SPA": "¡Demasiados submenús anidados!",
+    "TUR": "Çok fazla iç içe alt menü var!",
+    "POR": "Muitos submenus aninhados!",
+    "ITA": "Troppi sottomenù annidati"
+  },
+  "The deepest level for a": {
+    "JPN": "サブメニューのさいしんそうは",
+    "DEU": "Das Maximum von 5 wurde",
+    "NLD": "Het maximaal aantal items voor",
+    "ELL": "Μέγ. βάθος",
+    "SPA": "El máximo nivel para un",
+    "TUR": "Bir alt menünün en derin",
+    "POR": "O nível mais profundo",
+    "ITA": "Puoi usarne al massimo"
+  },
+  "submenu is": {
+    "JPN": "です。",
+    "DEU": "überschritten",
+    "NLD": "submenu's is",
+    "SPA": "submenú es",
+    "TUR": "seviyesi 5'tir",
+    "POR": "de submenu é",
+    "ITA": "uno dentro l'altro"
+  },
+  "Date and Time": {
+    "JPN": "日時",
+    "DEU": "Datum und Uhrzeit",
+    "NLD": "Datum en tijd",
+    "ELL": "Ημ/Ώρα",
+    "SPA": "Fecha y Hora",
+    "TUR": "Tarih ve Saat",
+    "POR": "Data e Hora",
+    "ITA": "Data e Ora"
+  },
+  "Date": {
+    "JPN": "日づけ",
+    "DEU": "Datum",
+    "NLD": "Datum",
+    "ELL": "Ημ/νία",
+    "SPA": "Fecha",
+    "TUR": "Tarih",
+    "POR": "Data",
+    "ITA": "Data"
+  },
+  "Zone": {
+    "JPN": "タイムゾーン",
+    "DEU": "Zone",
+    "NLD": "Zone",
+    "ELL": "Ζώνη",
+    "SPA": "Zona",
+    "TUR": "Dilim",
+    "POR": "Fuso",
+    "ITA": "Zona"
+  },
+  "W": {
+    "JPN": "W",
+    "DEU": "W",
+    "NLD": "W",
+    "ELL": "ε",
+    "SPA": "S",
+    "TUR": "Ç",
+    "POR": "D",
+    "ITA": "S"
+  },
+  "M": {
+    "JPN": "月",
+    "DEU": "M",
+    "NLD": "M",
+    "ELL": "Δ",
+    "SPA": "L",
+    "TUR": "P",
+    "POR": "S",
+    "ITA": "L"
+  },
+  "T": {
+    "JPN": "火",
+    "DEU": "D",
+    "NLD": "D",
+    "ELL": "Τ",
+    "SPA": "M",
+    "TUR": "S",
+    "POR": "T",
+    "ITA": "M"
+  },
+  "F": {
+    "JPN": "金",
+    "DEU": "F",
+    "NLD": "V",
+    "ELL": "Π",
+    "SPA": "V",
+    "TUR": "C",
+    "POR": "S",
+    "ITA": "V"
+  },
+  "S": {
+    "JPN": "土",
+    "DEU": "S",
+    "NLD": "Z",
+    "ELL": "Σ",
+    "SPA": "S",
+    "TUR": "S",
+    "POR": "S",
+    "ITA": "S"
+  },
+  "Hour": {
+    "JPN": "時",
+    "DEU": "Stu",
+    "NLD": "Uur",
+    "ELL": "Ώρα",
+    "SPA": "Hora",
+    "TUR": "Saat",
+    "POR": "Hora",
+    "ITA": "Ora"
+  },
+  "Min": {
+    "JPN": "分",
+    "DEU": "Min",
+    "NLD": "Min",
+    "ELL": "Λεπ",
+    "SPA": "Min",
+    "TUR": "Dak",
+    "POR": "Min",
+    "ITA": "Min"
+  },
+  "Sec": {
+    "JPN": "秒",
+    "DEU": "Sek",
+    "NLD": "Sec",
+    "ELL": "Δευτ",
+    "SPA": "Seg",
+    "TUR": "San",
+    "POR": "Seg",
+    "ITA": "Sec"
+  },
+  "January": {
+    "JPN": "月",
+    "DEU": "Januar",
+    "NLD": "Januari",
+    "ELL": "Ιανουάριος",
+    "SPA": "Enero",
+    "TUR": "Ocak",
+    "POR": "Janeiro",
+    "ITA": "Gennaio"
+  },
+  "February": {
+    "JPN": "月",
+    "DEU": "Februar",
+    "NLD": "Februari",
+    "ELL": "Φεβρουάριος",
+    "SPA": "Febrero",
+    "TUR": "Şubat",
+    "POR": "Fevereiro",
+    "ITA": "Febbraio"
+  },
+  "March": {
+    "JPN": "月",
+    "DEU": "März",
+    "NLD": "Maart",
+    "ELL": "Μάρτιος",
+    "SPA": "Marzo",
+    "TUR": "Mart",
+    "POR": "Março",
+    "ITA": "Marzo"
+  },
+  "April": {
+    "JPN": "月",
+    "DEU": "April",
+    "NLD": "April",
+    "ELL": "Απρίλιος",
+    "SPA": "Abril",
+    "TUR": "Nisan",
+    "POR": "Abril",
+    "ITA": "Aprile"
+  },
+  "May": {
+    "JPN": "月",
+    "DEU": "Mai",
+    "NLD": "Mei",
+    "ELL": "Μάιος",
+    "SPA": "Mayo",
+    "TUR": "Mayıs",
+    "POR": "Maio",
+    "ITA": "Maggio"
+  },
+  "June": {
+    "JPN": "月",
+    "DEU": "Juni",
+    "NLD": "Juni",
+    "ELL": "Ιούνιος",
+    "SPA": "Junio",
+    "TUR": "Haziran",
+    "POR": "Junho",
+    "ITA": "Giugno"
+  },
+  "July": {
+    "JPN": "月",
+    "DEU": "Juli",
+    "NLD": "Juli",
+    "ELL": "Ιούλιος",
+    "SPA": "Julio",
+    "TUR": "Temmuz",
+    "POR": "Julho",
+    "ITA": "Luglio"
+  },
+  "August": {
+    "JPN": "月",
+    "DEU": "August",
+    "NLD": "Augustus",
+    "ELL": "Αύγουστος",
+    "SPA": "Agosto",
+    "TUR": "Ağustos",
+    "POR": "Agosto",
+    "ITA": "Agosto"
+  },
+  "September": {
+    "JPN": "月",
+    "DEU": "September",
+    "NLD": "September",
+    "ELL": "Σεπτέμβριος",
+    "SPA": "Septiembre",
+    "TUR": "Eylül",
+    "POR": "Setembro",
+    "ITA": "Settembre"
+  },
+  "October": {
+    "JPN": "月",
+    "DEU": "Oktober",
+    "NLD": "Oktober",
+    "ELL": "Οκτώβριος",
+    "SPA": "Octubre",
+    "TUR": "Ekim",
+    "POR": "Outubro",
+    "ITA": "Ottobre"
+  },
+  "November": {
+    "JPN": "月",
+    "DEU": "November",
+    "NLD": "November",
+    "ELL": "Νοέμβριος",
+    "SPA": "Noviembre",
+    "TUR": "Kasım",
+    "POR": "Novembro",
+    "ITA": "Novembre"
+  },
+  "December": {
+    "JPN": "月",
+    "DEU": "Dezember",
+    "NLD": "December",
+    "ELL": "Δεκέμβριος",
+    "SPA": "Diciembre",
+    "TUR": "Aralık",
+    "POR": "Dezembro",
+    "ITA": "Dicembre"
+  },
+  "Monday": {
+    "JPN": "月ようび",
+    "DEU": "Montag",
+    "NLD": "Maandag",
+    "ELL": "Δευτέρα",
+    "SPA": "Lunes",
+    "TUR": "Pazartesi",
+    "POR": "Segunda-feira",
+    "ITA": "Lunedì"
+  },
+  "Tuesday": {
+    "JPN": "火ようび",
+    "DEU": "Dienstag",
+    "NLD": "Dinsdag",
+    "ELL": "Τρίτη",
+    "SPA": "Martes",
+    "TUR": "Salı",
+    "POR": "Terça-feira",
+    "ITA": "Martedì"
+  },
+  "Wednesday": {
+    "JPN": "水ようび",
+    "DEU": "Mittwoch",
+    "NLD": "Woensdag",
+    "ELL": "Τετάρτη",
+    "SPA": "Miércoles",
+    "TUR": "Çarşamba",
+    "POR": "Quarta-feira",
+    "ITA": "Mercoledì"
+  },
+  "Thursday": {
+    "JPN": "木ようび",
+    "DEU": "Donnerstag",
+    "NLD": "Donderdag",
+    "ELL": "Πέμπτη",
+    "SPA": "Jueves",
+    "TUR": "Perşembe",
+    "POR": "Quinta-feira",
+    "ITA": "Giovedì"
+  },
+  "Friday": {
+    "JPN": "金ようび",
+    "DEU": "Freitag",
+    "NLD": "Vrijdag",
+    "ELL": "Παρασκευή",
+    "SPA": "Viernes",
+    "TUR": "Cuma",
+    "POR": "Sexta-feira",
+    "ITA": "Venerdì"
+  },
+  "Saturday": {
+    "JPN": "土ようび",
+    "DEU": "Samstag",
+    "NLD": "Zaterdag",
+    "ELL": "Σάββατο",
+    "SPA": "Sábado",
+    "TUR": "Cumartesi",
+    "POR": "Sábado",
+    "ITA": "Sabato"
+  },
+  "Sunday": {
+    "JPN": "日ようび",
+    "DEU": "Sonntag",
+    "NLD": "Zondag",
+    "ELL": "Κυριακή",
+    "SPA": "Domingo",
+    "TUR": "Pazar",
+    "POR": "Domingo",
+    "ITA": "Domenica"
+  },
+  "Int.Dateline": {
+    "JPN": "デートライン",
+    "DEU": "Int.Datumsgrenze",
+    "NLD": "Intern. datumlijn",
+    "ELL": "Γρ. Ημερ",
+    "SPA": "Línea int. de cambio de fecha",
+    "TUR": "Int.Dateline",
+    "POR": "Linha Int. de Data",
+    "ITA": "Int.Dateline"
+  },
+  "Midway Island": {
+    "JPN": "ミッドウェーとう",
+    "DEU": "Midwayinseln",
+    "NLD": "Midway",
+    "ELL": "Μίντγουεϊ",
+    "SPA": "Islas Midway",
+    "TUR": "Midway Adası",
+    "POR": "Ilha Midway",
+    "ITA": "Isole Midway"
+  },
+  "Hawaii": {
+    "JPN": "ハワイ",
+    "DEU": "Hawaii",
+    "NLD": "Hawaï",
+    "ELL": "Χαβάη",
+    "SPA": "Hawai",
+    "TUR": "Hawaii",
+    "POR": "Havaí",
+    "ITA": "Hawaii"
+  },
+  "Alaska": {
+    "JPN": "アラスカ",
+    "DEU": "Alaska",
+    "NLD": "Alaska",
+    "ELL": "Αλάσκα",
+    "SPA": "Alaska",
+    "TUR": "Alaska",
+    "POR": "Alasca",
+    "ITA": "Alaska"
+  },
+  "Los Angeles": {
+    "JPN": "ロサンゼルス",
+    "DEU": "Los Angeles",
+    "NLD": "Los Angeles",
+    "ELL": "Λος Άντζελες",
+    "SPA": "Los Ángeles",
+    "TUR": "Los Angeles",
+    "POR": "Los Angeles",
+    "ITA": "Los Angeles"
+  },
+  "Denver, Arizona": {
+    "JPN": "デンバー、アリゾナ",
+    "DEU": "Denver, Arizona",
+    "NLD": "Denver, Arizona",
+    "ELL": "Ντένβερ, Αριζ",
+    "SPA": "Denver, Arizona",
+    "TUR": "Denver, Arizona",
+    "POR": "Denver, Arizona",
+    "ITA": "Denver, Arizona"
+  },
+  "Chicago": {
+    "JPN": "シカゴ",
+    "DEU": "Chicago",
+    "NLD": "Chicago",
+    "ELL": "Σικάγο",
+    "SPA": "Chicago",
+    "TUR": "Chicago",
+    "POR": "Chicago",
+    "ITA": "Chicago"
+  },
+  "New York": {
+    "JPN": "ニューヨーク",
+    "DEU": "New York",
+    "NLD": "New York",
+    "ELL": "Νέα Υόρκη",
+    "SPA": "Nueva York",
+    "TUR": "New York",
+    "POR": "Nova York",
+    "ITA": "New York"
+  },
+  "Santiago": {
+    "JPN": "サンティアゴ",
+    "DEU": "Santiago",
+    "NLD": "Santiago",
+    "ELL": "Σαντιάγο",
+    "SPA": "Santiago",
+    "TUR": "Santiago",
+    "POR": "Santiago",
+    "ITA": "Santiago"
+  },
+  "Buenos Aires": {
+    "JPN": "ブエノスアイレス",
+    "DEU": "Buenos Aires",
+    "NLD": "Buenos Aires",
+    "ELL": "Μπ. Άιρες",
+    "SPA": "Ciudad de Buenos Aires",
+    "TUR": "Buenos Aires",
+    "POR": "Buenos Aires",
+    "ITA": "Buenos Aires"
+  },
+  "Middle Atlantic": {
+    "JPN": "ミドルアトランティック",
+    "DEU": "Mittelatlantik",
+    "NLD": "Midden-Atlantisch",
+    "ELL": "Μ. Ατλαντ",
+    "SPA": "Atlántico Medio",
+    "TUR": "Orta Atlantik",
+    "POR": "Atlântico Médio",
+    "ITA": "Atlantico Centrale"
+  },
+  "Azores, Cabo Verde": {
+    "JPN": "アゾレス、カーボベルデ",
+    "DEU": "Azoren, Kapverden",
+    "NLD": "Azoren, Kaapverdië",
+    "ELL": "Αζόρες, Κ. Βέρντε",
+    "SPA": "Azores, Cabo Verde",
+    "TUR": "Azores, Cabo Verde",
+    "POR": "Açores, Cabo Verde",
+    "ITA": "Azores, Cabo Verde"
+  },
+  "+00 London, Lissabon": {
+    "JPN": "+０ ロンドン、リスボン",
+    "DEU": "+00 London, Lissabon",
+    "NLD": "+00 Londen, Lissabon",
+    "ELL": "+00 Λονδ., Λισ",
+    "SPA": "+00 Londres, Lisboa",
+    "TUR": "+00 Londra, Lizbon",
+    "POR": "+00 Londres, Lisboa",
+    "ITA": "+00 London, Lissabon"
+  },
+  "+01 Amsterdam, Berlin": {
+    "JPN": "+１ アムステルダム、ベルリン",
+    "DEU": "+01 Amsterdam, Berlin",
+    "NLD": "+01 Amsterdam, Berlijn",
+    "ELL": "+01 Άμστ., Βερλ",
+    "SPA": "+01 Ámsterdam, Berlín",
+    "TUR": "+01 Amsterdam, Berlin",
+    "POR": "+01 Amsterdã, Berlim",
+    "ITA": "+01 Amsterdam, Berlin"
+  },
+  "+02 Kiev, Helsinki": {
+    "JPN": "+２ キーエフ、ヘルシンキ",
+    "DEU": "+02 Kiew, Helsinki",
+    "NLD": "+02 Kiev, Helsinki",
+    "ELL": "+02 Κίεβο, Ελσ",
+    "SPA": "+02 Kiev, Helsinki",
+    "TUR": "+02 Kiev, Helsinki",
+    "POR": "+02 Kiev, Helsinque",
+    "ITA": "+02 Kiev, Helsinki"
+  },
+  "+03 Constantinople": {
+    "JPN": "+３ コンスタンティノープル",
+    "DEU": "+03 Konstantinopel",
+    "NLD": "+03 Constantinopel",
+    "ELL": "+03 Κων/πολη",
+    "SPA": "+03 Estambul",
+    "TUR": "+03 İstanbul",
+    "POR": "+03 Constantinopla",
+    "ITA": "+03 Instambul"
+  },
+  "+04 Tiflis": {
+    "JPN": "+４ ティフリス",
+    "DEU": "+04 Tiflis",
+    "NLD": "+04 Tbilisi",
+    "ELL": "+04 Τιφλίδα",
+    "SPA": "+04 Tiflis",
+    "TUR": "+04 Tiflis",
+    "POR": "+04 Tíflis",
+    "ITA": "+04 Tiblisi"
+  },
+  "+05 Male": {
+    "JPN": "+５ マーレ",
+    "DEU": "+05 Malé",
+    "NLD": "+05 Malé",
+    "ELL": "+05 Μαλέ",
+    "SPA": "+05 Malé",
+    "TUR": "+05 Male",
+    "POR": "+05 Malé",
+    "ITA": "+05 Malè"
+  },
+  "+06 Dhaka": {
+    "JPN": "+６ ダッカ",
+    "DEU": "+06 Dhaka",
+    "NLD": "+06 Dhaka",
+    "ELL": "+06 Ντάκα",
+    "SPA": "+06 Dacca",
+    "TUR": "+06 Dhaka",
+    "POR": "+06 Daca",
+    "ITA": "+06 Dhaka"
+  },
+  "+07 Bangkok, Hanoi": {
+    "JPN": "+７ バンコク、ハノイ",
+    "DEU": "+07 Bangkok, Hanoi",
+    "NLD": "+07 Bangkok, Hanoi",
+    "ELL": "+07 Μπανγ., Ανόι",
+    "SPA": "+07 Bangkok, Hanói",
+    "TUR": "+07 Bangkok, Hanoi",
+    "POR": "+07 Bangkok, Hanói",
+    "ITA": "+07 Bangkok, Hanoi"
+  },
+  "+08 Beijing, Perth": {
+    "JPN": "+８ ペキン、パース",
+    "DEU": "+08 Peking, Perth",
+    "NLD": "+08 Beijing, Perth",
+    "ELL": "+08 Πεκίνο, Περθ",
+    "SPA": "+08 Beijing, Perth",
+    "TUR": "+08 Pekin, Perth",
+    "POR": "+08 Pequim, Perth",
+    "ITA": "+08 Beijing, Perth"
+  },
+  "+09 Tokyo, Seoul": {
+    "JPN": "+９ とうきょう、ソウル",
+    "DEU": "+09 Tokio, Seoul",
+    "NLD": "+09 Tokio, Seoel",
+    "ELL": "+09 Τόκιο, Σεούλ",
+    "SPA": "+09 Tokio, Seúl",
+    "TUR": "+09 Tokyo, Seul",
+    "POR": "+09 Tóquio, Seul",
+    "ITA": "+09 Tokyo, Seoul"
+  },
+  "+10 Sydney": {
+    "JPN": "+１０ シドニー",
+    "DEU": "+10 Sydney",
+    "NLD": "+10 Sydney",
+    "ELL": "+10 Σίδνεϊ",
+    "SPA": "+10 Sídney",
+    "TUR": "+10 Sydney",
+    "POR": "+10 Sydney",
+    "ITA": "+10 Sydney"
+  },
+  "+11 New Caledonia": {
+    "JPN": "+１１ ニューカレドニア",
+    "DEU": "+11 Neukaledonien",
+    "NLD": "+11 Nieuw-Caledonië",
+    "ELL": "+11 Ν. Καληδ",
+    "SPA": "+11 Nueva Caledonia",
+    "TUR": "+11 Yeni Kaledonya",
+    "POR": "+11 Nova Caledônia",
+    "ITA": "+11 Nuova Caledonia"
+  },
+  "+12 Auckland": {
+    "JPN": "+１２ オークランド",
+    "DEU": "+12 Auckland",
+    "NLD": "+12 Auckland",
+    "ELL": "+12 Όκλαντ",
+    "SPA": "+12 Auckland",
+    "TUR": "+12 Auckland",
+    "POR": "+12 Auckland",
+    "ITA": "+12 Auckland"
+  },
+  "+13 Nuku'alofa": {
+    "JPN": "+１３ ヌクアロファ",
+    "DEU": "+13 Nuku'alofa",
+    "NLD": "+13 Nuku'alofa",
+    "ELL": "+13 Νουκουαλόφα",
+    "SPA": "+13 Nuku'alofa",
+    "TUR": "+13 Nuku'alofa",
+    "POR": "+13 Nuku'alofa",
+    "ITA": "+13 Nuku'alofa"
+  },
+  "Please close the previous": {
+    "JPN": "ショートカットのダイアログを",
+    "DEU": "Bitte zuerst das andere",
+    "NLD": "Sluit vorige",
+    "SPA": "Por favor, primero cierre",
+    "TUR": "Lütfen önce ilk",
+    "POR": "Feche o diálogo de",
+    "ITA": "Chiudi la precedente finestra"
+  },
+  "shortcut dialogue first": {
+    "JPN": "さきにとじてください。",
+    "DEU": "Verknüpfungs-Fenster schließen",
+    "NLD": "snelkoppeling venster eerst",
+    "SPA": "el diálogo de atajo previo",
+    "TUR": "kısayol diyaloğunu kapatın",
+    "POR": "atalho anterior primeiro",
+    "ITA": "di dialogo sui collegamenti"
+  },
+  "widget dialogue first": {
+    "JPN": "さきにとじてください。",
+    "DEU": "Widget-Fenster schließen",
+    "NLD": "widget venster eerst",
+    "SPA": "el diálogo de widget previo",
+    "TUR": "widget diyaloğunu kapatın",
+    "POR": "widget anterior primeiro",
+    "ITA": "di dialogo sui widget"
+  },
+  "Error while reading file": {
+    "JPN": "ファイルのよみこみエラー。",
+    "DEU": "Fehler beim Laden",
+    "NLD": "Fout bij lezen",
+    "SPA": "Error leyendo el archivo",
+    "TUR": "Dosyayı okurken hata oluştu",
+    "POR": "Erro ao ler arquivo",
+    "ITA": "Errore di lettura del file"
+  },
+  "Wrong widget format or disc error": {
+    "JPN": "ウィジェットのフォーマットまたはディスクエラー。",
+    "DEU": "Widget- oder Datenträger-Problem",
+    "NLD": "Ongeldig widgetformaat",
+    "SPA": "Formato de widget erróneo o error de disco",
+    "TUR": "Yanlış widget formatı veya disk hatası",
+    "POR": "Erro de widget ou disco",
+    "ITA": "Formato widget errato o errore disco"
+  },
+  "Wrong icon format or disc error": {
+    "JPN": "アイコンのフォーマットまたはディスクエラー。",
+    "DEU": "Icon- oder Datenträger-Problem",
+    "NLD": "Ongeldig pictogramformaat",
+    "SPA": "Formato de icono erróneo o error de disco",
+    "TUR": "Yanlış simge formatı veya disk hatası",
+    "POR": "Erro de ícone ou disco",
+    "ITA": "Formato icona errato o errore disco"
+  },
+  "Are you sure you want to delete": {
+    "JPN": "このウィジェットを",
+    "DEU": "Soll dieses Widget wirklich",
+    "NLD": "Wilt u deze",
+    "SPA": "¿Seguro que quieres borrar",
+    "TUR": "Bu widget’ı silmek İstediğinize",
+    "POR": "Tem certeza que deseja",
+    "ITA": "Sicuro di voler eliminare"
+  },
+  "this widget?": {
+    "JPN": "さくじょしてもよろしいですか?",
+    "DEU": "gelöscht werden?",
+    "NLD": "Widget verwijderen?",
+    "SPA": "este widget?",
+    "TUR": "emin misiniz?",
+    "POR": "excluir este widget?",
+    "ITA": "questo widget?"
+  },
+  "Memory full": {
+    "JPN": "メモリがいっぱいです。",
+    "DEU": "Speicher voll",
+    "NLD": "Geheugen vol",
+    "SPA": "Memoria llena",
+    "TUR": "Bellek doldu",
+    "POR": "Memória cheia",
+    "ITA": "Memoria esaurita"
+  },
+  "There is no remaining memory": {
+    "JPN": "このリンクをほぞんするための",
+    "DEU": "Die Verknüpfung konnte nicht",
+    "NLD": "Geen vrij- geheugen meer",
+    "SPA": "No hay memoria suficiente",
+    "TUR": "Bu linki kaydetmek için",
+    "POR": "Não há memória disponível",
+    "ITA": "Non c'è più memoria"
+  },
+  "available for saving this link": {
+    "JPN": "メモリがたりません。",
+    "DEU": "angelegt werden",
+    "NLD": "om deze link te bewaren",
+    "SPA": "para guardar este enlace",
+    "TUR": "yeterli bellek yok",
+    "POR": "para salvar este link",
+    "ITA": "per salvare questo link"
+  },
+  "available for adding this widget": {
+    "JPN": "メモリがたりません。",
+    "DEU": "hinzugefügt werden",
+    "NLD": "voor de nieuwe widget",
+    "SPA": "para añadir este widget",
+    "TUR": "yeterli bellek yok",
+    "POR": "para adicionar este widget",
+    "ITA": "per aggiungere questo widget"
+  },
+  "Folders cannot be cut": {
+    "JPN": "フォルダはカットできません。",
+    "DEU": "Ordner nicht ausschneidbar. Bitte",
+    "NLD": "Map(en) kunnen niet worden geknipt",
+    "SPA": "Las carpetas no pueden cortarse",
+    "TUR": "Klasörler kesilemez",
+    "POR": "Pastas não podem ser cortadas",
+    "ITA": "Le cartelle non possono essere tagliate"
+  },
+  "Please use copy and paste,": {
+    "JPN": "コピーとペーストをつかって、",
+    "DEU": "Kopieren und Einfügen, dann",
+    "NLD": "Gebruik knippen en plakken",
+    "SPA": "Por favor, usa copiar y pegar",
+    "TUR": "Lütfen kopyalayın ve yapıştırın,",
+    "POR": "Por favor, use copiar e colar,",
+    "ITA": "Usa copia e incolla e poi"
+  },
+  "and then delete the old folder": {
+    "JPN": "ふるいフォルダをさくじょしてください。",
+    "DEU": "den alten Ordner löschen",
+    "NLD": "en daarna verwijder de oude folder",
+    "SPA": "y entonces borra la carpeta antigua",
+    "TUR": "sonra klasörü silin",
+    "POR": "e então exclua a pasta antiga",
+    "ITA": "cancella la vecchia cartella"
+  },
+  "Error while loading and executing": {
+    "JPN": "ウィジェットのよみこみとじっこうでエラー。",
+    "DEU": "Fehler beim Ausführen des Widgets",
+    "NLD": "Fout bij het laden en uitvoeren",
+    "SPA": "Error al cargar y ejecutar el widget",
+    "TUR": "Widget yüklenirken ve yürütülürken",
+    "POR": "Erro ao carregar e executar",
+    "ITA": "Errore di caricamento ed esecuzione del"
+  },
+  "widget. Disc error, corrupt widget": {
+    "JPN": "ディスクエラー、ファイルのはそん",
+    "DEU": "Datenträgerproblem, Datei defekt",
+    "NLD": "Disk error, widget beschadigd",
+    "SPA": "Error de disco, archivo de widget",
+    "TUR": "hata oluştu Disk hatası, bozuk widget",
+    "POR": "widget. Erro de disco, arquivo de",
+    "ITA": "widget. Errore disco, widget corrotto"
+  },
+  "file or memory full": {
+    "JPN": "またはメモリがいっぱいです。",
+    "DEU": "oder Speicher voll",
+    "NLD": "Geheugen of Bestand vol",
+    "SPA": "corrupto o memoria llena",
+    "TUR": "dosyası veya dolu bellek",
+    "POR": "widget corrompido ou memória cheia",
+    "ITA": "o memoria esaurita"
+  },
+  "< Back": {
+    "JPN": "< もどる",
+    "DEU": "< Zurück",
+    "NLD": "< Vorige",
+    "SPA": "< Volver",
+    "TUR": "< Geri",
+    "POR": "< Voltar",
+    "ITA": "<Precedente"
+  },
+  "Next >": {
+    "JPN": "つぎへ >",
+    "DEU": "Weiter >",
+    "NLD": "Verder >",
+    "SPA": "Siguiente >",
+    "TUR": "İleri >",
+    "POR": "Avançar >",
+    "ITA": "Prossimo>"
+  },
+  "Finish": {
+    "JPN": "かんりょう",
+    "DEU": "Fertig",
+    "NLD": "Voltooien",
+    "SPA": "Terminar",
+    "TUR": "Bitir",
+    "POR": "Concluir",
+    "ITA": "Terminare"
+  },
+  "[empty]": {
+    "JPN": "[から]",
+    "DEU": "[leer]",
+    "NLD": "[leeg]"
+  },
+  "Properties": {
+    "JPN": "プロパティ",
+    "DEU": "Eigenschaften",
+    "NLD": "Eigenschappen",
+    "SPA": "Propiedades",
+    "TUR": "Özellikler",
+    "POR": "Propriedades",
+    "ITA": "Proprietà"
+  },
+  "SymbOS security": {
+    "JPN": "SymbOSセキュリティ",
+    "DEU": "SymbOS-Sicherheit",
+    "NLD": "SymbOS-beveiliging",
+    "SPA": "Seguridad de SymbOS",
+    "TUR": "SymbOS güvenliği",
+    "POR": "Segurança do SymbOS",
+    "ITA": "Sicurezza di SymbOS"
+  },
+  "Use the Task Manager to close an": {
+    "JPN": "おうとうしないアプリケーションをとじるには",
+    "DEU": "Task Manager verwenden um eine nicht",
+    "NLD": "Gebruik taakbeheer voor sluiten",
+    "SPA": "Usa el Gestor de Tareas para cerrar",
+    "TUR": "Yanıt vermeyen bir uygulamayı kapatmak için",
+    "POR": "Use o Gerenciador de Tarefas para",
+    "ITA": "Usa il Task Manager per terminare"
+  },
+  "application that is not responsing": {
+    "JPN": "タスクマネージャーをつかってください。",
+    "DEU": "reagierende Anwendung zu schließen",
+    "NLD": "van niet-reagerende app via Taakbeheer",
+    "SPA": "una aplicación que no responde",
+    "TUR": "Görev Yöneticisi'ni kullanın",
+    "POR": "fechar um aplicativo que não responde",
+    "ITA": "un'applicazione che non risponde"
+  },
+  "You are logged on since": {
+    "JPN": "ログオンからのけいかじかん",
+    "DEU": "Eingeloggt seit",
+    "NLD": "Aangemeld sinds",
+    "SPA": "Llevas activo",
+    "TUR": "Bağlı bulunduğunuz süre",
+    "POR": "Você está conectado há",
+    "ITA": "Sei loggato da"
+  },
+  "hours and": {
+    "JPN": "時かん",
+    "DEU": "Stunden und",
+    "NLD": "uur en",
+    "SPA": "horas y",
+    "TUR": "saat ve",
+    "POR": "horas e",
+    "ITA": "ore e"
+  },
+  "minutes": {
+    "JPN": "分",
+    "DEU": "Minuten",
+    "NLD": "minuten",
+    "SPA": "minutes",
+    "TUR": "dakika",
+    "POR": "minutos",
+    "ITA": "minuti"
+  },
+  "Logon information": {
+    "JPN": "ログオンじょうほう",
+    "DEU": "Anmeldeinformationen",
+    "NLD": "Aanmeld info",
+    "SPA": "Información de Acceso",
+    "TUR": "Giriş bilgileri",
+    "POR": "Informações de login",
+    "ITA": "Info sulla sessione"
+  },
+  "Lock": {
+    "JPN": "ロック",
+    "DEU": "Sperren",
+    "NLD": "Vergrendel",
+    "SPA": "Bloquear",
+    "TUR": "Kilitle",
+    "POR": "Bloquear",
+    "ITA": "Blocca"
+  },
+  "Task Mgr": {
+    "JPN": "タスクマネージャー",
+    "DEU": "Task Mgr",
+    "NLD": "Task Mgr",
+    "SPA": "Gestor Tareas",
+    "TUR": "Görev Yöneticisi",
+    "POR": "Ger. Tarefas",
+    "ITA": "Task Manager"
+  },
+  "Password": {
+    "JPN": "パスワード",
+    "DEU": "Passwort",
+    "NLD": "Wachtwoord",
+    "SPA": "Contraseña",
+    "TUR": "Parola…",
+    "POR": "Senha",
+    "ITA": "Password"
+  },
+  "Shut down": {
+    "JPN": "シャットダウン",
+    "DEU": "Beenden",
+    "NLD": "Afsluiten",
+    "SPA": "Apagar",
+    "TUR": "Kapat…",
+    "POR": "Desligar",
+    "ITA": "Spegni…"
+  },
+  "Unlock computer": {
+    "JPN": "コンピュータのロックかいじょ",
+    "DEU": "Computer entsperren",
+    "NLD": "Ontgrendel computer",
+    "SPA": "Desbloquear",
+    "TUR": "Bilgisayarın kilidini aç",
+    "POR": "Desbloquear computador",
+    "ITA": "Sblocca il computer"
+  },
+  "This computer is in use and": {
+    "JPN": "このコンピュータはしようちゅうで",
+    "DEU": "Der Computer ist in Benutzung",
+    "NLD": "Deze Computer is in gebruik",
+    "SPA": "Este ordenador está en uso",
+    "TUR": "Bilgisayar kullanımda ve",
+    "POR": "Este computador está em uso e",
+    "ITA": "Questo computer è in uso"
+  },
+  "has been locked": {
+    "JPN": "ロックされています。",
+    "DEU": "und wurde gesperrt",
+    "NLD": "en is vergrendeld",
+    "SPA": "y ha sido bloqueado",
+    "TUR": "kilitli",
+    "POR": "foi bloqueado",
+    "ITA": "ed è stato bloccato"
+  },
+  "User name:": {
+    "JPN": "ユーザーめい:",
+    "DEU": "Benutzername:",
+    "NLD": "Gebruiker:",
+    "SPA": "Nombre de usuario:",
+    "TUR": "Kullanıcı adı:",
+    "POR": "Nome de usuário:",
+    "ITA": "Utente:"
+  },
+  "Password:": {
+    "JPN": "パスワード:",
+    "DEU": "Passwort:",
+    "NLD": "Wachtwoord:",
+    "SPA": "Contraseña:",
+    "TUR": "Parola:",
+    "POR": "Senha:",
+    "ITA": "Password:"
+  },
+  "The old password is not": {
+    "JPN": "ふるいパスワードが",
+    "DEU": "Altes Passwort falsch. Bitte",
+    "NLD": "Het oude wachtwoord is niet",
+    "SPA": "La contraseña antigua no es",
+    "TUR": "Önceki parola doğru değil",
+    "POR": "A senha antiga não está",
+    "ITA": "La vecchia password non è"
+  },
+  "correct. Please enter the valid": {
+    "JPN": "ただしくありません。へんこうするには",
+    "DEU": "zum Ändern das korrekte",
+    "NLD": "correct. Geef het juiste",
+    "SPA": "correcta. Por favor, introduce",
+    "TUR": "Lütfen değiştirmek için",
+    "POR": "correta. Por favor, insira a",
+    "ITA": "corretta. Inserisci la password giusta"
+  },
+  "password to change it": {
+    "JPN": "ただしいパスワードをにゅうりょくしてください。",
+    "DEU": "eingeben",
+    "NLD": "wachtwoord",
+    "SPA": "la correcta para cambiarla",
+    "TUR": "geçerli bir parola girin",
+    "POR": "senha válida para alterá-la",
+    "ITA": "per poterla cambiare"
+  },
+  "Change Password": {
+    "JPN": "パスワードへんこう",
+    "DEU": "Passwort ändern",
+    "NLD": "Wijzig wachtwoord",
+    "SPA": "Cambiar Contraseña",
+    "TUR": "Parolayı Değiştir",
+    "POR": "Alterar Senha",
+    "ITA": "Cambia password:"
+  },
+  "Old Password:": {
+    "JPN": "きゅうパスワード:",
+    "DEU": "Altes Passwort:",
+    "NLD": "Oud wachtwoord:",
+    "SPA": "Antigua Contraseña:",
+    "TUR": "Eski Parola:",
+    "POR": "Senha Antiga:",
+    "ITA": "Vecchia Password:"
+  },
+  "New Password:": {
+    "JPN": "しんパスワード:",
+    "DEU": "Neues Passwort:",
+    "NLD": "Nieuw wachtwoord:",
+    "SPA": "Nueva Contraseña:",
+    "TUR": "Yeni Parola:",
+    "POR": "Nova Senha:",
+    "ITA": "Nuova Password:"
+  },
+  "Confirm New:": {
+    "JPN": "しんパスワード(かくにん):",
+    "DEU": "Neues bestätigen:",
+    "NLD": "Nieuwe bevestigen:",
+    "SPA": "Confirmar nueva:",
+    "TUR": "Yeniyi Onaylayın:",
+    "POR": "Confirmar Nova:",
+    "ITA": "Conferma nuova:"
+  },
+  "The entered passwords do not": {
+    "JPN": "にゅうりょくされたパスワードが",
+    "DEU": "Eingegebene Passwörter stimmen",
+    "NLD": "Het ingegeven wachtwoord is niet",
+    "SPA": "Las contraseñas introducidas",
+    "TUR": "Girilen parolalar birbirinden",
+    "POR": "As senhas digitadas não",
+    "ITA": "Le password non"
+  },
+  "match. Please confirm your": {
+    "JPN": "いっちしません。パスワードを",
+    "DEU": "nicht überein. Bitte das neue",
+    "NLD": "hetzelfde. Bevestig het",
+    "SPA": "no coinciden. Por favor, confirma",
+    "TUR": "farklı. Lütfen yeni parolayı",
+    "POR": "coincidem. Por favor, confirme",
+    "ITA": "corrispondono. Conferma la tua"
+  },
+  "new password": {
+    "JPN": "かくにんしてください。",
+    "DEU": "bestätigen",
+    "NLD": "nieuwe wachtwoord",
+    "SPA": "tu nueva contraseña",
+    "TUR": "onaylayın",
+    "POR": "sua nova senha",
+    "ITA": "nuova password"
+  },
+  "Create Widget": {
+    "JPN": "ウィジェットをつくる",
+    "DEU": "Neues Widget",
+    "NLD": "Nieuwe Widget",
+    "SPA": "Crear Widget",
+    "TUR": "Widget Oluştur",
+    "POR": "Criar Widget",
+    "ITA": "Crea Widget"
+  },
+  "Type the location and name of": {
+    "JPN": "デスクトップについかしたい",
+    "DEU": "Bitte den Dateipfad des Widget",
+    "NLD": "Typ de pad van de widget",
+    "SPA": "Teclea la ubicación y nombre del",
+    "TUR": "Masaüstüne eklemek istediğiniz",
+    "POR": "Digite o local e nome do",
+    "ITA": "Inserisci l'ubicazione e il nome del"
+  },
+  "the widget you want to add to": {
+    "JPN": "ウィジェットのばしょとなまえを",
+    "DEU": "eingeben, das aus dem Desktop",
+    "NLD": "die moet worden toegevoegd",
+    "SPA": "widget que quieres añadir al",
+    "TUR": "widget'ın konumunu ve adını yazın",
+    "POR": "widget que você deseja adicionar",
+    "ITA": "widget da aggiungere al desktop o"
+  },
+  "the desktop. Or, search for the": {
+    "JPN": "にゅうりょくしてください。または「えらぶ」で",
+    "DEU": "angelegt werden soll. Oder zum",
+    "NLD": "aan de desktop. Of zoek naar",
+    "SPA": "escritorio. O busca el widget",
+    "TUR": "Veya Gözat'a tıklayarak",
+    "POR": "à área de trabalho. Ou procure",
+    "ITA": "cercalo premendo Sfoglia"
+  },
+  "widget by clicking Browse": {
+    "JPN": "ウィジェットをさがしてください。",
+    "DEU": "Suchen auf \"Wählen\" klicken",
+    "NLD": "de widget door te bladeren",
+    "SPA": "haciendo clic en Explorar",
+    "TUR": "widget'ı aratın",
+    "POR": "o widget clicando em Procurar",
+    "ITA": "Sfoglia"
+  },
+  "Widget path": {
+    "JPN": "ウィジェットパス",
+    "DEU": "Widget Pfad",
+    "NLD": "Widgetpad",
+    "SPA": "Ruta del Widget",
+    "TUR": "Widget yolu",
+    "POR": "Caminho do widget",
+    "ITA": "Percorso del widget"
+  },
+  "Choose a size for the widget": {
+    "JPN": "ウィジェットのサイズをえらんでください。",
+    "DEU": "Widget-Größe auswählen",
+    "NLD": "Kies widget formaat",
+    "SPA": "Elige tamaño del widget",
+    "TUR": "Widget için bir boyut seçin",
+    "POR": "Escolha um tamanho para o widget",
+    "ITA": "Scegli la dimensione del widget"
+  },
+  "The following size(s) are": {
+    "JPN": "つぎのサイズが",
+    "DEU": "Folgende Größen sind",
+    "NLD": "Beschikbare",
+    "SPA": "Los siguientes tamaños",
+    "TUR": "Şu boyutlardan biri",
+    "POR": "Os seguintes tamanhos estão",
+    "ITA": "Sono disponibili le seguenti"
+  },
+  "available:": {
+    "JPN": "りようできます:",
+    "DEU": "verfügbar:",
+    "NLD": "formaten:",
+    "SPA": "están disponibles:",
+    "TUR": "seçilebilir:",
+    "POR": "disponíveis:",
+    "ITA": "dimensioni:"
+  },
+  "Can't generate folder:": {
+    "JPN": "フォルダをつくれません:",
+    "DEU": "Ordner kann nicht angelegt werden",
+    "NLD": "Map maken mislukt",
+    "SPA": "No se puede generar la carpeta:",
+    "TUR": "Klasör oluşturulamıyor:",
+    "POR": "Não é possível criar pasta:",
+    "ITA": "Impossibile creare la cartella:"
+  },
+  "Can't rename folder:": {
+    "JPN": "フォルダのなまえをかえられません:",
+    "DEU": "Ordner kann nicht umbenannt werden",
+    "NLD": "Map hernoemen mislukt",
+    "SPA": "No se puede renombrar la carpeta:",
+    "TUR": "Klasörün adı değiştirilemiyor:",
+    "POR": "Não é possível renomear pasta:",
+    "ITA": "Impossibile rinominare la cartella:"
+  },
+  "No launcher found": {
+    "JPN": "ランチャーがみつかりません",
+    "DEU": "Launcher nicht gefunden",
+    "NLD": "Geen launcher gevonden",
+    "SPA": "Lanzador no encontrado",
+    "TUR": "Başlatıcı bulunamadı",
+    "POR": "Lançador não encontrado",
+    "ITA": "Launcher non trovato"
+  },
+  "Disc error": {
+    "JPN": "ディスクエラー",
+    "DEU": "Datenträgerfehler",
+    "NLD": "Schijfstoring",
+    "SPA": "Error de disco",
+    "TUR": "Disk hatası",
+    "POR": "Erro de disco",
+    "ITA": "Errore disco"
+  },
+  "Open": {
+    "JPN": "ひらく",
+    "DEU": "Öffnen",
+    "NLD": "Open",
+    "SPA": "Abrir",
+    "TUR": "Aç",
+    "POR": "Abrir",
+    "ITA": "Apri"
+  },
+  "Cut": {
+    "JPN": "カット",
+    "DEU": "Ausschneiden",
+    "NLD": "Knippen",
+    "SPA": "Cortar",
+    "TUR": "Kes",
+    "POR": "Recortar",
+    "ITA": "Taglia"
+  },
+  "Copy": {
+    "JPN": "コピー",
+    "DEU": "Kopieren",
+    "NLD": "Kopiëren",
+    "SPA": "Copiar",
+    "TUR": "Kopyala",
+    "POR": "Copiar",
+    "ITA": "Incolla",
+    "UKR": "Копіювати"
+  },
+  "Create Shortcut": {
+    "JPN": "ショートカットをつくる",
+    "DEU": "Verknüpfung erstellen",
+    "NLD": "Nieuwe snelkoppeling",
+    "SPA": "Crear Atajo",
+    "TUR": "Kısayol Oluştur",
+    "POR": "Criar Atalho",
+    "ITA": "Crea collegamento"
+  },
+  "Rename": {
+    "JPN": "なまえをかえる",
+    "DEU": "Umbenennen",
+    "NLD": "Hernoemen",
+    "SPA": "Renombrar",
+    "TUR": "Adını Değiştir",
+    "POR": "Renomear",
+    "ITA": "Rinomina"
+  },
+  "Arrange Icons": {
+    "JPN": "アイコンをならべる",
+    "DEU": "Icons anordnen",
+    "NLD": "Rangschik pictogrammen",
+    "SPA": "Ordenar Iconos",
+    "TUR": "Simgeleri Düzenle",
+    "POR": "Organizar Ícones",
+    "ITA": "Riordina icone"
+  },
+  "Line Up Icons": {
+    "JPN": "アイコンをせいれつ",
+    "DEU": "Icons ausrichten",
+    "NLD": "Lijn pictogrammen uit",
+    "SPA": "Alinear Iconos",
+    "TUR": "Simgeleri Sırala",
+    "POR": "Alinhar Ícones",
+    "ITA": "Allinea icone"
+  },
+  "Paste": {
+    "JPN": "ペースト",
+    "DEU": "Einfügen",
+    "NLD": "Plakken",
+    "SPA": "Pegar",
+    "TUR": "Yapıştır",
+    "POR": "Colar",
+    "ITA": "Incolla",
+    "UKR": "Вставити"
+  },
+  "New": {
+    "JPN": "しんき",
+    "DEU": "Neu",
+    "NLD": "Nieuw",
+    "SPA": "Nuevo",
+    "TUR": "Yeni",
+    "POR": "Novo",
+    "ITA": "Nuovo"
+  },
+  "Shortcut": {
+    "JPN": "ショートカット",
+    "DEU": "Verknüpfung",
+    "NLD": "Snelkoppeling",
+    "SPA": "Atajo",
+    "TUR": "Kısayol",
+    "POR": "Atalho",
+    "ITA": "Collegamento"
+  },
+  "x 8 grid": {
+    "JPN": "x 8グリッド",
+    "DEU": "x 8 Raster",
+    "NLD": "x8 raster",
+    "SPA": "Rejilla 8 x",
+    "TUR": "x 8 ızgara",
+    "POR": "Grade 8 x",
+    "ITA": "x 8 griglia"
+  },
+  "x 11 grid": {
+    "JPN": "x 11グリッド",
+    "DEU": "x 11 Raster",
+    "NLD": "x 11 raster",
+    "SPA": "Rejilla 13 x",
+    "TUR": "x 11 ızgara",
+    "POR": "Grade 13 x",
+    "ITA": "x 11 griglia"
+  },
+  "x 22 grid": {
+    "JPN": "x 22グリッド",
+    "DEU": "x 22 Raster",
+    "NLD": "x 22 raster",
+    "SPA": "Rejilla 2 x",
+    "TUR": "x 22 ızgara",
+    "POR": "Grade 26 x",
+    "ITA": "x 22 griglia"
+  },
+  "x 40 grid": {
+    "JPN": "x 40グリッド",
+    "DEU": "x 40 Raster",
+    "NLD": "x 40 raster",
+    "SPA": "Rejilla 48 x",
+    "TUR": "x 40 ızgara",
+    "POR": "Grade 48 x",
+    "ITA": "x 40 griglia"
+  },
+  "x 44 grid": {
+    "JPN": "x 44グリッド",
+    "DEU": "x 44 Raster",
+    "NLD": "x 44 raster",
+    "SPA": "Rejilla 52 x",
+    "TUR": "x 44 ızgara",
+    "POR": "Grade 52 x",
+    "ITA": "x 44 griglia"
+  },
+  "Auto arrange": {
+    "JPN": "じどうせいり",
+    "DEU": "Automatisch anordnen",
+    "NLD": "Automatisch rangschikken",
+    "SPA": "Auto ordenar",
+    "TUR": "Otomatik düzenle",
+    "POR": "Organização automática",
+    "ITA": "Ordinamento automatico"
+  },
+  "Widget": {
+    "JPN": "ウィジェット",
+    "DEU": "Widget",
+    "NLD": "Widget",
+    "SPA": "Widget",
+    "TUR": "Widget",
+    "POR": "Widget",
+    "ITA": "Widget"
+  },
+  "Folder": {
+    "JPN": "フォルダ",
+    "DEU": "Ordner",
+    "NLD": "Map",
+    "SPA": "Carpeta",
+    "TUR": "Klasör",
+    "POR": "Pasta",
+    "ITA": "Cartella"
+  },
+  "the item you want to create a": {
+    "JPN": "アイテムのばしょとなまえを",
+    "DEU": "auf den eine Verknüfung",
+    "NLD": "item dat moet worden toegevoegd",
+    "SPA": "objeto al que quieres crear un",
+    "TUR": "öğenin konumunu ve adını yazın",
+    "POR": "item para o qual deseja criar",
+    "ITA": "dell'oggetto per il quale vuoi creare"
+  },
+  "shortcut to. Or, search for the": {
+    "JPN": "にゅうりょくしてください。または「えらぶ」で",
+    "DEU": "erstellt werden soll. Oder zum",
+    "NLD": "als snelkoppeling. Of zoek naar",
+    "SPA": "atajo. O busca el objeto",
+    "TUR": "Ya da Gözat'a tıklayarak",
+    "POR": "um atalho. Ou procure o item",
+    "ITA": "il collegamento o cercalo premendo"
+  },
+  "item by clicking Browse": {
+    "JPN": "アイテムをさがしてください。",
+    "DEU": "Suchen auf \"Wählen\" klicken",
+    "NLD": "bestand door te bladeren",
+    "SPA": "haciendo clic en Explorar",
+    "TUR": "öğeyi arayın",
+    "POR": "clicando em Procurar",
+    "ITA": "Sfoglia"
+  },
+  "Command line": {
+    "JPN": "コマンドライン",
+    "DEU": "Kommandozeile",
+    "NLD": "Opdrachtregel",
+    "SPA": "Línea de comandos",
+    "TUR": "Komut satırı",
+    "POR": "Linha de comando",
+    "ITA": "Linea di comando"
+  },
+  "Select a name for the shortcut:": {
+    "JPN": "ショートカットのなまえをえらんでください:",
+    "DEU": "Name der Verknüpfung:",
+    "NLD": "Naam voor snelkoppeling",
+    "SPA": "Seleccionar un nombre para el atajo:",
+    "TUR": "Kısayol için bir ad seçin:",
+    "POR": "Selecione um nome para o atalho:",
+    "ITA": "Seleziona un nome per il collegamento:"
+  },
+  "Select an icon for the shortcut:": {
+    "JPN": "ショートカットのアイコンをえらんでください:",
+    "DEU": "Icon für die Verknüpfung:",
+    "NLD": "Pictrogram voor snelkoppeling",
+    "SPA": "Seleccionar un icono para el atajo:",
+    "TUR": "Kısayol için bir simge seçin:",
+    "POR": "Selecione um ícone para o atalho:",
+    "ITA": "Seleziona un'icona per il collegamento:"
+  },
+  "File name": {
+    "JPN": "ファイルめい",
+    "DEU": "Dateiname",
+    "NLD": "Bestand",
+    "SPA": "Nombre de Archivo",
+    "TUR": "Dosya adı",
+    "POR": "Nome do arquivo",
+    "ITA": "Nome file"
+  },
+  "File type": {
+    "JPN": "ファイルタイプ",
+    "DEU": "Typ",
+    "NLD": "Type",
+    "SPA": "Tipo de Archivo",
+    "TUR": "Dosya tipi",
+    "POR": "Tipo de arquivo",
+    "ITA": "Tipo file"
+  },
+  "Open with": {
+    "JPN": "ひらく",
+    "DEU": "Öffnen mit",
+    "NLD": "Start met",
+    "SPA": "Abrir con",
+    "TUR": "Birlikte aç",
+    "POR": "Abrir com",
+    "ITA": "Apri con"
+  },
+  "Location": {
+    "JPN": "ばしょ",
+    "DEU": "Ort",
+    "NLD": "Locatie",
+    "SPA": "Ubicación",
+    "TUR": "Konum",
+    "POR": "Local",
+    "ITA": "Ubicazione"
+  },
+  "Size": {
+    "JPN": "サイズ",
+    "DEU": "Größe",
+    "NLD": "Grootte",
+    "SPA": "Tamaño",
+    "TUR": "Boyut",
+    "POR": "Tamanho",
+    "ITA": "Dimensione"
+  },
+  "Modified": {
+    "JPN": "へんこう日",
+    "DEU": "Geändert",
+    "NLD": "Gewijzigd",
+    "SPA": "Modificado",
+    "TUR": "Değiştirilmiş",
+    "POR": "Modificado",
+    "ITA": "Modificato"
+  },
+  "Read only": {
+    "JPN": "よみこみせんよう",
+    "DEU": "Schreibgeschützt",
+    "NLD": "Alleen-lezen",
+    "SPA": "Solo lectura",
+    "TUR": "Salt okunabilir",
+    "POR": "Somente leitura",
+    "ITA": "Sola lettura"
+  },
+  "Hidden": {
+    "JPN": "かくし",
+    "DEU": "Versteckt",
+    "NLD": "Verborgen",
+    "SPA": "Oculto",
+    "TUR": "Gizli",
+    "POR": "Oculto",
+    "ITA": "Nascosto"
+  },
+  "Archive": {
+    "JPN": "アーカイブ",
+    "DEU": "Archiviert",
+    "NLD": "Archief",
+    "SPA": "Archivo",
+    "TUR": "Arşiv",
+    "POR": "Arquivo",
+    "ITA": "Archivio"
+  },
+  "Browse target": {
+    "JPN": "ターゲットをえらぶ",
+    "DEU": "Ziel wählen",
+    "NLD": "Doel bladeren",
+    "SPA": "Explorar destino",
+    "TUR": "Hedefe gözat…",
+    "POR": "Procurar destino",
+    "ITA": "Sfoglia destinazione…"
+  },
+  "Change icon": {
+    "JPN": "アイコンをかえる",
+    "DEU": "Icon ändern",
+    "NLD": "Icoon kiezen",
+    "SPA": "Cambiar icono",
+    "TUR": "Simgeyi değiştir…",
+    "POR": "Alterar ícone",
+    "ITA": "Cambia icona…"
+  },
+  "EXE-file": {
+    "JPN": "じっこうファイル",
+    "DEU": "Exe",
+    "NLD": "EXE-bestand",
+    "SPA": "Archivo EXE",
+    "TUR": "EXE-dosyası",
+    "POR": "Arquivo EXE",
+    "ITA": "File EXE"
+  },
+  "Move": {
+    "JPN": "いどう",
+    "DEU": "Verschieben",
+    "NLD": "Verplaats",
+    "SPA": "Mover",
+    "TUR": "Taşı",
+    "POR": "Mover",
+    "ITA": "Sposta"
+  },
+  "Resize": {
+    "JPN": "サイズへんこう",
+    "DEU": "Größe ändern",
+    "NLD": "Formaat",
+    "SPA": "Redimensionar",
+    "TUR": "Boyutunu değiştir",
+    "POR": "Redimensionar",
+    "ITA": "Ridimensiona"
+  },
+  "Favourites": {
+    "JPN": "おきにいり",
+    "DEU": "Favoriten",
+    "NLD": "Favorieten",
+    "SPA": "Favoritos",
+    "TUR": "Favoriler",
+    "POR": "Favoritos",
+    "ITA": "Fovoriti"
+  },
+  "Programs": {
+    "JPN": "フﾟロクﾞラム",
+    "DEU": "Programme",
+    "NLD": "Programma's",
+    "SPA": "Programas",
+    "TUR": "Programlar",
+    "POR": "Programas",
+    "ITA": "Programmi"
+  },
+  "Documents": {
+    "JPN": "トﾞキュメント",
+    "DEU": "Dokumente",
+    "NLD": "Documenten",
+    "SPA": "Documentos",
+    "TUR": "Belgeler",
+    "POR": "Documentos",
+    "ITA": "Documenti"
+  },
+  "Help": {
+    "JPN": "ヘルフﾟ",
+    "DEU": "Hilfe",
+    "NLD": "Help",
+    "SPA": "Ayuda",
+    "TUR": "Yardım",
+    "POR": "Ajuda",
+    "ITA": "Aiuto"
+  },
+  "Security": {
+    "JPN": "セキュリティ",
+    "DEU": "Sicherheit",
+    "NLD": "Beveiliging",
+    "SPA": "Seguridad",
+    "TUR": "Güvenlik",
+    "POR": "Segurança",
+    "ITA": "Sicurezza"
+  },
+  "Layouts:": {
+    "DEU": "Layouts:",
+    "SPA": "Esquemas:",
+    "TUR": "Yerleşim planları:",
+    "POR": "Layouts:",
+    "ITA": "Layouts:"
+  },
+  "Yes": {
+    "JPN": "はい",
+    "DEU": "Ja",
+    "NLD": "Ja",
+    "SPA": "Sí",
+    "TUR": "Evet",
+    "POR": "Sim",
+    "ITA": "Si"
+  },
+  "No": {
+    "JPN": "いいえ",
+    "DEU": "Nein",
+    "NLD": "Nee",
+    "SPA": "No",
+    "TUR": "Hayır",
+    "POR": "Não",
+    "ITA": "No"
+  },
+  "Error!": {
+    "JPN": "エラー!",
+    "DEU": "Fehler!",
+    "NLD": "Fout!",
+    "SPA": "¡Error!",
+    "TUR": "Hata!",
+    "POR": "Erro!",
+    "ITA": "Errore!"
+  },
+  "Warning": {
+    "JPN": "けいこく",
+    "DEU": "Warnung",
+    "NLD": "Waarschuwing",
+    "SPA": "Aviso",
+    "TUR": "Uyarı",
+    "POR": "Aviso",
+    "ITA": "Attenzione"
+  },
+  "Confirmation": {
+    "JPN": "かくにん",
+    "DEU": "Bestätigung",
+    "NLD": "Bevestiging",
+    "SPA": "Confirmación",
+    "TUR": "Onay",
+    "POR": "Confirmação",
+    "ITA": "Conferma"
+  },
+  "Select All": {
+    "JPN": "すべてせんたく",
+    "DEU": "Alles markieren",
+    "NLD": "Selecteer alles",
+    "SPA": "Seleccionar todo",
+    "TUR": "Tümünü Seç",
+    "POR": "Selecionar Tudo",
+    "ITA": "Seleziona tutti"
+  },
+  "Type the path of a program or document,": {
+    "JPN": "プログラムやドキュメントのパスを",
+    "DEU": "Bitte den Dateipfad des Programms oder",
+    "NLD": "Type de bestandslocatie van het",
+    "SPA": "Teclea la ruta de un programa o documento",
+    "TUR": "Bir programın veya belgenin yolunu yazın,",
+    "POR": "Digite o caminho de um programa ou documento,",
+    "ITA": "Inserisci il percorso di un programma o di un"
+  },
+  "and SymbOS will open it for you": {
+    "JPN": "にゅうりょくするとSymbOSがひらいてくれます。",
+    "DEU": "Dokuments eingeben",
+    "NLD": "programma of document",
+    "SPA": "y SymbOS lo abrirá por ti",
+    "TUR": "SymbOS sizin için onu açacak",
+    "POR": "e o SymbOS abrirá para você",
+    "ITA": "documento e SymbOS lo aprirà per te"
+  },
+  "Open:": {
+    "JPN": "ひらく:",
+    "DEU": "Öffnen:",
+    "NLD": "Open:",
+    "SPA": "Abrir:",
+    "TUR": "Aç:",
+    "POR": "Abrir:",
+    "ITA": "Apri:"
+  },
+  "Shut Down SymbOS": {
+    "JPN": "SymbOSをシャットダウン",
+    "DEU": "SymbOS beenden",
+    "NLD": "SymbOS afsluiten",
+    "SPA": "Apagar SymbOS",
+    "TUR": "SymbOS’u Kapat",
+    "POR": "Desligar o SymbOS",
+    "ITA": "Chiudi SymbOS"
+  },
+  "What do you want the computer": {
+    "JPN": "コンピュータに",
+    "DEU": "Vorgang auswählen:",
+    "NLD": "Wat moet de computer doen?",
+    "SPA": "¿Qué quieres que haga el",
+    "TUR": "Bilgisayarın ne yapmasını",
+    "POR": "O que você deseja que o",
+    "ITA": "Cosa vuoi che il computer"
+  },
+  "to do?": {
+    "JPN": "なにをしてほしいですか。",
+    "SPA": "ordenador?",
+    "TUR": "İstiyorsun?",
+    "POR": "computador faça?",
+    "ITA": "faccia?"
+  },
+  "This application requires a newer": {
+    "JPN": "このアプリケーションはあたらしいSymbOSバージョンが",
+    "DEU": "Anwendung benötigt eine neuere",
+    "NLD": "Nieuwere SymbOS versie vereist",
+    "SPA": "Esta aplicación requiere una versión más",
+    "TUR": "Bu uygulama daha yeni bir SymbOS",
+    "POR": "Este aplicativo requer uma versão",
+    "ITA": "Questa applicazione richiede una"
+  },
+  "SymbOS version. Please upgrade": {
+    "JPN": "ひつようです。アップグレードしてください。",
+    "DEU": "SymbOS Version. Bitte aktualisieren",
+    "NLD": "Vernieuw uw systeem",
+    "SPA": "moderna de SymbOS. Por favor, actualiza",
+    "TUR": "sürümü gerektirir. Lütfen yükseltin",
+    "POR": "mais nova do SymbOS. Atualize o sistema",
+    "ITA": "versione di SymbOS più recente"
+  },
+  "File not found:": {
+    "JPN": "ファイルがみつかりません:",
+    "DEU": "Datei nicht gefunden:",
+    "NLD": "Bestand niet gevonden:",
+    "SPA": "Archivo no encontrado:",
+    "TUR": "Dosya bulunamadı:",
+    "POR": "Arquivo não encontrado:",
+    "ITA": "File non trovato:"
+  },
+  "The file or the path don't exist": {
+    "JPN": "そのファイルまたはパスはありません。",
+    "DEU": "Bitte auf korrekten",
+    "NLD": "Pad bestaat niet",
+    "SPA": "El archivo o la ruta no existe",
+    "TUR": "Dosya veya yol mevcut değil",
+    "POR": "O arquivo ou caminho não existe",
+    "ITA": "File o percorso inseistenti"
+  },
+  "Please check your input": {
+    "JPN": "にゅうりょくをたしかめてください。",
+    "DEU": "Pfad überprüfen",
+    "NLD": "Controleer invoer",
+    "SPA": "Por favor, comprueba tu entrada",
+    "TUR": "Lütfen girdiğiniz bilgileri kontrol edin",
+    "POR": "Por favor, verifique sua entrada",
+    "ITA": "Controlla cosa hai scritto"
+  },
+  "File is not executable:": {
+    "JPN": "じっこうできないファイルです:",
+    "DEU": "Nicht ausführbar:",
+    "NLD": "Niet uitvoerbaar:",
+    "SPA": "El archivo no es ejecutable:",
+    "TUR": "Çalıştırılabilir bir dosya değil",
+    "POR": "Arquivo não é executável:",
+    "ITA": "File non eseguibile:"
+  },
+  "The selected file is not executable": {
+    "JPN": "せんたくしたファイルはSymbOSかんきょうで",
+    "DEU": "Datei kann in SymbOS",
+    "NLD": "Het geselecteerde bestand is",
+    "SPA": "El archivo seleccionado no es ejecutable",
+    "TUR": "Seçili dosya SymbOS ortamında",
+    "POR": "O arquivo selecionado não é",
+    "ITA": "Il file selezionato non è utilizzabile"
+  },
+  "in the SymbOS environment": {
+    "JPN": "じっこうできません。",
+    "DEU": "nicht geöffnet werden",
+    "NLD": "niet uitvoerbaar in SymbOS",
+    "SPA": "en el entorno de SymbOS",
+    "TUR": "Çalıştırılamaz",
+    "POR": "executável no ambiente SymbOS",
+    "ITA": "dall'ambiente SymbOS"
+  },
+  "Memory full:": {
+    "JPN": "メモリがいっぱいです:",
+    "DEU": "Speicher voll:",
+    "NLD": "Geheugen tekort:",
+    "SPA": "Memoria llena:",
+    "TUR": "Bellek dolu:",
+    "POR": "Memória cheia:",
+    "ITA": "Memoria esaurita:"
+  },
+  "There is not enough memory for": {
+    "JPN": "アプリケーションをじっこうするための",
+    "DEU": "Nicht genug Speicher zum",
+    "NLD": "Er is onvoldoende geheugen",
+    "SPA": "No hay memoria suficiente para",
+    "TUR": "Uygulamayı çalıştırmak için",
+    "POR": "Não há memória suficiente para",
+    "ITA": "Non c'è abbastanza memoria per"
+  },
+  "executing the application": {
+    "JPN": "メモリがたりません。",
+    "DEU": "Ausführen der Anwendung",
+    "NLD": "beschikbaar voor uitvoeren",
+    "SPA": "ejecutar esta aplicación",
+    "TUR": "yeterli bellek yok",
+    "POR": "executar o aplicativo",
+    "ITA": "eseguire l'applicazione"
+  },
+  "Disc error while loading file": {
+    "JPN": "ファイルよみこみちゅうにディスクエラー。",
+    "DEU": "Datenträgerfehler beim Laden",
+    "NLD": "Schijfstoring bij laden",
+    "SPA": "Error de disco al cargar archivo",
+    "TUR": "Dosyayı yüklerken disk hatası",
+    "POR": "Erro de disco ao carregar arquivo",
+    "ITA": "Errore disco durante il caricamento del file"
+  },
+  "Error while reading directory": {
+    "JPN": "ディレクトリよみこみエラー",
+    "DEU": "Fehler beim Ordner-Lesen",
+    "NLD": "Fout bij map lezen",
+    "SPA": "Error al leer directorio",
+    "TUR": "Klasörü okurken hata",
+    "POR": "Erro ao ler diretório",
+    "ITA": "Errore di lettura della cartella"
+  },
+  "Select file": {
+    "JPN": "ファイルをせんたく",
+    "DEU": "Datei auswählen",
+    "NLD": "Selecteer bestand",
+    "SPA": "Seleccionar archivo",
+    "TUR": "Dosya seç",
+    "POR": "Selecionar arquivo",
+    "ITA": "Seleziona file"
+  },
+  "Select folder": {
+    "JPN": "フォルダをせんたく",
+    "DEU": "Ordner auswählen",
+    "NLD": "Selecteer map",
+    "SPA": "Seleccionar carpeta",
+    "TUR": "Klasör seç",
+    "POR": "Selecionar pasta",
+    "ITA": "Seleziona cartella"
+  },
+  "Look in:": {
+    "JPN": "さがすばしょ:",
+    "DEU": "Ort:",
+    "NLD": "Zoeken in:",
+    "SPA": "Mirar en:",
+    "TUR": "İçine bak:",
+    "POR": "Procurar em:",
+    "ITA": "Guarda in:"
+  },
+  "File name:": {
+    "JPN": "ファイルめい:",
+    "DEU": "Dateiname:",
+    "NLD": "Naam:",
+    "SPA": "Nombre de archivo:",
+    "TUR": "Dosya adı:",
+    "POR": "Nome:",
+    "ITA": "Nome:"
+  },
+  "File type:": {
+    "JPN": "ファイルタイプ:",
+    "DEU": "Typ:",
+    "NLD": "Type:",
+    "SPA": "Tipo de archivo:",
+    "TUR": "Dosya tipi:",
+    "POR": "Tipo:",
+    "ITA": "Tipo:"
+  },
+  "Folder:": {
+    "JPN": "フォルダ:",
+    "DEU": "Ordner:",
+    "NLD": "Map:",
+    "SPA": "Carpeta:",
+    "TUR": "Klasör:",
+    "POR": "Pasta:",
+    "ITA": "Cartella:"
+  },
+  "Date modified": {
+    "JPN": "へんこうび",
+    "DEU": "Geändert",
+    "NLD": "Datum",
+    "SPA": "Fecha de modificación",
+    "TUR": "Düzenleme tarihi",
+    "POR": "Data de modificação",
+    "ITA": "Data modifica"
+  },
+  "Attr": {
+    "JPN": "アトリ",
+    "DEU": "Attr",
+    "NLD": "Attr",
+    "SPA": "Atributos",
+    "TUR": "Attr",
+    "POR": "Atrib",
+    "ITA": "Attr"
+  },
+  "Restore": {
+    "JPN": "リストア",
+    "DEU": "Wiederherstellen",
+    "NLD": "Herstel",
+    "SPA": "Restaurar",
+    "TUR": "Eski haline getir",
+    "POR": "Restaurar",
+    "ITA": "Ripsristina"
+  },
+  "Minimize": {
+    "JPN": "ミニマイズ",
+    "DEU": "Minimieren",
+    "NLD": "Minimaliseer",
+    "SPA": "Minimizar",
+    "TUR": "Küçült",
+    "POR": "Minimizar",
+    "ITA": "Minimizza"
+  },
+  "Maximize": {
+    "JPN": "マキシマイズ",
+    "DEU": "Maximieren",
+    "NLD": "Maximaliseer",
+    "SPA": "Maximizar",
+    "TUR": "Büyüt",
+    "POR": "Maximizar",
+    "ITA": "Ingrandisci"
+  },
+  "Unknown": {
+    "JPN": "アンノウン",
+    "DEU": "Unbekannt",
+    "NLD": "Onbekend",
+    "ELL": "Άγνωστο",
+    "SPA": "Desconocido",
+    "TUR": "bilinmiyor",
+    "POR": "Desconhecido",
+    "ITA": "Sconosciuto"
+  },
+  "default": {
+    "DEU": "standard",
+    "NLD": "standaard",
+    "ELL": "προεπ",
+    "SPA": "por defecto",
+    "TUR": "varsayılan",
+    "POR": "padrão",
+    "ITA": "default"
+  },
+  "self-defined": {
+    "DEU": "definiert",
+    "NLD": "eigen",
+    "ELL": "ορισμ. χρήστ",
+    "SPA": "auto-definido",
+    "TUR": "kendinden-tanımlı",
+    "POR": "personalizado",
+    "ITA": "automatico"
+  },
+  "entry is read only": {
+    "JPN": "［エントリはよみとりせんようです］",
+    "DEU": "schreibgeschützt",
+    "NLD": "alleen-lezen",
+    "ELL": "μόνο ανάν",
+    "SPA": "entrada solo de lectura",
+    "TUR": "giriş salt okunur",
+    "POR": "somente leitura",
+    "ITA": "voce di sola lettura"
+  },
+  "Help Browser for SymbOS": {
+    "DEU": "Help Browser für SymbOS",
+    "NLD": "Help-browser voor SymbOS",
+    "SPA": "Navegador de ayuda de SymbOS",
+    "TUR": "SymbOS için Yardım Tarayıcısı",
+    "POR": "Navegador de Ajuda do SymbOS",
+    "ITA": "Sistema di aiuto di SymbOS"
+  },
+  "Contents": {
+    "DEU": "Inhalt",
+    "NLD": "Inhoud",
+    "SPA": "Contenidos",
+    "TUR": "İçerikler",
+    "POR": "Conteúdo",
+    "ITA": "Contenuti"
+  },
+  "Search": {
+    "DEU": "Suchen",
+    "NLD": "Zoeken",
+    "SPA": "Buscar",
+    "TUR": "Ara",
+    "POR": "Pesquisar",
+    "ITA": "Cerca…"
+  },
+  "Keyword to find:": {
+    "DEU": "Suchwort:",
+    "NLD": "Zoekwoord:",
+    "SPA": "Palabra:",
+    "TUR": "Bulunacak kelime:",
+    "POR": "Palavra-chave:",
+    "ITA": "Parola chiave da cercare"
+  },
+  "Select Topic:": {
+    "DEU": "Thema wählen:",
+    "NLD": "Onderwerp kiezen:",
+    "SPA": "Seleccionar Tema:",
+    "TUR": "Konu Seç:",
+    "POR": "Selecionar Tópico:",
+    "ITA": "Seleziona Argomento:"
+  },
+  "List Topics": {
+    "DEU": "Themenliste",
+    "NLD": "Onderwerpenlijst",
+    "SPA": "Lista de Temas",
+    "TUR": "Konuları Listele",
+    "POR": "Listar Tópicos",
+    "ITA": "Lista Argomenti"
+  },
+  "Show/Next": {
+    "DEU": "Zeigen/Weiter",
+    "NLD": "Tonen/Volgende",
+    "SPA": "Mostrar/Siguiente",
+    "TUR": "Göster/Sonraki",
+    "POR": "Mostrar/Próximo",
+    "ITA": "Mostra/Prossimo"
+  },
+  "Printing": {
+    "DEU": "Drucken",
+    "NLD": "Afdrukken",
+    "SPA": "Imprimiendo",
+    "TUR": "Yazılıyor…",
+    "POR": "Imprimindo",
+    "ITA": "Stampa in corso"
+  },
+  "Error while loading help file": {
+    "DEU": "Fehler beim Laden",
+    "NLD": "Fout bij laden",
+    "SPA": "Error al cargar archivo de ayuda",
+    "TUR": "Yardım dosyasını yüklerken hata",
+    "POR": "Erro ao carregar arquivo de ajuda",
+    "ITA": "Errore di caricamento"
+  },
+  "A disc error or a file format error": {
+    "DEU": "Datenträgerfehler oder",
+    "NLD": "Schijf- of bestandsformaatfout",
+    "SPA": "Ha ocurrido un error de disco",
+    "TUR": "Disk hatası veya dosya biçimi hatası",
+    "POR": "Ocorreu um erro de disco ou",
+    "ITA": "Errore disco o del formato"
+  },
+  "occured": {
+    "DEU": "beschädigte/ungültige Datei",
+    "NLD": "Kan niet lezen",
+    "SPA": "o de formato de archivo",
+    "TUR": "oluştu",
+    "POR": "de formato de arquivo",
+    "ITA": "file"
+  },
+  "No topics found": {
+    "DEU": "Keine Themen gefunden",
+    "NLD": "Geen onderwerpen gevonden",
+    "SPA": "Tema no encontrado",
+    "TUR": "Konu bulunamadı",
+    "POR": "Nenhum tópico encontrado",
+    "ITA": "Argomenti non trovati"
+  },
+  "This document doesn't contain": {
+    "DEU": "Das Dokument enthält das",
+    "NLD": "Dit document bevat het",
+    "SPA": "Este documento no contiene la",
+    "TUR": "Bu belge, girdiğiniz",
+    "POR": "Este documento não contém",
+    "ITA": "Questo documento non contiene"
+  },
+  "the keyword you entered": {
+    "DEU": "eigegebene Suchwort nicht",
+    "NLD": "ingevoerde zoekwoord niet",
+    "SPA": "palabra que has introducido",
+    "TUR": "anahtar kelimeyi içermiyor",
+    "POR": "a palavra-chave digitada",
+    "ITA": "la parola ricercata"
+  },
+  "Printer Daemon not found": {
+    "DEU": "Kein Printer Daemon",
+    "NLD": "Geen Printerdaemon",
+    "JPN": "プリンター デーモン が みつかりません。",
+    "SPA": "Servicio de impresión no encontrado",
+    "TUR": "Yazıcı Servisi bulunamadı",
+    "POR": "Servidor de impressão não encontrado",
+    "ITA": "Daemon di stampa non trovato"
+  },
+  "empty": {
+    "JPN": "から",
+    "DEU": "leer",
+    "NLD": "leeg",
+    "SPA": "vacío",
+    "TUR": "boş",
+    "POR": "vazio",
+    "ITA": "vuoto"
+  },
+  "Hide on startup": {
+    "DEU": "Beim Start ausblenden",
+    "NLD": "Verbergen bij opstarten",
+    "SPA": "Ocultar al iniciar",
+    "TUR": "Başlarken gizle",
+    "POR": "Ocultar ao iniciar",
+    "ITA": "Nascondi all'avvio"
+  },
+  "Reset all connections": {
+    "DEU": "Alle Verbindungen trennen",
+    "NLD": "Alle verbindingen resetten",
+    "SPA": "Resetear todas las conexiones",
+    "TUR": "Tüm bağlantıları sıfırla",
+    "POR": "Redefinir todas as conexões",
+    "ITA": "Resetta tutte le connessioni"
+  },
+  "Quit": {
+    "DEU": "Beenden",
+    "NLD": "Afsluiten",
+    "SPA": "Cerrar",
+    "TUR": "Çıkış",
+    "POR": "Sair",
+    "ITA": "Esci"
+  },
+  "Index": {
+    "DEU": "Hilfethemen",
+    "NLD": "Index",
+    "JPN": "インデックス",
+    "SPA": "Índice",
+    "TUR": "Dizin",
+    "POR": "Índice",
+    "ITA": "Indice"
+  },
+  "About": {
+    "DEU": "Info",
+    "NLD": "Over",
+    "SPA": "Info",
+    "TUR": "Hakkında",
+    "POR": "Sobre",
+    "ITA": "Info"
+  },
+  "Network daemon": {
+    "DEU": "Network Daemon",
+    "NLD": "Netwerkdaemon",
+    "SPA": "Servicio de Red",
+    "TUR": "Ağ servisi",
+    "POR": "Network Daemon",
+    "ITA": "Servizio di rete"
+  },
+  "Hide": {
+    "DEU": "Ausblenden",
+    "NLD": "Verbergen",
+    "SPA": "Ocultar",
+    "TUR": "Gizle",
+    "POR": "Ocultar",
+    "ITA": "Nascondi"
+  },
+  "Network settings": {
+    "DEU": "Einstellungen",
+    "NLD": "Netwerkinstellingen",
+    "SPA": "Opciones de Red",
+    "TUR": "Ağ ayarları",
+    "POR": "Configurações de rede",
+    "ITA": "Impostazioni direte"
+  },
+  "Driver": {
+    "DEU": "Treiber",
+    "NLD": "Stuurprogramma",
+    "SPA": "Driver",
+    "TUR": "Sürücü",
+    "POR": "Driver",
+    "ITA": "Driver"
+  },
+  "Network status": {
+    "DEU": "Netzwerk Status",
+    "NLD": "Netwerkstatus",
+    "SPA": "Estado de Red",
+    "TUR": "Ağ durumu",
+    "POR": "Status da rede",
+    "ITA": "Stato della rete"
+  },
+  "Connections": {
+    "DEU": "Verbindungen",
+    "NLD": "Verbindingen",
+    "SPA": "Conexiones",
+    "TUR": "Bağlantılar",
+    "POR": "Conexões",
+    "ITA": "Connessioni"
+  },
+  "Maximum": {
+    "DEU": "Maximal",
+    "NLD": "Maximum",
+    "SPA": "Máximo",
+    "TUR": "Maksimum",
+    "POR": "Máximo",
+    "ITA": "Massimo"
+  },
+  "Sent": {
+    "DEU": "Gesendet",
+    "NLD": "Verzonden",
+    "SPA": "Enviado",
+    "TUR": "Gönderildi",
+    "POR": "Enviado",
+    "ITA": "Inviato"
+  },
+  "Received": {
+    "DEU": "Empfangen",
+    "NLD": "Ontvangen",
+    "SPA": "Recibido",
+    "TUR": "Alındı",
+    "POR": "Recebido",
+    "ITA": "Ricevuto"
+  },
+  "Type": {
+    "DEU": "Typ",
+    "NLD": "Type",
+    "SPA": "Tipo",
+    "TUR": "Tip",
+    "POR": "Tipo",
+    "ITA": "Tipo"
+  },
+  "Manually set": {
+    "DEU": "Manuell gesetzt",
+    "NLD": "Handmatig",
+    "SPA": "Establecer manualmente",
+    "TUR": "Elle ayarla",
+    "POR": "Configuração manual",
+    "ITA": "Impostazioni manuali"
+  },
+  "IP settings": {
+    "DEU": "IP Einstellungen",
+    "NLD": "IP-instellingen",
+    "SPA": "Opciones de IP",
+    "TUR": "IP ayarları",
+    "POR": "Configurações de IP",
+    "ITA": "IP setup"
+  },
+  "DNS settings": {
+    "DEU": "IP Einstellungen",
+    "NLD": "DNS-instellingen",
+    "SPA": "Opciones de DNS",
+    "TUR": "DNS ayarları",
+    "POR": "Configurações de DNS",
+    "ITA": "DNS setup"
+  },
+  "DenYoNet Settings": {
+    "DEU": "DenYoNet Einstellungen",
+    "NLD": "DenYoNet-instellingen",
+    "SPA": "Opciones de DenYoNet",
+    "TUR": "DenYoNet Ayarları",
+    "POR": "Configurações DenYoNet",
+    "ITA": "Impostazioni DenYoNet"
+  },
+  "Localhost Settings": {
+    "DEU": "Localhost Einstellungen",
+    "NLD": "Localhost-instellingen",
+    "SPA": "Opciones de servidor local",
+    "TUR": "Localhost Ayarları",
+    "POR": "Configurações de Localhost",
+    "ITA": "Impostazioni Localhost"
+  },
+  "GR8NET Settings": {
+    "DEU": "GR8NET Einstellungen",
+    "NLD": "GR8NET-instellingen",
+    "SPA": "Opciones de GR8NET",
+    "TUR": "GR8NET Ayarları",
+    "POR": "Configurações GR8NET",
+    "ITA": "GR8NET Impostazioni"
+  },
+  "M4 Board Settings": {
+    "DEU": "M4 Board Einstellungen",
+    "NLD": "M4 Board-instellingen",
+    "SPA": "Opciones de Tarjeta M",
+    "TUR": "M4 Board Ayarları",
+    "POR": "Configurações M4 Board",
+    "ITA": "M4 Board Impostazioni"
+  },
+  "Net4CPC Settings": {
+    "DEU": "Net4CPC Einstellungen",
+    "NLD": "Net4CPC-instellingen",
+    "SPA": "Opciones de Net4CPC",
+    "TUR": "Net4CPC Ayarları",
+    "POR": "Configurações Net4CPC",
+    "ITA": "Net4CPC Impostazioni"
+  },
+  "TCP/IP properties": {
+    "DEU": "TCP/IP Eigenschaften",
+    "NLD": "TCP/IP-eigenschappen",
+    "SPA": "Propiedades de TCP/IP",
+    "TUR": "TCP/IP Ayarları",
+    "POR": "Propriedades TCP/IP",
+    "ITA": "Proprietà TCP/IP"
+  },
+  "IP address": {
+    "DEU": "IP Adresse",
+    "NLD": "IP-adres",
+    "SPA": "Dirección IP",
+    "TUR": "IP adresi",
+    "POR": "Endereço IP",
+    "ITA": "Indirizzo IP"
+  },
+  "DNS & Hostname": {
+    "DEU": "DNS & Hostname",
+    "NLD": "DNS & Hostnaam",
+    "SPA": "DNS y Nombre del servidor",
+    "TUR": "DNS & Ana Bilgisayar",
+    "POR": "DNS e Nome do host",
+    "ITA": "DNS & Nome Host"
+  },
+  "You can get IP settings assigned automatically": {
+    "DEU": "IP Adressen können automatisch zugewiesen",
+    "NLD": "IP-instellingen kunnen automatisch worden",
+    "SPA": "Se asignarán automáticamente las opciones",
+    "TUR": "Ağınız bu özelliği destekliyorsa,",
+    "POR": "As configurações de IP podem ser atribuídas",
+    "ITA": "Se la tua rete lo supporta puoi"
+  },
+  "if your network supports this capability": {
+    "DEU": "werden. Wenn das Netzwerk dies nicht",
+    "NLD": "toegewezen als je netwerk dit ondersteunt",
+    "SPA": "de IP si es soportado por tu red",
+    "TUR": "IP ayarlarını otomatik olarak atayabilirsiniz",
+    "POR": "automaticamente se sua rede suportar",
+    "ITA": "ottenere l'ìindirizzo IP automaticamente"
+  },
+  "Otherwise, you need to ask your network admin": {
+    "DEU": "unterstützt muß die korrekte IP-Einstellung",
+    "NLD": "Anders vraag je je netwerkbeheerder",
+    "SPA": "Si no, debes pedir las opciones de IP",
+    "TUR": "Aksi takdirde, uygun IP ayarları için",
+    "POR": "Caso contrário, você precisa solicitar ao",
+    "ITA": "Altrimenti devi richiedere l'IP al"
+  },
+  "for the appropriate IP settings": {
+    "DEU": "beim Netzwerk-Administrator erfragt werden",
+    "NLD": "om de juiste IP-instellingen",
+    "SPA": "necesarias al administrador",
+    "TUR": "ağ yöneticinize danışmanız gerekir",
+    "POR": "administrador as configurações de IP corretas",
+    "ITA": "tuo amministratore di rete"
+  },
+  "Subnet mask": {
+    "DEU": "Subnetz Maske",
+    "NLD": "Subnet",
+    "SPA": "Máscara de subred",
+    "TUR": "Alt ağ maskesi",
+    "POR": "Máscara de sub-rede",
+    "ITA": "Maschera Subnet"
+  },
+  "Default gateway": {
+    "DEU": "Gateway",
+    "NLD": "Gateway",
+    "SPA": "Puerta de acceso por defecto",
+    "TUR": "Varsayılan ağ geçidi",
+    "POR": "Gateway padrão",
+    "ITA": "Gateway"
+  },
+  "Hostname": {
+    "DEU": "Hostname",
+    "NLD": "Hostnaam",
+    "SPA": "Nombre del servidor",
+    "TUR": "Ana bilgisayar adı",
+    "POR": "Nome do host",
+    "ITA": "Nome Host"
+  },
+  "Primary DNS": {
+    "DEU": "Primärer DNS",
+    "NLD": "Primaire DNS",
+    "SPA": "DNS Primaria",
+    "TUR": "Birincil DNS",
+    "POR": "DNS primário",
+    "ITA": "DNS primario"
+  },
+  "Secondary DNS": {
+    "DEU": "Sekundär. DNS",
+    "NLD": "Secundaire DNS",
+    "SPA": "DNS Secundaria",
+    "TUR": "İkincil DNS",
+    "POR": "DNS secundário",
+    "ITA": "DNS secondario"
+  },
+  "Obtain an IP address automatically": {
+    "DEU": "IP Adresse automatisch zuweisen",
+    "NLD": "IP-adres automatisch verkrijgen",
+    "SPA": "Obtener dirección IP automáticamente",
+    "TUR": "IP adresini otomatik olarak al",
+    "POR": "Obter endereço IP automaticamente",
+    "ITA": "Ottieni automaticamente l'indirizzo IP"
+  },
+  "Use the following IP address": {
+    "DEU": "IP Adresse manuell zuweisen",
+    "NLD": "Gebruik het volgende IP-adres",
+    "SPA": "Usar la siguiente dirección IP",
+    "TUR": "Aşağıdaki IP adresini kullan",
+    "POR": "Usar o seguinte endereço IP",
+    "ITA": "Usa il seguente indirizzo IP"
+  },
+  "Obtain DNS server addresses automatically": {
+    "DEU": "DNS Server automatisch setzen",
+    "NLD": "DNS-adressen automatisch verkrijgen",
+    "SPA": "Obtener dirección del servidor DNS automáticamente",
+    "TUR": "DNS sunucu adreslerini otomatik olarak al",
+    "POR": "Obter endereços DNS automaticamente",
+    "ITA": "Ottieni automaticamente l'indirizzo DNS"
+  },
+  "Use the following DNS server addresses": {
+    "DEU": "DNS Server manuell setzen",
+    "NLD": "Gebruik de volgende DNS-adressen",
+    "SPA": "Usar la siguiente dirección de servidor DNS",
+    "TUR": "Aşağıdaki DNS sunucu adreslerini kullan",
+    "POR": "Usar os seguintes endereços DNS",
+    "ITA": "Usa il seguente indirizzo DNS"
+  },
+  "Wrong IP format": {
+    "DEU": "Falsches IP Format",
+    "NLD": "Ongeldig IP-formaat",
+    "SPA": "Formato de IP incorrecto",
+    "TUR": "Yanlış IP formatı",
+    "POR": "Formato de IP inválido",
+    "ITA": "Formato IP errato"
+  },
+  "Please enter a correct": {
+    "DEU": "Bitte eine Zahl zwischen",
+    "NLD": "Voer een geldig",
+    "SPA": "Por favor, introduzca un número",
+    "TUR": "Lütfen 0 ile 255 arasında",
+    "POR": "Por favor, insira um número",
+    "ITA": "Inserisci un valore"
+  },
+  "number between 0 and": {
+    "DEU": "und 255 eingeben",
+    "NLD": "getal in tussen 0 en",
+    "SPA": "correcto entre 0 y",
+    "TUR": "bir sayı girin",
+    "POR": "correto entre 0 e",
+    "ITA": "compreso fra 0 e"
+  },
+  "Volume control": {
+    "DEU": "Lautstärke",
+    "NLD": "Volume",
+    "SPA": "Volumen",
+    "TUR": "Ses kontrolü",
+    "POR": "Controle de volume",
+    "ITA": "Volume"
+  },
+  "Mute": {
+    "DEU": "Stumm",
+    "NLD": "Demp",
+    "SPA": "Silenciar",
+    "TUR": "Sesi kapat",
+    "POR": "Mudo",
+    "ITA": "Muto"
+  },
+  "Effects": {
+    "DEU": "Effekte",
+    "NLD": "Effecten",
+    "SPA": "Efectos",
+    "TUR": "Efektler",
+    "POR": "Efeitos",
+    "ITA": "Effetti"
+  },
+  "Music": {
+    "DEU": "Musik",
+    "NLD": "Muziek",
+    "SPA": "Música",
+    "TUR": "Müzik",
+    "POR": "Música",
+    "ITA": "Musica"
+  },
+  "Preferred output device:": {
+    "DEU": "Bevorzugtes Audiogerät:",
+    "NLD": "Voorkeur uitvoer:",
+    "SPA": "Dispositivo de salida preferido:",
+    "TUR": "Tercih edilen çıkış aygıtı:",
+    "POR": "Dispositivo de saída preferido:",
+    "ITA": "Dispositivo di output preferito:"
+  },
+  "Are you sure you want to": {
+    "DEU": "Sicher, daß das aktuelle",
+    "NLD": "Weet u zeker?",
+    "SPA": "¿Seguro que quieres resetear el",
+    "TUR": "Geçerli ses şemasını",
+    "POR": "Tem certeza que deseja",
+    "ITA": "Sicuro di resettare"
+  },
+  "reset the current sound": {
+    "DEU": "Soundschema zurückgesetzt",
+    "NLD": "Geluidsschema resetten",
+    "SPA": "esquema de sonido actual?",
+    "TUR": "sıfırlamak istediğinizden",
+    "POR": "redefinir o esquema de",
+    "ITA": "lo schema di suono"
+  },
+  "scheme?": {
+    "DEU": "werden soll?",
+    "NLD": "naar standard schema?",
+    "TUR": "emin misiniz?",
+    "POR": "som atual?",
+    "ITA": "attuale?"
+  },
+  "clean-up all loaded": {
+    "DEU": "Musik gelöscht werden",
+    "NLD": "Muziek geheugen",
+    "SPA": "toda la música cargada?",
+    "TUR": "temizlemek istediğinizden",
+    "POR": "limpar todas as músicas",
+    "ITA": "tutte la musica"
+  },
+  "music?": {
+    "DEU": "soll?",
+    "NLD": "opschonen",
+    "TUR": "emin misiniz?",
+    "POR": "carregadas?",
+    "ITA": "caricata?"
+  },
+  "effects?": {
+    "DEU": "werden sollen?",
+    "NLD": "resetten",
+    "TUR": "emin misiniz?",
+    "POR": "efeitos?",
+    "ITA": "attuali?"
+  },
+  "Please quit SymAmp first!": {
+    "DEU": "SymAmp zuerst beenden!",
+    "NLD": "SymAmp eerst afsluiten!",
+    "SPA": "Primero cierra SymAmp",
+    "TUR": "Lütfen önce SymAmp'ı kapatın!",
+    "POR": "Por favor, feche o SymAmp primeiro!",
+    "ITA": "Prima esci da SymAmp!"
+  },
+  "Then you can start the Sound": {
+    "DEU": "Dann zuerst den Sound Daemon",
+    "NLD": "Start Sound Daemon",
+    "SPA": "y luego inicia el Servicio de Sonido",
+    "TUR": "Ardından Ses Servisi’ni başlatabilir",
+    "POR": "Então você pode iniciar o",
+    "ITA": "Dopo potrai riavviare il servizio"
+  },
+  "Daemon and run SymAmp again": {
+    "DEU": "und dann SymAmp starten",
+    "NLD": "en SymAmp opnieuw",
+    "SPA": "y ejecutar SymAmp en nuevo",
+    "TUR": "ve SymAmp'ı tekrar çalıştırabilirsiniz",
+    "POR": "Sound Daemon e executar o SymAmp novamente",
+    "ITA": "e lanciare di nuovo SymAmp"
+  },
+  "Then you can quit the": {
+    "DEU": "Danach kann auch der Sound",
+    "NLD": "Daarna Sound Daemon",
+    "SPA": "Entonces podrás cerrar el Servicio",
+    "TUR": "Ardından Ses Servisini de",
+    "POR": "Então você pode fechar o",
+    "ITA": "Dopo potrai comunque"
+  },
+  "Sound Daemon as well": {
+    "DEU": "Daemon beendet werden",
+    "NLD": "afsluiten",
+    "SPA": "de Sonido también",
+    "TUR": "kapatabilirsiniz",
+    "POR": "Sound Daemon também",
+    "ITA": "terminare il servizio audio"
+  },
+  "Wrong platform! This is for:": {
+    "DEU": "Falsche Plattform, das ist für:",
+    "NLD": "Verkeerd platform!",
+    "SPA": "¡Plataforma incorrecta! Esto es para:",
+    "TUR": "Yanlış platform! Bu şunun içindir:",
+    "POR": "Plataforma errada! Isto é para:",
+    "ITA": "Piattaforma errata! Questo è per:"
+  },
+  "Please replace SOUNDD.EXE": {
+    "DEU": "Bitte SOUNDD.EXE ersetzen",
+    "NLD": "Vervang SOUNDD.EXE",
+    "SPA": "Reemplaza SOUNDD.EXE",
+    "TUR": "Lütfen SOUNDD.EXE’yi değiştirin",
+    "POR": "Por favor, substitua SOUNDD.EXE",
+    "ITA": "Sostiuisci SOUNDD.EXE"
+  },
+  "Open mixer": {
+    "DEU": "Mixer öffnen",
+    "NLD": "Mixer openen",
+    "SPA": "Abrir mezclador",
+    "TUR": "Mikseri aç…",
+    "POR": "Abrir mixer",
+    "ITA": "Apri Mixer…"
+  },
+  "Open sound settings": {
+    "DEU": "Einstellungen öffnen",
+    "NLD": "Geluidsinstellingen",
+    "SPA": "Abrir opciones de sonido",
+    "TUR": "Ses ayarlarını aç…",
+    "POR": "Abrir configurações de som",
+    "ITA": "Apri impostazioni audio…"
+  },
+  "Mute effects": {
+    "DEU": "Effekte stumm",
+    "NLD": "Effecten dempen",
+    "SPA": "Silenciar efectos",
+    "TUR": "Efektleri sustur",
+    "POR": "Silenciar efeitos",
+    "ITA": "Silenzia gli effetti"
+  },
+  "Mute music": {
+    "DEU": "Musik stumm",
+    "NLD": "Muziek dempen",
+    "SPA": "Silenciar música",
+    "TUR": "Müziği sustur",
+    "POR": "Silenciar música",
+    "ITA": "Silenzia la musica"
+  },
+  "Quit Sound Daemon": {
+    "DEU": "Sound Daemon beenden",
+    "NLD": "Sound Daemon afsluiten",
+    "SPA": "Cerrar",
+    "TUR": "Ses Servisi’ni Kapat",
+    "POR": "Sair do Sound Daemon",
+    "ITA": "Esci dal servizio audio"
+  },
+  "Help topics": {
+    "DEU": "Hilfethemen",
+    "NLD": "Help",
+    "SPA": "Temas de Ayuda",
+    "TUR": "Yardım konuları",
+    "POR": "Tópicos de Ajuda",
+    "ITA": "Aiuto",
+    "UKR": "Відкрити довідку"
+  },
+  "Sound daemon": {
+    "DEU": "Sound Daemon",
+    "NLD": "Sound Daemon",
+    "SPA": "Sound Daemon",
+    "TUR": "Ses servisi",
+    "POR": "Sound Daemon",
+    "ITA": "Servizio audio"
+  },
+  "Mixer": {
+    "DEU": "Mixer",
+    "NLD": "Mixer",
+    "SPA": "Mezclador",
+    "TUR": "Mikser",
+    "POR": "Mixer",
+    "ITA": "Mixer"
+  },
+  "System sounds": {
+    "DEU": "Systemklänge",
+    "NLD": "Systeemgeluiden",
+    "SPA": "Sonidos de sistema",
+    "TUR": "Sistem sesleri",
+    "POR": "Sons do sistema",
+    "ITA": "Souni di sistema"
+  },
+  "Stats": {
+    "DEU": "Statistiken",
+    "NLD": "Statistieken",
+    "SPA": "Estadísticas",
+    "TUR": "İstatistikler",
+    "POR": "Estatísticas",
+    "ITA": "Statistiche"
+  },
+  "Events:": {
+    "DEU": "Ereignis:",
+    "NLD": "Gebeurtenissen:",
+    "SPA": "Eventos:",
+    "TUR": "Olaylar:",
+    "POR": "Eventos:",
+    "ITA": "Eventi:"
+  },
+  "Sound:": {
+    "DEU": "Klang:",
+    "NLD": "Geluid:",
+    "SPA": "Sonido:",
+    "TUR": "Ses:",
+    "POR": "Som:",
+    "ITA": "Suono:"
+  },
+  ">> Test": {
+    "DEU": ">> Test",
+    "NLD": ">> Test",
+    "SPA": ">> Probar",
+    "TUR": ">> Test",
+    "POR": ">> Testar",
+    "ITA": ">> Test"
+  },
+  "SymbOS startup sound": {
+    "DEU": "SymbOS Startsound",
+    "NLD": "SymbOS opstartgeluid",
+    "SPA": "Sonido de inicio de SymbOS",
+    "TUR": "SymbOS açılış sesi",
+    "POR": "Som de inicialização do SymbOS",
+    "ITA": "Esegui all'avvio di SymbOO"
+  },
+  "Sound scheme": {
+    "DEU": "Soundschema",
+    "NLD": "Geluidsschema",
+    "SPA": "Esquema de sonido",
+    "TUR": "Sound şeması",
+    "POR": "Esquema de som",
+    "ITA": "Schema suono"
+  },
+  "Notification - hint": {
+    "DEU": "Meldung - Hinweis",
+    "NLD": "Melding - hint",
+    "SPA": "Notificación - consejo",
+    "TUR": "Bildirim - ipucu",
+    "POR": "Notificação - dica",
+    "ITA": "Notifica - suggerimento"
+  },
+  "Notification - warning": {
+    "DEU": "Meldung - Warnung",
+    "NLD": "Melding - waarschuwing",
+    "SPA": "Notificación - aviso",
+    "TUR": "Bildirim - uyarı",
+    "POR": "Notificação - aviso",
+    "ITA": "Notifica - avviso"
+  },
+  "Notification - message": {
+    "DEU": "Meldung - Allgemein",
+    "NLD": "Melding - bericht",
+    "SPA": "Notificación - mensaje",
+    "TUR": "Bildirim - mesaj",
+    "POR": "Notificação - mensagem",
+    "ITA": "Notifica - messaggio"
+  },
+  "Window - open": {
+    "DEU": "Fenster - öffnen",
+    "NLD": "Venster - openen",
+    "SPA": "Ventana - abrir",
+    "TUR": "Pencere - aç",
+    "POR": "Janela - abrir",
+    "ITA": "Finestra - apri"
+  },
+  "Window - close": {
+    "DEU": "Fenster - schließen",
+    "NLD": "Venster - sluiten",
+    "SPA": "Ventana - cerrar",
+    "TUR": "Pencere - kapat",
+    "POR": "Janela - fechar",
+    "ITA": "Finestra - chiudi"
+  },
+  "Window - top": {
+    "DEU": "Fenster - nach oben",
+    "NLD": "Venster - boven",
+    "SPA": "Ventana - arriba",
+    "TUR": "Pencere - üstte",
+    "POR": "Janela - topo",
+    "ITA": "Finestra - alto"
+  },
+  "Window - restore": {
+    "DEU": "Fenster - wiederherstellen",
+    "NLD": "Venster - herstellen",
+    "SPA": "Ventana - restaurar",
+    "TUR": "Pencere - geri al",
+    "POR": "Janela - restaurar",
+    "ITA": "Finestra - ripristina"
+  },
+  "Window - maximize": {
+    "DEU": "Fenster - maximieren",
+    "NLD": "Venster - maximaliseren",
+    "SPA": "Ventana - maximizar",
+    "TUR": "Pencere - büyüt",
+    "POR": "Janela - maximizar",
+    "ITA": "Finestra - ingrandisci"
+  },
+  "Window - minimize": {
+    "DEU": "Fenster - minimieren",
+    "NLD": "Venster - minimaliseren",
+    "SPA": "Ventana - minimizar",
+    "TUR": "Pencere - küçült",
+    "POR": "Janela - minimizar",
+    "ITA": "Finestra - minimizza"
+  },
+  "Window - move": {
+    "DEU": "Fenster - bewegen",
+    "NLD": "Venster - verplaatsen",
+    "SPA": "Ventana - mover",
+    "TUR": "Pencere - taşı",
+    "POR": "Janela - mover",
+    "ITA": "Finestra - muovi"
+  },
+  "Window - resize": {
+    "DEU": "Fenster - Größe ändern",
+    "NLD": "Venster - formaat wijzigen",
+    "SPA": "Ventana - redimensionar",
+    "TUR": "Pencere - boyutlandır",
+    "POR": "Janela - redimensionar",
+    "ITA": "Finestra - ridimensiona"
+  },
+  "Menu - open": {
+    "DEU": "Menü - öffnen",
+    "NLD": "Menu - openen",
+    "SPA": "Menú - abrir",
+    "TUR": "Menü - aç",
+    "POR": "Menu - abrir",
+    "ITA": "Menu - apri"
+  },
+  "Menu - entry hover": {
+    "DEU": "Menü - anwählen",
+    "NLD": "Menu - item hover",
+    "SPA": "Menú - entrada seleccionada",
+    "TUR": "Menü - giriş üzerine gel",
+    "POR": "Menu - item sob cursor",
+    "ITA": "Menu - voce al passaggio mouse"
+  },
+  "Menu - entry clicked": {
+    "DEU": "Menü - klicken",
+    "NLD": "Menu - item klik",
+    "SPA": "Menú - entrada elegida",
+    "TUR": "Menü - giriş tıkla",
+    "POR": "Menu - item clicado",
+    "ITA": "Menu - voce selezionata"
+  },
+  "Click - button/tab": {
+    "DEU": "Klick - Knopf/Reiter",
+    "NLD": "Klik - knop/tab",
+    "SPA": "Clic - botón/pestaña",
+    "TUR": "Tıklama - button/tab",
+    "POR": "Clique - botão/aba",
+    "ITA": "Click - bottone/tab"
+  },
+  "Click - bitmap": {
+    "DEU": "Klick - Grafik",
+    "NLD": "Klik - bitmap",
+    "SPA": "Clic - mapa de bits",
+    "TUR": "Tıklama - bitmap",
+    "POR": "Clique - bitmap",
+    "ITA": "Click - immagine"
+  },
+  "Click - slider": {
+    "DEU": "Klick - Regler",
+    "NLD": "Klik - schuif",
+    "SPA": "Clic - deslizador",
+    "TUR": "Tıklama - kaydırıcı",
+    "POR": "Clique - controle",
+    "ITA": "Click - slider"
+  },
+  "Click - list": {
+    "DEU": "Klick - Liste",
+    "NLD": "Klik - lijst",
+    "SPA": "Clic - listado",
+    "TUR": "Tıklama - liste",
+    "POR": "Clique - lista",
+    "ITA": "Click - lista"
+  },
+  "Click - text": {
+    "DEU": "Klick - Text",
+    "NLD": "Klik - tekst",
+    "SPA": "Clic - texto",
+    "TUR": "Tıklama - metin",
+    "POR": "Clique - texto",
+    "ITA": "Click - testo"
+  },
+  "(None)": {
+    "DEU": "(Nichts)",
+    "NLD": "(Geen)",
+    "SPA": "(Ninguno)",
+    "TUR": "(Hiçbiri)",
+    "POR": "(Nenhum)",
+    "ITA": "(nessuno)"
+  },
+  "Click": {
+    "DEU": "Klick",
+    "NLD": "Klik",
+    "SPA": "Clic",
+    "TUR": "Tıklama",
+    "POR": "Clique",
+    "ITA": "Click"
+  },
+  "Beep": {
+    "DEU": "Piep",
+    "NLD": "Pieptoon",
+    "SPA": "Pitido",
+    "TUR": "Bip",
+    "POR": "Bipe",
+    "ITA": "Beep"
+  },
+  "Ring": {
+    "DEU": "Klingeln",
+    "NLD": "Bel",
+    "SPA": "Timbre",
+    "TUR": "Zil",
+    "POR": "Toque",
+    "ITA": "Timbro"
+  },
+  "Alert": {
+    "DEU": "Alarm",
+    "NLD": "Alarm",
+    "SPA": "Alerta",
+    "TUR": "Uyarı",
+    "POR": "Alerta",
+    "ITA": "Allarme"
+  },
+  "Slide": {
+    "DEU": "Gleiten",
+    "NLD": "Slide",
+    "SPA": "Deslizador",
+    "TUR": "Kayma",
+    "POR": "Deslizar",
+    "ITA": "Slide"
+  },
+  "Raise up": {
+    "DEU": "Aufsteigen",
+    "NLD": "Omhoog",
+    "SPA": "Subir",
+    "TUR": "Yükselt",
+    "POR": "Subir",
+    "ITA": "Alza"
+  },
+  "Raise down": {
+    "DEU": "Absteigen",
+    "NLD": "Omlaag",
+    "SPA": "Bajar",
+    "TUR": "Aşağı indir",
+    "POR": "Descer",
+    "ITA": "Abbassa"
+  },
+  "Pop up": {
+    "DEU": "Aufploppen",
+    "NLD": "Pop-up",
+    "SPA": "Desplegar",
+    "TUR": "Belirme",
+    "POR": "Aparecer",
+    "ITA": "Pop up"
+  },
+  "Shrink": {
+    "DEU": "Schrumpfen",
+    "NLD": "Verkleinen",
+    "SPA": "Plegar",
+    "TUR": "Küçülme",
+    "POR": "Encolher",
+    "ITA": "Stringi"
+  },
+  "Tick": {
+    "DEU": "Ticken",
+    "NLD": "Tik",
+    "SPA": "Tick",
+    "TUR": "Tik",
+    "POR": "Tique",
+    "ITA": "Tick"
+  },
+  "Shoot": {
+    "DEU": "Schießen",
+    "NLD": "Schot",
+    "SPA": "Disparo",
+    "TUR": "Ateş etme",
+    "POR": "Disparo",
+    "ITA": "Sparo"
+  },
+  "Explosion": {
+    "DEU": "Explosion",
+    "NLD": "Explosie",
+    "SPA": "Explosión",
+    "TUR": "Patlama",
+    "POR": "Explosão",
+    "ITA": "Esplosione"
+  },
+  "Step": {
+    "DEU": "Schritt",
+    "NLD": "Stap",
+    "SPA": "Paso",
+    "TUR": "Adım",
+    "POR": "Passo",
+    "ITA": "Passo"
+  },
+  "Lose": {
+    "DEU": "Verlieren",
+    "NLD": "Verlies",
+    "SPA": "Perder",
+    "TUR": "Kaybetme",
+    "POR": "Perder",
+    "ITA": "Perdi"
+  },
+  "Win": {
+    "DEU": "Gewinnen",
+    "NLD": "Winst",
+    "SPA": "Ganar",
+    "TUR": "Kazanma",
+    "POR": "Ganhar",
+    "ITA": "Vinci"
+  },
+  "Volume": {
+    "DEU": "Lautstärke",
+    "NLD": "Volume",
+    "SPA": "Volumen",
+    "TUR": "Ses yüksekliği",
+    "POR": "Volume",
+    "ITA": "Volume"
+  },
+  "|||||||| max": {
+    "DEU": "|||||||| max",
+    "NLD": "|||||||| max",
+    "SPA": "|||||||| máx",
+    "TUR": "|||||||| maks",
+    "POR": "|||||||| máx",
+    "ITA": "|||||||| max"
+  },
+  "|      min": {
+    "DEU": "|      min",
+    "NLD": "|      min",
+    "SPA": "|      mín",
+    "TUR": "|      min",
+    "POR": "|      mín",
+    "ITA": "|      min"
+  },
+  "PSG effect channel": {
+    "DEU": "PSG Effekt Kanal",
+    "NLD": "PSG-Effect kanaal",
+    "SPA": "Canal de efectos de PSG",
+    "TUR": "PSG efekt kanalı",
+    "POR": "Canal de efeitos PSG",
+    "ITA": "PSG canale effetti"
+  },
+  "use all": {
+    "DEU": "Alle",
+    "NLD": "Alles",
+    "SPA": "Todos",
+    "TUR": "hepsini kullan",
+    "POR": "usar todos",
+    "ITA": "Usa tutti"
+  },
+  "left": {
+    "DEU": "Links",
+    "NLD": "Links",
+    "SPA": "izquierda",
+    "TUR": "sol",
+    "POR": "esquerdo",
+    "ITA": "sinistra"
+  },
+  "middle": {
+    "DEU": "Zentral",
+    "NLD": "Midden",
+    "SPA": "central",
+    "TUR": "orta",
+    "POR": "central",
+    "ITA": "centro"
+  },
+  "right": {
+    "DEU": "Rechts",
+    "NLD": "Rechts",
+    "SPA": "derecha",
+    "TUR": "sağ",
+    "POR": "direito",
+    "ITA": "destra"
+  },
+  "System sound file": {
+    "DEU": "Systemsound-Datei",
+    "NLD": "Systeemgeluid",
+    "SPA": "Sonido de sistema",
+    "TUR": "Sistem ses dosyası",
+    "POR": "Arquivo de som do sistema",
+    "ITA": "Suono di sistema"
+  },
+  "Disable music": {
+    "DEU": "Musik deaktivieren",
+    "NLD": "Muziek uit",
+    "SPA": "Desactivar música",
+    "TUR": "Müziği devre dışı bırak",
+    "POR": "Desativar música",
+    "ITA": "Disattiva musica"
+  },
+  "Memory usage": {
+    "DEU": "Speichernutzung",
+    "NLD": "Geheugen",
+    "SPA": "Uso de memoria",
+    "TUR": "Bellek kullanımı",
+    "POR": "Uso de memória",
+    "ITA": "Memoria utilizzata"
+  },
+  "Total": {
+    "DEU": "Gesamt",
+    "NLD": "Totaal",
+    "SPA": "Total",
+    "TUR": "Toplam",
+    "POR": "Total",
+    "ITA": "Totali"
+  },
+  "Free": {
+    "DEU": "Frei",
+    "NLD": "Vrij",
+    "SPA": "Libre",
+    "TUR": "Serbest bırak",
+    "POR": "Livre",
+    "ITA": "Liberi"
+  },
+  "Clean-up music": {
+    "DEU": "Musik bereinigen",
+    "NLD": "Muziek opschonen",
+    "SPA": "Eliminar músicas",
+    "TUR": "Müziği temizle",
+    "POR": "Limpar músicas",
+    "ITA": "Azzera musica"
+  },
+  "Clean-up effects": {
+    "DEU": "Effekte bereinigen",
+    "NLD": "Effecten opschonen",
+    "SPA": "Eliminar efectos",
+    "TUR": "Efektleri temizle",
+    "POR": "Limpar efeitos",
+    "ITA": "Azzera effetti"
+  },
+  "SymbOS TASK MANAGER": {
+    "DEU": "SymbOS TASK MANAGER",
+    "NLD": "SymbOS TAAKBEHEER",
+    "SPA": "GESTOR DE TAREAS de SymbOS",
+    "TUR": "SymbOS GÖREV YÖNETİCİSİ",
+    "POR": "GERENCIADOR DE TAREFAS SymbOS",
+    "ITA": "SymbOS TASK MANAGER"
+  },
+  "Copyright <c> 2025 SymbiosiS": {
+    "DEU": "Copyright <c> 2025 SymbiosiS",
+    "NLD": "Copyright © 2025 SymbiosiS",
+    "JPN": "コピーライト <c> ２０２５ SymbiosiS",
+    "SPA": "Copyright <c> 2025 SymbiosiS",
+    "TUR": "Copyright <c> 2025 SymbiosiS",
+    "POR": "Copyright <c> 2025 SymbiosiS",
+    "ITA": "Copyright <c> 2025 SymbiosiS"
+  },
+  "Do you want to change the priority?": {
+    "DEU": "Priorität ändern?",
+    "NLD": "Prioriteit wijzigen?",
+    "SPA": "¿Quieres cambiar la prioridad?",
+    "TUR": "Önceliği değiştirmek ister misiniz?",
+    "POR": "Deseja alterar a prioridade?",
+    "ITA": "Vuoi modificare la priorità?"
+  },
+  "Changing the proirity could": {
+    "DEU": "Kann zur System",
+    "NLD": "Kan systeeminstabiliteit",
+    "SPA": "Cambiar la prioridad puede",
+    "TUR": "Öncelik sırasının değiştirilmesi sistem",
+    "POR": "Alterar a prioridade pode",
+    "ITA": "Modificarla può causare"
+  },
+  "cause system instability": {
+    "DEU": "Instabilität führen",
+    "NLD": "veroorzaken",
+    "SPA": "provocar inestabilidad del sistema",
+    "TUR": "istikrarsızlığına neden olabilir",
+    "POR": "causar instabilidade no sistema",
+    "ITA": "instabilità del sistema"
+  },
+  "Task Manager": {
+    "DEU": "Task Manager",
+    "NLD": "Taakbeheer",
+    "SPA": "Gestor de Tareas",
+    "TUR": "Görev Yöneticisi",
+    "POR": "Gerenciador de Tarefas",
+    "ITA": "Task Manager"
+  },
+  "New Task (Run...)": {
+    "DEU": "Neuen Task ausführen",
+    "NLD": "Nieuwe taak uitvoeren",
+    "SPA": "Nueva Tarea…",
+    "TUR": "Yeni Görev (Çalıştır...)",
+    "POR": "Nova Tarefa (Executar...)",
+    "ITA": "Nuovo Task (esegui..)"
+  },
+  "Exit Task Manager": {
+    "DEU": "Beenden",
+    "NLD": "Afsluiten",
+    "SPA": "Salir",
+    "TUR": "Görev Yöneticisi’nden Çık",
+    "POR": "Sair",
+    "ITA": "Esci da Task Manager"
+  },
+  "View": {
+    "DEU": "Anzeige",
+    "NLD": "Beeld",
+    "JPN": "ビュー",
+    "SPA": "Ver",
+    "TUR": "Görüntüle",
+    "POR": "Visualizar",
+    "ITA": "Visualizza",
+    "UKR": "Вигляд"
+  },
+  "Refresh Now": {
+    "DEU": "Aktualisieren",
+    "NLD": "Vernieuwen",
+    "SPA": "Actualizar",
+    "TUR": "Şimdi Tazele",
+    "POR": "Atualizar Agora",
+    "ITA": "Aggiorna"
+  },
+  "Update Speed": {
+    "DEU": "Aktualis.Rate",
+    "NLD": "Snelheid",
+    "SPA": "Actualizar Velocidad",
+    "TUR": "Hızı Güncelle",
+    "POR": "Velocidade de Atualização",
+    "ITA": "Aggiorna velocità"
+  },
+  "Paused": {
+    "DEU": "Angehalten",
+    "NLD": "Gepauzeerd",
+    "SPA": "Pausado",
+    "TUR": "Duraklatıldı",
+    "POR": "Pausado",
+    "ITA": "Pausa"
+  },
+  "Only when focus": {
+    "DEU": "Nur im Vordergrund",
+    "NLD": "Bij focus",
+    "SPA": "Solo cuando activo",
+    "TUR": "Sadece odaklanıldığında",
+    "POR": "Apenas quando ativo",
+    "ITA": "Solo quando attivo"
+  },
+  "Help Topics": {
+    "DEU": "Hilfe",
+    "NLD": "Help",
+    "SPA": "Ayuda",
+    "TUR": "Yardım Konuları",
+    "POR": "Tópicos de Ajuda",
+    "ITA": "Aiuto"
+  },
+  "Kill process": {
+    "DEU": "Prozess beenden",
+    "NLD": "Proces beëindigen",
+    "SPA": "Terminar",
+    "TUR": "İşlemi öldür",
+    "POR": "Encerrar processo",
+    "ITA": "Termina processo"
+  },
+  "Send to sleep": {
+    "DEU": "Schlafen legen",
+    "NLD": "Slaapstand",
+    "SPA": "Poner en reposo",
+    "TUR": "Uykuya gönder",
+    "POR": "Suspender",
+    "ITA": "Metti in pausa"
+  },
+  "Set priority": {
+    "DEU": "Priorität ändern",
+    "NLD": "Prioriteit",
+    "SPA": "Establecer prioridad",
+    "TUR": "Öncelik belirle",
+    "POR": "Definir prioridade",
+    "ITA": "Imposta priorità"
+  },
+  "Realtime": {
+    "DEU": "Echtzeit",
+    "NLD": "Realtime",
+    "SPA": "Tiempo real",
+    "TUR": "Gerçek zamanlı",
+    "POR": "Tempo real",
+    "ITA": "Tempo reale"
+  },
+  "Above normal": {
+    "DEU": "Höher",
+    "NLD": "Boven normaal",
+    "SPA": "Por encima de normal",
+    "TUR": "Normalin üzerinde",
+    "POR": "Acima do normal",
+    "ITA": "Normale+"
+  },
+  "Below normal": {
+    "DEU": "Niedriger",
+    "NLD": "Onder normaal",
+    "SPA": "Por debajo de normal",
+    "TUR": "Normalin altında",
+    "POR": "Abaixo do normal",
+    "ITA": "Normale"
+  },
+  "Apps": {
+    "DEU": "Anwend",
+    "NLD": "Apps",
+    "SPA": "Aplic",
+    "TUR": "Uygulamalar",
+    "POR": "Aplic",
+    "ITA": "Apps"
+  },
+  "Proces": {
+    "DEU": "Prozesse",
+    "NLD": "Processen",
+    "SPA": "Proc",
+    "TUR": "İşlemler",
+    "POR": "Proc",
+    "ITA": "Proces"
+  },
+  "Performance": {
+    "DEU": "Leistung",
+    "NLD": "Prestaties",
+    "SPA": "Rendimiento",
+    "TUR": "Performans",
+    "POR": "Desempenho",
+    "ITA": "Performance"
+  },
+  "Totals": {
+    "DEU": "Insgesamt",
+    "NLD": "Totalen",
+    "SPA": "Totales",
+    "TUR": "Toplamlar",
+    "POR": "Totais",
+    "ITA": "Totali"
+  },
+  "Memory (KB)": {
+    "DEU": "Speicher (KB)",
+    "NLD": "Geheugen (KB)",
+    "SPA": "Memoria (KB)",
+    "TUR": "Bellek (KB)",
+    "POR": "Memória (KB)",
+    "ITA": "Memoria (KB)"
+  },
+  "Applications": {
+    "DEU": "Anwendungen",
+    "NLD": "Applicaties",
+    "SPA": "Aplicaciones",
+    "TUR": "Uygulamalar",
+    "POR": "Aplicativos",
+    "ITA": "Applicazioni"
+  },
+  "Processes": {
+    "DEU": "Prozesse",
+    "NLD": "Processen",
+    "SPA": "Procesos",
+    "TUR": "İşlemler",
+    "POR": "Processos",
+    "ITA": "Processi"
+  },
+  "Timers": {
+    "DEU": "Timer",
+    "NLD": "Timers",
+    "SPA": "Contadores",
+    "TUR": "Zamanlayıcılar",
+    "POR": "Timers",
+    "ITA": "Timers"
+  },
+  "Used": {
+    "DEU": "Belegt",
+    "NLD": "Gebruikt",
+    "SPA": "Usado",
+    "TUR": "Kullanılan",
+    "POR": "Usado",
+    "ITA": "Usata"
+  },
+  "Available": {
+    "DEU": "Verfügbar",
+    "NLD": "Beschikbaar",
+    "SPA": "Disponible",
+    "TUR": "Boşta",
+    "POR": "Disponível",
+    "ITA": "Disponibile"
+  },
+  "CPU": {
+    "DEU": "CPU",
+    "NLD": "CPU",
+    "SPA": "CPU",
+    "TUR": "CPU",
+    "POR": "CPU",
+    "ITA": "CPU"
+  },
+  "Memory": {
+    "DEU": "Speicher",
+    "NLD": "Geheugen",
+    "SPA": "Memoria",
+    "TUR": "Bellek",
+    "POR": "Memória",
+    "ITA": "Memoria (KB)"
+  },
+  "ID": {
+    "DEU": "ID",
+    "NLD": "ID",
+    "SPA": "ID",
+    "TUR": "ID",
+    "POR": "ID",
+    "ITA": "ID"
+  },
+  "Pri": {
+    "DEU": "Pri",
+    "NLD": "Pri",
+    "SPA": "Pri",
+    "TUR": "Önc",
+    "POR": "Pri",
+    "ITA": "Pri"
+  },
+  "Prc": {
+    "DEU": "Prz",
+    "NLD": "Prc",
+    "SPA": "Proc",
+    "TUR": "İşl",
+    "POR": "Proc",
+    "ITA": "Prc"
+  },
+  "Mem": {
+    "DEU": "Spei",
+    "NLD": "Mem",
+    "SPA": "Mem",
+    "TUR": "Bel",
+    "POR": "Mem",
+    "ITA": "Mem"
+  },
+  "Timer": {
+    "DEU": "Timer",
+    "NLD": "Timer",
+    "SPA": "Contador",
+    "TUR": "Zamanlayıcı",
+    "POR": "Timer",
+    "ITA": "Timer"
+  },
+  "Sleep": {
+    "DEU": "Stopp",
+    "NLD": "Slaap",
+    "SPA": "Reposo",
+    "TUR": "Uyku",
+    "POR": "Suspenso",
+    "ITA": "Paus"
+  },
+  "Idle": {
+    "DEU": "Leerl",
+    "NLD": "Inact",
+    "SPA": "Inactivo",
+    "TUR": "Boşta",
+    "POR": "Ocioso",
+    "ITA": "Idle"
+  },
+  "Work": {
+    "DEU": "Arbeit",
+    "NLD": "Werk",
+    "SPA": "Trabajando",
+    "TUR": "Görev",
+    "POR": "Ativo",
+    "ITA": "Attivo"
+  },
+  "Application": {
+    "DEU": "Anwendung",
+    "NLD": "Applicatie",
+    "SPA": "Aplicación",
+    "TUR": "Uygulama",
+    "POR": "Aplicativo",
+    "ITA": "Applicazione"
+  },
+  "Kill": {
+    "DEU": "Beenden",
+    "NLD": "Beëindig",
+    "SPA": "Terminar",
+    "TUR": "Öldür",
+    "POR": "Encerrar",
+    "ITA": "Termina"
+  },
+  "Switch": {
+    "DEU": "Wechs",
+    "NLD": "Wisselen",
+    "SPA": "Cambiar",
+    "TUR": "Geçiş yap",
+    "POR": "Alternar",
+    "ITA": "Scambia"
+  },
+  "End App": {
+    "DEU": "Beenden",
+    "NLD": "Afsluit",
+    "SPA": "Terminar",
+    "TUR": "Uyg. Bitir",
+    "POR": "Encerrar",
+    "ITA": "Fine App"
+  },
+  "Find next": {
+    "DEU": "Suchen",
+    "NLD": "Volgende zoeken",
+    "JPN": "ファインド ネクスト",
+    "SPA": "Encontrar siguiente",
+    "TUR": "Sonrakini bul",
+    "POR": "Localizar próximo",
+    "ITA": "Trova successivo"
+  },
+  "Replace": {
+    "DEU": "Ersetzen",
+    "NLD": "Vervangen",
+    "JPN": "リプレイス",
+    "SPA": "Reemplazar",
+    "TUR": "Değiştir",
+    "POR": "Substituir",
+    "ITA": "Sostituisci"
+  },
+  "Replace all": {
+    "DEU": "Alle ersetz",
+    "NLD": "Alles vervangen",
+    "JPN": "リプレイス オール",
+    "SPA": "Reemplazar todo",
+    "TUR": "Tümünü değiştir",
+    "POR": "Substituir tudo",
+    "ITA": "Sostituisci tutto"
+  },
+  "Notepad for SymbOS": {
+    "DEU": "Notepad für SymbOS",
+    "NLD": "Notepad voor SymbOS",
+    "JPN": "ワードパッド for SymbOS"
+  },
+  "Lin Col Siz Mrk": {
+    "DEU": "Zei Spa Grö Mrk",
+    "NLD": "Reg Kol Gro Mkr",
+    "JPN": "リン コル シズ マーク",
+    "SPA": "Lín Col Tam Mrc",
+    "TUR": "Sat Süt Boy Mrk",
+    "POR": "Lin Col Tam Mrc",
+    "ITA": "Lin Col Siz Mrk"
+  },
+  "Textbuffer full. Only a part of": {
+    "DEU": "Textspeicher voll. Nur ein",
+    "NLD": "Tekstbuffer vol. Slechts een deel van",
+    "JPN": "テキストバッファー が いっぱい です。",
+    "SPA": "Búfer de texto lleno. Solo parte del",
+    "TUR": "Metin arabelleği dolu. Belgenin",
+    "POR": "Buffer de texto cheio. Apenas parte",
+    "ITA": "Buffer pieno. Solo una parte"
+  },
+  "the document has been loaded": {
+    "DEU": "Teil konnte geladen werden",
+    "NLD": "document geladen",
+    "JPN": "ドキュメント の いちぶ だけ が ロード されました。",
+    "SPA": "documento ha sido cargado",
+    "TUR": "yalnızca bir kısmı yüklendi",
+    "POR": "do documento foi carregado",
+    "ITA": "del documento è stata caricata"
+  },
+  "Error while loading file!": {
+    "DEU": "Fehler beim Laden!",
+    "NLD": "Fout bij laden van bestand!",
+    "JPN": "ファイル ロード エラー！",
+    "SPA": "¡Error al cargar archivo!",
+    "TUR": "Dosya yüklenirken hata!",
+    "POR": "Erro ao carregar arquivo!",
+    "ITA": "Errore di lettura del file!"
+  },
+  "Error while saving file!": {
+    "DEU": "Fehler beim Speichern!",
+    "NLD": "Fout bij opslaan van bestand!",
+    "JPN": "ファイル セーブ エラー！",
+    "SPA": "¡Error al guardar archivo!",
+    "TUR": "Dosya kaydedilirken hata!",
+    "POR": "Erro ao salvar arquivo!",
+    "ITA": "Errore di salvataggio del file!"
+  },
+  "Device full. Only a part of": {
+    "DEU": "Datenträger voll. Nur ein Teil",
+    "NLD": "Apparaat vol.Slechts een deel van",
+    "JPN": "デバイス が いっぱい です。",
+    "SPA": "Dispositivo lleno. Solo parte del",
+    "TUR": "Aygıt dolu. Belgenin yalnızca",
+    "POR": "Dispositivo cheio. Apenas parte",
+    "ITA": "Dispositivo pieno. Solo un  parte del"
+  },
+  "the document has been saved": {
+    "DEU": "konnte gespeichert werden",
+    "NLD": "document opgeslagen",
+    "JPN": "ドキュメント の いちぶ だけ が セーブ されました。",
+    "SPA": "documento ha sido guardado",
+    "TUR": "bir kısmı kaydedildi",
+    "POR": "do documento foi salvo",
+    "ITA": "documento è stata salvata"
+  },
+  "Save changes?": {
+    "DEU": "Änderungen speichern?",
+    "NLD": "Wijzigingen opslaan?",
+    "JPN": "ヘンこう を セーブ しますか？",
+    "SPA": "Guardar cambios?",
+    "TUR": "Değişiklikleri kaydet?",
+    "POR": "Salvar alterações?",
+    "ITA": "Salvare le modifiche?"
+  },
+  "Font type": {
+    "DEU": "Schriftart",
+    "NLD": "Lettertype",
+    "JPN": "フォント タイプ",
+    "SPA": "Tipo de fuente",
+    "TUR": "Font tipi",
+    "POR": "Tipo de fonte",
+    "ITA": "Tipo font"
+  },
+  "Font colour": {
+    "DEU": "Farben",
+    "NLD": "Letterkleur",
+    "JPN": "フォント カラー",
+    "SPA": "Color de fuente",
+    "TUR": "Font rengi",
+    "POR": "Cor da fonte",
+    "ITA": "Colore font"
+  },
+  "Options": {
+    "DEU": "Optionen",
+    "NLD": "Opties",
+    "JPN": "オプション",
+    "SPA": "Opciones",
+    "TUR": "Seçenekler…",
+    "POR": "Opções",
+    "ITA": "Opzioni"
+  },
+  "Word wrap at window border": {
+    "DEU": "Umbruch am Fensterende",
+    "NLD": "Woordafbreking bij vensterrand",
+    "JPN": "ウィンドウ ボーダー で ワードラップ",
+    "SPA": "Ajuste de línea al marco de la ventana",
+    "TUR": "Pencere kenarında kelime kaydırma",
+    "POR": "Quebra de linha na borda da janela",
+    "ITA": "Giustifica"
+  },
+  "Word wrap at": {
+    "DEU": "Umbruch bei",
+    "NLD": "Woordafbreking bij",
+    "JPN": "ワードラップ する",
+    "SPA": "Ajuste de línea a",
+    "TUR": "Kelime kaydırma",
+    "POR": "Quebra de linha em",
+    "ITA": "Allinea a"
+  },
+  "px": {
+    "DEU": "px",
+    "NLD": "px",
+    "JPN": "ピーエックス",
+    "SPA": "px",
+    "TUR": "px",
+    "POR": "px",
+    "ITA": "px"
+  },
+  "No word wrap": {
+    "DEU": "Kein Umbruch",
+    "NLD": "Geen woordafbreking",
+    "JPN": "ワードラップ なし",
+    "SPA": "Sin ajuste de línea",
+    "TUR": "Kelime kaydırma yok",
+    "POR": "Sem quebra de linha",
+    "ITA": "Nessuna distribuzione testo"
+  },
+  "Tabstop width": {
+    "DEU": "Tabstop Breite",
+    "NLD": "Tabstopbreedte",
+    "JPN": "タブストップ はば",
+    "SPA": "Ancho de tabulación",
+    "TUR": "Sekme durağı genişliği",
+    "POR": "Largura da tabulação",
+    "ITA": "Tabulazione"
+  },
+  "chars": {
+    "DEU": "Zeichen",
+    "NLD": "tekens",
+    "JPN": "キャラクター",
+    "SPA": "caracteres",
+    "TUR": "karakter",
+    "POR": "caracteres",
+    "ITA": "Caratt"
+  },
+  "Pen": {
+    "DEU": "Schrift",
+    "NLD": "Pen",
+    "JPN": "ペン",
+    "SPA": "Color",
+    "TUR": "Kalem",
+    "POR": "Caneta",
+    "ITA": "Colore"
+  },
+  "Paper": {
+    "DEU": "Hinterg",
+    "NLD": "Papier",
+    "JPN": "ペーパー",
+    "SPA": "Fondo",
+    "TUR": "Kağıt",
+    "POR": "Papel",
+    "ITA": "Sfondo"
+  },
+  "Find": {
+    "DEU": "Suchen",
+    "NLD": "Zoeken",
+    "JPN": "ファインド",
+    "SPA": "Buscar",
+    "TUR": "Bul",
+    "POR": "Localizar",
+    "ITA": "Trova"
+  },
+  "Go to": {
+    "DEU": "Gehe zu",
+    "NLD": "Ga naar",
+    "JPN": "ゴートゥー",
+    "SPA": "Ir a",
+    "TUR": "Git",
+    "POR": "Ir para",
+    "ITA": "Vai a"
+  },
+  "Find what": {
+    "DEU": "Suchtext",
+    "NLD": "Zoekterm",
+    "JPN": "なに を ファインド",
+    "SPA": "Qué buscar",
+    "TUR": "Arama metni",
+    "POR": "Localizar",
+    "ITA": "Trova"
+  },
+  "Replace with": {
+    "DEU": "Ersetze mit",
+    "NLD": "Vervangen door",
+    "JPN": "なに で リプレイス",
+    "SPA": "Reemplazar con",
+    "TUR": "Şununla değiştir",
+    "POR": "Substituir por",
+    "ITA": "Sostituisci"
+  },
+  "Match case": {
+    "DEU": "Groß/Klein",
+    "NLD": "Hoofdlettergevoelig",
+    "JPN": "ケース を マッチ",
+    "SPA": "Coincidir Mayús/minúsc",
+    "TUR": "Büyük küçük harfe uy",
+    "POR": "Diferenciar maiúsculas",
+    "ITA": "Confronta maiusc/minusc"
+  },
+  "Whole word only": {
+    "DEU": "Nur ganze Wörter",
+    "NLD": "Alleen hele woorden",
+    "JPN": "ワード ぜんたい のみ",
+    "SPA": "Solo palabra completa",
+    "TUR": "Sadece tüm kelime",
+    "POR": "Palavra inteira",
+    "ITA": "Solo parola intera"
+  },
+  "Entire document": {
+    "DEU": "Alle ab Anfang",
+    "NLD": "Gehele document",
+    "JPN": "ドキュメント ぜんたい",
+    "SPA": "Todo el documento",
+    "TUR": "Tüm belge",
+    "POR": "Documento inteiro",
+    "ITA": "In tutto il documento"
+  },
+  "Line": {
+    "DEU": "Zeile",
+    "NLD": "Regel",
+    "JPN": "ライン",
+    "SPA": "Línea",
+    "TUR": "Satır",
+    "POR": "Linha",
+    "ITA": "Linea"
+  },
+  "Column": {
+    "DEU": "Spalte",
+    "NLD": "Kolom",
+    "JPN": "カラム",
+    "SPA": "Columna",
+    "TUR": "Sütun",
+    "POR": "Coluna",
+    "ITA": "Colonna"
+  },
+  "Text not found!": {
+    "DEU": "Text nicht gefunden!",
+    "NLD": "Tekst niet gevonden!",
+    "JPN": "テキスト が みつかりません！",
+    "SPA": "¡Texto no encontrado!",
+    "TUR": "Metin bulunamadı!",
+    "POR": "Texto não encontrado!",
+    "ITA": "Testo non trovato!"
+  },
+  "Textbuffer full. Couldn't": {
+    "DEU": "Speicher voll. Nicht alles",
+    "NLD": "Tekstbuffer vol. Kon niet",
+    "JPN": "テキストバッファー が いっぱい",
+    "SPA": "Búfer de texto lleno. No se",
+    "TUR": "Metin arabelleği dolu. Bir veya",
+    "POR": "Buffer de texto cheio. Não foi",
+    "ITA": "Buffer pieno. Non posso sostituire"
+  },
+  "replace one or more entries": {
+    "DEU": "konnte ersetzt werden",
+    "NLD": "één of meer items vervangen",
+    "JPN": "で、いくつか の エントリー を リプレイス できません。",
+    "SPA": "reemplazaron una o más entradas",
+    "TUR": "daha fazla girdi değiştirilemedi",
+    "POR": "possível substituir uma ou mais entradas",
+    "ITA": "una o più voci"
+  },
+  "Invalid number": {
+    "DEU": "Ungültige Nummer",
+    "NLD": "Ongeldig getal",
+    "JPN": "ムこう な ナンバー",
+    "SPA": "Número no válido",
+    "TUR": "Geçersiz sayı",
+    "POR": "Número inválido",
+    "ITA": "Numero non valido"
+  },
+  "Save As": {
+    "DEU": "Speichern unter",
+    "NLD": "Opslaan als",
+    "JPN": "セーブ アズ",
+    "SPA": "Guardar como",
+    "TUR": "Farklı Kaydet…",
+    "POR": "Salvar como",
+    "ITA": "Salva come…"
+  },
+  "Exit": {
+    "DEU": "Beenden",
+    "NLD": "Afsluiten",
+    "JPN": "イグジット",
+    "SPA": "Salir",
+    "TUR": "Çıkış",
+    "POR": "Sair",
+    "ITA": "Esci"
+  },
+  "Edit": {
+    "DEU": "Bearbeiten",
+    "NLD": "Bewerken",
+    "JPN": "エディット",
+    "SPA": "Editar",
+    "TUR": "Düzenle",
+    "POR": "Editar",
+    "ITA": "Modifica",
+    "UKR": "Редагування"
+  },
+  "Find Again": {
+    "DEU": "Weitersuchen",
+    "NLD": "Opnieuw zoeken",
+    "JPN": "ファインド アゲイン",
+    "SPA": "Buscar de nuevo",
+    "TUR": "Tekrar Bul",
+    "POR": "Localizar novamente",
+    "ITA": "Trova ancora"
+  },
+  "Go To": {
+    "DEU": "Gehe zu",
+    "NLD": "Ga naar",
+    "JPN": "ゴートゥー",
+    "SPA": "Ir a",
+    "TUR": "Git…",
+    "POR": "Ir para",
+    "ITA": "Vai a"
+  },
+  "Time/Date": {
+    "DEU": "Zeit/Datum",
+    "NLD": "Tijd/datum",
+    "JPN": "タイム／デイト",
+    "SPA": "Fecha/Hora",
+    "TUR": "Saat/Tarih",
+    "POR": "Hora/Data",
+    "ITA": "Ora/Data"
+  },
+  "Format": {
+    "DEU": "Format",
+    "NLD": "Opmaak",
+    "JPN": "フォーマット",
+    "SPA": "Formato",
+    "TUR": "Biçim",
+    "POR": "Formatar",
+    "ITA": "Formato"
+  },
+  "Auto word wrap": {
+    "DEU": "Automatischer Umbruch",
+    "NLD": "Automatische woordafbreking",
+    "JPN": "オート ワードラップ",
+    "SPA": "Ajuste de línea automático",
+    "TUR": "Otomatik kelime kaydırma",
+    "POR": "Quebra automática",
+    "ITA": "Allineamento automatico"
+  },
+  "Status bar": {
+    "DEU": "Statusleiste",
+    "NLD": "Statusbalk",
+    "JPN": "ステータス バー",
+    "SPA": "Barra de estado",
+    "TUR": "Durum çubuğu",
+    "POR": "Barra de status",
+    "ITA": "Barra di stato"
+  },
+  "About Wordpad": {
+    "DEU": "Über Wordpad",
+    "NLD": "Over Wordpad",
+    "JPN": "ワードパッド に ついて",
+    "SPA": "Acerca de Wordpad",
+    "TUR": "Wordpad hakkında…",
+    "POR": "Sobre o Wordpad",
+    "ITA": "Info su Wordpad"
+  },
+  "Calculator": {
+    "DEU": "Rechner",
+    "NLD": "Calculator",
+    "SPA": "Calculadora",
+    "TUR": "Hesap Makinesi",
+    "POR": "Calculadora",
+    "ITA": "Calcolatrice",
+    "UKR": "Калькулятор"
+  },
+  "Standard": {
+    "DEU": "Standard",
+    "NLD": "Standaard",
+    "SPA": "Estándar",
+    "TUR": "Standart",
+    "POR": "Padrão",
+    "ITA": "Standard",
+    "UKR": "Звичайний"
+  },
+  "Scientific": {
+    "DEU": "Wissenschaftlich",
+    "NLD": "Wetenschappelijk",
+    "SPA": "Científica",
+    "TUR": "Bilimsel",
+    "POR": "Científica",
+    "ITA": "Scientifica",
+    "UKR": "Інженерний"
+  },
+  "Deg": {
+    "DEU": "Deg",
+    "NLD": "Deg",
+    "SPA": "Gra",
+    "TUR": "Deg",
+    "POR": "Graus",
+    "ITA": "Gra",
+    "UKR": "Градуси"
+  },
+  "Rad": {
+    "DEU": "Rad",
+    "NLD": "Rad",
+    "SPA": "Rad",
+    "TUR": "Rad",
+    "POR": "Rad",
+    "ITA": "Rad",
+    "UKR": "Радіани"
+  },
+  "Group digits": {
+    "DEU": "er gruppieren",
+    "NLD": "Groeperen",
+    "SPA": "Dígitos de grupo",
+    "TUR": "Grup rakamları",
+    "POR": "Agrupar dígitos",
+    "ITA": "Digitazione di gruppo",
+    "UKR": "Групувати цифри"
+  },
+  "US point format": {
+    "DEU": "englisches Format",
+    "NLD": "US-puntnotatie",
+    "SPA": "Formato de punto US",
+    "TUR": "ABD nokta formatı",
+    "POR": "Formato com ponto",
+    "ITA": "Decimale US",
+    "UKR": "Формат: крапка"
+  },
+  "About Pocket Calculator": {
+    "DEU": "Info",
+    "NLD": "Over Zakrekenmachine",
+    "SPA": "Info",
+    "TUR": "Cep Hesap Makinesi Hakkında",
+    "POR": "Info",
+    "ITA": "Info su Calcolatrice",
+    "UKR": "Про програму"
+  },
+  "Division by zero": {
+    "DEU": "Geteilt durch",
+    "NLD": "Deling door nul",
+    "SPA": "División por",
+    "TUR": "Sıfıra bölme",
+    "POR": "Divisão por zero",
+    "ITA": "Divisione per",
+    "UKR": "Ділення на нуль"
+  },
+  "Overflow": {
+    "DEU": "Überlauf",
+    "NLD": "Overloop",
+    "SPA": "Desbordamiento",
+    "TUR": "Taşma",
+    "POR": "Estouro",
+    "ITA": "Troppi dati",
+    "UKR": "Переповнення"
+  },
+  "Improper number": {
+    "DEU": "Unzulässige Zahl",
+    "NLD": "Ongeldig getal",
+    "SPA": "Número inadecuado",
+    "TUR": "Yanlış sayı",
+    "POR": "Número inválido",
+    "ITA": "Numero improprio",
+    "UKR": "Некоректне число"
+  },
+  "Stack full": {
+    "DEU": "Stapel voll",
+    "NLD": "Stack vol",
+    "SPA": "Pila llena",
+    "TUR": "Yığın dolu",
+    "POR": "Pilha cheia",
+    "ITA": "Pila piena",
+    "UKR": "Стек повний"
+  },
+  "Device does not exist": {
+    "DEU": "Gerät existiert nicht",
+    "NLD": "Apparaat bestaat niet",
+    "SPA": "El dispositivo no existe",
+    "TUR": "Aygıt mevcut değil",
+    "POR": "Dispositivo não existe",
+    "ITA": "Dispositivo inesistente"
+  },
+  "OK": {
+    "DEU": "OK",
+    "NLD": "OK",
+    "SPA": "Aceptar",
+    "TUR": "OK",
+    "POR": "OK",
+    "ITA": "OK"
+  },
+  "Device not initialised": {
+    "DEU": "Gerät nicht initialisiert",
+    "NLD": "Apparaat niet geïnitialiseerd",
+    "SPA": "Dispositivo no iniciado",
+    "TUR": "Aygıt başlatılmadı",
+    "POR": "Dispositivo não inicializado",
+    "ITA": "Dispositivo non inizializzato"
+  },
+  "Media is damaged": {
+    "DEU": "Medium beschädigt",
+    "NLD": "Medium beschadigd",
+    "SPA": "Datos dañados",
+    "TUR": "Medya hasar görmüş",
+    "POR": "Mídia danificada",
+    "ITA": "Supporto danneggiato"
+  },
+  "Partition does not exist": {
+    "DEU": "Partition existiert nicht",
+    "NLD": "Partitie bestaat niet",
+    "SPA": "La partición no existe",
+    "TUR": "Bölümleme mevcut değil",
+    "POR": "Partição não existe",
+    "ITA": "Partizione inesistente"
+  },
+  "Unsupported media or partition": {
+    "DEU": "Nicht unterstütztes Medium/Partition",
+    "NLD": "Niet ondersteund medium/partitie",
+    "SPA": "Partición o medio no soportados",
+    "TUR": "Desteklenmeyen medya veya bölümleme",
+    "POR": "Mídia ou partição não suportada",
+    "ITA": "Supporto o partizione non supportate"
+  },
+  "Error while sector read/write": {
+    "DEU": "Fehler beim Sektor-Zugriff",
+    "NLD": "Fout bij sector lezen/schrijven",
+    "SPA": "Error al leer/escribir sector",
+    "TUR": "Sektör okuma/yazma sırasında hata",
+    "POR": "Erro ao ler/gravar setor",
+    "ITA": "Errore di lettura/scrittura del settore"
+  },
+  "Error while positioning": {
+    "DEU": "Positionierungsfehler",
+    "NLD": "Fout bij positioneren",
+    "SPA": "Error al posicionar",
+    "TUR": "Konumlandırma sırasında hata",
+    "POR": "Erro ao posicionar",
+    "ITA": "Errore di posizionamento"
+  },
+  "Abort while volume access": {
+    "DEU": "Abbruch beim Datenträger-Zugriff",
+    "NLD": "Afgebroken bij volume-toegang",
+    "SPA": "Abortar mientras se accede al volumen",
+    "TUR": "Birime erişim sırasında iptal",
+    "POR": "Acesso ao volume abortado",
+    "ITA": "Errore durante l'accesso al volume"
+  },
+  "Unknown volume error": {
+    "DEU": "Unbekannter Datenträger-Fehler",
+    "NLD": "Onbekende volumefout",
+    "SPA": "Error de volumen desconocido",
+    "TUR": "Bilinmeyen birim hatası",
+    "POR": "Erro de volume desconhecido",
+    "ITA": "Errore sconosciuto sul volume"
+  },
+  "No free filehandler": {
+    "DEU": "Kein freier Dateihandler",
+    "NLD": "Geen vrije filehandler",
+    "SPA": "No hay gestor de archivo libre",
+    "TUR": "Boşta dosya işleyici yok",
+    "POR": "Nenhum gestor de arquivo livre",
+    "ITA": "Nessun gestore di archivio libero"
+  },
+  "Path does not exist": {
+    "DEU": "Pfad existiert nicht",
+    "NLD": "Pad bestaat niet",
+    "SPA": "La ruta no existe",
+    "TUR": "Yol mevcut değil",
+    "POR": "Caminho não existe",
+    "ITA": "Percorso inesistente"
+  },
+  "File does not exist": {
+    "DEU": "Datei existiert nicht",
+    "NLD": "Bestand bestaat niet",
+    "SPA": "El archivo no existe",
+    "TUR": "Dosya mevcut değil",
+    "POR": "Arquivo não existe",
+    "ITA": "File inesistente"
+  },
+  "Access is forbidden": {
+    "DEU": "Zugriff untersagt",
+    "NLD": "Toegang verboden",
+    "SPA": "Acceso no permitido",
+    "TUR": "Erişim yasak",
+    "POR": "Acesso negado",
+    "ITA": "Accesso negato"
+  },
+  "Invalid path or filename": {
+    "DEU": "Falscher Pfad/Dateiname",
+    "NLD": "Ongeldig pad/bestandsnaam",
+    "SPA": "Ruta o nombre de archivo no válido",
+    "TUR": "Geçersiz yol veya dosya ismi",
+    "POR": "Caminho ou nome de arquivo inválido",
+    "ITA": "Percorso o nome file invalido"
+  },
+  "Filehandler does not exist": {
+    "DEU": "Dateihandler existiert nicht",
+    "NLD": "Filehandler bestaat niet",
+    "SPA": "El gestor de archivo no existe",
+    "TUR": "Dosya işleyici mevcut değil",
+    "POR": "Gestor de arquivo não existe",
+    "ITA": "Gestore di archivio inesistente"
+  },
+  "Device slot already occupied": {
+    "DEU": "Geräteslot bereits belegt",
+    "NLD": "Apparaatslot al bezet",
+    "SPA": "Ranura de dispositivo ya en uso",
+    "TUR": "Cihaz yuvası zaten dolu",
+    "POR": "Slot do dispositivo já ocupado",
+    "ITA": "Slot del dispositivo già occupato"
+  },
+  "Error in file organisation": {
+    "DEU": "Fehler in Dateiorganisation",
+    "NLD": "Fout in bestandsorganisatie",
+    "SPA": "Error en la organización de archivo",
+    "TUR": "Dosya organizasyonunda hata",
+    "POR": "Erro na organização do arquivo",
+    "ITA": "Errore nell'organizzazione dell'archivio"
+  },
+  "Invalid destination name": {
+    "DEU": "Ungültiger Zielname",
+    "NLD": "Ongeldige doelnaam",
+    "SPA": "Nombre de destino no válido",
+    "TUR": "Geçersiz hedef adı",
+    "POR": "Nome de destino inválido",
+    "ITA": "Nome destinazione non valido"
+  },
+  "File/path already exist": {
+    "DEU": "Pfad/Dateiname existiert bereits",
+    "NLD": "Bestand/pad bestaat al",
+    "SPA": "Archivo/ruta ya existe",
+    "TUR": "Dosya/yol zaten mevcut",
+    "POR": "Arquivo/caminho já existe",
+    "ITA": "File o percorso già esistente"
+  },
+  "Wrong sub command code": {
+    "DEU": "Falscher Unterbefehl-Code",
+    "NLD": "Verkeerde subcommandocode",
+    "SPA": "Código de sub comando erróneo",
+    "TUR": "Yanlış alt komut kodu",
+    "POR": "Código de subcomando incorreto",
+    "ITA": "Codice di sub comando errato"
+  },
+  "Wrong attribute": {
+    "DEU": "Falsches Attribut",
+    "NLD": "Verkeerd attribuut",
+    "SPA": "Atributo erróneo",
+    "TUR": "Yanlış attribute",
+    "POR": "Atributo incorreto",
+    "ITA": "Attributo errato"
+  },
+  "Directory full": {
+    "DEU": "Verzeichnis voll",
+    "NLD": "Map vol",
+    "SPA": "Directorio lleno",
+    "TUR": "Dizin dolu",
+    "POR": "Diretório cheio",
+    "ITA": "Cartella piena"
+  },
+  "Media full": {
+    "DEU": "Datenträger voll",
+    "NLD": "Medium vol",
+    "SPA": "Medio lleno",
+    "TUR": "Medya dolu",
+    "POR": "Mídia cheia",
+    "ITA": "Disco pieno"
+  },
+  "Media is write protected": {
+    "DEU": "Datenträger schreibgeschützt",
+    "NLD": "Medium schrijfbeveiligd",
+    "SPA": "Medio protegido para escritura",
+    "TUR": "Medya yazmaya karşı korumalı",
+    "POR": "Mídia protegida contra gravação",
+    "ITA": "Disco protetto da scrittura"
+  },
+  "Device is not ready": {
+    "DEU": "Gerät nicht bereit",
+    "NLD": "Apparaat niet gereed",
+    "SPA": "El dispositivo no está listo",
+    "TUR": "Aygıt hazır değil",
+    "POR": "Dispositivo não está pronto",
+    "ITA": "Dispositivo non pronto"
+  },
+  "Directory is not empty": {
+    "DEU": "Verzeichnis nicht leer",
+    "NLD": "Map niet leeg",
+    "SPA": "El directorio no está vacío",
+    "TUR": "Dizin boş değil",
+    "POR": "Diretório não está vazio",
+    "ITA": "La cartella non è vuota"
+  },
+  "Invalid destination device": {
+    "DEU": "Ungültiges Zielgerät",
+    "NLD": "Ongeldig doelapparaat",
+    "SPA": "Dispositivo de destino no válido",
+    "TUR": "Geçersiz hedef aygıt",
+    "POR": "Dispositivo de destino inválido",
+    "ITA": "Destinazione dispositivo non valida"
+  },
+  "Not supported by file system": {
+    "DEU": "Vom Dateisystem nicht unterstützt",
+    "NLD": "Niet ondersteund door bestandssysteem",
+    "SPA": "No soportado por el sistema de archivos",
+    "TUR": "Dosya sistemi tarafından desteklenmiyor",
+    "POR": "Não suportado pelo sistema de arquivos",
+    "ITA": "Non supportato dal File System"
+  },
+  "Unsupported device": {
+    "DEU": "Nicht unterstütztes Gerät",
+    "NLD": "Niet ondersteund apparaat",
+    "SPA": "Dispositivo no soportado",
+    "TUR": "Desteklenmeyen aygıt",
+    "POR": "Dispositivo não suportado",
+    "ITA": "Dispositivo non supportato"
+  },
+  "File is read only": {
+    "DEU": "Datei ist schreibgeschützt",
+    "NLD": "Bestand alleen-lezen",
+    "SPA": "El archivo es de solo lectura",
+    "TUR": "Salt okunur dosya",
+    "POR": "Arquivo somente leitura",
+    "ITA": "il file è di sola lettura"
+  },
+  "Device channel is not available": {
+    "DEU": "Gerätekanal nicht verfügbar",
+    "NLD": "Apparaatkanaal niet beschikbaar",
+    "SPA": "Canal de dispositivo no disponible",
+    "TUR": "Aygıt kanalı kullanılamıyor",
+    "POR": "Canal do dispositivo não disponível",
+    "ITA": "Canale del dispositivo non disponibile"
+  },
+  "*Undefined Error*": {
+    "DEU": "*Undefinierter Fehler*",
+    "NLD": "*Ongedefinieerde fout*",
+    "SPA": "*Error no definido*",
+    "TUR": "*Tanımlanmamış Hata*",
+    "POR": "*Erro indefinido*",
+    "ITA": "*Errore sconosciuto*"
+  },
+  "*Unknown Error*": {
+    "DEU": "*Unbekannter Fehler*",
+    "NLD": "*Onbekende fout*",
+    "SPA": "*Error desconocido*",
+    "TUR": "*Bilinmeyen Hata*",
+    "POR": "*Erro desconhecido*",
+    "ITA": "*Errore indefinito*"
+  },
+  "Files": {
+    "DEU": "Dateien",
+    "NLD": "Bestanden",
+    "SPA": "Archivos",
+    "TUR": "Dosyalar",
+    "POR": "Arquivos",
+    "ITA": "Files"
+  },
+  "Change Attributes": {
+    "DEU": "Attribute ändern",
+    "NLD": "Attributen wijzigen",
+    "SPA": "Cambiar Atributos",
+    "TUR": "Attribute değiştir…",
+    "POR": "Alterar Atributos",
+    "ITA": "Cambia attributi"
+  },
+  "Drive information": {
+    "DEU": "Laufwerks-Information",
+    "NLD": "Schijfinfo",
+    "SPA": "Información de Unidad",
+    "TUR": "Sürücü bilgileri",
+    "POR": "Informações da unidade",
+    "ITA": "Drive info"
+  },
+  "Split File": {
+    "DEU": "Datei aufspalten",
+    "NLD": "Bestand splitsen",
+    "SPA": "Dividir Archivo",
+    "TUR": "Dosyayı Böl…",
+    "POR": "Dividir Arquivo",
+    "ITA": "Dividi file…"
+  },
+  "Combine Files": {
+    "DEU": "Dateien zusammenführen",
+    "NLD": "Bestanden samenvoegen",
+    "SPA": "Combinar Archivos",
+    "TUR": "Dosyaları Birleştir…",
+    "POR": "Combinar Arquivos",
+    "ITA": "Combina file…"
+  },
+  "Mark": {
+    "DEU": "Markieren",
+    "NLD": "Markeren",
+    "SPA": "Marcar",
+    "TUR": "İşaretle",
+    "POR": "Marcar",
+    "ITA": "Segna"
+  },
+  "Select Group": {
+    "DEU": "Gruppe markieren",
+    "NLD": "Groep selecteren",
+    "SPA": "Seleccionar Grupo",
+    "TUR": "Grup Seç",
+    "POR": "Selecionar Grupo",
+    "ITA": "Seleziona gruppo…"
+  },
+  "Unselect Group": {
+    "DEU": "Gruppenauswahl rückgängig",
+    "NLD": "Groep deselecteren",
+    "SPA": "Deseleccionar Grupo",
+    "TUR": "Grup Seçimini Kaldır…",
+    "POR": "Desmarcar Grupo",
+    "ITA": "Deseleziona gruppo…"
+  },
+  "Unselect All": {
+    "DEU": "Nichts markieren",
+    "NLD": "Alles deselecteren",
+    "SPA": "Deseleccionar Todo",
+    "TUR": "Tümünü Seçimi Kaldır",
+    "POR": "Desmarcar Tudo",
+    "ITA": "Deseleziona tutto"
+  },
+  "Invert Selection": {
+    "DEU": "Auswahl umkehren",
+    "NLD": "Selectie omkeren",
+    "SPA": "Invertir Selección",
+    "TUR": "Seçimi Tersine Çevir",
+    "POR": "Inverter Seleção",
+    "ITA": "Inverti selezione"
+  },
+  "Compare Directories": {
+    "DEU": "Verzeichnisse vergleichen",
+    "NLD": "Mappen vergelijken",
+    "SPA": "Comparar Directorios",
+    "TUR": "Dizinleri Karşılaştır",
+    "POR": "Comparar Diretórios",
+    "ITA": "Confronta cartelle"
+  },
+  "Commands": {
+    "DEU": "Befehle",
+    "NLD": "Commando's",
+    "SPA": "Comandos",
+    "TUR": "Komutlar",
+    "POR": "Comandos",
+    "ITA": "Comandi"
+  },
+  "Copy Files": {
+    "DEU": "Dateien kopieren",
+    "NLD": "Bestanden kopiëren",
+    "SPA": "Copiar Archivos",
+    "TUR": "Dosyaları Kopyala…",
+    "POR": "Copiar Arquivos",
+    "ITA": "Copia Files"
+  },
+  "Move Files": {
+    "DEU": "Dateien bewegen",
+    "NLD": "Bestanden verplaatsen",
+    "SPA": "Mover Archivos",
+    "TUR": "Dosyaları Taşı…",
+    "POR": "Mover Arquivos",
+    "ITA": "Sposta Files…"
+  },
+  "Delete Files": {
+    "DEU": "Dateien löschen",
+    "NLD": "Bestanden verwijderen",
+    "SPA": "Borrar Archivos",
+    "TUR": "Dosyaları Sil",
+    "POR": "Excluir Arquivos",
+    "ITA": "Elimina Files"
+  },
+  "New Folder": {
+    "DEU": "Neues Verzeichnis",
+    "NLD": "Nieuwe map",
+    "SPA": "Nueva Carpeta",
+    "TUR": "Yeni Klasör…",
+    "POR": "Nova Pasta",
+    "ITA": "Nuova Cartella…"
+  },
+  "View File": {
+    "DEU": "Datei anzeigen",
+    "NLD": "Bestand bekijken",
+    "SPA": "Ver Archivo",
+    "TUR": "Dosyayı Görüntüle",
+    "POR": "Visualizar Arquivo",
+    "ITA": "Leggi File"
+  },
+  "Edit File": {
+    "DEU": "Datei bearbeiten",
+    "NLD": "Bestand bewerken",
+    "SPA": "Editar Archivo",
+    "TUR": "Dosyayı Düzenle",
+    "POR": "Editar Arquivo",
+    "ITA": "Edita File"
+  },
+  "Source <-> Target": {
+    "DEU": "Fenster tauschen",
+    "NLD": "Bron <-> Doel",
+    "SPA": "Origen<-> Destino",
+    "TUR": "Kaynak <-> Hedef",
+    "POR": "Origem <-> Destino",
+    "ITA": "Origine <-> Destinazione"
+  },
+  "Target = Source": {
+    "DEU": "Fenster angleichen",
+    "NLD": "Doel = Bron",
+    "SPA": "Destino = Origen",
+    "TUR": "Hedef = Kaynak",
+    "POR": "Destino = Origem",
+    "ITA": "Destinazione = Origine"
+  },
+  "Show": {
+    "DEU": "Ansicht",
+    "NLD": "Weergave",
+    "SPA": "Mostrar",
+    "TUR": "Göster",
+    "POR": "Mostrar",
+    "ITA": "Mostra"
+  },
+  "All Files": {
+    "DEU": "Alles",
+    "NLD": "Alle bestanden",
+    "SPA": "Todos los Archivos",
+    "TUR": "Tüm Dosyalar",
+    "POR": "Todos os Arquivos",
+    "ITA": "Tutti i file"
+  },
+  "Custom": {
+    "DEU": "Benutzerdefiniert",
+    "NLD": "Aangepast",
+    "SPA": "Filtrar",
+    "TUR": "Özel…",
+    "POR": "Personalizado",
+    "ITA": "Personalizza"
+  },
+  "Sort By Name": {
+    "DEU": "Nach Name sortieren",
+    "NLD": "Sorteren op naam",
+    "SPA": "Ordenar por Nombre",
+    "TUR": "Ada Göre Sırala",
+    "POR": "Ordenar por Nome",
+    "ITA": "Ordina per Nome"
+  },
+  "Sort By Size": {
+    "DEU": "Nach Größe sortieren",
+    "NLD": "Sorteren op grootte",
+    "SPA": "Ordenar por Tamaño",
+    "TUR": "Boyuta Göre Sırala",
+    "POR": "Ordenar por Tamanho",
+    "ITA": "Ordina per Dimensione"
+  },
+  "Sort By Date": {
+    "DEU": "Nach Datum sortieren",
+    "NLD": "Sorteren op datum",
+    "SPA": "Ordenar por Fecha",
+    "TUR": "Tarihe Göre Sırala",
+    "POR": "Ordenar por Data",
+    "ITA": "Ordina per Data"
+  },
+  "Reversed Order": {
+    "DEU": "Absteigend sortieren",
+    "NLD": "Omgekeerde volgorde",
+    "SPA": "Orden inverso",
+    "TUR": "Ters Sıra",
+    "POR": "Ordem Inversa",
+    "ITA": "Ordine inverso"
+  },
+  "Reread Source": {
+    "DEU": "Quelle neu einlesen",
+    "NLD": "Bron herlezen",
+    "SPA": "Recargar origen",
+    "TUR": "Kaynağı Tekrar Oku",
+    "POR": "Reler Origem",
+    "ITA": "Rileggi origine"
+  },
+  "Configuration": {
+    "DEU": "Konfigurieren",
+    "NLD": "Configuratie",
+    "SPA": "Configuración",
+    "TUR": "Yapılandırma",
+    "POR": "Configuração",
+    "ITA": "Configurazione"
+  },
+  "Save Settings": {
+    "DEU": "Einstellungen speichern",
+    "NLD": "Instellingen opslaan",
+    "SPA": "Guardar Opciones",
+    "TUR": "Ayarları Kaydet",
+    "POR": "Salvar Configurações",
+    "ITA": "Salva configurazione"
+  },
+  "About SymCommander": {
+    "DEU": "Über SymCommander",
+    "NLD": "Over SymCommander",
+    "SPA": "Acerca de SymCommander",
+    "TUR": "SymCommander Hakkında…",
+    "POR": "Sobre o SymCommander",
+    "ITA": "Info su SymCommander…"
+  },
+  "Created": {
+    "DEU": "Angelegt",
+    "NLD": "Aangemaakt",
+    "SPA": "Creado",
+    "TUR": "Oluşturma",
+    "POR": "Criado",
+    "ITA": "Creato"
+  },
+  "Attributes": {
+    "DEU": "Attribute",
+    "NLD": "Attributen",
+    "SPA": "Atributos",
+    "TUR": "Attribute’ler",
+    "POR": "Atributos",
+    "ITA": "Attributi"
+  },
+  "directory": {
+    "DEU": "Verzeichnis",
+    "NLD": "Map",
+    "SPA": "directorio",
+    "TUR": "dizin",
+    "POR": "diretório",
+    "ITA": "Cartella"
+  },
+  "Change attributes": {
+    "DEU": "Attribute ändern",
+    "NLD": "Attributen wijzigen",
+    "SPA": "Cambiar atributos",
+    "TUR": "Attribute’leri değiştir",
+    "POR": "Alterar atributos",
+    "ITA": "Cambia attributi"
+  },
+  "Date and time": {
+    "DEU": "Datum und Uhrzeit",
+    "NLD": "Datum en tijd",
+    "SPA": "Fecha y hora",
+    "TUR": "Tarih ve saat",
+    "POR": "Data e hora",
+    "ITA": "Data e ora"
+  },
+  "Change date/time:": {
+    "DEU": "Datum/Zeit ändern:",
+    "NLD": "Datum/tijd wijzigen:",
+    "SPA": "Cambiar fecha/hora",
+    "TUR": "Tarih/saat değiştir:",
+    "POR": "Alterar data/hora:",
+    "ITA": "Modifica data/ora:"
+  },
+  "set": {
+    "DEU": "an",
+    "NLD": "set",
+    "SPA": "establecer",
+    "TUR": "ayarla",
+    "POR": "definir",
+    "ITA": "set"
+  },
+  "reset": {
+    "DEU": "aus",
+    "NLD": "reset",
+    "SPA": "resetear",
+    "TUR": "sıfırla",
+    "POR": "redefinir",
+    "ITA": "reset"
+  },
+  "unchng": {
+    "DEU": "lassen",
+    "NLD": "ongew",
+    "SPA": "no cambiado",
+    "TUR": "izin ver",
+    "POR": "manter",
+    "ITA": "uguale"
+  },
+  "Date:": {
+    "DEU": "Datum:",
+    "NLD": "Datum:",
+    "SPA": "Fecha:",
+    "TUR": "Tarih:",
+    "POR": "Data:",
+    "ITA": "Data:"
+  },
+  "Time:": {
+    "DEU": "Zeit:",
+    "NLD": "Tijd:",
+    "SPA": "Hora:",
+    "TUR": "Saat:",
+    "POR": "Hora:",
+    "ITA": "Ora:"
+  },
+  "Current": {
+    "DEU": "Aktuell",
+    "NLD": "Huidig",
+    "SPA": "Actual",
+    "TUR": "Mevcut",
+    "POR": "Atual",
+    "ITA": "Attuale"
+  },
+  "Max. list entries": {
+    "DEU": "Listeneinträge",
+    "NLD": "Max. lijstitems",
+    "SPA": "Máx. Entradas en lista",
+    "TUR": "Maks. liste girişleri",
+    "POR": "Máx. entradas da lista",
+    "ITA": "Max n° voci"
+  },
+  "List buffer size": {
+    "DEU": "Listenbuffer",
+    "NLD": "Lijstbuffer",
+    "SPA": "Tamaño de búfer de lista",
+    "TUR": "Arabellek boyutunu listele",
+    "POR": "Tamanho do buffer da lista",
+    "ITA": "Dimensione del buffer"
+  },
+  "Copy buffer size": {
+    "DEU": "Kopierbuffer",
+    "NLD": "Kopieerbuffer",
+    "SPA": "Tamaño de búfer de copia",
+    "TUR": "Arabellek boyutunu kopyala",
+    "POR": "Tamanho do buffer de cópia",
+    "ITA": "Copia dimenzione buffer"
+  },
+  "bytes": {
+    "DEU": "bytes",
+    "NLD": "bytes",
+    "SPA": "bytes",
+    "TUR": "byte",
+    "POR": "bytes",
+    "ITA": "bytes"
+  },
+  "files": {
+    "DEU": "Dateien",
+    "NLD": "bestanden",
+    "SPA": "Archivos",
+    "TUR": "dosya",
+    "POR": "arquivos",
+    "ITA": "files"
+  },
+  "Show hidden/system files": {
+    "DEU": "zeige System/versteckte Dateien",
+    "NLD": "Verborgen/systeembestanden tonen",
+    "SPA": "Mostrar archivos ocultos/sistema",
+    "TUR": "Gizli/sistem dosyalarını göster",
+    "POR": "Mostrar arquivos ocultos/sistema",
+    "ITA": "Mostra files nascosti/di sistema"
+  },
+  "Ask before overwriting files": {
+    "DEU": "vor Überschreibung fragen",
+    "NLD": "Vragen voor overschrijven",
+    "SPA": "Preguntar antes de sobrescribir",
+    "TUR": "Dosyaların üzerine yazmadan önce sor",
+    "POR": "Perguntar antes de sobrescrever",
+    "ITA": "Chiedi prima di sovrascrivere"
+  },
+  "Copy:": {
+    "DEU": "Kopieren:",
+    "NLD": "Kopiëren:",
+    "SPA": "Copiar:",
+    "TUR": "Kopyala:",
+    "POR": "Copiar:",
+    "ITA": "Copia:"
+  },
+  "Move:": {
+    "DEU": "Bewegen:",
+    "NLD": "Verplaatsen:",
+    "SPA": "Mover:",
+    "TUR": "Taşı:",
+    "POR": "Mover:",
+    "ITA": "Sposta:"
+  },
+  "From:": {
+    "DEU": "Von:",
+    "NLD": "Van:",
+    "SPA": "De:",
+    "TUR": "Kimden:",
+    "POR": "De:",
+    "ITA": "Da:"
+  },
+  "To:": {
+    "DEU": "Nach:",
+    "NLD": "Naar:",
+    "SPA": "A:",
+    "TUR": "Kime:",
+    "POR": "Para:",
+    "ITA": "A:"
+  },
+  "already exist. What to do?": {
+    "DEU": "existiert bereits",
+    "NLD": "bestaat al. Wat doen?",
+    "SPA": "… ya existe. ¿Qué hacemos?",
+    "TUR": "zaten mevcut. Ne yapmak istersiniz?",
+    "POR": "já existe. O que fazer?",
+    "ITA": "…il file eiste già. Cosa fare?"
+  },
+  "Overwrite": {
+    "DEU": "Ersetzen",
+    "NLD": "Overschrijven",
+    "SPA": "Sobrescribir",
+    "TUR": "Üzerine yaz",
+    "POR": "Sobrescrever",
+    "ITA": "Sovrascrivi"
+  },
+  "Overwrite all": {
+    "DEU": "Alle ersetzen",
+    "NLD": "Alles overschr",
+    "SPA": "Sobrescribir todo",
+    "TUR": "Tümünü üzerine yaz",
+    "POR": "Sobrescrever tudo",
+    "ITA": "Sovrascrivi tutti"
+  },
+  "Skip": {
+    "DEU": "Überspringen",
+    "NLD": "Overslaan",
+    "SPA": "Saltar",
+    "TUR": "Atla",
+    "POR": "Pular",
+    "ITA": "Salta"
+  },
+  "Skip all": {
+    "DEU": "Alle überspr",
+    "NLD": "Alles overslaan",
+    "SPA": "Saltar todo",
+    "TUR": "Tümünü atla",
+    "POR": "Pular tudo",
+    "ITA": "Salta tutti"
+  },
+  "Drive": {
+    "DEU": "Laufwerk",
+    "NLD": "Schijf",
+    "SPA": "Unidad",
+    "TUR": "Sürücü",
+    "POR": "Unidade",
+    "ITA": "Drive"
+  },
+  "#": {
+    "DEU": "#",
+    "NLD": "#",
+    "SPA": "#",
+    "TUR": "#",
+    "POR": "#",
+    "ITA": "#"
+  },
+  "unknown": {
+    "DEU": "unbekannt",
+    "NLD": "onbekend",
+    "SPA": "desconocido",
+    "TUR": "bilinmiyor",
+    "POR": "desconhecido",
+    "ITA": "sconosciuto"
+  },
+  "Floppy Single Side": {
+    "DEU": "Diskette SS",
+    "NLD": "Floppy SS",
+    "SPA": "Disquetera una cara",
+    "TUR": "Tek Taraflı Floppy",
+    "POR": "Disquete Face Simples",
+    "ITA": "Floppy SS"
+  },
+  "Floppy Double Side": {
+    "DEU": "Diskette DS",
+    "NLD": "Floppy DS",
+    "SPA": "Disquetera dos caras",
+    "TUR": "Çift Taraflı Floppy",
+    "POR": "Disquete Face Dupla",
+    "ITA": "Floppy DS"
+  },
+  "SD/MMC card": {
+    "DEU": "SD/MMC Karte",
+    "NLD": "SD/MMC-kaart",
+    "SPA": "Tarjeta SD/MMC",
+    "TUR": "SD/MMC kart",
+    "POR": "Cartão SD/MMC",
+    "ITA": "Scheda SD/MMC"
+  },
+  "USB device": {
+    "DEU": "USB Gerät",
+    "NLD": "USB-apparaat",
+    "SPA": "Dispositivo USB",
+    "TUR": "USB aygıt",
+    "POR": "Dispositivo USB",
+    "ITA": "Dispositivo USB"
+  },
+  "File system": {
+    "DEU": "Dateisystem",
+    "NLD": "Bestandssysteem",
+    "SPA": "Sistema de archivos",
+    "TUR": "Dosya sistemi",
+    "POR": "Sistema de arquivos",
+    "ITA": "File system"
+  },
+  "examining": {
+    "DEU": "untersuchen",
+    "NLD": "onderzoeken",
+    "SPA": "examinando",
+    "TUR": "inceleniyor",
+    "POR": "examinando",
+    "ITA": "esamino…"
+  },
+  "Error": {
+    "DEU": "Fehler",
+    "NLD": "Fout",
+    "SPA": "Error",
+    "TUR": "Hata",
+    "POR": "Erro",
+    "ITA": "Errore"
+  },
+  "KBytes": {
+    "DEU": "KBytes",
+    "NLD": "Kbytes",
+    "SPA": "Kbytes",
+    "TUR": "KByte",
+    "POR": "KBytes",
+    "ITA": "KBytes"
+  },
+  "Capacity": {
+    "DEU": "Gesamt",
+    "NLD": "Capaciteit",
+    "SPA": "Capacidad",
+    "TUR": "Kapasite",
+    "POR": "Capacidade",
+    "ITA": "Capacità"
+  },
+  "(not removable)": {
+    "DEU": "(nicht wechselbar)",
+    "NLD": "(niet verwijderbaar)",
+    "SPA": "(no extraíble)",
+    "TUR": "(çıkarılamaz)",
+    "POR": "(não removível)",
+    "ITA": "(non rimovibile)"
+  },
+  "(removable)": {
+    "DEU": "(Wechselmedium)",
+    "NLD": "(verwijderbaar)",
+    "SPA": "(extraíble)",
+    "TUR": "(çıkarılabilir)",
+    "POR": "(removível)",
+    "ITA": "(rimovibile)"
+  },
+  "Enter file type (e.g. *.exe, *.txt)": {
+    "DEU": "Dateityp (z.B. *.exe, *.txt)",
+    "NLD": "Bestandstype (bv. *.exe, *.txt)",
+    "SPA": "Introducir tipo de archivo (p.e. *.exe, *.txt)",
+    "TUR": "Dosya türünü girin (ör. *.exe, *.txt)",
+    "POR": "Digite o tipo de arquivo (ex: *.exe, *.txt)",
+    "ITA": "Indica tipo file (es: *.exe, *.txt)"
+  },
+  "??? file(s) to": {
+    "DEU": "??? Datei(en) nach",
+    "NLD": "??? bestand(en) naar",
+    "SPA": "??? archivo(s) a",
+    "TUR": "??? dosya(lar) şuraya",
+    "POR": "??? arquivo(s) para",
+    "ITA": "??? file(s) da"
+  },
+  "file(s) to": {
+    "DEU": "Datei(en) nach",
+    "NLD": "bestand(en) naar",
+    "SPA": "archivo(s) a",
+    "TUR": "dosya(lar) şuraya",
+    "POR": "arquivo(s) para",
+    "ITA": "file(s) da"
+  },
+  "Rename file/directory to": {
+    "DEU": "Umbenennen in",
+    "NLD": "Bestand/map hernoemen naar",
+    "SPA": "Renombrar archivo/directorio a",
+    "TUR": "Dosya/klasörü yeniden adlandır",
+    "POR": "Renomear arquivo/diretório para",
+    "ITA": "Rinomina file/cartella da"
+  },
+  "New directory": {
+    "DEU": "Neues Verzeichnis",
+    "NLD": "Nieuwe map",
+    "SPA": "Nuevo directorio",
+    "TUR": "Yeni dizin",
+    "POR": "Novo diretório",
+    "ITA": "Nuova Cartella…"
+  },
+  "Split the file to directory:": {
+    "DEU": "Datei auspalten nach:",
+    "NLD": "Bestand splitsen naar map:",
+    "SPA": "Dividir el archivo al directorio:",
+    "TUR": "Dosyayı dizine ayır:",
+    "POR": "Dividir arquivo para o diretório:",
+    "ITA": "Dividi file nella cartella:"
+  },
+  "KBytes per file:": {
+    "DEU": "KB pro Datei:",
+    "NLD": "KB per bestand:",
+    "SPA": "Kbytes por archivo",
+    "TUR": "KByte dosya başına:",
+    "POR": "KBytes por arquivo:",
+    "ITA": "KBytes per file:"
+  },
+  "Combine selection to file:": {
+    "DEU": "Zusammenfügen in Datei:",
+    "NLD": "Selectie samenvoegen tot bestand:",
+    "SPA": "Combinar selección a archivo:",
+    "TUR": "Seçimi dosyaya birleştir:",
+    "POR": "Combinar seleção em arquivo:",
+    "ITA": "Combina i selezionati nel file:"
+  },
+  "Do you really want to delete the": {
+    "DEU": "Sollen wirklich die",
+    "NLD": "Wilt u echt verwijderen",
+    "SPA": "¿Seguro que quieres borrar los",
+    "TUR": "Seçili dosya(lar)/kalasör(ler)",
+    "POR": "Voce realmente quer apagá-los",
+    "ITA": "Vuoi davvero eliminare"
+  },
+  "???": {
+    "DEU": "??? Dateien/",
+    "NLD": "???",
+    "SPA": "???",
+    "TUR": "???",
+    "POR": "???",
+    "ITA": "???"
+  },
+  "selected file(s)/directorie(s)?": {
+    "DEU": "Verzeichnisse gelöscht werden?",
+    "NLD": "geselecteerde bestand(en)/map(pen)?",
+    "SPA": "archivo/directorios seleccionados?",
+    "TUR": "gerçekten silmek istiyor musunuz?",
+    "POR": "arquivo(s)/diretório(s) selecionado(s)?",
+    "ITA": "file/cartelle selezionati"
+  },
+  "Wordpad for SymbOS": {
+    "DEU": "Wordpad für SymbOS",
+    "NLD": "Wordpad voor SymbOS",
+    "JPN": "ワードパッド for SymbOS",
+    "SPA": "Wordpad para SymbOS",
+    "TUR": "SymbOS için Wordpad",
+    "POR": "Wordpad para SymbOS",
+    "ITA": "Wordpad per SymbOS"
+  },
+  "Print": {
+    "DEU": "Drucken",
+    "NLD": "Afdrukken",
+    "JPN": "プリント",
+    "SPA": "Imprimir",
+    "TUR": "Yazdır…",
+    "POR": "Imprimir",
+    "ITA": "Stampa…"
+  },
+  "x240x": {
+    "JPN": "x２４０x",
+    "DEU": "x240x",
+    "NLD": "x240x16 (Edo mode)",
+    "ELL": "x240x",
+    "SPA": "x240x"
+  },
+  "x212x": {
+    "JPN": "x２１２x",
+    "DEU": "x212x",
+    "NLD": "x212x",
+    "ELL": "x212x",
+    "SPA": "x212x"
+  },
+  "Acceleration": {
+    "JPN": "アクセル",
+    "DEU": "Beschleun",
+    "NLD": "Versnl",
+    "ELL": "Επιτάχυνση",
+    "SPA": "Aceleración"
+  },
+  "Double Click": {
+    "JPN": "ダブクリ",
+    "DEU": "Doppelklick",
+    "NLD": "Dubbelkl",
+    "ELL": "Διπλό κλικ",
+    "SPA": "Doble Clic"
+  },
+  "Accelerat": {
+    "JPN": "アクセル",
+    "DEU": "Beschleun",
+    "NLD": "Versnl",
+    "ELL": "Επιτάχυνση",
+    "SPA": "Aceleración",
+    "TUR": "Hızlanma",
+    "POR": "Aceleração",
+    "ITA": "Acceleraz"
+  },
+  "DoubleClick": {
+    "JPN": "ダブクリ",
+    "DEU": "Doppelklick",
+    "NLD": "Dubbelkl",
+    "ELL": "Διπλό κλικ",
+    "SPA": "Doble Clic",
+    "TUR": "Çift tıklama",
+    "POR": "Clique duplo",
+    "ITA": "Doppio Click"
+  },
+  "Full": {
+    "DEU": "Voll",
+    "NLD": "Vol",
+    "SPA": "Todo",
+    "TUR": "Dolu",
+    "POR": "Cheio",
+    "ITA": "Pieno"
+  },
+  "SymSee": {
+    "DEU": "SymSee",
+    "NLD": "SymSee",
+    "SPA": "SymSee",
+    "TUR": "SymSee",
+    "POR": "SymSee",
+    "ITA": "SymSee"
+  },
+  "Can't display selected graphic": {
+    "DEU": "Bild nicht anzeigbar",
+    "NLD": "Kan afbeelding niet tonen",
+    "SPA": "No se puede mostrar la imagen",
+    "TUR": "Seçilen grafik görüntülenemiyor",
+    "POR": "Não é possível exibir a imagem selecionada",
+    "ITA": "Non posso visualizzare l'immagine"
+  },
+  "Not enough memory": {
+    "DEU": "Speicher voll",
+    "NLD": "Onvoldoende geheugen",
+    "SPA": "No hay memoria suficiente",
+    "TUR": "Yeterli bellek yok",
+    "POR": "Memória insuficiente",
+    "ITA": "Memoria insufficiente"
+  },
+  "No image loaded": {
+    "DEU": "Nichts geladen",
+    "NLD": "Geen afbeelding geladen",
+    "SPA": "Sin imagen",
+    "TUR": "İmaj yüklenmedi",
+    "POR": "Nenhuma imagem carregada",
+    "ITA": "Nessuna immagine"
+  },
+  "Image:": {
+    "DEU": "Bild:",
+    "NLD": "Afbeelding:",
+    "SPA": "Imagen:",
+    "TUR": "İmaj:",
+    "POR": "Imagem:",
+    "ITA": "Immagine:"
+  },
+  "colours)": {
+    "DEU": "Farben)",
+    "NLD": "kleuren)",
+    "SPA": "colores)",
+    "TUR": "renkler)",
+    "POR": "cores)",
+    "ITA": "colori)"
+  },
+  "Start Slideshow": {
+    "DEU": "Diaschau starten",
+    "NLD": "Diashow starten",
+    "SPA": "Iniciar Presentación",
+    "TUR": "Slayt gösterisini başlat",
+    "POR": "Iniciar Apresentação",
+    "ITA": "Inizia Presentazione"
+  },
+  "Use as background": {
+    "DEU": "Als Hintergrund",
+    "NLD": "Als achtergrond",
+    "SPA": "Usar como fondo",
+    "TUR": "Arkaplan olarak kullan",
+    "POR": "Usar como plano de fundo",
+    "ITA": "Usa come sfondo"
+  },
+  "Image": {
+    "DEU": "Bild",
+    "NLD": "Afbeelding",
+    "SPA": "Imagen",
+    "TUR": "İmaj",
+    "POR": "Imagem",
+    "ITA": "Immagine"
+  },
+  "Resolution:": {
+    "DEU": "Auflösung:",
+    "NLD": "Resolutie:",
+    "SPA": "Resolución:",
+    "TUR": "Çözünürlük:",
+    "POR": "Resolução:",
+    "ITA": "Risoluzione:"
+  },
+  "Slideshow": {
+    "DEU": "Diashow",
+    "NLD": "Diashow",
+    "SPA": "Presentación",
+    "TUR": "Slayt gösterisi",
+    "POR": "Apresentação",
+    "ITA": "Presentazione"
+  },
+  "Image path": {
+    "DEU": "Bilderpfad",
+    "NLD": "Pad",
+    "SPA": "Ruta",
+    "TUR": "İmaj yolu",
+    "POR": "Caminho",
+    "ITA": "Percorso"
+  },
+  "Display duration": {
+    "DEU": "Anzeigedauer",
+    "NLD": "Weergaveduur",
+    "SPA": "Mostrar durante",
+    "TUR": "Görüntülenme süresi",
+    "POR": "Duração da exibição",
+    "ITA": "Durata"
+  },
+  "sec": {
+    "DEU": "Sek",
+    "NLD": "sec",
+    "SPA": "seg",
+    "TUR": "San",
+    "POR": "seg",
+    "ITA": "sec"
+  },
+  "Run in fullscreen": {
+    "DEU": "Vollbildmodus",
+    "NLD": "Volledig scherm",
+    "SPA": "Pantalla completa",
+    "TUR": "Tam ekran çalıştır",
+    "POR": "Executar em tela cheia",
+    "ITA": "Esegui a pieno schermo"
+  },
+  "Random order": {
+    "DEU": "zufällige Reihenfolge",
+    "NLD": "Willekeurige volgorde",
+    "SPA": "Orden aleatorio",
+    "TUR": "Rastgele sırala",
+    "POR": "Ordem aleatória",
+    "ITA": "Ordine casuale"
+  },
+  "Error while loading font!": {
+    "POR": "Erro ao carregar fonte!",
+    "ITA": "Errore di lettura del font!"
+  },
+  "Loaded": {
+    "POR": "Carregado",
+    "DEU": "Geladen",
+    "ITA": "Loaded"
+  },
+  "Word wrap": {
+    "DEU": "Optionen",
+    "NLD": "Opties",
+    "JPN": "オプション",
+    "SPA": "Opciones",
+    "TUR": "Kelime kaydırma",
+    "POR": "Quebra de linha",
+    "ITA": "Allinea testo"
+  },
+  "Tool bar": {
+    "DEU": "Statusleiste",
+    "NLD": "Statusbalk",
+    "JPN": "ステータス バー",
+    "SPA": "Barra de estado",
+    "POR": "Barra de ferramentas",
+    "ITA": "Barra degli strumenti"
+  },
+  "Line numbers": {
+    "POR": "Números de linha",
+    "ITA": "Numeri di linea",
+    "DEU": "Zeilennummern"
+  },
+  "Load from": {
+    "POR": "Carregar de",
+    "DEU": "Schriftart",
+    "ITA": "Carica da"
+  },
+  "Fontfile": {
+    "POR": "Arquivo de fonte",
+    "DEU": "laden",
+    "ITA": "File font"
+  },
+  "International keyboard mode": {
+    "DEU": "Internationaler Tastaturmodus",
+    "NLD": "Internationale toetsenbordmodus",
+    "ELL": "Ενισχ. διατ. πλήκτρ",
+    "SPA": "Modo de teclado internacional",
+    "TUR": "Uluslararası klavye modu",
+    "POR": "Modo de teclado internacional",
+    "ITA": "Tastiere internazionali"
+  },
+  "not selected": {
+    "DEU": "nicht ausgewählt",
+    "NLD": "niet geselecteerd",
+    "SPA": "no seleccionado",
+    "TUR": "seçili değil",
+    "POR": "não selecionado",
+    "ITA": "non selezionato"
+  },
+  "Language requires FNT/KEX": {
+    "DEU": "Für die Sprache benötigten",
+    "POR": "Idioma requires FNT/KEX",
+    "ITA": "La lingua richiede FNT/KEX"
+  },
+  "files, which are missing from": {
+    "DEU": "FNT/KEX Dateien fehlen im",
+    "POR": "arquivos ausentes do",
+    "ITA": "mancanti nella cartella"
+  },
+  "/i18n/ directory. Please check": {
+    "DEU": "/i18n/ Verzeichnis",
+    "POR": "diretório /i18n/. Verifique",
+    "ITA": "/i18n/. Correggi"
+  },
+  "A restart is required for the": {},
+  "language change to take effect": {
+    "DEU": "und Neustart ausführen"
+  },
+  "in all parts of the system": {},
+  "Please save the settings and": {
+    "DEU": "Für die Sprachänderung"
+  },
+  "restart the system for the language": {
+    "DEU": "Einstellungen speichern"
+  },
+  "change to take effect everywhere": {
+    "DEU": "und Neustart ausführen"
+  },
+  "Menu": {
+    "DEU": "Menü",
+    "NLD": "Menu",
+    "ELL": "Μενού",
+    "SPA": "Menú",
+    "TUR": "Menüsü",
+    "POR": "Menu",
+    "ITA": "Menù"
+  },
+  "Button": {
+    "DEU": "Knopf"
+  },
+  "Icon width": {
+    "DEU": "Symbolbreite"
+  },
+  "Total width": {
+    "DEU": "Gesamtbreite"
+  },
+  "Caption": {
+    "DEU": "Beschriftung"
+  },
+  "Import SGX": {
+    "DEU": "SGX importieren"
+  },
+  "Export SGX": {
+    "DEU": "SGX exportieren"
+  },
+  "restart the system for the": {
+    "DEU": "Einstellungen speichern"
+  },
+  "Replaced": {},
+  "????? times": {
+    "DEU": "????? mal ersetzt"
+  },
+  "times": {
+    "DEU": "mal ersetzt"
+  }
+}

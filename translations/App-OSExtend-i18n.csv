@@ -1,0 +1,196 @@
+labels,ENG,UKR,JPN,DEU,NLD,SPA,TUR,POR,ITA
+### pack0,140,2927
+dicpretxt1,Please close the previous,"Будь ласка, спочатку закрийте",ショートカットのダイアログを,Bitte zuerst das andere,Sluit vorige,Primero cierre,Lütfen önce ilk,Feche o diálogo de,Chiudi la precedente finestra
+dicpretxt2,shortcut dialogue first.,попереднє діалогове вікно ярлика.,さきにとじてください。,Verknüpfungs-Fenster schließen.,snelkoppeling venster eerst,el diálogo de atajo previo.,kısayol diyaloğunu kapatın.,atalho anterior primeiro.,di dialogo sui collegamenti.
+wdgpretxt1,Please close the previous,"Будь ласка, спочатку закрийте",ウィジェットのダイアログを,Bitte zuerst das andere,Sluit vorige,Primero cierre,Lütfen önce ilk,Feche o diálogo de,Chiudi la precedente finestra
+wdgpretxt2,widget dialogue first.,попереднє діалогове вікно віджета.,さきにとじてください。,Widget-Fenster schließen.,widget venster eerst,el diálogo de widget previo.,widget diyaloğunu kapatın.,widget anterior primeiro.,di dialogo sui widget.
+dicfletxt1,Error while reading file.,Помилка читання файлу.,ファイルのよみこみエラー。,Fehler beim Laden.,Fout bij lezen.,La tienda falló.,Dosyayı okurken hata oluştu.,Erro ao ler arquivo.,Errore di lettura del file.
+wdgfletxt2,Wrong widget format or disc error.,Некоректний формат віджету або помилка читання диску.,ウィジェットのフォーマットまたはディスクエラー。,Widget- oder Datenträger-Problem.,Ongeldig widgetformaat.,Error de widget o disco.,Yanlış widget formatı veya disk hatası.,Erro de widget ou disco.,Problema del widget o del disco.
+dicfletxt2,Wrong icon format or disc error.,Некоректний формат піктограми або помилка читання диску.,アイコンのフォーマットまたはディスクエラー。,Icon- oder Datenträger-Problem.,Ongeldig pictogramformaat.,Error de icono o disco.,Yanlış simge formatı veya disk hatası.,Erro de ícone ou disco.,Problema dell’icona o del disco.
+wdgdeltxt1,Are you sure you want to delete,Ви впевнені що хочете,このウィジェットを,Soll dieses Widget wirklich,Wilt u deze,¿Seguro que quieres borrar,Bu widget’ı silmek İstediğinize,Tem certeza que deseja,Sicuro di voler eliminare
+wdgdeltxt2,this widget?,видалити цей віджет?,さくじょしてもよろしいですか?,gelöscht werden?,Widget verwijderen?,este widget?,emin misiniz?,excluir este widget?,questo widget?
+dicdeltxt1,Are you sure you want to delete,"Ви впевнені, що хочете видалити",さくじょしても,Bitte Löschen bestätigen für:,Het volgende te verwijderen:,¿Seguro que quieres borrar?,Silmek istediğinize emin misiniz,Tem certeza que deseja excluir,Sei sicuro di voler cancellare
+dicmemtxt1,Memory full.,Пам'ять переповнена.,メモリがいっぱいです。,Speicher voll,Geheugen vol,Memoria llena.,Bellek doldu.,Memória cheia.,Memoria esaurita
+dicmemtxt2,There is no remaining memory,Немає вільної пам'яті для,このリンクをほぞんするための,Die Verknüpfung konnte nicht,Geen vrij- geheugen meer,No hay memoria suficiente,Bu linki kaydetmek için,Não há memória disponível,Non c'è più memoria
+dicmemtxt3,available for saving this link.,збереження ярлика.,メモリがたりません。,angelegt werden.,om deze link te bewaren,para guardar este enlace.,yeterli bellek yok.,para salvar este link.,per salvare questo link.
+wdgmemtxt2,There is no remaining memory,Немає вільної пам'яті для,このウィジェットをついかするための,Das Widget konnte nicht,Geen vrij- geheugen meer,No hay memoria suficiente,Bu widget’ı eklemek için,Não há memória disponível,Non c'è più memoria
+wdgmemtxt3,available for adding this widget.,додавання цього віджета.,メモリがたりません。,hinzugefügt werden.,voor de nieuwe widget ,para añadir este widget.,yeterli bellek yok.,para adicionar este widget.,per aggiungere questo widget.
+dicfcttxt1,Folders cannot be cut.,Папки не можна вирізати.,フォルダはカットできません。,Ordner nicht ausschneidbar. Bitte,Map(en) kunnen niet worden geknipt,Las carpetas no pueden cortarse.,Klasörler kesilemez.,Pastas não podem ser cortadas.,Le cartelle non possono essere
+dicfcttxt2,"Please use copy and paste,","Будь ласка, скористайтеся копіюванням і",コピーとペーストをつかって、,"Kopieren und Einfügen, dann",Gebruik knippen en plakken,Usa copiar y pegar,"Lütfen kopyalayın ve yapıştırın,","Use copiar e colar, e então",tagliate. Usa copia e incolla e
+dicfcttxt3,and then delete the old folder.,"вставкою, а потім видаліть стару папку.",ふるいフォルダをさくじょしてください。,den alten Ordner löschen.,en daarna verwijder de oude folder,y entonces borra la carpeta antigua.,sonra klasörü silin.,exclua a pasta antiga.,poi cancella la vecchia cartella.
+wdgldetxt1,Error while loading and executing,Помилка під час запуску віджета.,ウィジェットのよみこみとじっこうでエラー。,Fehler beim Ausführen des Widgets.,Fout bij het laden en uitvoeren,Error al cargar y ejecutar el widget.,Widget yüklenirken ve yürütülürken,Erro ao carregar e executar,Errore durante l’esecuzione del
+wdgldetxt2,"widget. Disc error, corrupt widget","Помилка диску, пошкоджений файл",ディスクエラー、ファイルのはそん,"Datenträgerproblem, Datei defekt","Disk error, widget beschadigd","Error de disco, archivo de widget ","hata oluştu Disk hatası, bozuk widget","widget. Erro de disco, arquivo de","widget. Errore disco, widget"
+wdgldetxt3,file or memory full.,віджету або замало пам'яті.,またはメモリがいっぱいです。,oder Speicher voll.,Geheugen of Bestand vol,corrupto o memoria llena.,dosyası veya dolu bellek.,widget corrompido ou memória cheia.,corrotto o memoria esaurita.
+sysbutok,Ok,Гаразд,Ok,Ok,Ok,Aceptar,ŞşİıĞğ,Ok,Ok
+sysbutcnc,Cancel,Скасувати,キャンセル,Abbruch,Annuleer,Cancelar,İptal,Cancelar,Annulla
+sysbutapl,Apply,Задіяти,てきよう,Überneh.,Bevestig,Aplicar,Uygula,Aplicar,Applica
+sysbutbck,< Back,< Назад,< もどる,< Zurück,< Vorige,< Volver,< Geri,< Voltar,< Indietro
+sysbutnxt,Next >,Далі >,つぎへ >,Weiter >,Verder >,Sig. >,İleri >,Avanç. >,Avanti >
+sysbutfin,Finish,Готово,かんりょう,Fertig,Voltooien,Terminar,Bitir,Concluir,Terminare
+sysbutbrw,Browse...,Огляд…,えらぶ...,Wählen...,Bladeren...,Explorar...,Gözat…,Buscar...,Sfoglia…
+stmemptxt,[empty],[порожній],[から],[leer],[leeg],[vacío],[boş],[vazio],[vuoto]
+systxtprp,Properties,Властивості,プロパティ,Eigenschaften,Eigenschappen,Propiedades,Özellikler,Propriedades,Proprietà
+systitsec,SymbOS security,Безпека SymbOS,SymbOSセキュリティ,SymbOS-Sicherheit,SymbOS-beveiliging,Seguridad de SymbOS,SymbOS güvenliği,Segurança do SymbOS,Sicurezza di SymbOS
+systxtsec1t,Use the Task Manager to close an,"Використовуйте ""Дисп завд"", щоб",おうとうしないアプリケーションをとじるには,Task Manager verwenden um eine nicht,Gebruik taakbeheer voor sluiten,Usa el Gestor de Tareas para cerrar,Yanıt vermeyen bir uygulamayı kapatmak,Use o Gerenciador de Tarefas para,Usa il Task Manager per terminare
+systxtsec2t,application that is not responsing.,"закрити програму, яка не відповідає.",タスクマネージャーをつかってください。,reagierende Anwendung zu schließen.,van niet-reagerende app via Taakbeheer,una aplicación que no responde.,için Görev Yöneticisi'ni kullanın.,fechar um aplicativo que não responde.,un'applicazione che non risponde.
+systxtsec3t,You are logged on since,Ви увійшли в систему,ログオンからのけいかじかん,Eingeloggt seit,Aangemeld sinds,Llevas activo,Bağlı bulunduğunuz süre,Você está conectado há,Sei loggato da
+_systxtsec4t,00 hours and ,00 годин та ,00時かん ,00 Stunden und ,00 uur en ,00 horas y ,00 saat ve ,00 horas e ,00 ore e 
+systxtsec5t,00 minutes,00 хвилин тому,00分,00 Minuten,00 minuten,00 minutos,00 dakika,00 minutos,00 minuti
+sysfrmsect,Logon information,Інформація про вхід,ログオンじょうほう,Anmeldeinformationen,Aanmeld info,Información de Acceso,Giriş bilgileri,Informações de login,Info sulla sessione
+sysbutsec1,Lock,Заблок.,ロック,Sperren,Vergrendel,Bloquear,Kilitle,Bloquear,Blocca
+sysbutsec2,Task Mgr,Дисп завд,タスクマネージャー,Task Mgr,Task Mgr,Task Mgr,Task Mgr,Task Mgr,Task Mgr
+sysbutsec3,Run...,Виконати…,じっこう...,Ausführen...,Uitvoeren...,Ejecutar...,Çalıştır…,Executar...,Esegui
+sysbutsec4,Password...,Пароль…,パスワード...,Passwort...,Wachtwoord,Password…,Parola…,Senha...,Password...
+sysbutsec5,Shut down...,Вимкнути…,シャットダウン...,Beenden...,Afsluiten...,Apagar...,Kapat…,Desligar...,Spegni…
+systitlok,Unlock computer,Розблокувати комп'ютер,コンピュータのロックかいじょ,Computer entsperren,Ontgrendel computer,Desbloquear,Bilgisayarın kilidini aç,Desbloquear computador,Sblocca il computer
+systxtlok1t,This computer is in use and,Цей комп’ютер використовується,このコンピュータはしようちゅうで,Der Computer ist in Benutzung,Deze Computer is in gebruik,Este ordenador está en uso,Bilgisayar kullanımda ve kilitli.,Este computador está em uso e,Questo computer è in uso
+systxtlok2t,has been locked.,та був заблокований.,ロックされています。,und wurde gesperrt.,en is vergrendeld,y ha sido bloqueado.,,foi bloqueado.,ed è stato bloccato.
+systxtlok3t,User name:,Користувач:,ユーザーめい:,Benutzername:,Gebruiker:,Usuario:,Kullanıcı adı:,Nome de usuário:,Utente:
+systxtlok4t,Password:,Пароль:,パスワード:,Passwort:,Wachtwoord:,Password:,Parola:,Senha:,Password:
+prgmsgerrb1,The old password is not,Старий пароль не є коректним.,ふるいパスワードが,Altes Passwort falsch. Bitte,Het oude wachtwoord is niet,La contraseña antigua no es,Önceki parola doğru değil.,A senha antiga não está,La vecchia password non è
+prgmsgerrb2,correct. Please enter the valid,Будь ласка введіть правильний,ただしくありません。へんこうするには,zum Ändern das korrekte,correct. Geef het juiste,correcta. Introduce la correcta,Lütfen değiştirmek için,"correta. Por favor, insira a",corretta. Inserisci la password giusta 
+prgmsgerrb3,password to change it.,пароль для його зміни.,ただしいパスワードをにゅうりょくしてください。,eingeben.,wachtwoord.,para cambiarla.,geçerli bir parola girin.,senha válida para alterá-la.,per poterla cambiare
+systitpwd,Change Password,Змінити пароль,パスワードへんこう,Passwort ändern,Wijzig wachtwoord,Cambiar Password,Parolayı Değiştir,Alterar Senha,Cambia password:
+systxtpwd2t,Old Password:,Старий пароль:,きゅうパスワード:,Altes Passwort:,Oud wachtwoord:,Antigua Password:,Eski Parola:,Senha Antiga:,Vecchia Password:
+systxtpwd3t,New Password:,Новий пароль:,しんパスワード:,Neues Passwort:,Nieuw wachtwoord:,Nueva Password:,Yeni Parola:,Nova Senha:,Nuova Password:
+systxtpwd4t,Confirm New:,Підтвердження:,しんパスワード(かくにん):,Neues bestätigen:,Nieuwe bevestigen:,Confirmar nueva:,Yeniyi Onaylayın:,Confirmar Nova:,Conferma nuova:
+prgmsgerra1,The entered passwords do not,Введені паролі не збігаються.,にゅうりょくされたパスワードが,Eingegebene Passwörter stimmen,Het ingegeven wachtwoord is niet,Las contraseñas introducidas,Girilen parolalar birbirinden,As senhas digitadas não,Le password non
+prgmsgerra2,match. Please confirm your,"Будь ласка, підтвердьте свій",いっちしません。パスワードを,nicht überein. Bitte das neue,hetzelfde. Bevestig het,"no coinciden. Por favor, confirma",farklı. Lütfen yeni parolayı,coincidem. Confirme sua,corrispondono. Conferma la tua
+prgmsgerra3,new password.,новий пароль.,かくにんしてください。,bestätigen.,nieuwe wachtwoord.,tu nueva contraseña.,onaylayın.,nova senha.,nuova password.
+wdgnewtit,Create Widget,Додавання віджету,ウィジェットをつくる,Neues Widget,Nieuwe Widget,Crear Widget,Widget Oluştur,Criar Widget,Crea Widget
+wdgnewtxt1,Type the location and name of,Введіть розташування та назву,デスクトップについかしたい,Bitte den Dateipfad des Widget,Typ de pad van de widget,Teclea la ubicación y nombre,Masaüstüne eklemek istediğiniz,Digite o local e nome do,Inserisci l'ubicazione e il nome
+wdgnewtxt2,the widget you want to add to,"віджета, який ви хочете додати",ウィジェットのばしょとなまえを,"eingeben, das aus dem Desktop",die moet worden toegevoegd,del widget que quieres añadir,widget'ın konumunu ve adını,widget que você deseja adicionar,del widget da aggiungere al
+wdgnewtxt3,"the desktop. Or, search for the",на робочий стіл. Або,にゅうりょくしてください。または「えらぶ」で,angelegt werden soll. Oder zum,aan de desktop. Of zoek naar,al escritorio. O busca el widget ,yazın. Veya Gözat'a tıklayarak,à área de trabalho. Ou procure,desktop o cercalo premendo
+wdgnewtxt4,widget by clicking Browse.,"скористайтеся кнопкою ""Огляд"".",ウィジェットをさがしてください。,"Suchen auf ""Wählen"" klicken.",de widget door te bladeren,haciendo clic en Explorar.,widget'ı aratın.,o widget clicando em Buscar.,Sfoglia.
+wdgnewtxt5,Widget path,Шлях до віджету:,ウィジェットパス,Widget Pfad,Widgetpad,Ruta del Widget,Widget yolu,Caminho do widget,Percorso del widget
+wdgnewtxt6,Choose a size for the widget.,Виберіть розмір віджету.,ウィジェットのサイズをえらんでください。,Widget-Größe auswählen.,Kies widget formaat.,Elige tamaño del widget.,Widget için bir boyut seçin.,Escolha um tamanho para o,Scegli la dimensione del widget.
+wdgnewtxt7,The following size(s) are,,つぎのサイズが,Folgende Größen sind,Beschikbare,Los siguientes tamaños ,Şu boyutlardan biri seçilebilir:,widget. Os seguintes tamanhos,Sono disponibili le seguenti
+wdgnewtxt8,available:,Доступні такі розміри:,りようできます:,verfügbar:,formaten: ,están disponibles:,,estão disponíveis:,dimensioni:
+ctxwdgtxt1,Move,Перемістити,いどう,Verschieben,Verplaats,Mover,Taşı,Mover,Sposta
+ctxwdgtxt2,Resize,Розмір,サイズへんこう,Größe ändern,Formaat,Redimensionar,Boyutunu değiştir,Redimensionar,Ridimensiona
+ctxwdgtxt3,Delete,Видалити,さくじょ,Löschen,Verwijderen,Borrar,Sil,Excluir,Elimina
+dicnewtit,Create Shortcut,Створення ярлика,ショートカットをつくる,Verknüpfung erstellen,Snelkoppeling maken,Crear Atajo,Kısayol Oluştur,Criar Atalho,Crea collegamento
+dicnewtxt1,Type the location and name of,Введіть розташування та назву,ショートカットをつくりたい,"Bitte den Dateipfad eingeben,",Typ locatie en naam van het,Teclea la ubicación y nombre,Kısayol oluşturmak istediğiniz,Digite o local e nome do,Inserisce l'ubicazione e il nome
+dicnewtxt2,the item you want to create a,"елемента, для якого потрібно",アイテムのばしょとなまえを,auf den eine Verknüfung,item dat moet worden toegevoegd,del objeto al que quieres crear,öğenin konumunu ve adını yazın.,item para o qual deseja criar,dell'oggetto per il quale vuoi
+dicnewtxt3,"shortcut to. Or, search for the",створити ярлик. Або,にゅうりょくしてください。または「えらぶ」で,erstellt werden soll. Oder zum,als snelkoppeling. Of zoek naar,un atajo. O busca el objeto ,Ya da Gözat'a tıklayarak,um atalho. Ou procure o item,creare il collegamento o
+dicnewtxt4,item by clicking Browse.,"скористайтеся кнопкою ""Огляд"".",アイテムをさがしてください。,"Suchen auf ""Wählen"" klicken.",bestand door te bladeren.,haciendo clic en Explorar.,öğeyi arayın.,clicando em Buscar.,cercalo premendo Sfoglia.
+dicnewtxt5,Command line,Командний рядок:,コマンドライン,Kommandozeile,Opdrachtregel,Línea de comandos,Komut satırı,Linha de comando,Linea di comando
+dicnewtxt6,Select a name for the shortcut:,Введіть ім'я ярлика:,ショートカットのなまえをえらんでください:,Name der Verknüpfung:,Naam voor snelkoppeling,Nombre para el atajo:,Kısayol için bir ad seçin:,Selecione um nome para o atalho:,Nome per il collegamento:
+dicnewtxt7,Select an icon for the shortcut:,Виберіть піктограму для ярлика:,ショートカットのアイコンをえらんでください:,Icon für die Verknüpfung:,Pictrogram voor snelkoppeling,Icono para el atajo:,Kısayol için bir simge seçin:,Selecione um ícone para o atalho:,Icona per il collegamento:
+dicnewtxt8,Use file icon,Використати вбудовану,ファイルアイコンをつかう,Aus Datei,Uit bestand halen,Icono de archivo,Dosya simgesi ,Ícone do arquivo,Usa icona del file
+dicnewtxt9,Select icon...,Вибрати піктограму…,アイコンをえらぶ...,Icon wählen...,Icoon kiezen...,Seleccionar…,Simge seç…,Selecionar ícone...,Seleziona icona…
+dicprptxt0,File name,Ім'я файлу:,ファイルめい,Dateiname,Bestand,Nombre,Dosya adı,Nome do arquivo,Nome file
+dicprptxt1,File type,Тип файлу:,ファイルタイプ,Typ,Type,Tipo,Dosya tipi,Tipo de arquivo,Tipo file
+dicprptxt2,Open with,Застосунок:,ひらく,Öffnen mit,Start met,Abrir con,Birlikte aç,Abrir com,Apri con
+dicprptxt3,Location,Розташування:,ばしょ,Ort,Locatie,Ubicación,Konum,Local,Ubicazione
+dicprptxt4,Size,Розмір:,サイズ,Größe,Grootte,Tamaño,Boyut,Tamanho,Dimensione
+dicprptxt5,Modified,Змінено:,へんこう日,Geändert,Gewijzigd,Modificado,Değiştirilmiş,Modificado,Modificato
+dicprptxta,Read only,Лише читання,よみこみせんよう,Schreibgeschützt,Alleen-lezen,Solo lectura,Salt okunabilir,Somente leitura,Sola lettura
+dicprptxtb,Hidden,Прихований,かくし,Versteckt,Verborgen,Oculto,Gizli,Oculto,Nascosto
+dicprptxtc,System,Системний,システム,System,Systeem,Sistema,Sistem,Sistema,Sistema
+dicprptxtd,Archive,Архівний,アーカイブ,Archiviert,Archief,Archivo,Arşiv,Arquivo,Archivio
+dicprptxtj,General,Загальні,ぜんぱん,Allgemeines,Algemeen,General,Genel,Geral,Generale
+dicprptxtk,Shortcut,Ярлик,ショートカット,Verknüpfung,Snelkoppeling,Atajo,Kısayol,Atalho,Collegamento
+dicprptxtl,Target,Об'єкт:,ターゲット,Ziel,Doel,Destino,Hedef,Destino,Destinazione
+dicprptxto,Start in,Робоча папка:,かいし,Läuft in,Start in,Iniciar en,İçinde başla,Iniciar em,Inizia in
+dicprptxtp,Run,Виконати:,じっこう,Fenster,Uitvoeren,Ejecutar,Başlat,Executar,Esegui
+dicprptxtq,Default,За замовчуванням,デフォルト,Standard,Standaard,Por defecto,Varsayılan,Padrão,Default
+dicprptxtr,Normal window,Звичайний розмір,ノーマルウィンドウ,Normal,Normaal venster,Ventana normal,Normal pencere,Janela normal,Finestra
+dicprptxts,Minimized,Згорнуте,さいしょうか,Minimiert,Geminimaliseerd,Minimizado,Küçültülmüş,Minimizado,Minimizzata
+dicprptxtt,Maximized,Розгорнуте,さいだいか,Maximiert,Gemaximaliseerd,Maximizado,Büyütülmüş,Maximizado,Ingrandita
+dicprptxtm,Browse target...,Вибрати об'єкт…,ターゲットをえらぶ...,Ziel wählen...,Doel bladeren...,Explor.destino...,Hedefe gözat…,Procurar destino...,Sfoglia destinazione…
+dicprptxtn,Change icon...,Нова піктограма…,アイコンをかえる...,Icon ändern...,Icoon kiezen...,Cambiar icono...,Simgeyi değiştir…,Alterar ícone...,Cambia icona…
+dicprptxte,???-file,Файл ???,???-#TRANSLATE#,??? Datei,???-bestand,Archivo ???,???-dosyası,Arquivo ???,File ???
+ctxicntxt1,Open,Відкрити,ひらく,Öffnen,Open,Abrir,Aç,Abrir,Apri
+ctxicntxt2,Cut,Вирізати,カット,Ausschneiden,Knippen,Cortar,Kes,Recortar,Taglia
+ctxicntxt3,Copy,Копіювати,コピー,Kopieren,Kopiëren,Copiar,Kopyala,Copiar,Incolla
+ctxicntxt4,Create Shortcut,Створити ярлик,ショートカットをつくる,Verknüpfung erstellen,Nieuwe snelkoppeling,Crear Atajo,Kısayol Oluştur,Criar Atalho,Crea collegamento
+ctxicntxt5,Delete,Видалити,さくじょ,Löschen,Verwijderen,Borrar,Sil,Excluir,Elimina
+ctxicntxt6,Rename,Перейменувати,なまえをかえる,Umbenennen,Hernoemen,Renombrar,Adını Değiştir,Renomear,Rinomina
+folgentxt1,Can't generate folder:,Неможливо створити папку:,フォルダをつくれません:,Ordner kann nicht angelegt werden,Map maken mislukt,No se puede generar la carpeta:,Klasör oluşturulamıyor:,Não é possível criar pasta:,Impossibile creare la cartella:
+folrentxt1,Can't rename folder:,Неможливо перейменувати папку:,フォルダのなまえをかえられません:,Ordner kann nicht umbenannt werden,Map hernoemen mislukt ,No se puede renombrar la carpeta:,Klasörün adı değiştirilemiyor:,Não é possível renomear pasta:,Impossibile rinominare la cartella:
+follautxt2,No launcher found,Відсутня програма запуску,ランチャーがみつかりません,Launcher nicht gefunden,Geen launcher gevonden,Lanzador no encontrado,Başlatıcı bulunamadı,Lançador não encontrado,Launcher non trovato
+foldistxt2,Disc error,Помилка диску,ディスクエラー,Datenträgerfehler,Schijfstoring,Error de disco,Disk hatası,Erro de disco,Errore disco
+ctxdsktxt1,Arrange Icons,Упорядкувати,アイコンをならべる,Icons anordnen,Rangschik pictogrammen,Ordenar Iconos,Simgeleri Düzenle,Organizar Ícones,Riordina icone
+ctxdsktxt2,Line Up Icons,Вирівняти ярлики,アイコンをせいれつ,Icons ausrichten,Lijn pictogrammen uit,Alinear Iconos,Simgeleri Sırala,Alinhar Ícones,Allinea icone
+ctxdsktxt3,Refresh,Оновити,さいよみこみ,Aktualisieren,Vernieuwen,Refrescar,Yenile,Atualizar,Aggiorna
+ctxdsktxt4,Paste,Вставити,ペースト,Einfügen,Plakken,Pegar,Yapıştır,Colar,Incolla
+ctxdsktxt5,New,Додати,しんき,Neu,Nieuw,Nuevo,Yeni,Novo,Nuovo
+ctxdsktxt7,Shortcut,Ярлик,ショートカット,Verknüpfung,Snelkoppeling,Atajo,Kısayol,Atalho,Collegamento
+ctxdsktxt8,8 x 8 grid,Сітка 8 х 8,8 x 8グリッド,8 x 8 Raster,8x8 raster,Rejilla 8 x 8,8 x 8 ızgara,Grade 8 x 8,8 x 8 griglia
+ctxdsktxt9,13 x 11 grid,Сітка 13 х 11,13 x 11グリッド,13 x 11 Raster,13 x 11 raster,Rejilla 13 x 11,13 x 11 ızgara,Grade 13 x 11,13 x 11 griglia
+ctxdsktxta,26 x 22 grid,Сітка 26 х 22,26 x 22グリッド,26 x 22 Raster,26 x 22 raster,Rejilla 2 x 22,26 x 22 ızgara,Grade 26 x 22,26 x 22 griglia
+ctxdsktxtb,48 x 40 grid,Сітка 48 х 40,48 x 40グリッド,48 x 40 Raster,48 x 40 raster,Rejilla 48 x 40,48 x 40 ızgara,Grade 48 x 40,48 x 40 griglia
+ctxdsktxtc,52 x 44 grid,Сітка 52 х 44,52 x 44グリッド,52 x 44 Raster,52 x 44 raster,Rejilla 52 x 44,52 x 44 ızgara,Grade 52 x 44,52 x 44 griglia
+ctxdsktxtd,Auto arrange,Автоматично,じどうせいり,Automatisch anordnen,Automatisch rangschikken ,Auto ordenar,Otomatik düzenle,Organização automática,Ordinamento automatico
+ctxdsktxte,Widget,Віджет,ウィジェット,Widget,Widget,Widget,Widget,Widget,Widget
+ctxdsktxtf,Folder,Нову папку,フォルダ,Ordner,Map,Carpeta,Klasör,Pasta,Cartella
+stmtoptxt1,Favourites,Уподобання,おきにいり,Favoriten,Favorieten,Favoritos,Favoriler,Favoritos,Preferiti
+stmtoptxt2,Programs,Програми,フﾟロクﾞラム,Programme,Programma's,Programas,Programlar,Programas,Programmi
+stmtoptxt3,Documents,Документи,トﾞキュメント,Dokumente,Documenten,Documentos,Belgeler,Documentos,Documenti
+stmtoptxt4,Settings,Налаштування,せってい,Einstellungen,Instellingen,Opciones,Ayarlar,Configurações,Impostazioni
+stmtoptxt5,Info,Інформація,インフォメーション,Info,Info,Información,Bilgi,Info,Aiuto
+stmtoptxt6,Run...,Виконати…,しﾞっこう...,Ausführen...,Uitvoeren...,Ejecutar...,Başlat…,Executar...,Esegui…
+stmtoptxt7,Security,Безпека,セキュリティ,Sicherheit,Beveiliging,Seguridad,Güvenlik,Segurança,Sicurezza
+stmtoptxt8,Shut down...,Завершити роботу…,シャットタﾞウン...,Beenden...,Afsluiten...,Apagar...,Kapat…,Desligar...,Spegni…
+stmtoptxta,Control Panel,Панель керування,コントロールパネル,Systemsteuerung,Configuratiescherm,Panel de Control,Yönetim Paneli ,Painel de Controle,Pannello di Controllo
+stmtoptxtb,Display,Дисплей,テﾞィスフﾟレイ,Anzeige,Weergave,Pantalla,Ekran,Tela,Display
+stmtoptxtc,Date and Time,Дата та час,にちしﾞ,Datum & Uhrzeit,Datum en tijd,Fecha y Hora,Tarih ve Saat,Data e Hora,Data e Ora
+stmtoptxtd,Startmenu,"Меню ""Пуск""",スタートメニュー,Startmenü,Startmenu,Menú Inicio,Başlat Menüsü,Menu Iniciar,Menù Avvio
+stmtoptxte,Load,Завантажити,ロード,Laden,Laden,Cargar,Yükle,Carregar,Carica
+stmtoptxtf,Save,Зберегти,セーブ,Speichern,Opslaan,Guardar,Kaydet,Salvar,Salva
+keytxtinf2,Layouts:,Розкладки:,#TRANSLATE#,Layouts:,#TRANSLATE#,Esquemas:,Yerleşim planları:,Layouts:,Layout:
+### pack1,53,898
+sysbutok,Ok,Гаразд,Ok,Ok,OK,Aceptar,Ok,Ok,Ok
+sysbutcnc,Cancel,Скасувати,キャンセル,Abbruch,Annuleer,Cancelar,İptal,Cancelar,Annulla
+sysbutsrc,Browse...,Огляд…,えらぶ...,Wählen...,Bladeren...,Explorar...,Gözat…,Buscar...,Sfoglia…
+sysbutyes,Yes,Так,はい,Ja,Ja,Sí,Evet,Sim,Si
+sysbutno,No,Ні,いいえ,Nein,Nee,No,Hayır,Não,No
+systiterr,Error!,Помилка!,エラー!,Fehler!,Fout!,¡Error!,Hata!,Erro!,Errore!
+systitinf,Info,Інформація,インフォメーション,Info,Info,Información,Bilgi,Info,Info
+systitwrn,Warning,Увага,けいこく,Warnung,Waarschuwing,Aviso,Uyarı,Aviso,Attenzione
+systitcnf,Confirmation,Підтвердження,かくにん,Bestätigung,Bevestiging,Confirmación,Onay,Confirmação,Conferma
+sysbutopn,Open,Відкрити,ひらく,Öffnen,Open,Abrir,Aç,Abrir,Apri
+sysbutsav,Save,Зберегти,ほそﾞん,Speichern,Opslaan,Guardar,Kaydet,Salvar,Salva
+ticmentx1,Cut,Вирізати,カット,Ausschneiden,Knippen,Cortar,Kes,Recortar,Taglia
+ticmentx2,Copy,Копіювати,コピー,Kopieren,Kopiëren,Copiar,Kopyala,Copiar,Copia
+ticmentx3,Paste,Вставити,ペースト,Einfügen,Plakken,Pegar,Yapıştır,Colar,Incolla
+ticmentx4,Delete,Видалити,さくじょ,Löschen,Verwijderen,Borrar,Sil,Excluir,Elimina
+ticmentx5,Select All,Вибрати все,すべてせんたく,Alles markieren,Selecteer alles,Seleccionar todo,Tümünü Seç,Selecionar Tudo,Seleziona tutti
+systitrun,Run,Виконати,じっこう,Ausführen,Uitvoeren,Ejecutar,Başlat,Executar,Esegui
+systxtrun1t,"Type the path of a program or document,","Введіть ім'я програми або документа,",プログラムやドキュメントのパスを,Bitte den Dateipfad des Programms oder,Type de bestandslocatie van het,Teclea la ruta de un programa o,"Bir programın veya belgenin yolunu yazın,",Digite o caminho de um programa ou,Inserisci il percorso di un programma o di
+systxtrun2t,and SymbOS will open it for you.,і SymbOS відкриє їх.,にゅうりょくするとSymbOSがひらいてくれます。,Dokuments eingeben.,programma of document.,documento y SymbOS lo abrirá por ti.,SymbOS sizin için onu açacak.,"documento, e o SymbOS abrirá para você.",un documento e SymbOS lo aprirà per te.
+systxtrun3t,Open:,Шлях:,ひらく:,Öffnen:,Open:,Abrir:,Aç:,Abrir:,Apri:
+systitoff,Shut Down SymbOS,Завершення роботи SymbOS,SymbOSをシャットダウン,SymbOS beenden,SymbOS afsluiten,Apagar SymbOS,SymbOS’u Kapat,Desligar o SymbOS,Chiudi SymbOS
+systxtoff1t,What do you want the computer,Виберіть бажану дію:,コンピュータに,Vorgang auswählen:,Wat moet de computer doen?,¿Qué quieres que haga el,Bilgisayarın ne yapmasını,Selecione o processo: ,Selezionare il processo:
+systxtoff2t,to do?,,なにをしてほしいですか。, ,,ordenador?,İstiyorsun?,,
+sysmsgver2,This application requires a newer,Для цієї програми потрібна новіша,このアプリケーションはあたらしいSymbOSバージョンが,Anwendung benötigt eine neuere,Nieuwere SymbOS versie vereist,Esta aplicación requiere una versión más,Bu uygulama daha yeni bir SymbOS,Este aplicativo requer uma,Questa applicazione richiede una
+sysmsgver3,SymbOS version. Please upgrade.,версія SymbOS. Оновіть її.,ひつようです。アップグレードしてください。,SymbOS Version. Bitte aktualisieren.,Vernieuw uw systeem.,moderna de SymbOS. Actualiza.,sürümü gerektirir. Lütfen yükseltin. ,Versão mais nova do SymbOS.,versione di SymbOS più recente.
+sysmsgfnd1,File not found:,Файл не знайдено:,ファイルがみつかりません:,Datei nicht gefunden:,Bestand niet gevonden:,Archivo no encontrado:,Dosya bulunamadı:,Arquivo não encontrado:,File non trovato:
+sysmsgfnd2,The file or the path don't exist.,Файл чи шлях до нього не існує.,そのファイルまたはパスはありません。,Bitte auf korrekten,Pad bestaat niet.,Comprueba tu entrada.,Dosya veya yol mevcut değil.,O arquivo ou caminho não existe.,File o percorso inesistenti.
+sysmsgfnd3,Please check your input.,Перевірте вхідні дані.,にゅうりょくをたしかめてください。,Pfad überprüfen.,Controleer invoer.,,Lütfen girdiğiniz bilgileri kontrol edin.,"Por favor, verifique sua entrada.",Controlla cosa hai scritto.
+sysmsgexe1,File is not executable:,Файл не є виконуваним:,じっこうできないファイルです:,Nicht ausführbar:,Niet uitvoerbaar:,No es ejecutable:,Çalıştırılabilir bir dosya değil.,Arquivo não é executável:,File non eseguibile:
+sysmsgexe2,The selected file is not executable,Не працює під керуванням,せんたくしたファイルはSymbOSかんきょうで,Datei kann in SymbOS,Het geselecteerde bestand is,SymbOS no puede,Seçilen dosya SymbOS'ta,O arquivo selecionado,Il file selezionato non
+sysmsgexe3,in the SymbOS environment.,SymbOS.,じっこうできません。,nicht geöffnet werden.,niet uitvoerbaar in SymbOS.,abrir el archivo.,açılamıyor. ,não é executável. ,è eseguibile.
+sysmsgmem1,Memory full:,Пам'ять заповнена:,メモリがいっぱいです:,Speicher voll:,Geheugen tekort:,Memoria llena:,Bellek dolu:,Memória cheia:,Memoria esaurita:
+sysmsgmem2,There is not enough memory for,Недостатньо пам'яті для,アプリケーションをじっこうするための,Nicht genug Speicher zum,Er is onvoldoende geheugen,No hay memoria suficiente para,Uygulamayı çalıştırmak için,O aplicativo não pôde ser executado. ,Impossibile eseguire
+sysmsgmem3,executing the application.,запуску програми.,メモリがたりません。,Ausführen der Anwendung.,beschikbaar voor uitvoeren.,ejecutar esta aplicación.,yeterli bellek yok.,,l'applicazione.
+sysmsglod1,Disc error while loading file,Помилка завантаження файлу,ファイルよみこみちゅうにディスクエラー。,Datenträgerfehler beim Laden,Schijfstoring bij laden,Error de disco al cargar archivo,Dosyayı yüklerken disk hatası,Erro de disco ao carregar arquivo,Errore del disco durante il caricamento
+sysmsgdir1,Error while reading directory,Помилка читання каталогу,ディレクトリよみこみエラー,Fehler beim Ordner-Lesen,Fout bij map lezen,Error al leer directorio,Klasörü okurken hata,Erro ao ler diretório,Errore di lettura della cartella
+filseltit1,Select file,Виберіть файл,ファイルをせんたく,Datei auswählen,Selecteer bestand,Seleccionar archivo,Dosya seç,Selecionar arquivo,Seleziona file
+filseltit2,Select folder,Виберіть папку,フォルダをせんたく,Ordner auswählen,Selecteer map,Seleccionar carpeta,Klasör seç,Selecionar pasta,Seleziona cartella
+filseltxt1,Look in:,Папка:,さがすばしょ:,Ort:,Zoeken in:,Mirar en:,İçine bak:,Buscar:,Guarda in:
+filseltxt2,File name:,Ім'я:,ファイルめい:,Dateiname:,Naam:,Nombre:,Dosya adı:,Nome:,Nome:
+filseltxt3,File type:,Тип:,ファイルタイプ:,Typ:,Type:,Tipo:,Dosya tipi:,Tipo:,Tipo:
+filseltxt4,Folder:,Папка:,フォルダ:,Ordner:,Map:,Carpeta:,Klasör:,Pasta:,Cartella:
+selopntab3a,Name,Ім'я,なまえ,Name,Naam,Nombre,Ad,Nome,Nome
+selopntab3b,Size,Розмір,サイズ,Größe,Grootte,Tamaño,Boyut,Tamanho,Dim.
+selopntab3c,Date modified,Дата,へんこうび,Geändert,Datum,Fecha,Düzenleme tarihi,Data,Data
+selopntab3d,Attr.,Атриб.,アトリ,Attr.,Attr.,Attr.,Attr.,Atrib.,Attr.
+_selopntab3e,-,-,-,-,-,-,-,-,-
+dskctltx1,Restore,Відновити,リストア,Wiederherstellen,Herstel,Restaurar,Eski haline getir,Restaurar,Ripsristina
+dskctltx2,Move,Перемістити,ムーブ,Verschieben,Verplaats ,Mover,Taşı,Mover,Sposta
+dskctltx3,Resize,Змінити розмір,リサイズ,Größe ändern,Formaat,Redimensionar,Yeniden boyutlandır,Redimensionar,Ridimensiona
+dskctltx4,Minimize,Згорнути,ミニマイズ,Minimieren,Minimaliseer,Minimizar,Küçült,Minimizar,Minimizza
+dskctltx5,Maximize,Розгорнути,マキシマイズ,Maximieren,Maximaliseer,Maximizar,Büyüt,Maximizar,Ingrandisci
+dskctltx7,Close,Закрити,クローズ,Schließen,Sluiten,Cerrar,Kapat,Fechar,Chiudi

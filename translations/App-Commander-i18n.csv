@@ -1,0 +1,166 @@
+labels,ENG,UKR,DEU,NLD,SPA,TUR,POR,ITA
+### pack0,164,3101
+prgmsgerr00,Device does not exist,Пристрій не знайдено,Gerät existiert nicht,Apparaat bestaat niet,El dispositivo no existe,Aygıt mevcut değil,Dispositivo não existe,Dispositivo inesistente
+prgmsgerr01,OK,Гаразд,OK,OK,Aceptar,OK,OK,OK
+prgmsgerr02,Device not initialised,Пристрій не ініціалізовано,Gerät nicht initialisiert,Apparaat niet geïnitialiseerd,Dispositivo no iniciado,Aygıt başlatılmadı,Dispositivo não inicializado,Dispositivo non inizializzato
+prgmsgerr03,Media is damaged,Носій пошкоджений,Medium beschädigt,Medium beschadigd,Datos dañados,Medya hasar görmüş,Mídia danificada,Supporto danneggiato
+prgmsgerr04,Partition does not exist,Розділ не існує,Partition existiert nicht,Partitie bestaat niet,La partición no existe,Bölümleme mevcut değil,Partição não existe,Partizione inesistente
+prgmsgerr05,Unsupported media or partition,Непідтримуваний носій або розділ,Nicht unterstütztes Medium/Partition,Niet ondersteund medium/partitie,Partición o medio no soportados,Desteklenmeyen medya veya bölümleme,Mídia ou partição não suportada,Supporto o partizione non supportate
+prgmsgerr06,Error while sector read/write,Помилка читання/запису сектору,Fehler beim Sektor-Zugriff,Fout bij sector lezen/schrijven,Error al leer/escribir sector,Sektör okuma/yazma sırasında hata,Erro ao ler/gravar setor,Errore di lettura/scrittura del settore
+prgmsgerr07,Error while positioning,Помилка позиціонування,Positionierungsfehler,Fout bij positioneren,Error al posicionar,Konumlandırma sırasında hata,Erro ao posicionar,Errore di posizionamento
+prgmsgerr08,Abort while volume access,Перервано доступ до тому диску,Abbruch beim Datenträger-Zugriff,Afgebroken bij volume-toegang,Abortar mientras se accede al volumen,Birime erişim sırasında iptal,Acesso ao volume abortado,Errore durante l'accesso al volume
+prgmsgerr09,Unknown volume error,Невідома помилка тому,Unbekannter Datenträger-Fehler,Onbekende volumefout,Error de volumen desconocido,Bilinmeyen birim hatası,Erro de volume desconhecido,Errore sconosciuto sul volume
+prgmsgerr10,No free filehandler,Немає вільних дескрипторів файлів,Kein freier Dateihandler,Geen vrije filehandler,No hay gestor de archivo libre,Boşta dosya işleyici yok,Nenhum gestor de arquivo livre,Nessun gestore di archivio libero
+prgmsgerr11,Device does not exist,Пристрій не існує,Laufwerk existiert nicht,Apparaat bestaat niet,El dispositivo no existe,Aygıt mevcut değil,Dispositivo não existe,Dispositivo inesistente
+prgmsgerr12,Path does not exist,Шлях не існує,Pfad existiert nicht,Pad bestaat niet,La ruta no existe,Yol mevcut değil,Caminho não existe,Percorso inesistente
+prgmsgerr13,File does not exist,Файл не існує,Datei existiert nicht,Bestand bestaat niet,El archivo no existe,Dosya mevcut değil,Arquivo não existe,File inesistente
+prgmsgerr14,Access is forbidden,Доступ заборонено,Zugriff untersagt,Toegang verboden,Acceso no permitido,Erişim yasak,Acesso negado,Accesso negato
+prgmsgerr15,Invalid path or filename,Недійсний шлях або ім'я файлу,Falscher Pfad/Dateiname,Ongeldig pad/bestandsnaam,Ruta o nombre de archivo no válido,Geçersiz yol veya dosya ismi,Caminho ou nome de arquivo inválido,Percorso o nome file invalido
+prgmsgerr16,Filehandler does not exist,Дескриптор файлу не уснує,Dateihandler existiert nicht,Filehandler bestaat niet,El gestor de archivo no existe,Dosya işleyici mevcut değil,Gestor de arquivo não existe,Gestore di archivio inesistente
+prgmsgerr17,Device slot already occupied,Слот пристрою вже зайнятий,Geräteslot bereits belegt,Apparaatslot al bezet,Ranura de dispositivo ya en uso,Cihaz yuvası zaten dolu,Slot do dispositivo já ocupado,Slot del dispositivo già occupato
+prgmsgerr18,Error in file organisation,Помилка в організації файлів,Fehler in Dateiorganisation,Fout in bestandsorganisatie,Error en la organización de archivo,Dosya organizasyonunda hata,Erro na organização do arquivo,Errore nell'organizzazione dell'archivio
+prgmsgerr19,Invalid destination name,Недійсне ім'я призначення,Ungültiger Zielname,Ongeldige doelnaam,Nombre de destino no válido,Geçersiz hedef adı,Nome de destino inválido,Nome destinazione non valido
+prgmsgerr20,File/path already exist,Файл/шлях вже існує,Pfad/Dateiname existiert bereits,Bestand/pad bestaat al,Archivo/ruta ya existe,Dosya/yol zaten mevcut,Arquivo/caminho já existe,File o percorso già esistente
+prgmsgerr21,Wrong sub command code,Некоректний код підкоманди,Falscher Unterbefehl-Code,Verkeerde subcommandocode,Código de sub comando erróneo,Yanlış alt komut kodu,Código de subcomando incorreto,Codice di sub comando errato
+prgmsgerr22,Wrong attribute,Некоректний атрибут,Falsches Attribut,Verkeerd attribuut,Atributo erróneo,Yanlış attribute,Atributo incorreto,Attributo errato
+prgmsgerr23,Directory full,Каталог заповнений,Verzeichnis voll,Map vol,Directorio lleno,Dizin dolu,Diretório cheio,Cartella piena
+prgmsgerr24,Media full,Носій заповнений,Datenträger voll,Medium vol,Medio lleno,Medya dolu,Mídia cheia,Disco pieno
+prgmsgerr25,Media is write protected,Носій захищений від запису,Datenträger schreibgeschützt,Medium schrijfbeveiligd,Medio protegido para escritura,Medya yazmaya karşı korumalı,Mídia protegida contra gravação,Disco protetto da scrittura
+prgmsgerr26,Device is not ready,Диск не готовий,Gerät nicht bereit,Apparaat niet gereed,El dispositivo no está listo,Aygıt hazır değil,Dispositivo não está pronto,Dispositivo non pronto
+prgmsgerr27,Directory is not empty,Каталог не порожній,Verzeichnis nicht leer,Map niet leeg,El directorio no está vacío,Dizin boş değil,Diretório não está vazio,La cartella non è vuota
+prgmsgerr28,Invalid destination device,Недійсний пристрій призначення,Ungültiges Zielgerät,Ongeldig doelapparaat,Dispositivo de destino no válido,Geçersiz hedef aygıt,Dispositivo de destino inválido,Destinazione dispositivo non valida
+prgmsgerr29,Not supported by file system,Не підтримується файловою системою,Vom Dateisystem nicht unterstützt,Niet ondersteund door bestandssysteem,No soportado por el sistema de archivos,Dosya sistemi tarafından desteklenmiyor,Não suportado pelo sistema de arquivos,Non supportato dal File System
+prgmsgerr30,Unsupported device,Непідтримуваний пристрій,Nicht unterstütztes Gerät,Niet ondersteund apparaat,Dispositivo no soportado,Desteklenmeyen aygıt,Dispositivo não suportado,Dispositivo non supportato
+prgmsgerr31,File is read only,Файл доступний лише для читання,Datei ist schreibgeschützt,Bestand alleen-lezen,El archivo es de solo lectura,Salt okunur dosya,Arquivo somente leitura,il file è di sola lettura
+prgmsgerr32,Device channel is not available,Канал пристрою недоступний,Gerätekanal nicht verfügbar,Apparaatkanaal niet beschikbaar,Canal de dispositivo no disponible,Aygıt kanalı kullanılamıyor,Canal do dispositivo não disponível,Canale del dispositivo non disponibile
+prgmsgerru,*Undefined Error*,*Невизначена помилка*,*Undefinierter Fehler*,*Ongedefinieerde fout*,*Error no definido*,*Tanımlanmamış Hata*,*Erro indefinido*,*Errore sconosciuto*
+prgmsgerrs,*Unknown Error*,*Невідома помилка*,*Unbekannter Fehler*,*Onbekende fout*,*Error desconocido*,*Bilinmeyen Hata*,*Erro desconhecido*,*Errore indefinito*
+prgtxtok,Ok,Гаразд,Ok,Ok,Aceptar,Ok,Ok,Ok
+prgtxtcnc,Cancel,Скасувати,Abbruch,Annuleer,Cancelar,İptal,Cancelar,Annulla
+prgtxtyes,Yes,Так,Ja,Ja,Sí,Evet,Sim,Si
+prgtxtno,No,Ні,Nein,Nee,No,Hayır,Não,No
+prgwinmentx1,Files,Файли,Dateien,Bestanden,Archivos,Dosyalar,Arquivos,Files
+prgwinmen1tx1, Open, Відкрити, Öffnen, Openen, Abrir, Aç, Abrir, Apri
+prgwinmen1tx2, Change Attributes..., Змінити атрибути…, Attribute ändern..., Attributen wijzigen..., Cambiar Atributos..., Attribute değiştir…, Alterar Atributos..., Cambia attributi
+prgwinmen1tx3, Properties, Властивості…, Eigenschaften, Eigenschappen, Propiedades, Özellikler, Propriedades, Proprietà
+prgwinmen1tx4, Drive information, Інформація про диск, Laufwerks-Information, Schijfinfo, Información de Unidad, Sürücü bilgileri, Informações da unidade, Drive info
+prgwinmen1tx5, Split File..., Розділити файл…, Datei aufspalten..., Bestand splitsen..., Dividir Archivo..., Dosyayı Böl…, Dividir Arquivo..., Dividi file…
+prgwinmen1tx6, Combine Files..., Об'єднати файли…, Dateien zusammenführen..., Bestanden samenvoegen..., Combinar Archivos..., Dosyaları Birleştir…, Combinar Arquivos..., Combina File…
+prgwinmen1tx7, Quit, Вийти, Beenden, Afsluiten, Cerrar, Çıkış, Sair, Esci
+prgwinmentx2,Mark,Виділення,Markieren,Markeren,Marcar,İşaretle,Marcar,Seleziona
+prgwinmen2tx1, Select Group..., Виділити групу…, Gruppe markieren..., Groep selecteren..., Seleccionar Grupo..., Grup Seç..., Selecionar Grupo..., Seleziona gruppo…
+prgwinmen2tx2, Unselect Group..., Прибрати виділення групи…, Gruppenauswahl rückgängig..., Groep deselecteren..., Deseleccionar Grupo..., Grup Seçimini Kaldır…, Desmarcar Grupo..., Deseleziona gruppo…
+prgwinmen2tx3, Select All, Виділити все, Alles markieren, Alles selecteren, Seleccionar Todo, Tümünü Seç, Selecionar Tudo, Seleziona tutto
+prgwinmen2tx4, Unselect All, Прибрати все виділення, Nichts markieren, Alles deselecteren, Deseleccionar Todo, Tümünü Seçimi Kaldır, Desmarcar Tudo, Deseleziona tutto
+prgwinmen2tx5, Invert Selection, Інверсія виділення, Auswahl umkehren, Selectie omkeren, Invertir Selección, Seçimi Tersine Çevir, Inverter Seleção, Inverti selezione
+prgwinmen2tx6, Compare Directories, Порівняти папки, Verzeichnisse vergleichen, Mappen vergelijken, Comparar Directorios, Dizinleri Karşılaştır, Comparar Diretórios, Confronta cartelle
+prgwinmentx3,Commands,Команди,Befehle,Commando's,Comandos,Komutlar,Comandos,Comandi
+prgwinmen3tx1, Copy Files..., Копіювання…, Dateien kopieren..., Bestanden kopiëren..., Copiar Archivos..., Dosyaları Kopyala…, Copiar Arquivos..., Copia File..
+prgwinmen3tx2, Move Files..., Переміщення…, Dateien bewegen..., Bestanden verplaatsen..., Mover Archivos..., Dosyaları Taşı…, Mover Arquivos..., Sposta File…
+prgwinmen3tx3, Delete Files, Видалення, Dateien löschen, Bestanden verwijderen, Borrar Archivos, Dosyaları Sil, Excluir Arquivos, Elimina File…
+prgwinmen3tx4, New Folder..., Нова папка…, Neues Verzeichnis, Nieuwe map..., Nueva Carpeta..., Yeni Klasör…, Nova Pasta..., Nuova Cartella…
+prgwinmen3tx5, View File, Перегляд, Datei anzeigen, Bestand bekijken, Ver Archivo, Dosyayı Görüntüle, Visualizar Arquivo, Leggi File
+prgwinmen3tx6, Edit File, Редагувати, Datei bearbeiten, Bestand bewerken, Editar Archivo, Dosyayı Düzenle, Editar Arquivo,Modifica File
+prgwinmen3tx7, Search..., Пошук…, Suchen..., Zoeken..., Buscar..., Arama..., Pesquisar..., Cerca…
+prgwinmen3tx8, Source <-> Target, Поміняти панелі <->, Fenster tauschen, Bron <-> Doel, Origen<-> Destino, Kaynak <-> Hedef, Origem <-> Destino, Origine <-> Destinazione
+prgwinmen3tx9, Target = Source, Цільова = Джерелу, Fenster angleichen, Doel = Bron, Destino = Origen, Hedef = Kaynak, Destino = Origem, Destinazione = Origine
+prgwinmentx4,Show,Вигляд,Ansicht,Weergave,Mostrar,Göster,Mostrar,Mostra
+prgwinmen4tx1, All Files, Усі файли, Alles, Alle bestanden, Todos, Tüm Dosyalar, Todos os Arquivos, Tutti i file
+prgwinmen4tx3, Custom..., Фільтр…, Benutzerdefiniert..., Aangepast..., Filtrar..., Özel…, Personalizado..., Personalizza
+prgwinmen4tx4, Sort By Name, За ім'ям, Nach Name sortieren, Sorteren op naam, Ordenar por Nombre, Ada Göre Sırala , Ordenar por Nome, Ordina per Nome
+prgwinmen4tx5, Sort By Size, За розширенням, Nach Größe sortieren, Sorteren op grootte, Ordenar por Tamaño, Boyuta Göre Sırala, Ordenar por Tamanho, Ordina per Dimensione
+prgwinmen4tx6, Sort By Date, За часом, Nach Datum sortieren, Sorteren op datum, Ordenar por Fecha, Tarihe Göre Sırala, Ordenar por Data, Ordina per Data
+prgwinmen4tx7, Reversed Order, Зворотній порядок, Absteigend sortieren, Omgekeerde volgorde, Orden inverso, Ters Sıra, Ordem Inversa, Ordine inverso
+prgwinmen4tx8, Reread Source, Перечитати папку, Quelle neu einlesen, Bron herlezen, Recargar origen, Kaynağı Tekrar Oku, Reler Origem, Rileggi origine
+prgwinmentx5,Configuration,Параметри,Konfigurieren,Configuratie,Configuración,Yapılandırma,Configuração,Configurazione
+prgwinmen5tx1, Options..., Налаштування…, Einstellungen..., Opties..., Opciones..., Seçenekler…, Opções..., Opzioni…
+prgwinmen5tx2, Save Settings, Зберегти параметри, Einstellungen speichern, Instellingen opslaan, Guardar, Ayarları Kaydet, Salvar Configurações, Salva configurazione
+prgwinmentx6,?,?,?,?,?,?,?,?
+prgwinmen6tx1, Help topics, Перегляд допомоги, Index, Help, Ayuda, Yardım konuları, Tópicos de Ajuda, Aiuto
+prgwinmen6tx2, About SymCommander..., Про програму, Über SymCommander, Over SymCommander..., Acerca, SymCommander Hakkında…, Sobre o SymCommander..., Info su SymCommander…
+prgobjtxt1,View,Перегляд,Anzeigen,Weergave,Ver,Görüntüle,Visualizar,Leggi
+prgobjtxt2,Edit,Редагув.,Bearbeiten,Bewerken,Editar,Düzenle,Editar,Modifica
+prgobjtxt3,Copy,Копіювання,Kopieren,Kopiëren,Copiar,Kopyala,Copiar,Copia
+prgobjtxt4,Move,Переміщ.,Bewegen,Verplaats,Mover,Taşı,Mover,Sposta
+prgobjtxt5,Folder,Нова папка,Verzeichnis,Map,Carpeta,Klasör,Pasta,Cartella
+prgobjtxt6,Delete,Видалення,Löschen,Verwijder,Borrar,Sil,Excluir,Elimina
+propertit,Properties,Властивості,Eigenschaften,Eigenschappen,Propiedades,Özellikler,Propriedades,Proprietà
+propertxt0,Name,Ім'я:,Name,Naam,Nombre,Ad,Nome,Nome
+propertxt1,File type,Тип:,Typ,Type,Tipo,Dosya adı,Tipo,Tipo file
+propertxt2,Open with,Застосунок:,Öffnen mit,Openen met,Abrir con,Birlikte aç,Abrir com,Apri con
+propertxt3,Location,Розташування:,Ort,Locatie,Ubicación,Konum,Local,Ubicazione
+propertxt4,Size,Розмір:,Größe,Grootte,Tamaño,Boyut,Tamanho,Dimensione
+propertxt5,Created,Створено:,Angelegt,Aangemaakt,Creado,Oluşturma,Criado,Creato
+propertxt6,Modified,Змінено:,Geändert,Gewijzigd,Modificado,Düzenleme,Modificado,Modificato
+propertxt7,Attributes,Атрибути:,Attribute,Attributen,Atributos,Attribute’ler,Atributos,Attributi
+propertxta,Read only,Лише читання,Schreibgesch.,Alleen-lezen,Solo lectura,Salt okunur,Leitura,Sola lettura
+propertxtb,Hidden,Прихований,Versteckt,Verborgen,Oculto,Gizli,Oculto,Nascosto
+propertxtc,System,Системний,System,Systeem,Sistema,Sistem,Sistema,Sistema
+propertxtd,Archive,Архівний,Archive,Archief,Archivo,Arşiv,Arquivo,Archivio
+propertxth,directory,папка,Verzeichnis,Map,directorio,dizin,diretório,Cartella
+attribtit,Change attributes,Змінити атрибути,Attribute ändern,Attributen wijzigen,Cambiar atributos,Attribute’leri değiştir,Alterar atributos,Cambia attributi
+attribtxt0,Date and time,Дата й час,Datum und Uhrzeit,Datum en tijd,Fecha y hora,Tarih ve saat,Data e hora,Data e ora
+attribtxt1,Attributes,Атрибути,Attribute,Attributen,Atributos,Attribute’ler,Atributos,Attributi
+attribtxt2,Change date/time:,Змінити дату/час:,Datum/Zeit ändern:,Datum/tijd wijzigen:,Cambiar fecha/hora,Tarih/saat değiştir:,Alterar data/hora:,Modifica data/ora:
+attribtxt3,set,вст.,an,set,Sí ,ayarla,sim,set
+attribtxt4,reset,скин.,aus,reset,No,sıfırla,não,reset
+attribtxt5,unchng.,без змін,lassen,ongew.,Igual,izin ver,deixar,uguale
+attribtxt6,Date:,Дата:,Datum:,Datum:,Fecha:,Tarih:,Data:,Data:
+attribtxt7,Time:,Час:,Zeit:,Tijd:,Hora:,Saat:,Hora:,Ora:
+attribtxt8,Current,Поточний,Aktuell,Huidig,Actual,Mevcut,Atual,Attuale
+configtit,Configuration,Налаштування,Einstellungen,Configuratie,Configuración,Yapılandırma,Configuração,Configurazione
+configtxt0,Memory usage,Використання пам'яті,Speichernutzung,Geheugengebruik,Uso de memoria,Bellek kullanımı,Uso de memória,Memoria utilizzata
+configtxt1,Max. list entries,Довжина списку:,Listeneinträge,Max. lijstitems,Máx. Entradas,Liste girişleri,Máx. entradas,Max n° voci
+configtxt2,List buffer size,Буфер списку:,Listenbuffer,Lijstbuffer,Búfer de lista,Liste boyutu,Buffer da lista,Buffer di lista
+configtxt3,Copy buffer size,Буфер копіюв-ня:,Kopierbuffer,Kopieerbuffer,Búfer de copia,Kopya boyutu,Buffer de cópia,Buffer di copia
+configtxt4,bytes,байт,bytes,bytes,bytes,bayt,bytes,bytes
+configtxt5,Miscellaneous,Інше,Sonstiges,Diversen,Varios,Çeşitli,Diversos,Varie
+configtxt6,files,файлів,Dateien,bestanden,Archivos,dosya,arquivos,file
+configtxt7,Show hidden/system files,Показувати приховані/сист. файли,zeige System/versteckte Dateien,Verborgen/systeembestanden tonen,Mostrar archivos ocultos/sistema,Gizli/sistem dosyalarını göster,Mostrar arquivos ocultos/sistema,Mostra file nascosti/di sistema
+configtxt8,Ask before overwriting files,Запитувати перед перезаписом,vor Überschreibung fragen,Vragen voor overschrijven,Preguntar antes de sobrescribir,Dosya üzerine yazmayı onaylayın,Perguntar antes de sobrescrever,Chiedi prima di sovrascrivere
+copmovtxt1a,Copy:,Копіювання:,Kopieren:,Kopiëren:,Copiar:,Kopyala:,Copiar:,Copia:
+_copmovtxt1b,Move:,Переміщення:,Bewegen:,Verplaatsen:,Mover:,Taşı:,Mover:,Sposta:
+_copmovtxt0,,,,,,,,
+copmovtxt2,From:,З:,Von:,Van:,De:,Kimden:,De:,Da:
+copmovtxt3,To:,В:,Nach:,Naar:,A:,Kime:,Para:,A:
+ovtwrttxt0,...already exist. What to do?,…вже існує.,...existiert bereits. ,...bestaat al. Wat doen?,… ya existe. ¿Qué hacemos?,...zaten mevcut. Ne yapmak istersiniz?,...já existe. O que fazer?,…il file eiste già. Cosa fare?
+ovtwrttxt1,Overwrite,Замінити,Ersetzen,Overschrijven,Sobrescribir,Üzerine yaz,Sobrescrever,Sovrascrivi
+ovtwrttxt2,Overwrite all,Замінити усі,Alle ersetzen,Alles overschr.,Sobrescribir todo,Tümünü üzerine yaz,Sobrescrever tudo,Sovrascrivi tutti
+ovtwrttxt3,Skip,Пропустити,Überspringen,Overslaan,Saltar,Atla,Pular,Salta
+ovtwrttxt4,Skip all,Проп. усі,Alle überspr.,Alles overslaan,Saltar todo,Tümünü atla,Pular tudo,Salta tutti
+drvprptit,Drive information,Інформація про диск,Laufwerk Information,Schijfinfo,Información de unidad,Sürücü bilgileri,Informações da unidade,Info sul drive
+_drvprptxt0,Drive ,Диск ,Laufwerk ,Schijf ,Unidad ,Sürücü,Unidade ,Drive
+drvprptxt0a,#,#,#,#,#,#,#,#
+drvprptxt1,Type,Тип:,Typ,Type,Tipo,Tip,Tipo,Tipo
+drvprptxt20,[unknown],[невідомо],[unbekannt],[onbekend],[desconocido],[bilinmiyor],[desconhecido],[sconosciuto]
+drvprptxt2a,Floppy Single Side,Гнучкий (1-сторонній),Diskette SS,Floppy SS,Disq.una cara,Tek Taraflı Floppy,Disquete Face Simples,Floppy SS
+drvprptxt2b,Floppy Double Side,Гнучкий (2-сторонній),Diskette DS,Floppy DS,Disq.dos caras,Çift Taraflı Floppy,Disquete Face Dupla,Floppy DS
+drvprptxt2c,IDE device,IDE-пристрій,IDE Gerät,IDE-apparaat,IDE,IDE aygıt,Dispositivo IDE,Disco IDE
+drvprptxt2d,SD/MMC card,SD/MMC-карта,SD/MMC Karte,SD/MMC-kaart,SD/MMC,SD/MMC kart,Cartão SD/MMC,Scheda SD/MMC
+drvprptxt2e,USB device,USB-пристрій,USB Gerät,USB-apparaat,USB,USB aygıt,Dispositivo USB,Dispositivo USB
+drvprptxt3,File system,Файлова система:,Dateisystem,Bestandssysteem,Sistema,Dosya sistemi,Sistema,File system
+drvprptxt5,Used,Використано:,Belegt,Gebruikt,Usado,Kullanılan,Usado,Usato
+drvprptxt60,[examining...],[підрахунок…],[untersuchen...],[onderzoeken...],[examinando...],[inceleniyor...],[examinando...],[esamino…]
+drvprptxt61,[Error],[Помилка],[Fehler],[Fout],[Error],[Hata],[Erro],[Errore]
+drvprptxt62, KBytes, кбайт, KBytes, Kbytes, Kbytes, KBayt, KBytes, KBytes
+drvprptxt7,Free,Вільно:,Frei,Vrij,Libre,Boş,Livre,Liberi
+drvprptxt9,Capacity,Місткість:,Gesamt,Capaciteit,Capacidad,Kapasite,Capacidade,Capacità
+drvprptxtb0,(not removable),(не змінний),(nicht wechselbar),(niet verwijderbaar),(no extraíble),(çıkarılamaz),(não removível),(non rimovibile)
+drvprptxtb1,(removable),(змінний),(Wechselmedium),(verwijderbaar),(extraíble),(çıkarılabilir),(removível),(rimovibile)
+filtyptxt,"Enter file type (e.g. *.exe, *.txt)","Маска файлу (напр.: *.exe, *.txt):","Dateityp (z.B. *.exe, *.txt)","Bestandstype (bv. *.exe, *.txt)","Introducir tipo (p.e. *.exe, *.txt)","Dosya türünü girin (ör. *.exe, *.txt)","Tipo de arquivo (ex: *.exe, *.txt)","Indica tipo file (es: *.exe, *.txt)"
+cmdcoptxt,Copy @@@@ file(s) to,Копіювати елементи (@@@@ шт.) в:,Kopiere @@@@ Datei(en) nach,Kopiëren @@@@ bestand(en) naar,Copiar @@@@ archivo(s) a,Kopyala @@@@ dosya(lar) şuraya,Copiar @@@@ arquivo(s) para,Copia @@@@ file(s) da
+cmdcoptxt1, file(s) to, шт.) в:, Datei(en) nach, bestand(en) naar, archivo(s) a, dosya(lar) şuraya, arquivo(s) para, file(s) da
+cmdmovtxt,Move @@@@ file(s) to,Перемістити елементи (@@@@ шт.) в:,Bewege @@@@ Datei(en) nach,Verplaatsen @@@@ bestand(en) naar,Mover @@@@ archivo(s) a,Taşı @@@@ dosya(lar) şuraya,Mover @@@@ arquivo(s) para,Sposta @@@@ file(s) da
+cmdrentxt,Rename file/directory to,Перейменувати файл/папку в:,Umbenennen in,Bestand/map hernoemen naar,Renombrar archivo/directorio a,Dosya/klasörü yeniden adlandır,Renomear arquivo/diretório para,Rinomina file/cartella da
+cmdfoltxt,New directory,Створити папку:,Neues Verzeichnis,Nieuwe map,Nuevo directorio,Yeni dizin,Novo diretório,Nuova Cartella
+splitttxt1,Split the file to directory:,Розділити файл у папку:,Datei auspalten nach:,Bestand splitsen naar map:,Dividir el archivo al directorio:,Dosyayı dizine ayır:,Dividir arquivo para o diretório:,Dividi file nella cartella:
+splitttxt2,KBytes per file:,Кбайт на файл:,KB pro Datei:,KB per bestand:,KB por archivo:,KBayt/dosya:,KB por arquivo:,KBytes per file:
+combintxt,Combine selection to file:,Об'єднати вибране у файл:,Zusammenfügen in Datei:,Selectie samenvoegen tot bestand:,Combinar selección a archivo:,Seçimi dosyaya birleştir:,Combinar seleção em arquivo:,Combina i selezionati nel file:
+_confrmtxt1a,Do you really want to delete the @@@@,Видалити вибрані елементи,Sollen wirklich die @@@@ Dateien/,Wilt u echt verwijderen @@@@,¿Seguro que quieres borrar los @@@@,Seçili dosya(lar)/kalasör(ler) @@@@,Voce realmente quer apagá-los @@@@,Vuoi davvero eliminare @@@@
+confrmtxt1b,,, Dateien/,,,,,
+confrmtxt2a,selected file(s)/directorie(s)?,(@@@@ шт.)?,Verzeichnisse gelöscht werden?,geselecteerde bestand(en)/map(pen)?,archivo/directorios seleccionados?,gerçekten silmek istiyor musunuz?,arquivo(s)/diretório(s) selecionado(s)?,file/cartelle selezionati
+confrmtxt2b,, шт.)?,,,,,,
+lsttab3a,Name,Ім'я,Name,Naam,Nombre,Ad,Nome,Nome
+lsttab3b,Size,Розмір,Größe,Grootte,Tamaño,Boyut,Tamanho,Dim.
+lsttab3c,Date,Дата,Datum,Datum,Fecha,Tarih,Data,Data
+_lsttab3d,-,-,-,-,-,-,-,-

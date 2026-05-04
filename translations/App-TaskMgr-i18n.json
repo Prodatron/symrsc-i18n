@@ -1,0 +1,7 @@
+{
+    "asm": {
+        "0": "App-TaskMgr-i18n.asm"
+    },
+    "csv": "App-TaskMgr-i18n.csv",
+    "lng": "taskmgr.lng"
+}

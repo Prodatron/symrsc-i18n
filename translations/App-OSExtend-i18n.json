@@ -1,0 +1,8 @@
+{
+    "asm": {
+        "0": "App-OSExtend-i18n.asm",
+        "1": "SymbOS-Data-i18n.asm"
+    },
+    "csv": "App-OSExtend-i18n.csv",
+    "lng": "symbosxt.lng"
+}

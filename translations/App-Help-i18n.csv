@@ -1,0 +1,17 @@
+labels,ENG,DEU,NLD,SPA,TUR,POR,ITA,UKR
+### pack0,15,343
+prgtxtinf1,Help Browser for SymbOS,Help Browser für SymbOS,Help-browser voor SymbOS,Navegador de ayuda de SymbOS,SymbOS için Yardım Tarayıcısı,Navegador de Ajuda do SymbOS,Navigazione di Aiuto di SymbOS,Довідка та підтримка SymbOS
+hlptabtxt1,Contents,Inhalt,Inhoud,Contenidos,İçerikler,Conteúdo,Contenuti,Зміст
+hlptabtxt2,Search,Suchen,Zoeken,Buscar,Ara,Pesquisar,Cerca,Пошук
+hlpdsptxt1,Keyword to find:,Suchwort:,Zoekwoord:,Palabra:,Bulunacak kelime:,Palavra-chave:,Termine di ricerca:,Пошуковий термін:
+hlpdsptxt2,Select Topic:,Thema wählen:,Onderwerp kiezen:,Seleccionar Tema:,Konu Seç:,Selecionar Tópico:,Seleziona Argomento:,Виберіть тему:
+hlpbuttxt1,List Topics,Themenliste,Onderwerpenlijst,Lista de Temas,Konuları Listele,Listar Tópicos,Lista Argomenti,Показати теми
+hlpbuttxt2,Show/Next,Zeigen/Weiter,Tonen/Volgende,Mostrar/Siguiente,Göster/Sonraki,Mostrar/Próximo,Mostra/Prossimo,Показати/Далі
+txtprt1,Printing...,Drucken...,Afdrukken...,Imprimiendo...,Yazılıyor…,Imprimindo...,Stampa in corso,Друк…
+errlodtxt1,Error while loading help file,Fehler beim Laden,Fout bij laden,Error al cargar,Yardım dosyasını yüklerken hata,Erro ao carregar,Errore di caricamento,Помилка файлу довідки.
+errlodtxt2,A disc error or a file format error,Datenträgerfehler oder,Schijf- of bestandsformaatfout,Error de disco duro o,Disk hatası veya dosya biçimi hatası,Problema no disco,Errore disco o del,Помилка диска або
+errlodtxt3,occured.,beschädigte/ungültige Datei.,Kan niet lezen.,error de archivo ,oluştu,rígido ou no arquivo.,formato file.,невірний формат файлу.
+errfndtxt1,No topics found.,Keine Themen gefunden.,Geen onderwerpen gevonden,Tema no encontrado,Konu bulunamadı.,Nenhum tópico encontrado.,Argomenti non trovati.,Тем не знайдено.
+errfndtxt2,This document doesn't contain,Das Dokument enthält das,Dit document bevat het,El documento no,"Bu belge, girdiğiniz anahtar",Este documento não contém,Questo documento non contiene,Цей документ не містить
+errfndtxt3,the keyword you entered.,eigegebene Suchwort nicht.,ingevoerde zoekwoord niet,contiene la palabra.,kelimeyi içermiyor.,a palavra-chave digitada.,la parola ricercata.,введеного вами ключового слова.
+prgtxterrg,Printer Daemon not found.,Kein Printer Daemon.,Geen Printerdaemon,Sin servicio de impresión ,Yazıcı Servisi bulunamadı.,Sem servidor de impressão,Servizio di stampa non trovato.,Службу друку не знайдено.

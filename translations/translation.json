@@ -1,0 +1,24 @@
+{
+    "app_configs": [
+        "App-OSExtend-i18n.json",
+        "App-CPanel-i18n.json",
+        "App-Help-i18n.json",
+        "App-Taskmgr-i18n.json",
+        "Dmn-Network-i18n.json",
+        "Dmn-Sound-i18n.json",
+        "App-Calc-i18n.json",
+        "App-Commander-i18n.json",
+        "App-SymSee-i18n.json",
+        "App-Wordpad-i18n.json"
+    ],
+    "languages": [
+        "DEU",
+        "NLD",
+        "JPN",
+        "SPA",
+        "TUR",
+        "POR",
+        "ITA",
+        "UKR"
+    ]
+}

@@ -1,0 +1,326 @@
+labels,ENG,JPN,DEU,NLD,ELL,SPA,TUR,POR,ITA,UKR
+### pack0,134,2058
+prgerrlod,Error while loading.,ロードちゅうにエラーがはっせいしました。,Fehler beim Laden.,Fout bij laden.,Σφάλμα κατά τη φόρτωση.,Error al cargar.,Yüklerken hata oluştu.,Erro ao carregar.,Errore durante il caricamento.,Помилка завантаження.
+prgwintit,Control Panel,コントロールパネル,Systemsteuerung,Configuratiescherm,Πίνακας Ελέγχου,Panel de Control,Yönetim Paneli,Painel de Controle,Pannello di controllo,Панель керування
+prgwinsta,8 Object(s),８オブジェクト,8 Element(e),8 objecten,8 Αντικείμενα,8 Objeto(s),8 Nesne,8 objeto(s),8 elementi,Елементів: 8
+prgwinmentx1,File,ファイル,Datei,Bestand,Αρχείο,Archivo,Dosya,Arquivo,File,Файл
+prgwinmentx2,?,？,?,?,?,?,?,?,?,?
+prgwinmen1tx1,Load settings,せっていをロード,Laden,Instellingen laden,Φόρτωση ρυθμίσεων,Cargar,Ayarları yükle,Carregar,Carica,Завантажити
+prgwinmen1tx2,Save settings,せっていをセーブ,Speichern,Instellingen opslaan,Αποθήκευση ρυθμίσεων,Guardar,Ayarları kaydet,Salvar,Salva,Зберегти
+prgwinmen1tx3,Autosave,オートセーブ,Autom.speichern,Auto-opslag,Αυτόματη αποθήκευση,Autoguardado,Otomatik kaydet,Automático,Salvataggio automatico,Автозбереження
+prgwinmen1tx4,Close,とじる,Beenden,Sluiten,Κλείσιμο,Cerrar,Kapat,Fechar,Chiudi,Закрити
+prgwinmen2tx1,Helptopics,ヘルプトピック,Hilfethemen,Help,Θέματα βοήθειας,Ayuda,Yardım konuları,Ajuda,Aiuto,Довідка
+prgwinmen2tx2,Info,じょうほう,Info,Info,Πληροφορίες,Info,Bilgi,Info,Info,Інформація
+prgicnkey1a,Keyboard,キーホﾞートﾞ,Tastatur,Toetsen-,Πληκτρο-,Teclado,Klavye,Teclado,Tastiera,Клавіатура
+prgicnkey1b,,,,bord,λόγιο,,,,,
+prgicnmou2a,Mouse,マウス,Maus,Muis,Ποντίκι,Ratón,Fare,Mouse,Mouse,Миша
+prgicnmou2b,,,,,,,,,,
+prgicndsp3a,Display,テﾞィスフﾟレイ,Anzeige,Weergave,Οθόνη,Pantalla,Ekran,Tela,Display,Дисплей
+prgicndsp3b,,,,,,,,,,
+prgicntim4a,Date and,日時,Datum &,Datum en,Ημερομ.,Fecha y,Tarih,Data e,Data e,Дата та
+prgicntim4b,Time,,Uhrzeit,Tijd,και Ώρα,Hora,ve Saat,Hora,Ora,час
+prgicnfnt5a,Font and,フォント and,Schriftart,Lettertype,Γραμ ,Fuente e ,Font,Fonte e,Carattere,Шрифт та
+prgicnfnt5b,Language,#TRANSLATE#,& Sprache,en taal,και Γλώσσα,Idioma,ve Dil,Idioma,e Lingua,мова
+prgicnsys6a,System,システム,System,Systeem,Σύστημα,Sistema,Sistem,Sistema,Sistema,Система
+prgicnsys6b,,,,,,,,,,
+prgicndev7a,Mass,マス,Massen-,Opslag,Μαζική,Almacena-,Yığın,Armazena-,Dischi,Диски
+prgicndev7b,Storage,ストレーシﾞ,speicher,Bronnen,Αποθ.,miento,Depolama,mento,,
+prgicnlnk8a,Desktop,デスクトップ,Verknüpfungen,Bureaublad,Συντομεύσεις,Escritorio,Masaüstü,Área de trabalho,Desktop,Робочий стіл
+prgicnlnk8b,Shortcuts,リンク,,Snelkoppelingen,,Atajos,Kısayollar,Atalhos,Collegamenti,Ярлики
+prgicnlnk8c,Startmenu,スタートメニュー,Startmenü,Startmenu,Μενού,Menú Inicio,Başlangıç,Menu,Menù start,Меню
+prgicnlnk8d,,,,,,,Menüsü,Iniciar,,"""Пуск"""
+prgtitkey,Keyboard,キーホﾞートﾞ,Tastatur,Toetsenbord,Πληκτρολόγιο,Teclado,Klavye,Teclado,Tastiera,Клавіатура
+prgtitmou,Mouse,マウス,Maus,Muis,Ποντίκι,Ratón,Fare,Mouse,Mouse,Миша
+prgtitfnt,Font and Language,フォント,Schriftart und Sprache,Lettertype en taal,Γραμματοσειρά και Γλώσσα,Fuente e Idioma,Font ve Dil,Fonte e idioma,Carattere e Lingua,Шрифт та мова
+prgtitsys,System,システム,System,Systeem,Σύστημα,Sistema,Sistem,Sistema,Sistema,Система
+prgtitlnk,Desktop and Startmenu Links,デスクトップとスタートメニューのリンク,Verknüpfungen,Bureaublad en Startmenu,Συντομεύσεις,Atajos,Bağlantılar,Atalhos,Desktop e collegamenti del menù avvio,-
+prgbuttxt1,Ok,OK,Ok,OK,ΟΚ,Aceptar,Ok,Ok,Ok,Гаразд
+prgbuttxt2,Cancel,キャンセル,Abbruch,Annuleer,Άκυρο,Cancelar,İptal,Cancelar,Annulla,Скасувати
+prgbuttxt3,Apply,てきよう,Überneh.,Bevestig,Εφαρμ.,Aplicar,Uygula,Aplicar,Applica,Задіяти
+prgbuttxt4,Load,ロード,Laden,Laden,Φόρτ.,Cargar,Yükle,Carregar,Carica,Заван.
+prgbuttxt5,Save,セーブ,Speichern,Opslaan,Αποθ.,Guardar,Kaydet,Salvar,Salva,Збер.
+prgtitdev,Mass Storage Devices,マスストレージデバイス,Massenspeicher,Opslagapparaten,Συσκ. Αποθ. ,Almacenamiento,Yığın Depolama Aygıtları,Armazenamento ,Dispositivi di archiviazione,Накопичувачі даних
+prgtxtdev1,Drives,ドライブ,Laufwerke,Stations,Μονάδες,Unidades,Sürücüler,Unidades,Dischi,Накопичувачі
+prgtxtdev2,Settings,せってい,Einstellungen,Instellingen,Ρυθμίσεις,Opciones,Ayarlar,Configurações,Impostazioni,Налаштування
+prgtxtdev3,Del,-,-,-,-,-,Sil,-,-,—
+prgtxtdev4,Add,+,+,+,+,+,Ekle,+,+,+
+prgtxtdev5,Name,なまえ,Name,Naam,Όνομα,Nombre,İsim,Nome,Nome,Ім'я:
+prgtxtdev6,Floppy disk,フロッピーディスク,Diskette,Diskette,Δισκέτα,Unidad de disco,Floppy disk,Disquete,Floppy disk,Гнучкий диск
+prgtxtdev7,IDE device,IDEデバイス,IDE Gerät,IDE-apparaat,Συσκευή IDE,IDE,IDE aygıtı,IDE,IDE,IDE
+prgtxtdeva,SD/MMC card reader,SD／MMCカードリーダー,SD/MMC Leser,SD/MMC-lezer,SD/MMC reader,SD/MMC,SD/MMC kart okuyucu,SD/MMC,SD/MMC,SD/MMC
+prgtxtdevb,SCSI/USB device,SCSI／USBデバイス,SCSI/USB Gerät,SCSI/USB-apparaat,Συσκευή SCSI/USB,SCSI/USB,SCSI/USB aygıtı,SCSI/USB,SCSI/USB,SCSI/USB
+prgtxtdev8,Removeable medium,リムーバブルメディア,Wechseldatenträger,Verwisselbaar medium,Αφαιρούμενο μέσο,Unidad extraíble,Çıkarılabilir ortam,Mídia removível,Disco rimovibile,Змінний носій
+prgtxtdev9,Specifics,くわしく,Spezifisch,Details,Λεπτομέρειες,Detalles,Detaylar,Detalhes,Specifiche,Подробиці
+prgtxtdeve,Drive letter,ドライブレター,Laufwerkbuchs.,Stationletter.,Γράμμα μονάδας,Letra Unidad,Sürücü Harfi,Unidade,Lettera di unità,Буква:
+prgtxtdevf,Double step,ダブルステップ,Doppelschritt,Dubbele stap,Διπλό βήμα,Doble paso,Çift adım,Passo duplo,Doppio passaggio,Подвійний крок
+prgtabdevba,Master,マスター,Master,Master,Κύρια,Maestro,Master,Mestre,Master,Головний
+prgtabdevbb,Slave,スレーブ,Slave,Slave,Δευτερεύουσα,Esclavo,Slave,Escravo,Slave,Підлеглий
+prgtabdevca,Slot 1,スロット１,Slot 1,Slot 1,Θέση 1,Ranura 1,Yuva 1,Slot 1,Slot 1,Слот 1
+prgtabdevcb,Slot 2,スロット２,Slot 2,Slot 2,Θέση 2,Ranura 2,Yuva 2,Slot 2,Slot 2,Слот 2
+prgtabdevda,Device 0,デバイス０,Gerät 0,Appar.0,Συσκ. 0,Disp.0,Aygıt 0,Disp.0,Disp.0,#0
+prgtabdevdb,Device 1,デバイス１,Gerät 1,Appar.1,Συσκ. 1,Disp.1,Aygıt 1,Disp.1,Disp.1,#1
+prgtabdevdc,Device 2,デバイス２,Gerät 2,Appar.2,Συσκ. 2,Disp.2,Aygıt 2,Disp.2,Disp.2,#2
+prgtabdevdd,Device 3,デバイス３,Gerät 3,Appar.3,Συσκ. 3,Disp.3,Aygıt 3,Disp.3,Disp.3,#3
+prgtabdevde,Device 4,デバイス４,Gerät 4,Appar.4,Συσκ. 4,Disp.4,Aygıt 4,Disp.4,Disp.4,#4
+prgtabdevdf,Device 5,デバイス５,Gerät 5,Appar.5,Συσκ. 5,Disp.5,Aygıt 5,Disp.5,Disp.5,#5
+prgtabdevdg,Device 6,デバイス６,Gerät 6,Appar.6,Συσκ. 6,Disp.6,Aygıt 6,Disp.6,Disp.6,#6
+prgtabdevdh,Device 7,デバイス７,Gerät 7,Appar.7,Συσκ. 7,Disp.7,Aygıt 7,Disp.7,Disp.7,#7
+prgtabdevxa,Head 0,ヘッド０,Kopf 0,Kop 0,Κεφαλή 0,Cabezal 0,Başlık 0,Cabeça 0,Testina 0,Голівка 0
+prgtabdevxb,Head 1,ヘッド１,Kopf 1,Kop 1,Κεφαλή 1,Cabezal 1,Başlık 1,Cabeça 1,Testina 1,Голівка 1
+prgtabdevya,Not partitioned,パーティションなし,Nicht partitioniert,Geen partitie,Χωρίς διαμέριση,Sin particionar,Bölümlendirilmemiş,Não particionado,Non partizionato,не розподілено
+prgtabdevyb,Primary partition 1,プライマリーパーティション１,Prim.Partition 1,Partition 1,διαμέρισμα 1,Part.1,Birincil bölüm 1,Part.1,Partiz. 1,Розділ 1
+prgtabdevyc,Primary partition 2,プライマリーパーティション２,Prim.Partition 2,Partition 2,διαμέρισμα 2,Part.2,Birincil bölüm 2,Part.2,Partiz. 2,Розділ 2
+prgtabdevyd,Primary partition 3,プライマリーパーティション３,Prim.Partition 3,Partition 3,διαμέρισμα 3,Part.3,Birincil bölüm 3,Part.3,Partiz. 3,Розділ 3
+prgtabdevye,Primary partition 4,プライマリーパーティション４,Prim.Partition 4,Partition 4,διαμέρισμα 4,Part.4,Birincil bölüm 4,Part.4,Partiz. 4,Розділ 4
+keyobjtxt1,Definitions,ていぎ,Belegung,Definities,Ορισμοί,Definiciones,Tanımlar,Definições,Definizioni,Призначення
+keyobjtxt2,Speed,スピード,Geschwindigkeit,Snelheid,Ταχύτητα,Velocidad,Hız,Velocidade,Velocità,Швидкість
+keyobjtxt3,Buttons,ボタン,Taste,Knoppen,Κουμπιά,Botones,Butonlar,Botões,Pulsanti,Кнопки
+keyobjtxta,Key,キー,Taste,Toets,Πλήκτρο,Tecla,Tuş,Tecla,Tasto,Клавіша
+keyobjtxtb,Normal,ノーマル,Normal,Norm.,Κανονικό,Normal,Normal,Normal,Norm.,Звич.
+keyobjtxtc,Shift,シフト,Umsch.,Shift,Shift,Mays,Shift,Shift,Shift,Shift
+keyobjtxtd,Control,コントロ,Strg,Ctrl,Control,Control,Control,Ctrl,Control,Control
+keyobjtxte,Alt,Alt,Alt,Alt,Alt,Alt,Alt,Alt,Alt,Alt
+keyobjtxtk,Delay,ディレイ,Verzög.,Vertrg.,Καθυστέρηση,Retraso,Gecikme,Atraso,Ritardo,Затримка
+keyobjtxtl,Repeat,リピート,Wdh.rate,Herhaal,Επανάληψη,Repetir,Tekrar,Repetir,Ripeti,Повтор
+keyobjtxtm,Test,テスト,Test,Test,Δοκιμή,Probar,Test,Testar,Test,Тест
+mouobjtxt1,Joystick Settings,ジョイスティックせってい,Joystick,Joystickinstellingen,Ρυθμίσεις Joystick,Joystick,Joystick Ayarları,Joystick,Joystick,Джойстик
+mouobjtxt2,Mouse Settings,マウスせってい,Maus,Muisinstellingen,Ρυθμίσεις Ποντικιού,Ratón,Fare Ayarları,Mouse,Mouse,Миша
+mouobjtxt3,Button Settings,ボタンせってい,Maustasten,Knopinstellingen,Ρυθμίσεις Κουμπιών,Botones,Buton Ayarları,Botões,Pulsanti,Кнопки
+mouobjtxta,Accelerat.,アクセル,Beschleun.,Versnl.,Επιτάχυνση,Aceleración,Hızlanma,Aceleração,Acceleraz.,Прискор.
+mouobjtxtb,Speed,スピード,Geschwin.,Snelheid,Ταχύτητα,Velocidad,Hız,Velocidade,Velocità,Швидкість
+mouobjtxti,Swap left/right button,ひだりみぎボタンをこうかん,Links/rechts tauschen,Knoppen wisselen,Αντιστρ. Αρ./Δεξ.,Intercambiar izq./der.,Sol/sağ butonu değiştir,Trocar esquerdo/direito,Inverti pulsanti,Обміняти признач. кнопок
+mouobjtxtj,DoubleClick,ダブクリ,Doppelklick,Dubbelkl.,Διπλό κλικ,Doble Clic,Çift tıklama,Clique dupl.,Doppio Click,Подв.клац.
+mouobjtxtm,Wheel,ホイール,Rad,Wiel,Τροχός,Rueda,Tekerlek,Roda,Rotella,Коліщатко
+prgtxtsys0a,General,いっぱん,Allgemein,Algemeen,Γενικά,General,Genel,Geral,Generali,Загальні
+prgtxtsys0b,File types,ファイルタイプ,Dateizuordnungen,Bestandstypen,Τύποι αρχείων,Tipos de archivo,Dosya tipleri,Tipos de arquivo,Associazioni,Типи файлів
+prgtxtsys1,System info,システムじょうほう,Systeminfo,Systeeminfo,Πληροφορίες συστήματος,Info del Sistema,Sistem bilgisi,Informações do sistema,Info di Sistema,Відомості про систему
+prgtxtsys1a,Platform,プラットフォーム,Plattform,Platform,Πλατφόρμα,Plataforma,Platform,Plataforma,Piattaforma,Платформа
+prgtxtsys1b,CPU Memory,CPUメモリ,Speicher,CPU-geheugen,Μνήμη CPU,Memoria de CPU,CPU Bellek,Memória CPU,Memoria,Пам'ять
+prgtxtsys1d,OS Version,OSバージョン,OS Version,OS-versie,Έκδοση Λειτουργικού,Versión de SO,OS Sürümü,Versão do SO,Versione OS,Версія ОС
+prgtxtsys2f,[Unknown],[アンノウン],[Unbekannt],[Onbekend],[Άγνωστο],[Desconocido],[bilinmiyor],[Desconhecido],[Sconosciuto],[невідомо]
+prgtxtsys3,Miscellaneous,そのた,Allgemein,Diversen,Διάφορα,Varios,Çeşitli,Diversos,Altre Info,Різне
+prgtxtsys3a,System path,システムパス,Systempfad,Systeempad,Διαδρ. συστ.,Ruta de SO,Sistem yolu,Caminho de OS,Cartella di SO,Сист. шлях:
+prgtxtsys3d,(these options require a reboot),（リブートがひつようです）,(Optionen erfordern Neustart),(vereist herstart),(απαιτ. επανεκκ.),(Es necesario reiniciar),(Yeniden başlatma gerekli),(Reinicialização necessária),(è necessario un riavvio),(необхідне перезавантаження)
+prgtxtsys3b,Boot Extended Desktop,エクステンデッドデスクトップ,lade Extended Desktop,Gebruik Extended Desktop,Εκκίν. εκτ. επιφ.,Escritorio Extendido,Genişletilmiş Masaüstü Başlat,Área de trabalho estendida,Desktop esteso all'avvio,Розширений робочий стіл
+prgtxtsys3j,File browser uses max memory,ブラウザのさいだいメモリ,max.Speicher für Dateibrowser,max.bestandsbrowsergeheugen,Διαχ. αρχ. μέγ. μνήμ.,Explorador: Memoria máx,maks.tarayıcı depolama alanı,Memória máxima do navegador,Memoria massima al browser,Макс. ОЗП для файл. браузера
+prgtxtsys3k,Show alternative Startbutton,べつのスタートボタンをひょうじ,alternativer Startknopf,Alternatieve Startknop tonen,Εμφ. εναλ. κουμπ. Έναρ.,Botón de inicio alternativo,Alternatif Başlat Menüsü göster,Botão Iniciar alternativo,Pulsante Start alternativo,"Альтернативна кнопка ""Пуск"""
+prgtxtsys3e,Autoexec,Autoexec,Autoexec,Autoexec,Autoexec,Autoexec,Autoexec,Autoexec,Autoexec,Автозапуск
+prgtxtsys3h,Boot drive,ブートドライブ,Bootlaufwerk,Opstartstation,Μον. εκκ.,Arranque,Boot sürücüsü,Unid. de boot,Drive di avvio,Сист. диск:
+prgtxtlnk9a,Extension(s),エクステンション,Dateiendung(en),Extensie(s),Επεκτ.,Extension(es),Uzantı(lar),Extensão(ões),Estensioni,Розширення:
+prgtxtlnk9b,Application path,アプリケーションパス,Öffnen mit,Applicatiepad,Διαδρ. εφαρμ.,Ruta de Aplicación,Uygulama yolu,Caminho d.aplicativo,Percorso dell'app,Програма:
+prgtxtlnk4,Edit entry,エントリをへんしゅう,Bearbeiten,Bewerken,Επεξ. καταχ.,Editar entrada,Girişi düzenle,Editar entrada,Settaggi,Редагування
+prgtxtlnk5c,Browse...,せんたく...,Wählen...,Bladeren,Αναζήτ...,Explorar...,Gözat…,Buscar…,Sfoglia,Огляд…
+prgtxtfnt1f,characters),#TRANSLATE#,Zeichen),tekens),χαρ.),caracteres),karakter),caracteres),caratteri),символів)
+prgtxtfnt0b,Load new font,あたらしいフォントをロード,Schriftart laden,Nieuw lettertype laden,Νέα γραμ/ρά,Cargar nueva fuente,Yeni font yükle,Carregar nova fonte,Aggiungi nuovo font,Завантажити новий шрифт
+prgtxtfnt3a,Use enhanced 255 characters font,かくちょう２５５もじフォントをしよう,auf 255 Zeichen erweitern,Verbeterd 255-tekens lettertype,Ενισχ. 255 χαρ.,Usar fuente para 255 caracteres,Gelişmiş 255 karakterlik font kullan.,Usar fonte estendida de 255 caracteres,Usa font avanzato da 255 caratteri,Використ. 255-символьний шрифт
+prgtxtfnt4a,[not selected],#TRANSLATE#,[nicht ausgewählt],[niet geselecteerd],#TRANSLATE#,[no seleccionado],[seçili değil],[não selecionado],[non selezionato],[не вибрано]
+prgtxtfnt1e,The five boxing wizards jump quickly.,いろはにほへと ちりぬるを わかよたれそ つねならむ ういのおくやま けふこえて あさきゆめみし えひもせす,Zwölf laxe Typen qualmen verdächtig süße Objekte.,Op brute wijze ving de schooljuf de quasi-kalme lynx.,Ξεσκεπάζω την ψυχοφθόρα σας βδελυγμία.,Whisky bueno: ¡excitad mi frágil pequeña vejez!,Pijamalı hasta yağız şoföre çabucak güvendi.,Vejo galã sexy pôr quinze kiwis à força em baú achatado.,Quel vituperabile xenofobo zelante assaggia il whisky ed esclama: alleluja!,Хвацький юшковар Філіп щодня на ґанку готує сім'ї вечерю з жаб.
+prgtxtfntta,Font,フォント,Schriftart,Lettertype,Γραμ/ρά,Fuente,Font,Fonte,Caratteri,Шрифт
+prgtxtfnttb,Language,#TRANSLATE#,Sprache,Taal,Γλώσσα,Idioma,Dil,Idioma,Lingue,Мова
+prgtxtlng3a,Primary,#TRANSLATE#,Primär,Primair,Κύρια,Primario,Birincil,Primário,Primario,Головна
+prgtxtlng3b,Fallback,#TRANSLATE#,Ersatz,Fallback,Εφεδρ.,Sustituto,Yedek,Reserva,Riserva,Резервна
+prgtxtlng1a,Language packages,#TRANSLATE#,Sprachpakete,Taalpakketten,Πακέτα γλώσ.,Paquetes de Idioma,Dil paketleri,Pacotes de idioma,Pacchetto lingua,Мова інтерфейсу
+prgobjlng3d_df,[default],#TRANSLATE#,[standard],[standaard],[προεπ.],[por defecto],[varsayılan],[padrão],[default],[за замовчуванням]
+prgobjlng3d_sd,[self-defined],#TRANSLATE#,[definiert],[eigen],[ορισμ. χρήστ.],[auto-definido],[tanımlı],[personalizado],[definire],[самовизначення]
+prgtxtfnt5a,International keyboard mode,#TRANSLATE#,Internationaler Tastaturmodus,Internationale toetsenbordmodus,Ενισχ. διατ. πλήκτρ.,Modo de teclado internacional,Uluslararası klavye modu,Modo de teclado internacional,Tastiere internazionali,Міжнародна клавіатура
+prgtxtlng5b,Activate,#TRANSLATE#,Aktivieren,#TRANSLATE#,Ενεργ.,Activar,Etkinleştir,Ativar,Attivare,Увімкнути
+prgtxtlng5d,Show layout icon,#TRANSLATE#,Zeige Symbol,#TRANSLATE#,Εικον. διάταξης,Mostrar icono de esquema,Düzen simgesini göster,Mostrar ícone do layout,Mostra lo schema icone,Показати значок розкладки
+prgerrfnt1,Selected keyboard is not,#TRANSLATE#,Tastaturlayout passt nicht zum,#TRANSLATE#,Το πλήκτρ. δεν είναι,El teclado no es compatible con,"Seçilen klavye, yazı sistemiyle",O teclado selecionado não,La tastiera selezionata non,Вибрана клавіатура несумісна
+prgerrfnt2,compatible with the writing system.,#TRANSLATE#,Schriftsystem. Bitte Zeichensatz,#TRANSLATE#,συμβατό με το σύστ. γραφής.,sistema de escritura.,uyumlu değil.,é compatível com a escrita.,è compatibile con il sistema di scrittura,із системою письма
+prgerrfnt3,Please adjust font or keyboard.,#TRANSLATE#,oder Tastatur anpassen.,#TRANSLATE#,Ρύθμ. γραμ/ρά ή πλήκτρ.,Ajuste la fuente o el teclado.,Lütfen fontu veya klavyeyi ayarlayın.,Ajuste fonte ou teclado.,Cambia font o tastiera,Налаштуйте шрифт або клавіатуру.
+prgerrlng1,Language requires FNT/KEX,#TRANSLATE#,Für die Sprache benötigten,#TRANSLATE#,#TRANSLATE#,El idioma requiere archivos,"Dil, /i18n/ dizininde eksik olan",Idioma requires FNT/KEX,La lingua richiede FNT/KEX,Для цієї мови потрібні
+prgerrlng2,"files, which are missing from",#TRANSLATE#,FNT/KEX Dateien fehlen im,#TRANSLATE#,#TRANSLATE#,FNT/KEX que faltan del,FNT/KEX dosyalarını gerektiriyor.,arquivos ausentes do,mancanti nella cartella,"файли FNT/KEX, яких немає"
+prgerrlng3,/i18n/ directory. Please check.,#TRANSLATE#,/i18n/ Verzeichnis.,#TRANSLATE#,#TRANSLATE#,directorio /i18n/. Comprubelo,Lütfen kontrol edin.,diretório /i18n/. Verifique.,/i18n/. Correggi,в папці /i18n/. Перевірте будь ласка.
+prgbotlng1,Please save the settings and,#TRANSLATE#,Für die Sprachänderung,#TRANSLATE#,#TRANSLATE#,Guarde las selecciones y reinicie,Dil değişikliğinin etkinleşmesi için,"Por favor, salve as configurações e",Per favore salvare le impostazioni e,"Будь ласка, збережіть налашту-"
+prgbotlng2,restart the system for the,#TRANSLATE#,Einstellungen speichern,#TRANSLATE#,#TRANSLATE#,el sistema para que el cambio de,lütfen ayarları kaydedin ve,reinicie o sistema para as,riavviare il sistema perché il,"вання та перезавантажте систему,"
+prgbotlng3,language change to take effect.,#TRANSLATE#,und Neustart ausführen.,#TRANSLATE#,#TRANSLATE#,idioma tenga efecto.,sistemi yeniden başlatın.,mudanças de idioma tenham efeito.,cambiamento di lingua abbia effetto,щоб зміна мови набула чинності.
+### pack1,64,767
+prgtitdsp,Display,ディスプレイ,Anzeige,Beeldscherm,Οθόνη,Pantalla,Ekran,Tela,Display,Дисплей
+prgtitcol,Palette,パレット,Palette,Palet,Παλέτα,Paleta,Palet,Paleta,Palette,Палітра
+prgbuttxt1,Ok,OK,Ok,OK,ΟΚ,Aceptar,Ok,Ok,Ok,Гаразд
+prgbuttxt2,Cancel,キャンセル,Abbruch,Annuleer,Άκυρο,Cancelar,İptal,Cancelar,Annulla,Скасувати
+prgbuttxt3,Apply,てきよう,Überneh.,Bevestig,Εφαρμ.,Aplicar,Uygula,Aplicar,Applica,Задіяти
+prgbuttxt4,Load,ロード,Laden,Laden,Φόρτ.,Carg.,Yükle,Abrir,Carica,Заван.
+prgbuttxt5,Save,セーブ,Spei.,Opsl.,Αποθ.,Guar.,Kayd.,Salv.,Salva,Збер.
+prgbuttxt6,Define...,ていぎ...,Setzen...,Definieer...,Ορισμ...,Definir...,Tanımla…,Definir...,Imposta…,Змінити…
+prgbuttxt7,Taskbar...,タスクバー...,Taskbar,Taakbalk...,Γραμ. εργασ...,Barra de tareas,Görev Çubuğu...,Barra de tarefas...,Taskbar…,Пан. завд.
+dsptabtxt1,Deskt.,デスク,Desk.,Bureaublad,Γραφ.,Escrit.,Masaüstü,Área,Deskt.,Роб.стіл
+dsptabtxt2,Saver,セーバー,Bildschon.,Saver,Φύλακας,Salvap.,Koruyucu,Proteção,Saver,Заставка
+dsptabtxt3,Colours,カラー,Farben,Kleuren,Χρώματα,Colores,Renk,Cores,Colori,Кольори
+dsptabtxt4,Modi,モード,Modus,Modi,Λειτ.,Modo,Mod,Modos,Risol,Режим
+dspobjtxtb,Background,バックグラウンド,Hintergrund,Achtergrond,Φόντο,Fondo,Arkaplan,Fundo,Sfondo,Тло
+dspobjtxtd,Browse...,せんたく...,Wählen...,Bladeren...,Αναζήτ...,Explorar...,Gözat…,Buscar…,Sfoglia…,Огляд…
+dspobjtxtf,Setup,セット,Setup,Instel.,Ρύθμιση,Opcion.,Kurul.,Config.,Imposta,Налашт.
+dspobjtxtg,Screensaver,スクリーンセーバー,Bildschirmschoner,Screensaver,Φύλακας οθ.,Salvapantallas,Ekran Koruyucu,Protetor de tela,Screensaver,Заставка
+dspobjtxth,Wait,ウェイト,Zeit,Na,Αναμονή,Esp.,Bekle,Agu.,Avvio,Інтерв.
+dspobjtxti,min,分,min,min,λεπ,min,dak,min,min,хв.
+dspobjtxtj,Test,テスト,Test,Test,Δοκιμή,Probar,Test,Teste,Test,Тест
+dspobjtxt2,Elements,エレメント,Elemente,Elementen,Στοιχεία,Elementos,Öğeler,Elementos,Elementi,Елементи
+dspobjtxtk,Definition,ていぎ,Definition,Definitie,Ορισμός,Definición,Tanım,Definição,Definizione,Колір
+dspobjtxt3,Palette,パレット,Palette,Palet,Παλέτα,Paleta,Palet,Paleta,Palette,Палітра
+dspobjtxt7,Roll,ロール,Roll.,Rol,Κύλιση,Roll,Roll,Roll,Roll,Пврт
+dspobjtxt8,Flip,フリップ,Wcs.,Flip,Αναστρ.,Flip,Flip,Flip,Flip,Дзрк
+dspobjtxt9,Bright,ブライト,Hell.,Licht,Φωτειν.,Clr.,Aydın.,Cl.,Chiaro,Світл.
+dspobjtxta,Dark,ダーク,Dunk.,Donk.,Σκοτειν.,Osc.,Kara.,Esc.,Scuro,Темн.
+dspobjtxt1,Screenmodi,スクリーンモード,Auflösung,Schermmodi,Λειτ. οθόνης,Modo de pantalla,Ekran modu,Modos de tela,Risoluzioni,Режим екрану
+dspobjtxm8,Low,ロー,Niedr.,Laag,Χαμ.,Bajo,Düşük,Baixo,Bassa,Низький
+dspobjtxm9,High,ハイ,Höher,Hoog,Υψηλ.,Alto,Yüksek,Alto,Alta,Високий
+dspobjtxtrx,Frame 1,フレーム1,Rahmen 1,Frame 1,Πλαισ. 1,Frame 1,Çerçeve 1,Frame 1,Frame 1,Рамка 1
+dspobjtxtrx1,Frame 2,フレーム2,Rahmen 2,Frame 2,Πλαισ. 2,Frame 2,Çerçeve 2,Frame 2,Frame 2,Рамка 2
+dspobjtxtrx2,Backgr.,バック,Hintergr.,Achtergr.,Φόντο,Fondo,Arkaplan,Fundo,Sfondo,Тло
+dspobjtxtrx3,Text,テキスト,Text,Tekst,Κείμενο,Texto,Metin,Texto,Testo,Текст
+dspobjtxtry,Colour 1,カラー1,Farbe 1,Kleur 1,Χρώμα 1,Color 1,Renk 1,Cor 1,Colore 1,Колір 1
+dspobjtxtry1,Colour 2,カラー2,Farbe 2,Kleur 2 ,Χρώμα 2,Color 2,Renk 2,Cor 2,Colore 2,Колір 2
+dspobjtxtry2,Colour 3,カラー3,Farbe 3,Kleur 3,Χρώμα 3,Color 3,Renk 3,Cor 3,Colore 3,Колір 3
+dspobjtxtry3,Colour 4,カラー4,Farbe 4,Kleur 4,Χρώμα 4,Color 4,Renk 4,Cor 4,Colore 4,Колір 4
+dspobjtxtrz,Bar,バー,Leiste,Balk,Μπάρα,Barra,Çubuk,Barra,Barra,Бігунок
+_dspobjtxtr1,-,-,-,-,-,-,-,-,-,-
+_dspobjtxtr2,-,-,-,-,-,-,-,-,-,-
+_dspobjtxtr3,-,-,-,-,-,-,-,-,-,-
+_dspobjtxtr4,-,-,-,-,-,-,-,-,-,-
+dspobjtxtr5,Invert,はんてん,Invers,Omkeren,Αντιστροφή,Invertir,Tersine çevir,Inverter,Inverti,Активне
+dspobjtxtr6,Preview,プレビュー,Vorschau,Voorbeeld,Προεπ.,Previa ,Önizleme,Visualizar,Anteprima,Перегляд
+dspobjtxts1,Title,タイトル,Titel,Titel,Τίτλος,Título,Başlık,Título,Titolo,Заголовок
+dspobjtxts2,Status,ステータス,Status,Status,Κατάστ.,Estado,Durum,Status,Stato,Рядок стану
+dspobjtxts3,Slider,スライダー,Balken,Schuif,Δείκτης,Deslizador,Kaydırıcı,Controle,Slider,Повзунок
+dspobjtxts4,Menu (1),メニュー（１）,Menu (1),Menu (1),Μενού (1),Menú (1),Menü (1),Menu (1),Menu (1),Меню (1)
+dspobjtxts5,Menu (2),メニュー（２）,Menu (2),Menu (2),Μενού (2),Menú (2),Menü (2),Menu (2),Menu (2),Меню (2)
+dspobjtxts6,Taskbar,タスクバー,Taskbar,Taakbalk,Γρ. εργασ.,Barra de tareas,Görev Çubuğu,Barra de tarefas,Taskbar,Панель завдань
+dspobjtxts7,Icons,アイコン,Icons,Iconen,Εικονίδ.,Iconos,Simgeler,Ícones,Icone,Ярлики
+dspobjtxts8,Content,コンテンツ,Inhalt,Inhoud,Περιεχ.,Contenido,İçerik,Conteúdo,Contenuto,Вміст
+dspobjtxts9,Symbols,シンボル,Symbole,Symbolen,Σύμβολα,Símbolos,Semboller,Símbolos,Simboli,Символи
+dspobjtxtsa,Startlogo,スタートロゴ,Startlogo,Startlogo,Λογότυπ.,Logo Inicio,Başlangıç Logosu,Logo inicial,Logo iniziale,Стартове лого
+adt_2col,2 colours,２カラー,2 Farben,2 kleuren,2 χρ.,2 colores,2 renk,2 cores,2 colori,2 кольори
+adt_4col,4 colours,４カラー,4 Farben,4 kleuren,4 χρ.,4 colores,4 renk,4 cores,4 colori,4 кольори
+adt_16col,16 colours,１６カラー,16 Farben,16 kleuren,16 χρ.,16 colores,16 renk,16 cores,16 colori,16 кольорів
+adt_vnormal,normal,ノーマル,normal,Normaal,κανον.,normal,normal,normal,normale,звичайний
+adt_v512,512 virtual,５１２ バーチャル,512 virtuell,512 virt.,512 εικ.,512 virtual,512 sanal,512 virtual,512 virtuali,512 вірт.
+adt_v1024,1024 virtual,1024 バーチャル,1024 virtuell,1024 virt.,1024 εικ.,1024 virtual,1024 sanal,1024 virtual,1024 virtuali,1024 вірт.
+prgmsgpth1,Path too long.,パスがながすぎます。,Pfad zu lang.,Pad te lang,Διαδρ. πολύ μ/λη.,Ruta demasiado larga.,Yol fazla uzun.,Caminho muito longo.,Percorso troppo lungo,Шлях задовгий.
+prgmsgpth2,The length of the full path,フルパスのながさは,Der Pfad darf nicht länger,Volledig pad,Η πλήρης διαδρ.,La longitud de la ruta completa,Tam yolun uzunluğu,Comprimento do caminho não,Usa un percorso di,Дозволено максимум
+prgmsgpth3,shouldn't exceed 32 chars.,３２もじをこえてはいけません。,als 32 Zeichen sein.,max 32 tekens,<=32 χαρ.,no debe exceder 32 caracteres,32 karakteri geçmemelidir.,deve exceder 32 caracteres,massimo 32 caratteri,32 символи.
+### pack2,19,240
+prgtitlnk,Desktop and Startmenu Links,デスクトップとスタートメニューのリンク,Verknüpfungen,Snelkoppelingen,Συντομεύσεις,Atajos,Bağlantılar,Atalhos,Scorciatoie,"Ярлики роб.столу і меню""Пуск"""
+prgbuttxt1,Ok,OK,Ok,OK,ΟΚ,Aceptar,Ok,Ok,Ok,Гаразд
+prgbuttxt2,Cancel,キャンセル,Abbruch,Annuleer,Άκυρο,Cancelar,İptal,Cancelar,Annulla,Скасувати
+prgbuttxt3,Apply,てきよう,Überneh.,Bevestig,Εφαρμ.,Aplicar,Uygula,Aplicar,Applica,Задіяти
+prgtxtlnk2a,Desktop,デスクトップ,Desktop,Bureaublad,Γραφείο,Escritorio,Masaüstü,Desktop ,Desktop,Роб. стіл
+prgtxtlnk2b,Startmenu,スタートメニュー,Startmenu,Startmenu,Έναρξη,Menú Inicio,Başlat Menüsü,Menu Iniciar,Menù start,"Меню""Пуск"""
+prgtxtlnk3a,Up,うえ,Auf,Op,Πάνω,Arriba,Yukarı,Ac.,Su,Вгору
+prgtxtlnk3b,Down,した,Ab,Neer,Κάτω,Abajo,Aşağı,Ab.,Giu,Вниз
+prgtxtlnk3c,Del,-,-,-,-,-,Sil,-,-,-
+prgtxtlnk3d,Add,+,+,+,+,+,Ekle,+,+,+
+prgtxtlnk4,Edit entry,エントリをへんしゅう,Bearbeiten,Bewerken,Επεξ. καταχ.,Editar,Girişi düzenle,Editar entrada,Imposta,Редагувати
+prgtxtlnk5a,Path,パス,Pfad,Pad,Διαδρομή,Ruta,Yol,Cam.,Perc.,Шлях
+prgtxtlnk5c,Browse...,せんたく...,Wählen...,Bladeren,Αναζήτ...,Explorar...,Gözat…,Buscar ,Sfoglia…,Огляд…
+prgtxtlnk6a,Name,なまえ,Name,Naam,Όνομα,Nombre,Ad,Nome,Nome,Назва
+prgtxtlnk7a,Icon,アイコン,Icon,Icoon,Εικον.,Icono,Simge,Ícone,Icona,Пікт.
+prgtxtlnk7b,Use file icon,ファイルアイコンをしよう,Von Datei nehmen,Uit bestand halen,Εικον. αρχείου,Icono de archivo,Dosya simgesi kullan,Ícone do arquivo,Usa icona del file,З файлу
+prgtxtlnk7c,Select icon...,アイコンをせんたく...,Icon wählen...,Icoon kiezen...,Επιλ. εικον...,Seleccionar…,Simgeyi seç…,Selecionar ícone...,Scegli icona…,Вибрати…
+prgtxtlnk8a,XPos,Xざひょう,XPos,Xpos,X,PosX,XPos,PosX,XPos,поз.X
+prgtxtlnk8b,YPos,Yざひょう,YPos,Ypos,Y,PosY,YPos,PosY,YPos,поз.Y
+### pack3,40,671
+prgokytxt,Ok,OK,Ok,OK,ΟΚ,Aceptar,Ok,Ok,Ok,Гаразд
+prgcnctxt,Cancel,キャンセル,Abbruch,Annuleer,Άκυρο,Cancelar,İptal,Cancelar,Annulla,Скасувати
+prgapltxt,Apply,てきよう,Überneh,Bevestig,Εφαρμ,Aplicar,Uygula,Aplicar,Applica,Задіяти
+stmtxttit,Startmenu Editor,スタートメニューエディター,Startmenu Editor,Startmenu-editor,Επεξ. Μενού Έναρξης,Editor de Menú Inicio,Başlat Menüsü Düzenleyici,Editor do Menu Iniciar,Editor menù start,"Редактор меню ""Пуск"""
+stmtxtcls,Close,とじる,Schließen,Sluiten,Κλείσιμο,Cerrar,Kapat,Fechar,Chiudi,Закрити
+tabmentxt,Menu,#TRANSLATE#,Menü,Menu,Μενού,Menú,Menüsü,Menu,Menù,Меню
+tabbuttxt,Button,#TRANSLATE#,Knopf,#TRANSLATE#,#TRANSLATE#,Botón,Buton,Botão,Pulsante,Кнопка
+stmtxtasc,Add shortcut,リンクをついか,Neue Verkn.,Nieuwe snelk.,Προσθ. συντ.,Añadir atajo,Kısayol ekle,+ Atalho,+Collegamento,+ Ярлик
+stmtxtasm,Add submenu,メニューをついか,Neues Menü,Nieuw menu,Προσθ. υπομ.,Añadir menú,Alt menü ekle,+ Submenu,+Sottomenù,+ Підменю
+stmtxtedi,Edit entry,エントリをへんしゅう,Bearbeiten,Bewerken,Επεξ. καταχ.,Editar entrada,Girişi düzenle,Editar entrada,Impostazioni,Параметри пункту
+stmtxtnms,[entry is read only],［エントリはよみとりせんようです］,[schreibgeschützt],[alleen-lezen],[μόνο ανάν.],[solo lectura],[giriş salt okunur],[somente leitura],[voce di sola lettura],[незмінний]
+stmtxtnmd,Name,なまえ,Name,Naam,Όνομα,Nombre,Ad,Nome,Nome,Ім'я:
+stmtxtptd,Target,ターゲット,Ziel,Doel,Στόχος,Destino,Hedef,Destino,Destinazione,Об'єкт:
+stmtxtbrw,Browse,せんたく,Wählen,Blader.,Αναζήτ.,Explorar,Gözat,Buscar ,Sfoglia,Огляд…
+stmtxtstd,Start in,スタート,Läuft in,Start in,Έναρξη σε,Iniciar en,İçinde başla,Iniciar em,Esegui in,Роб. папка:
+stmtxtrnd,Run,じっこう,Fenster,Venster,Εκτ.,Ejecutar,Başlat,Executar,Esegui,Виконати:
+stmtxtrfs,Refresh,リフレッシュ,Aktualisieren,Vernieuwen,Ανανέωση,Refrescar,Tazele,Atualizar,Aggiorna,Оновити
+stmtxtfav,Favourites,おきにいり,Favoriten,Favorieten,#TRANSLATE#,Favoritos,Favoriler,Favoritos,Fovoriti,Уподобання
+stmtxtrun0,Default,デフォルト,Standard,Standaard,Προεπ.,Por defecto,Varsayılan,Padrão,Default,за замовчуванням
+stmtxtrun1,Normal window,ノーマルウィンドウ,Normal,Normaal,Κανονικό,Ventana normal,Normal pencere,Janela normal,Finestra,Звичайний розмір
+stmtxtrun2,Minimized,さいしょう,Minimiert,Geminimaliseerd,Ελαχ.,Minimizada,Küçültülmüş,Minimizado,Minimizzata,Згорнуте
+stmtxtrun3,Maximized,さいだい,Maximiert,Gemaximaliseerd,Μεγ.,Maximizada,Büyütülmüş,Maximizado,Ingrandita,Розгорнуте
+errmemtxt1,Memory full!,メモリがいっぱいです。,Speicher voll!,Geheugen vol!,Γέμισε μνήμη!,¡Memoria llena!,Bellek dolu!,Memória cheia!,Memoria Piena!,Пам'ять переповнена!
+errmemtxt2,There is no memory left for,このそうさをかんりょうするための,Operation kann nicht,Onvoldoende geheugen,Δεν υπάρχει μνήμη,Operación no viable.,Bu işlemi tamamlamak için,Operação inviável. ,Non c'è abbastanza memoria,Недостатньо пам'яті для
+errmemtxt3,completing this operation.,メモリがのこっていません。,ausgeführt werden.,voor deze actie.,για την ενέργεια.,,yeterli bellek kalmadı.,,per completare l'operazione,завершення цієї операції.
+errnumtxt1,Too many entries! The maximum,エントリがおおすぎます。,Zu viele Einträge! Pro,Te veel items!,Πολλές καταχ.!,¡Demasiadas entradas!,Çok fazla giriş var!,Muitas entradas!,Troppe voci! Nei sottomenù,Забагато пунктів! Досягнута
+errnumtxt2,amount of entries (24) for this,このサブメニューのさいだいすう,Untermenü sind bis zu,Aantal items (24) is bereikt,Μέγ. 24 στο,El número máximo para,En fazla 24 giriş,Máximo de 24 entradas possíveis. ,possono esserci 24 voci,макс. кількість пунктів (24)
+errnumtxt3,submenu has been reached.,（２４）にたっしました。,24 Einträge möglich.,voor dit submenu.,υπομενού.,este submenú es 24.,mümkündür.,,al massimo.,для цього підменю.
+errsubtxt1,Too many nested submenus!,サブメニューのかさねすぎです。,Zuviele Untermenüs!,Te veel submenu's!,Πολύ βαθιά υπομενού!,¡Demasiados submenús,Çok fazla alt menü var!,Muitos submenus aninhados!,Troppi sottomenù annidati.,Забагато вкладених підменю!
+errsubtxt2,The deepest level for a,サブメニューのさいしんそうは,Das Maximum von 5 wurde,Het maximaal aantal items voor,Μέγ. βάθος 5.,anidados!,Alt menünün en derin,O nível mais profundo,Puoi usarne al massimo 5,Найглибший рівень для
+errsubtxt3,submenu is 5.,５です。,überschritten.,submenu's is 5.,,El máximo es 5.,seviyesi 5'tir.,de submenu é 5.,uno dentro l'altro.,підменю — 5.
+icnfrmtxt,Icon,アイコン,Symbol,Icoon,Εικον,Icono,Simge,Ícone,Icona,Піктограма
+butfrmtxt,Button,#TRANSLATE#,Knopf,#TRANSLATE#,#TRANSLATE#,Botón,Buton,Botão,Pulsante,Кнопка
+icncoltxt,Colour,カラー,Farbe,Kleur,Χρώμα,Color,Renk,Cor,Colore,Колір
+butwditxt,Icon width,#TRANSLATE#,Symbolbreite,#TRANSLATE#,#TRANSLATE#,Ancho de icono,Simge genişliği,Tamanho do ícone,Larghezza icona,Ширина піктограми
+butwdttxt,Total width,#TRANSLATE#,Gesamtbreite,#TRANSLATE#,#TRANSLATE#,Ancho total,Toplam genişlik,Tamanho total,Larghezza totale,Ширина кнопки
+butcpttxt,Caption,#TRANSLATE#,Beschriftung,#TRANSLATE#,#TRANSLATE#,Captura,Altyazı,Legenda,Legenda,Заголовок
+butprttxt,Preview,プレビュー,Vorschau,Voorbeeld,Προεπ,Vista preliminar,Önizleme,Visualizar,Anteprima,Перегляд
+icnlodtxt,Import SGX,#TRANSLATE#,SGX importieren,#TRANSLATE#,#TRANSLATE#,Importar SGX,SGX'i içe aktar,Importar SGX,Importa SGX,Імпорт SGX
+icnsavtxt,Export SGX,#TRANSLATE#,SGX exportieren,#TRANSLATE#,#TRANSLATE#,Exportar SGX,SGX'i dışa aktar,Exportar SGX,Esporta SGX,Експорт SGX
+### pack4,63,854
+prgbuttxt1,Ok,OK,Ok,OK,ΟΚ,Aceptar,Ok,Ok,Ok,Гаразд
+prgbuttxt2,Cancel,キャンセル,Abbruch,Annuleer,Άκυρο,Canc.,İptal,Cancel.,Annulla,Скасувати
+prgbuttxt3,Apply,てきよう,Übern.,Bevestig,Εφαρμ.,Aplicar,Uygula,Aplicar,Applica,Задіяти
+prgtittim,Date and Time,日時,Datum und Uhrzeit,Datum en tijd,Ημ/Ώρα,Fecha y Hora,Tarih ve Saat,Data e hora,Data e Ora,Дата й час
+timtabtxt1,Time,時かん,Uhrzeit,Tijd,Ώρα,Hora,Saat,Hora,Ora,Час
+timtabtxt2,Date,日づけ,Datum,Datum,Ημ/νία,Fecha,Tarih,Data,Data,Дата
+timtabtxt3,Zone,タイムゾーン,Zone,Zone,Ζώνη,Zona,Dilim,Fuso,Zona,Зона
+timdattxw0,W,W,W,W,ε ,S,H,D,S,Т
+timdattxw1,M,月,M,M,Δ,L,P,S,L,Пн
+timdattxw2,T,火,D,D,Τ,M,S,T,M,Вв
+timdattxw3,W,水,M,W,Τ,X,Ç,Q,M,Ср
+timdattxw4,T,木,D,D,Π,J,P,Q,G,Чт
+timdattxw5,F,金,F,V,Π,V,C,S,V,Пт
+timdattxw6,S,土,S,Z,Σ,S,C,S,S,Сб
+timdattxw7,S,日,S,Z,Κ,D,P,D,D,Нд
+timtxtchr,Hour,時,Stu.,Uur,Ώρα,Hora,Saat,Hora,Ora,Год.
+timtxtcmn,Min.,分,Min.,Min.,Λεπ.,Min.,Dak.,Min.,Min.,Хвил.
+timtxtcsc,Sec.,秒,Sek.,Sec.,Δευτ.,Seg.,San.,Seg.,Sec.,Сек.
+timdatmt01,January,１月,Januar,Januari,Ιανουάριος,Enero,Ocak,Janeiro,Gennaio,Січень
+timdatmt02,February,２月,Februar,Februari,Φεβρουάριος,Febrero,Şubat,Fevereiro,Febbraio,Лютий
+timdatmt03,March,３月,März,Maart,Μάρτιος,Marzo,Mart,Março,Marzo,Березень
+timdatmt04,April,４月,April,April,Απρίλιος,Abril,Nisan,Abril,Aprile,Квітень
+timdatmt05,May,５月,Mai,Mei,Μάιος,Mayo,Mayıs,Maio,Maggio,Травень
+timdatmt06,June,６月,Juni,Juni,Ιούνιος,Junio,Haziran,Junho,Giugno,Липень
+timdatmt07,July,７月,Juli,Juli,Ιούλιος,Julio,Temmuz,Julho,Luglio,Червень
+timdatmt08,August,８月,August,Augustus,Αύγουστος,Agosto,Ağustos,Agosto,Agosto,Серпень
+timdatmt09,September,９月,September,September,Σεπτέμβριος,Septiembre,Eylül,Setembro,Settembre,Вересень
+timdatmt10,October,１０月,Oktober,Oktober,Οκτώβριος,Octubre,Ekim,Outubro,Ottobre,Жовтень
+timdatmt11,November,１１月,November,November,Νοέμβριος,Noviembre,Kasım,Novembro,Novembre,Листопад
+timdatmt12,December,１２月,Dezember,December,Δεκέμβριος ,Diciembre,Aralık,Dezembro,Dicembre,Грудень
+timdatdt0,Monday,月ようび,Montag,Maandag,Δευτέρα,Lunes,Pazartesi,Segunda-feira,Lunedì,Понеділок
+timdatdt1,Tuesday,火ようび,Dienstag,Dinsdag,Τρίτη,Martes,Salı,Terça-feira,Martedì,Вівторок
+timdatdt2,Wednesday,水ようび,Mittwoch,Woensdag,Τετάρτη,Miércoles,Çarşamba,Quarta-feira,Mercoledì,Середа
+timdatdt3,Thursday,木ようび,Donnerstag,Donderdag,Πέμπτη,Jueves,Perşembe,Quinta-feira,Giovedì,Четвер
+timdatdt4,Friday,金ようび,Freitag,Vrijdag,Παρασκευή,Viernes,Cuma,Sexta-feira,Venerdì,П'ятниця
+timdatdt5,Saturday,土ようび,Samstag,Zaterdag,Σάββατο,Sábado,Cumartesi,Sábado,Sabato,Субота
+timdatdt6,Sunday,日ようび,Sonntag,Zondag,Κυριακή ,Domingo,Pazar,Domingo,Domenica,Неділя
+timzontxta,-12 Int.Dateline,-１２ デートライン,-12 Int.Datumsgrenze,-12 Intern. datumlijn,-12 Γρ. Ημερ.,-12 Línea intern. d.c. d.f.,-12 Int.Dateline,-12 Linha Int. de Data,-12 Iinea Inter. di cambiamento data,-12 Міжн. лінія зм. дат
+timzontxtb,-11 Midway Island,-１１ ミッドウェーとう,-11 Midwayinseln,-11 Midway,-11 Μίντγουεϊ,-11 Islas Midway,-11 Midway Adası,-11 Ilha Midway,-11 Isole Midway,-11 Мідвей
+timzontxtc,-10 Hawaii,-１０ ハワイ,-10 Hawaii,-10 Hawaï,-10 Χαβάη,-10 Hawai,-10 Hawaii,-10 Havaí,-10 Hawaii,-10 Гаваї
+timzontxtd,-09 Alaska,-９ アラスカ,-09 Alaska,-09 Alaska,-09 Αλάσκα,-09 Alaska,-09 Alaska,-09 Alasca,-09 Alaska,-09 Аляска
+timzontxte,-08 Los Angeles,-８ ロサンゼルス,-08 Los Angeles,-08 Los Angeles,-08 Λος Άντζελες,-08 Los Ángeles,-08 Los Angeles,-08 Los Angeles,-08 Los Angeles,-08 Лос-Анджелес
+timzontxtf,"-07 Denver, Arizona",-７ デンバー、アリゾナ,"-07 Denver, Arizona","-07 Denver, Arizona","-07 Ντένβερ, Αριζ.","-07 Denver, Arizona","-07 Denver, Arizona","-07 Denver, Arizona","-07 Denver, Arizona","-07 Денвер, Арізона"
+timzontxtg,-06 Chicago,-６ シカゴ,-06 Chicago,-06 Chicago,-06 Σικάγο,-06 Chicago,-06 Chicago,-06 Chicago,-06 Chicago,-06 Чикаго
+timzontxth,-05 New York,-５ ニューヨーク,-05 New York,-05 New York,-05 Νέα Υόρκη,-05 Nueva York,-05 New York,-05 Nova York,-05 New York,-05 Нью-Йорк
+timzontxti,-04 Santiago,-４ サンティアゴ,-04 Santiago,-04 Santiago,-04 Σαντιάγο,-04 Santiago,-04 Santiago,-04 Santiago,-04 Santiago,-04 Сантьяґо
+timzontxtj,-03 Buenos Aires,-３ ブエノスアイレス,-03 Buenos Aires,-03 Buenos Aires,-03 Μπ. Άιρες,-03 Ciudad de Buenos Aires,-03 Buenos Aires,-03 Buenos Aires,-03 Buenos Aires,-03 Буенос-Айрес
+timzontxtk,-02 Middle Atlantic,-２ ミドルアトランティック,-02 Mittelatlantik,-02 Midden-Atlantisch,-02 Μ. Ατλαντ.,-02 Atlántico Medio,-02 Orta Atlantik,-02 Atlântico Médio,-02 Atlantico Centrale,-02 середньоатлант. час
+timzontxtl,"-01 Azores, Cabo Verde",-１ アゾレス、カーボベルデ,"-01 Azoren, Kapverden","-01 Azoren, Kaapverdië","-01 Αζόρες, Κ. Βέρντε","-01 Azores, Cabo Verde","-01 Azores, Cabo Verde","-01 Açores, Cabo Verde","-01 Azorre, Capo Verde","-01 Азорські о-ви, Кабо-Верде"
+timzontxtm,"+00 London, Lissabon",+０ ロンドン、リスボン,"+00 London, Lissabon","+00 Londen, Lissabon","+00 Λονδ., Λισ.","+00 Londres, Lisboa","+00 Londra, Lizbon","+00 Londres, Lisboa","+00 Londra, Lisbona","+00 Лондон, Лісабон"
+timzontxtn,"+01 Amsterdam, Berlin",+１ アムステルダム、ベルリン,"+01 Amsterdam, Berlin","+01 Amsterdam, Berlijn","+01 Άμστ., Βερλ.","+01 Ámsterdam, Berlín","+01 Amsterdam, Berlin","+01 Amsterdã, Berlim","+01 Amsterdam, Berlino","+01 Амстердам, Берлін"
+timzontxto,"+02 Kiev, Helsinki",+２ キーエフ、ヘルシンキ,"+02 Kiew, Helsinki","+02 Kiev, Helsinki","+02 Κίεβο, Ελσ.","+02 Kiev, Helsinki","+02 Kiev, Helsinki","+02 Kiev, Helsinque","+02 Kiev, Helsinki","+02 Київ, Гельсінкі"
+timzontxtp,+03 Constantinople,+３ コンスタンティノープル,+03 Konstantinopel,+03 Constantinopel,+03 Κων/πολη,+03 Estambul,+03 İstanbul,+03 Constantinopla,+03 Instambul,+03 Стамбул
+timzontxtq,+04 Tiflis,+４ ティフリス,+04 Tiflis,+04 Tbilisi,+04 Τιφλίδα,+04 Tiflis,+04 Tiflis,+04 Tíflis,+04 Tbilisi,+04 Тбілісі
+timzontxtr,+05 Male,+５ マーレ,+05 Malé,+05 Malé,+05 Μαλέ,+05 Malé,+05 Male,+05 Malé,+05 Malè,+05 Мале
+timzontxts,+06 Dhaka,+６ ダッカ,+06 Dhaka,+06 Dhaka,+06 Ντάκα,+06 Dacca,+06 Dhaka,+06 Daca,+06 Dhaka,+06 Дакка
+timzontxtt,"+07 Bangkok, Hanoi",+７ バンコク、ハノイ,"+07 Bangkok, Hanoi","+07 Bangkok, Hanoi","+07 Μπανγ., Ανόι","+07 Bangkok, Hanói","+07 Bangkok, Hanoi","+07 Bangkok, Hanói","+07 Bangkok, Hanoi","+07 Банґкок, Ханой"
+timzontxtu,"+08 Beijing, Perth",+８ ペキン、パース,"+08 Peking, Perth","+08 Beijing, Perth","+08 Πεκίνο, Περθ","+08 Beijing, Perth","+08 Pekin, Perth","+08 Pequim, Perth","+08 Pechino, Perth","+08 Пекін, Перт"
+timzontxtv,"+09 Tokyo, Seoul",+９ とうきょう、ソウル,"+09 Tokio, Seoul","+09 Tokio, Seoel","+09 Τόκιο, Σεούλ","+09 Tokio, Seúl","+09 Tokyo, Seul","+09 Tóquio, Seul","+09 Tokyo, Seoul","+09 Токіо, Сеул"
+timzontxtw,+10 Sydney,+１０ シドニー,+10 Sydney,+10 Sydney,+10 Σίδνεϊ,+10 Sídney,+10 Sydney,+10 Sydney,+10 Sydney,+10 Сідней
+timzontxtx,+11 New Caledonia,+１１ ニューカレドニア,+11 Neukaledonien,+11 Nieuw-Caledonië,+11 Ν. Καληδ.,+11 Nueva Caledonia,+11 Yeni Kaledonya,+11 Nova Caledônia,+11 Nuova Caledonia,+11 Нова Каледонія
+timzontxty,+12 Auckland,+１２ オークランド,+12 Auckland,+12 Auckland,+12 Όκλαντ,+12 Auckland,+12 Auckland,+12 Auckland,+12 Auckland,+12 Окленд
+timzontxtz,+13 Nuku'alofa,+１３ ヌクアロファ,+13 Nuku'alofa,+13 Nuku'alofa,+13 Νουκουαλόφα,+13 Nuku'alofa,+13 Nuku'alofa,+13 Nuku'alofa,+13 Nuku'alofa,+13 Нукуалофа
