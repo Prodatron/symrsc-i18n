@@ -7,7 +7,8 @@
     "SPA": "Error al cargar",
     "TUR": "Yüklerken hata oluştu",
     "POR": "Erro ao carregar",
-    "ITA": "Errore durante il caricamento"
+    "ITA": "Errore durante il caricamento",
+    "UKR": "Помилка завантаження"
   },
   "Control Panel": {
     "JPN": "コントロールパネル",
@@ -17,7 +18,8 @@
     "SPA": "Panel de Control",
     "TUR": "Yönetim Paneli",
     "POR": "Painel de Controle",
-    "ITA": "Pannello di controllo"
+    "ITA": "Pannello di controllo",
+    "UKR": "Панель керування"
   },
   "Object(s)": {
     "JPN": "オブジェクト",
@@ -27,7 +29,8 @@
     "SPA": "Objeto(s)",
     "TUR": "Nesne",
     "POR": "objeto(s)",
-    "ITA": "elementi"
+    "ITA": "elementi",
+    "UKR": "Елементів:"
   },
   "File": {
     "JPN": "ファイル",
@@ -37,7 +40,8 @@
     "SPA": "Archivo",
     "TUR": "Dosya",
     "POR": "Arquivo",
-    "ITA": "File"
+    "ITA": "File",
+    "UKR": "Файл"
   },
   "?": {
     "JPN": "？",
@@ -58,7 +62,8 @@
     "SPA": "Cargar opciones",
     "TUR": "Ayarları yükle",
     "POR": "Carregar configurações",
-    "ITA": "Carica"
+    "ITA": "Carica",
+    "UKR": "Завантажити налаштування"
   },
   "Save settings": {
     "JPN": "せっていをセーブ",
@@ -68,7 +73,8 @@
     "SPA": "Guardar opciones",
     "TUR": "Ayarları kaydet",
     "POR": "Salvar configurações",
-    "ITA": "Salva"
+    "ITA": "Salva",
+    "UKR": "Зберегти параметри"
   },
   "Autosave": {
     "JPN": "オートセーブ",
@@ -78,7 +84,8 @@
     "SPA": "Autoguardado",
     "TUR": "Otomatik kaydet",
     "POR": "Salvamento automático",
-    "ITA": "Automatico"
+    "ITA": "Automatico",
+    "UKR": "Автозбереження"
   },
   "Close": {
     "JPN": "とじる",
@@ -88,7 +95,8 @@
     "SPA": "Cerrar",
     "TUR": "Kapat",
     "POR": "Fechar",
-    "ITA": "Chiudi"
+    "ITA": "Chiudi",
+    "UKR": "Закрити"
   },
   "Helptopics": {
     "JPN": "ヘルプトピック",
@@ -98,7 +106,8 @@
     "SPA": "Ayuda",
     "TUR": "Yardım konuları",
     "POR": "Tópicos de ajuda",
-    "ITA": "Aiuto"
+    "ITA": "Aiuto",
+    "UKR": "Допомога"
   },
   "Info": {
     "JPN": "じょうほう",
@@ -108,7 +117,8 @@
     "SPA": "Información",
     "TUR": "Bilgi",
     "POR": "Info",
-    "ITA": "Info"
+    "ITA": "Info",
+    "UKR": "Інформація"
   },
   "Keyboard": {
     "JPN": "キーホﾞートﾞ",
@@ -118,7 +128,8 @@
     "SPA": "Teclado",
     "TUR": "Klavye",
     "POR": "Teclado",
-    "ITA": "Tastiera"
+    "ITA": "Tastiera",
+    "UKR": "Клавіатура"
   },
   "Mouse": {
     "JPN": "マウス",
@@ -128,7 +139,8 @@
     "SPA": "Ratón",
     "TUR": "Fare",
     "POR": "Mouse",
-    "ITA": "Mouse"
+    "ITA": "Mouse",
+    "UKR": "Миша"
   },
   "Display": {
     "JPN": "テﾞィスフﾟレイ",
@@ -138,7 +150,8 @@
     "SPA": "Pantalla",
     "TUR": "Ekran",
     "POR": "Tela",
-    "ITA": "Display"
+    "ITA": "Display",
+    "UKR": "Дисплей"
   },
   "Date and": {
     "JPN": "日時",
@@ -148,7 +161,8 @@
     "SPA": "Fecha y",
     "TUR": "Tarih ve",
     "POR": "Data e",
-    "ITA": "Data e"
+    "ITA": "Data e",
+    "UKR": "Дата та"
   },
   "Time": {
     "DEU": "Uhrzeit",
@@ -158,7 +172,8 @@
     "SPA": "Hora",
     "TUR": "Saat",
     "POR": "Hora",
-    "ITA": "Ora"
+    "ITA": "Ora",
+    "UKR": "час"
   },
   "Font and": {
     "JPN": "フォント and",
@@ -168,7 +183,8 @@
     "SPA": "Fuente e",
     "TUR": "Font ve",
     "POR": "Fonte e",
-    "ITA": "Carattere e"
+    "ITA": "Carattere e",
+    "UKR": "Шрифт та"
   },
   "Language": {
     "DEU": "& Sprache",
@@ -177,7 +193,8 @@
     "SPA": "Idioma",
     "TUR": "Dil",
     "POR": "Idioma",
-    "ITA": "Lingua"
+    "ITA": "Lingua",
+    "UKR": "мова"
   },
   "System": {
     "JPN": "システム",
@@ -187,7 +204,8 @@
     "SPA": "Sistema",
     "TUR": "Sistem",
     "POR": "Sistema",
-    "ITA": "Sistema"
+    "ITA": "Sistema",
+    "UKR": "Системний"
   },
   "Mass": {
     "JPN": "マス",
@@ -197,7 +215,8 @@
     "SPA": "Unidades de",
     "TUR": "Yığın",
     "POR": "Armazena",
-    "ITA": "Dischi"
+    "ITA": "Dischi",
+    "UKR": "Диски"
   },
   "Storage": {
     "JPN": "ストレーシﾞ",
@@ -216,7 +235,8 @@
     "SPA": "Escritorio",
     "TUR": "Masaüstü",
     "POR": "Área de trabalho",
-    "ITA": "Desktop"
+    "ITA": "Desktop",
+    "UKR": "Робочий стіл"
   },
   "Shortcuts": {
     "JPN": "リンク",
@@ -224,7 +244,8 @@
     "SPA": "Atajos",
     "TUR": "Kısayollar",
     "POR": "Atalhos",
-    "ITA": "Collegamenti"
+    "ITA": "Collegamenti",
+    "UKR": "Ярлики"
   },
   "Startmenu": {
     "JPN": "スタートメニュー",
@@ -234,7 +255,8 @@
     "SPA": "Menú Inicio",
     "TUR": "Başlat Menüsü",
     "POR": "Menu Iniciar",
-    "ITA": "Menù start"
+    "ITA": "Menù start",
+    "UKR": "Меню \"Пуск\""
   },
   "Font and Language": {
     "JPN": "フォント",
@@ -244,7 +266,8 @@
     "SPA": "Fuente e Idioma",
     "TUR": "Font ve Dil",
     "POR": "Fonte e idioma",
-    "ITA": "Carattere e Lingua"
+    "ITA": "Carattere e Lingua",
+    "UKR": "Шрифт та мова"
   },
   "Desktop and Startmenu Links": {
     "JPN": "デスクトップとスタートメニューのリンク",
@@ -254,7 +277,8 @@
     "SPA": "Escritorio y Elementos de Menú Inicio",
     "TUR": "Masaüstü ve Başlat Menüsü Bağlantıları",
     "POR": "Atalhos",
-    "ITA": "Desktop e collegamenti del menù start"
+    "ITA": "Desktop e collegamenti del menù start",
+    "UKR": "Ярлики роб. столу та меню \"Пуск\""
   },
   "Ok": {
     "JPN": "OK",
@@ -264,7 +288,8 @@
     "SPA": "Aceptar",
     "TUR": "Ok",
     "POR": "Ok",
-    "ITA": "Ok"
+    "ITA": "Ok",
+    "UKR": "Гаразд"
   },
   "Cancel": {
     "JPN": "キャンセル",
@@ -274,7 +299,8 @@
     "SPA": "Cancelar",
     "TUR": "İptal",
     "POR": "Cancelar",
-    "ITA": "Annulla"
+    "ITA": "Annulla",
+    "UKR": "Скасувати"
   },
   "Apply": {
     "JPN": "てきよう",
@@ -284,7 +310,8 @@
     "SPA": "Aplicar",
     "TUR": "Uygula",
     "POR": "Aplicar",
-    "ITA": "Applica"
+    "ITA": "Applica",
+    "UKR": "Задіяти"
   },
   "Load": {
     "JPN": "ロード",
@@ -294,7 +321,8 @@
     "SPA": "Cargar",
     "TUR": "Yükle",
     "POR": "Carregar",
-    "ITA": "Carica"
+    "ITA": "Carica",
+    "UKR": "Завантажити…"
   },
   "Save": {
     "JPN": "セーブ",
@@ -304,7 +332,8 @@
     "SPA": "Guardar",
     "TUR": "Kaydet",
     "POR": "Salvar",
-    "ITA": "Salva"
+    "ITA": "Salva",
+    "UKR": "Зберегти"
   },
   "Mass Storage Devices": {
     "JPN": "マスストレージデバイス",
@@ -314,7 +343,8 @@
     "SPA": "Dispositivos de Almacenamiento",
     "TUR": "Yığın Depolama Aygıtları",
     "POR": "Armazenamento",
-    "ITA": "Dispositivi di archiviazione"
+    "ITA": "Dispositivi di archiviazione",
+    "UKR": "Накопичувачі даних"
   },
   "Drives": {
     "JPN": "ドライブ",
@@ -324,7 +354,8 @@
     "SPA": "Unidades",
     "TUR": "Sürücüler",
     "POR": "Unidades",
-    "ITA": "Dischi"
+    "ITA": "Dischi",
+    "UKR": "Накопичувачі"
   },
   "Settings": {
     "JPN": "せってい",
@@ -334,13 +365,15 @@
     "SPA": "Opciones",
     "TUR": "Ayarlar",
     "POR": "Configurações",
-    "ITA": "Impostazioni"
+    "ITA": "Impostazioni",
+    "UKR": "Налаштування"
   },
   "Del": {
     "ELL": "Διαγραφή",
     "SPA": "Borr",
     "TUR": "Sil",
-    "POR": "Excluir"
+    "POR": "Excluir",
+    "UKR": "—"
   },
   "Add": {
     "JPN": "+",
@@ -350,7 +383,8 @@
     "SPA": "Añad",
     "TUR": "Ekle",
     "POR": "Adicionar",
-    "ITA": "+"
+    "ITA": "+",
+    "UKR": "+"
   },
   "Name": {
     "JPN": "なまえ",
@@ -360,7 +394,8 @@
     "SPA": "Nombre",
     "TUR": "Ad:",
     "POR": "Nome",
-    "ITA": "Nome"
+    "ITA": "Nome",
+    "UKR": "Ім'я"
   },
   "Floppy disk": {
     "JPN": "フロッピーディスク",
@@ -370,7 +405,8 @@
     "SPA": "Undiad de disco",
     "TUR": "Floppy disk",
     "POR": "Disquete",
-    "ITA": "Floppy disk"
+    "ITA": "Floppy disk",
+    "UKR": "Гнучкий диск"
   },
   "IDE device": {
     "JPN": "IDEデバイス",
@@ -380,7 +416,8 @@
     "SPA": "Dispositivo IDE",
     "TUR": "IDE aygıtı",
     "POR": "IDE",
-    "ITA": "IDE"
+    "ITA": "IDE",
+    "UKR": "IDE-пристрій"
   },
   "SD/MMC card reader": {
     "JPN": "SD／MMCカードリーダー",
@@ -390,7 +427,8 @@
     "SPA": "Lector SD/MMC",
     "TUR": "SD/MMC kart okuyucu",
     "POR": "SD/MMC",
-    "ITA": "SD/MMC"
+    "ITA": "SD/MMC",
+    "UKR": "Зчитувач карток SD/MMC"
   },
   "SCSI/USB device": {
     "JPN": "SCSI／USBデバイス",
@@ -400,7 +438,8 @@
     "SPA": "Dispositivo SCSI/USB",
     "TUR": "SCSI/USB aygıtı",
     "POR": "SCSI/USB",
-    "ITA": "SCSI/USB"
+    "ITA": "SCSI/USB",
+    "UKR": "SCSI/USB-накопичувач"
   },
   "Removeable medium": {
     "JPN": "リムーバブルメディア",
@@ -410,7 +449,8 @@
     "SPA": "Unidad extraíble",
     "TUR": "Çıkarılabilir ortam",
     "POR": "Mídia removível",
-    "ITA": "Disco rimovibile"
+    "ITA": "Disco rimovibile",
+    "UKR": "Змінний носій"
   },
   "Specifics": {
     "JPN": "くわしく",
@@ -420,7 +460,8 @@
     "SPA": "Detalles",
     "TUR": "Detaylar",
     "POR": "Detalhes",
-    "ITA": "Specifiche"
+    "ITA": "Specifiche",
+    "UKR": "Подробиці"
   },
   "Drive letter": {
     "JPN": "ドライブレター",
@@ -430,7 +471,8 @@
     "SPA": "Letra Unidad",
     "TUR": "Sürücü Harfi",
     "POR": "Letra da unidade",
-    "ITA": "Lettera di unità"
+    "ITA": "Lettera di unità",
+    "UKR": "Буква"
   },
   "Double step": {
     "JPN": "ダブルステップ",
@@ -440,7 +482,8 @@
     "SPA": "Doble paso",
     "TUR": "Çift adım",
     "POR": "Passo duplo",
-    "ITA": "Doppio passaggio"
+    "ITA": "Doppio passaggio",
+    "UKR": "Подвійний крок"
   },
   "Master": {
     "JPN": "マスター",
@@ -450,7 +493,8 @@
     "SPA": "Maestro",
     "TUR": "Master",
     "POR": "Mestre",
-    "ITA": "Master"
+    "ITA": "Master",
+    "UKR": "Головний"
   },
   "Slave": {
     "JPN": "スレーブ",
@@ -460,7 +504,8 @@
     "SPA": "Esclavo",
     "TUR": "Slave",
     "POR": "Escravo",
-    "ITA": "Slave"
+    "ITA": "Slave",
+    "UKR": "Підлеглий"
   },
   "Slot": {
     "JPN": "スロット",
@@ -470,7 +515,8 @@
     "SPA": "Ranura",
     "TUR": "Yuva",
     "POR": "Slot",
-    "ITA": "Slot"
+    "ITA": "Slot",
+    "UKR": "Слот"
   },
   "Device": {
     "JPN": "デバイス",
@@ -480,7 +526,8 @@
     "SPA": "Dispositivo",
     "TUR": "Aygıt",
     "POR": "Dispositivo",
-    "ITA": "Disp"
+    "ITA": "Disp",
+    "UKR": "Пристрій"
   },
   "Head": {
     "JPN": "ヘッド",
@@ -490,7 +537,8 @@
     "SPA": "Cabeza",
     "TUR": "Başlık",
     "POR": "Cabeça",
-    "ITA": "Testina"
+    "ITA": "Testina",
+    "UKR": "Голівка"
   },
   "Not partitioned": {
     "JPN": "パーティションなし",
@@ -500,7 +548,8 @@
     "SPA": "Sin particionar",
     "TUR": "Bölümlendirilmemiş",
     "POR": "Não particionado",
-    "ITA": "Non partizionato"
+    "ITA": "Non partizionato",
+    "UKR": "не розподілено"
   },
   "Primary partition": {
     "JPN": "プライマリーパーティション",
@@ -510,7 +559,8 @@
     "SPA": "Partición Primaria",
     "TUR": "Birincil bölüm",
     "POR": "Partição",
-    "ITA": "Partiz"
+    "ITA": "Partiz",
+    "UKR": "первинний розділ"
   },
   "Definitions": {
     "JPN": "ていぎ",
@@ -520,7 +570,8 @@
     "SPA": "Definiciones",
     "TUR": "Tanımlar",
     "POR": "Definições",
-    "ITA": "Definizioni"
+    "ITA": "Definizioni",
+    "UKR": "Визначення"
   },
   "Speed": {
     "JPN": "スピード",
@@ -530,7 +581,8 @@
     "SPA": "Velocidad",
     "TUR": "Hız",
     "POR": "Velocidade",
-    "ITA": "Velocità"
+    "ITA": "Velocità",
+    "UKR": "Швидкість"
   },
   "Buttons": {
     "JPN": "ボタン",
@@ -540,7 +592,8 @@
     "SPA": "Botones",
     "TUR": "Butonlar",
     "POR": "Botões",
-    "ITA": "Pulsanti"
+    "ITA": "Pulsanti",
+    "UKR": "Кнопки"
   },
   "Key": {
     "JPN": "キー",
@@ -550,7 +603,8 @@
     "SPA": "Tecla",
     "TUR": "Tuş",
     "POR": "Tecla",
-    "ITA": "Tasto"
+    "ITA": "Tasto",
+    "UKR": "Клавіша"
   },
   "Normal": {
     "JPN": "ノーマル",
@@ -560,7 +614,8 @@
     "SPA": "Normal",
     "TUR": "Normal",
     "POR": "Normal",
-    "ITA": "Normale"
+    "ITA": "Normale",
+    "UKR": "Звичайна"
   },
   "Shift": {
     "JPN": "シフト",
@@ -570,7 +625,8 @@
     "SPA": "Mays",
     "TUR": "Shift",
     "POR": "Shift",
-    "ITA": "Shift"
+    "ITA": "Shift",
+    "UKR": "Shift"
   },
   "Control": {
     "JPN": "コントロ",
@@ -580,7 +636,8 @@
     "SPA": "Control",
     "TUR": "Control",
     "POR": "Ctrl",
-    "ITA": "Control"
+    "ITA": "Control",
+    "UKR": "Control"
   },
   "Alt": {
     "JPN": "Alt",
@@ -590,7 +647,8 @@
     "SPA": "Alt",
     "TUR": "Alt",
     "POR": "Alt",
-    "ITA": "Alt"
+    "ITA": "Alt",
+    "UKR": "Alt"
   },
   "Delay": {
     "JPN": "ディレイ",
@@ -600,7 +658,8 @@
     "SPA": "Retraso",
     "TUR": "Gecikme",
     "POR": "Atraso",
-    "ITA": "Ritardo"
+    "ITA": "Ritardo",
+    "UKR": "Затримка"
   },
   "Repeat": {
     "JPN": "リピート",
@@ -610,7 +669,8 @@
     "SPA": "Repetir",
     "TUR": "Tekrar",
     "POR": "Repetir",
-    "ITA": "Ripetizione"
+    "ITA": "Ripetizione",
+    "UKR": "Повторення"
   },
   "Test": {
     "JPN": "テスト",
@@ -620,7 +680,8 @@
     "SPA": "Probar",
     "TUR": "Test",
     "POR": "Testar",
-    "ITA": "Test"
+    "ITA": "Test",
+    "UKR": "Тест"
   },
   "Joystick Settings": {
     "JPN": "ジョイスティックせってい",
@@ -630,7 +691,8 @@
     "SPA": "Opciones de Joystick",
     "TUR": "Joystick Ayarları",
     "POR": "Joystick",
-    "ITA": "Joystick"
+    "ITA": "Joystick",
+    "UKR": "Налаштування джойстика"
   },
   "Mouse Settings": {
     "JPN": "マウスせってい",
@@ -640,7 +702,8 @@
     "SPA": "Opciones de Ratón",
     "TUR": "Fare Ayarları",
     "POR": "Mouse",
-    "ITA": "Mouse"
+    "ITA": "Mouse",
+    "UKR": "Налаштування миші"
   },
   "Button Settings": {
     "JPN": "ボタンせってい",
@@ -650,7 +713,8 @@
     "SPA": "Opciones de Botón",
     "TUR": "Buton Ayarları",
     "POR": "Botões",
-    "ITA": "Pulsanti"
+    "ITA": "Pulsanti",
+    "UKR": "Налаштування кнопок"
   },
   "Acceler": {
     "JPN": "アクセル",
@@ -667,7 +731,8 @@
     "SPA": "Intercambiar botones izq./der",
     "TUR": "Sol/sağ butonu değiştir",
     "POR": "Trocar esquerdo/direito",
-    "ITA": "Inverti pulsanti"
+    "ITA": "Inverti pulsanti",
+    "UKR": "Обміняти призн. кнопок"
   },
   "DoublClick": {
     "JPN": "ダブクリ",
@@ -684,7 +749,8 @@
     "SPA": "Rueda",
     "TUR": "Tekerlek",
     "POR": "Roda",
-    "ITA": "Rotella"
+    "ITA": "Rotella",
+    "UKR": "Коліщатко"
   },
   "General": {
     "JPN": "いっぱん",
@@ -694,7 +760,8 @@
     "SPA": "General",
     "TUR": "Genel",
     "POR": "Geral",
-    "ITA": "Generali"
+    "ITA": "Generali",
+    "UKR": "Загальні"
   },
   "File types": {
     "JPN": "ファイルタイプ",
@@ -704,7 +771,8 @@
     "SPA": "Tipos de archivo",
     "TUR": "Dosya tipleri",
     "POR": "Tipos de arquivo",
-    "ITA": "Associazioni"
+    "ITA": "Associazioni",
+    "UKR": "Типи файлів"
   },
   "System info": {
     "JPN": "システムじょうほう",
@@ -714,7 +782,8 @@
     "SPA": "Info del Sistema",
     "TUR": "Sistem bilgisi",
     "POR": "Informações do sistema",
-    "ITA": "Info di Sistema"
+    "ITA": "Info di Sistema",
+    "UKR": "Інформація о системі"
   },
   "Platform": {
     "JPN": "プラットフォーム",
@@ -724,7 +793,8 @@
     "SPA": "Plataforma",
     "TUR": "Platform",
     "POR": "Plataforma",
-    "ITA": "Piattaforma"
+    "ITA": "Piattaforma",
+    "UKR": "Платформа"
   },
   "CPU Memory": {
     "JPN": "CPUメモリ",
@@ -734,7 +804,8 @@
     "SPA": "Memoria de CPU",
     "TUR": "CPU Bellek",
     "POR": "Memória CPU",
-    "ITA": "Memoria"
+    "ITA": "Memoria",
+    "UKR": "Пам'ять"
   },
   "OS Version": {
     "JPN": "OSバージョン",
@@ -744,7 +815,8 @@
     "SPA": "Versión de SO",
     "TUR": "İşletim Sistemi Sürümü",
     "POR": "Versão do SO",
-    "ITA": "Versione OS"
+    "ITA": "Versione OS",
+    "UKR": "Версія ОС"
   },
   "[Unknown]": {
     "JPN": "[アンノウン]",
@@ -760,7 +832,8 @@
     "SPA": "Varios",
     "TUR": "Çeşitli",
     "POR": "Diversos",
-    "ITA": "Altre Info"
+    "ITA": "Altre Info",
+    "UKR": "Інше"
   },
   "System path": {
     "JPN": "システムパス",
@@ -770,7 +843,8 @@
     "SPA": "Ruta de Sistema",
     "TUR": "Sistem yolu",
     "POR": "Caminho de sistema",
-    "ITA": "Cartella di sistema"
+    "ITA": "Cartella di sistema",
+    "UKR": "Системний шлях"
   },
   "(these options require a reboot)": {
     "JPN": "（リブートがひつようです）",
@@ -780,7 +854,8 @@
     "SPA": "(estas opciones requieren reinicio)",
     "TUR": "(Bu seçenekler yeniden başlatmayı gerektirir)",
     "POR": "(estas opções exigem reinicialização)",
-    "ITA": "(è necessario un riavvio)"
+    "ITA": "(è necessario un riavvio)",
+    "UKR": "(необхідне перезавантаження)"
   },
   "Boot Extended Desktop": {
     "JPN": "エクステンデッドデスクトップ",
@@ -790,7 +865,8 @@
     "SPA": "Arrancar Escritorio Extendido",
     "TUR": "Genişletilmiş Masaüstü Başlat",
     "POR": "Inicializar área de trabalho estendida",
-    "ITA": "Desktop esteso all'avvio"
+    "ITA": "Desktop esteso all'avvio",
+    "UKR": "Розширений робочий стіл"
   },
   "File browser uses max memory": {
     "JPN": "ブラウザのさいだいメモリ",
@@ -800,7 +876,8 @@
     "SPA": "Explorador de archivos usa memoria máx",
     "TUR": "Dosya tarayıcısı maksimum bellek kullanıyor",
     "POR": "O navegador de arquivos usa o máximo de memória",
-    "ITA": "Memoria massima al file browser"
+    "ITA": "Memoria massima al file browser",
+    "UKR": "Макс. пам'яті для файлового браузера"
   },
   "Show alternative Startbutton": {
     "JPN": "べつのスタートボタンをひょうじ",
@@ -810,7 +887,8 @@
     "SPA": "Mostrar botón Inicio alternativo",
     "TUR": "Alternatif Başlat Menüsü göster",
     "POR": "Mostrar botão Iniciar alternativo",
-    "ITA": "Pulsante Start alternativo"
+    "ITA": "Pulsante Start alternativo",
+    "UKR": "Альтернативна"
   },
   "Autoexec": {
     "JPN": "Autoexec",
@@ -820,7 +898,8 @@
     "SPA": "Autoejecutar",
     "TUR": "Autoexec",
     "POR": "Autoexec",
-    "ITA": "Esegui all'avvio"
+    "ITA": "Esegui all'avvio",
+    "UKR": "Автозапуск"
   },
   "Boot drive": {
     "JPN": "ブートドライブ",
@@ -830,7 +909,8 @@
     "SPA": "Unidad de arranque",
     "TUR": "Başlangıç sürücüsü",
     "POR": "Unid. de boot",
-    "ITA": "Drive di avvio"
+    "ITA": "Drive di avvio",
+    "UKR": "Системний диск"
   },
   "Extension(s)": {
     "JPN": "エクステンション",
@@ -840,7 +920,8 @@
     "SPA": "Extension(es)",
     "TUR": "Uzantı(lar)",
     "POR": "Extensão(ões)",
-    "ITA": "Estensioni"
+    "ITA": "Estensioni",
+    "UKR": "Розширення"
   },
   "Application path": {
     "JPN": "アプリケーションパス",
@@ -850,7 +931,8 @@
     "SPA": "Ruta de Aplicación",
     "TUR": "Uygulama yolu",
     "POR": "Caminho do aplicativo",
-    "ITA": "Percorso dell'app"
+    "ITA": "Percorso dell'app",
+    "UKR": "Розташування програми"
   },
   "Edit entry": {
     "JPN": "エントリをへんしゅう",
@@ -860,7 +942,8 @@
     "SPA": "Editar entrada",
     "TUR": "Girişi düzenle",
     "POR": "Editar entrada",
-    "ITA": "Settaggi"
+    "ITA": "Settaggi",
+    "UKR": "Змінити"
   },
   "Browse": {
     "JPN": "せんたく",
@@ -870,7 +953,8 @@
     "SPA": "Explorar",
     "TUR": "Gözat…",
     "POR": "Procurar",
-    "ITA": "Sfoglia"
+    "ITA": "Sfoglia",
+    "UKR": "Огляд…"
   },
   "Appearance (": {
     "JPN": "フォントのみため (",
@@ -887,7 +971,8 @@
     "SPA": "caracteres)",
     "TUR": "karakter)",
     "POR": "caracteres)",
-    "ITA": "caratteri)"
+    "ITA": "caratteri)",
+    "UKR": "символів)"
   },
   "Load new font": {
     "JPN": "あたらしいフォントをロード",
@@ -897,7 +982,8 @@
     "SPA": "Cargar nueva fuente",
     "TUR": "Yeni font yükle",
     "POR": "Carregar nova fonte",
-    "ITA": "Aggiungi nuovo font"
+    "ITA": "Aggiungi nuovo font",
+    "UKR": "Завантажити новий шрифт"
   },
   "Use enhanced 255 characters font": {
     "JPN": "かくちょう２５５もじフォントをしよう",
@@ -907,7 +993,8 @@
     "SPA": "Usar fuente para 255 caracteres",
     "TUR": "Gelişmiş 255 karakterlik font kullan",
     "POR": "Usar fonte estendida de 255 caracteres",
-    "ITA": "Usa font avanzato da 255 caratteri"
+    "ITA": "Usa font avanzato da 255 caratteri",
+    "UKR": "Використ. покращений 255-символьний шрифт"
   },
   "The five boxing wizards jump quickly": {
     "JPN": "(Japanese characters not previewable)",
@@ -917,7 +1004,8 @@
     "SPA": "Los cinco magos del boxeo saltan rápidamente",
     "TUR": "Beş boks sihirbazı hızla zıplıyor",
     "POR": "Vovô quis paz em férias na Grécia",
-    "ITA": "L’Italia è un paese che parla al cuore"
+    "ITA": "L’Italia è un paese che parla al cuore",
+    "UKR": "Хвацький юшковар Філіп щодня на ґанку готує сім'ї вечерю з жаб"
   },
   "Font": {
     "JPN": "フォント",
@@ -927,7 +1015,8 @@
     "SPA": "Fuente",
     "TUR": "Font",
     "POR": "Fonte",
-    "ITA": "Caratteri"
+    "ITA": "Caratteri",
+    "UKR": "Шрифт"
   },
   "Primary": {
     "DEU": "Primär",
@@ -936,7 +1025,8 @@
     "SPA": "Primario",
     "TUR": "Birincil",
     "POR": "Primário",
-    "ITA": "Principale"
+    "ITA": "Principale",
+    "UKR": "Головний"
   },
   "Fallback": {
     "DEU": "Ersatz",
@@ -945,7 +1035,8 @@
     "SPA": "Retroceder",
     "TUR": "Yedek",
     "POR": "Reserva",
-    "ITA": "Alternativa"
+    "ITA": "Alternativa",
+    "UKR": "Резервний"
   },
   "Language packages": {
     "DEU": "Sprachpakete",
@@ -954,7 +1045,8 @@
     "SPA": "Paquetes de Idioma",
     "TUR": "Dil paketleri",
     "POR": "Pacotes de idioma",
-    "ITA": "Pacchetto lingua"
+    "ITA": "Pacchetto lingua",
+    "UKR": "Мовні пакети"
   },
   "[default]": {
     "DEU": "[standard]",
@@ -979,7 +1071,8 @@
     "SPA": "Activar",
     "TUR": "Etkinleştir",
     "POR": "Ativar",
-    "ITA": "Attivare"
+    "ITA": "Attivare",
+    "UKR": "Активувати"
   },
   "Show layout icon": {
     "DEU": "Zeige Symbol",
@@ -987,7 +1080,8 @@
     "SPA": "Mostrar icono de esquema",
     "TUR": "Düzen simgesini göster",
     "POR": "Mostrar ícone do layout",
-    "ITA": "Mostra lo schema icone"
+    "ITA": "Mostra lo schema icone",
+    "UKR": "Показати значок розкладки"
   },
   "Selected keyboard is not": {
     "DEU": "Tastaturlayout passt nicht zum",
@@ -995,7 +1089,8 @@
     "SPA": "El teclado seleccionado no es",
     "TUR": "Seçilen klavye, yazı sistemiyle",
     "POR": "O teclado selecionado não",
-    "ITA": "La tastiera selezionata non"
+    "ITA": "La tastiera selezionata non",
+    "UKR": "Вибрана клавіатура несумісна"
   },
   "compatible with the writing system": {
     "DEU": "Schriftsystem. Bitte Zeichensatz",
@@ -1003,7 +1098,8 @@
     "SPA": "compatible con el sistema de escritura",
     "TUR": "uyumlu değil",
     "POR": "é compatível com a escrita",
-    "ITA": "è compatibile con il sistema di scrittura"
+    "ITA": "è compatibile con il sistema di scrittura",
+    "UKR": "із системою письма"
   },
   "Please adjust font or keyboard": {
     "DEU": "oder Tastatur anpassen",
@@ -1011,7 +1107,8 @@
     "SPA": "Por favor, ajuste la fuente o el teclado",
     "TUR": "Lütfen fontu veya klavyeyi ayarlayın",
     "POR": "Ajuste fonte ou teclado",
-    "ITA": "Cambia font o tastiera"
+    "ITA": "Cambia font o tastiera",
+    "UKR": "Налаштуйте шрифт або клавіатуру"
   },
   "Palette": {
     "JPN": "パレット",
@@ -1021,7 +1118,8 @@
     "SPA": "Paleta",
     "TUR": "Palet",
     "POR": "Paleta",
-    "ITA": "Palette"
+    "ITA": "Palette",
+    "UKR": "Палітра"
   },
   "Define": {
     "JPN": "ていぎ",
@@ -1031,7 +1129,8 @@
     "SPA": "Definir",
     "TUR": "Tanımla",
     "POR": "Definir",
-    "ITA": "Imposta…"
+    "ITA": "Imposta…",
+    "UKR": "Вибрати…"
   },
   "Taskbar": {
     "JPN": "タスクバー",
@@ -1041,7 +1140,8 @@
     "SPA": "Barra de tareas",
     "TUR": "Görev Çubuğu",
     "POR": "Barra de tarefas",
-    "ITA": "Taskbar…"
+    "ITA": "Taskbar…",
+    "UKR": "Пан. завдань…"
   },
   "Deskt": {
     "JPN": "デスク",
@@ -1051,7 +1151,8 @@
     "SPA": "Escrit",
     "TUR": "Masaüstü",
     "POR": "Área",
-    "ITA": "Deskt"
+    "ITA": "Deskt",
+    "UKR": "Роб. стіл"
   },
   "Saver": {
     "JPN": "セーバー",
@@ -1061,7 +1162,8 @@
     "SPA": "Salvap",
     "TUR": "Koruyucu",
     "POR": "Proteção",
-    "ITA": "Saver"
+    "ITA": "Saver",
+    "UKR": "Заставка"
   },
   "Colours": {
     "JPN": "カラー",
@@ -1071,7 +1173,8 @@
     "SPA": "Colores",
     "TUR": "Renkler",
     "POR": "Cores",
-    "ITA": "Colori"
+    "ITA": "Colori",
+    "UKR": "Кольори"
   },
   "Modi": {
     "JPN": "モード",
@@ -1081,7 +1184,8 @@
     "SPA": "Modo",
     "TUR": "Mod",
     "POR": "Modos",
-    "ITA": "Risol"
+    "ITA": "Risol",
+    "UKR": "Режими"
   },
   "Background": {
     "JPN": "バックグラウンド",
@@ -1091,7 +1195,8 @@
     "SPA": "Fondo",
     "TUR": "Arkaplan",
     "POR": "Fundo",
-    "ITA": "Sfondo"
+    "ITA": "Sfondo",
+    "UKR": "Фоновий"
   },
   "Setup": {
     "JPN": "セット",
@@ -1101,7 +1206,8 @@
     "SPA": "Opciones",
     "TUR": "Kurulum",
     "POR": "Configurar",
-    "ITA": "Imposta"
+    "ITA": "Imposta",
+    "UKR": "Налаштування"
   },
   "Screensaver": {
     "JPN": "スクリーンセーバー",
@@ -1111,7 +1217,8 @@
     "SPA": "Salvapantallas",
     "TUR": "Ekran Koruyucu",
     "POR": "Protetor de tela",
-    "ITA": "Screensaver"
+    "ITA": "Screensaver",
+    "UKR": "Заставка"
   },
   "Wait": {
     "JPN": "ウェイト",
@@ -1121,7 +1228,8 @@
     "SPA": "Esperar",
     "TUR": "Bekle",
     "POR": "Aguardar",
-    "ITA": "Avvio"
+    "ITA": "Avvio",
+    "UKR": "Інтервал"
   },
   "min": {
     "JPN": "分",
@@ -1131,7 +1239,8 @@
     "SPA": "min",
     "TUR": "dak",
     "POR": "min",
-    "ITA": "min"
+    "ITA": "min",
+    "UKR": "хв"
   },
   "Elements": {
     "JPN": "エレメント",
@@ -1141,7 +1250,8 @@
     "SPA": "Elementos",
     "TUR": "Öğeler",
     "POR": "Elementos",
-    "ITA": "Elementi"
+    "ITA": "Elementi",
+    "UKR": "Елементи"
   },
   "Definition": {
     "JPN": "ていぎ",
@@ -1151,7 +1261,8 @@
     "SPA": "Definición",
     "TUR": "Tanım",
     "POR": "Definição",
-    "ITA": "Definizione"
+    "ITA": "Definizione",
+    "UKR": "Визначення кольору"
   },
   "Roll": {
     "JPN": "ロール",
@@ -1161,7 +1272,8 @@
     "SPA": "Enrollar",
     "TUR": "Yuvarla",
     "POR": "Rotação",
-    "ITA": "Roll"
+    "ITA": "Roll",
+    "UKR": "Випадково"
   },
   "Flip": {
     "JPN": "フリップ",
@@ -1171,7 +1283,8 @@
     "SPA": "Girar",
     "TUR": "Çevir",
     "POR": "Inversão",
-    "ITA": "Inverti"
+    "ITA": "Inverti",
+    "UKR": "Перевернути"
   },
   "Bright": {
     "JPN": "ブライト",
@@ -1181,7 +1294,8 @@
     "SPA": "Claro",
     "TUR": "Aydınlık",
     "POR": "Claro",
-    "ITA": "Chiaro"
+    "ITA": "Chiaro",
+    "UKR": "Світліше"
   },
   "Dark": {
     "JPN": "ダーク",
@@ -1191,7 +1305,8 @@
     "SPA": "Oscuro",
     "TUR": "Karanlık",
     "POR": "Escuro",
-    "ITA": "Scuro"
+    "ITA": "Scuro",
+    "UKR": "Темніше"
   },
   "Screenmodi": {
     "JPN": "スクリーンモード",
@@ -1201,7 +1316,8 @@
     "SPA": "Modo de pantalla",
     "TUR": "Ekran modu",
     "POR": "Modos de tela",
-    "ITA": "Risoluzioni"
+    "ITA": "Risoluzioni",
+    "UKR": "Режим екрану"
   },
   "x 256 (2 colours)": {
     "JPN": "x２５６（２カラー）",
@@ -1311,7 +1427,8 @@
     "SPA": "Bajo",
     "TUR": "Düşük",
     "POR": "Baixo",
-    "ITA": "Bassa"
+    "ITA": "Bassa",
+    "UKR": "Низька"
   },
   "High": {
     "JPN": "ハイ",
@@ -1321,7 +1438,8 @@
     "SPA": "Alto",
     "TUR": "Yüksek",
     "POR": "Alto",
-    "ITA": "Alta"
+    "ITA": "Alta",
+    "UKR": "Висока"
   },
   "x240x16 (normal)": {
     "JPN": "x２４０x１６（ノーマル）",
@@ -1381,7 +1499,8 @@
     "SPA": "Frame",
     "TUR": "Çerçeve",
     "POR": "Frame",
-    "ITA": "Frame"
+    "ITA": "Frame",
+    "UKR": "Рамка"
   },
   "Backgr": {
     "JPN": "バック",
@@ -1391,7 +1510,8 @@
     "SPA": "Fondo",
     "TUR": "Arkaplan",
     "POR": "Fundo",
-    "ITA": "Sfondo"
+    "ITA": "Sfondo",
+    "UKR": "Фон"
   },
   "Text": {
     "JPN": "テキスト",
@@ -1401,7 +1521,8 @@
     "SPA": "Texto",
     "TUR": "Metin",
     "POR": "Texto",
-    "ITA": "Testo"
+    "ITA": "Testo",
+    "UKR": "Текст"
   },
   "Colour": {
     "JPN": "カラー",
@@ -1411,7 +1532,8 @@
     "SPA": "Color",
     "TUR": "Renk",
     "POR": "Cor",
-    "ITA": "Colore"
+    "ITA": "Colore",
+    "UKR": "Колір"
   },
   "Bar": {
     "JPN": "バー",
@@ -1421,7 +1543,8 @@
     "SPA": "Barra",
     "TUR": "Çubuk",
     "POR": "Barra",
-    "ITA": "Barra"
+    "ITA": "Barra",
+    "UKR": "Бігунок"
   },
   "Invert": {
     "JPN": "はんてん",
@@ -1431,7 +1554,8 @@
     "SPA": "Invertir",
     "TUR": "Tersine çevir",
     "POR": "Inverter",
-    "ITA": "Inverti"
+    "ITA": "Inverti",
+    "UKR": "Інвертований"
   },
   "Preview": {
     "JPN": "プレビュー",
@@ -1441,7 +1565,8 @@
     "SPA": "Vista preliminar",
     "TUR": "Önizleme",
     "POR": "Visualizar",
-    "ITA": "Anteprima"
+    "ITA": "Anteprima",
+    "UKR": "Перегляд"
   },
   "Title": {
     "JPN": "タイトル",
@@ -1451,7 +1576,8 @@
     "SPA": "Título",
     "TUR": "Başlık",
     "POR": "Título",
-    "ITA": "Titolo"
+    "ITA": "Titolo",
+    "UKR": "Заголовок"
   },
   "Status": {
     "JPN": "ステータス",
@@ -1461,7 +1587,8 @@
     "SPA": "Estado",
     "TUR": "Durum",
     "POR": "Status",
-    "ITA": "Stato"
+    "ITA": "Stato",
+    "UKR": "Стан"
   },
   "Slider": {
     "JPN": "スライダー",
@@ -1471,7 +1598,8 @@
     "SPA": "Deslizador",
     "TUR": "Kaydırıcı",
     "POR": "Controle",
-    "ITA": "Slider"
+    "ITA": "Slider",
+    "UKR": "Повзунок"
   },
   "Menu (1)": {
     "JPN": "メニュー（１）",
@@ -1481,7 +1609,8 @@
     "SPA": "Menú (1)",
     "TUR": "Menü (1)",
     "POR": "Menu (1)",
-    "ITA": "Menu (1)"
+    "ITA": "Menu (1)",
+    "UKR": "Меню (1)"
   },
   "Menu (2)": {
     "JPN": "メニュー（２）",
@@ -1491,7 +1620,8 @@
     "SPA": "Menú (2)",
     "TUR": "Menü (2)",
     "POR": "Menu (2)",
-    "ITA": "Menu (2)"
+    "ITA": "Menu (2)",
+    "UKR": "Меню (2)"
   },
   "Icons": {
     "JPN": "アイコン",
@@ -1501,7 +1631,8 @@
     "SPA": "Iconos",
     "TUR": "Simgeler",
     "POR": "Ícones",
-    "ITA": "Icone"
+    "ITA": "Icone",
+    "UKR": "Ярлики"
   },
   "Content": {
     "JPN": "コンテンツ",
@@ -1511,7 +1642,8 @@
     "SPA": "Contenido",
     "TUR": "İçerik",
     "POR": "Conteúdo",
-    "ITA": "Contenuto"
+    "ITA": "Contenuto",
+    "UKR": "Вміст"
   },
   "Symbols": {
     "JPN": "シンボル",
@@ -1521,7 +1653,8 @@
     "SPA": "Símbolos",
     "TUR": "Semboller",
     "POR": "Símbolos",
-    "ITA": "Simboli"
+    "ITA": "Simboli",
+    "UKR": "Символи"
   },
   "Startlogo": {
     "JPN": "スタートロゴ",
@@ -1531,7 +1664,8 @@
     "SPA": "Logo Inicio",
     "TUR": "Başlangıç Logosu",
     "POR": "Logo inicial",
-    "ITA": "Logo iniziale"
+    "ITA": "Logo iniziale",
+    "UKR": "Екран завантаження"
   },
   "Path too long": {
     "JPN": "パスがながすぎます。",
@@ -1541,7 +1675,8 @@
     "SPA": "Ruta demasiado larga",
     "TUR": "Yol fazla uzun",
     "POR": "Caminho muito longo",
-    "ITA": "Percorso troppo lungo"
+    "ITA": "Percorso troppo lungo",
+    "UKR": "Шлях занадто довгий"
   },
   "The length of the full path": {
     "JPN": "フルパスのながさは",
@@ -1551,7 +1686,8 @@
     "SPA": "La longitud de la ruta completa",
     "TUR": "Tam yolun uzunluğu",
     "POR": "Comprimento do caminho não",
-    "ITA": "Usa un percorso di"
+    "ITA": "Usa un percorso di",
+    "UKR": "Довжина шляху не повинна"
   },
   "shouldn't exceed 32 chars": {
     "JPN": "もじをこえてはいけません。",
@@ -1561,7 +1697,8 @@
     "SPA": "no debe exceder 32 caracteres",
     "TUR": "karakteri geçmemelidir",
     "POR": "deve exceder 32 caracteres",
-    "ITA": "massimo 32 caratteri"
+    "ITA": "massimo 32 caratteri",
+    "UKR": "перевищувати 32 літер"
   },
   "Up": {
     "JPN": "うえ",
@@ -1571,7 +1708,8 @@
     "SPA": "Arriba",
     "TUR": "Yukarı",
     "POR": "Acima",
-    "ITA": "Su"
+    "ITA": "Su",
+    "UKR": "Вгору"
   },
   "Down": {
     "JPN": "した",
@@ -1581,7 +1719,8 @@
     "SPA": "Abajo",
     "TUR": "Aşağı",
     "POR": "Abaixo",
-    "ITA": "Giu"
+    "ITA": "Giu",
+    "UKR": "Вниз"
   },
   "Path": {
     "JPN": "パス",
@@ -1591,7 +1730,8 @@
     "SPA": "Ruta",
     "TUR": "Yol",
     "POR": "Caminho",
-    "ITA": "Percorso"
+    "ITA": "Percorso",
+    "UKR": "Шлях"
   },
   "Icon": {
     "JPN": "アイコン",
@@ -1601,7 +1741,8 @@
     "SPA": "Icono",
     "TUR": "Simge",
     "POR": "Ícone",
-    "ITA": "Icona"
+    "ITA": "Icona",
+    "UKR": "Піктограма"
   },
   "Use file icon": {
     "JPN": "ファイルアイコンをしよう",
@@ -1611,7 +1752,8 @@
     "SPA": "Usar icono de archivo",
     "TUR": "Dosya simgesini kullan",
     "POR": "Usar ícone do arquivo",
-    "ITA": "Usa icona del file"
+    "ITA": "Usa icona del file",
+    "UKR": "Використати вбудовану"
   },
   "Select icon": {
     "JPN": "アイコンをせんたく",
@@ -1621,7 +1763,8 @@
     "SPA": "Seleccionar icono",
     "TUR": "Simge seç…",
     "POR": "Selecionar ícone",
-    "ITA": "Scegli icona…"
+    "ITA": "Scegli icona…",
+    "UKR": "Вибрати піктограму…"
   },
   "XPos": {
     "JPN": "Xざひょう",
@@ -1631,7 +1774,8 @@
     "SPA": "PosX",
     "TUR": "XPos",
     "POR": "PosX",
-    "ITA": "XPos"
+    "ITA": "XPos",
+    "UKR": "поз-X"
   },
   "YPos": {
     "JPN": "Yざひょう",
@@ -1641,7 +1785,8 @@
     "SPA": "PosY",
     "TUR": "YPos",
     "POR": "PosY",
-    "ITA": "YPos"
+    "ITA": "YPos",
+    "UKR": "поз-Y"
   },
   "Startmenu Editor": {
     "JPN": "スタートメニューエディター",
@@ -1651,7 +1796,8 @@
     "SPA": "Editor de Menú Inicio",
     "TUR": "Başlat Menüsü Düzenleyici",
     "POR": "Editor do Menu Iniciar",
-    "ITA": "Editor menù start"
+    "ITA": "Editor menù start",
+    "UKR": "Редактор меню \"Пуск\""
   },
   "Current location:": {
     "JPN": "カレントロケーション：",
@@ -1681,7 +1827,8 @@
     "SPA": "Añadir atajo",
     "TUR": "Kısayol ekle",
     "POR": "Adicionar atalho",
-    "ITA": "Nuovo collegamento"
+    "ITA": "Nuovo collegamento",
+    "UKR": "Додати ярлик"
   },
   "Add submenu": {
     "JPN": "メニューをついか",
@@ -1691,7 +1838,8 @@
     "SPA": "Añadir submenú",
     "TUR": "Alt menü ekle",
     "POR": "Adicionar submenu",
-    "ITA": "Nuovo sottomenù"
+    "ITA": "Nuovo sottomenù",
+    "UKR": "Додати підменю"
   },
   "Delete": {
     "JPN": "けす",
@@ -1701,7 +1849,8 @@
     "SPA": "Borrar",
     "TUR": "Sil",
     "POR": "Excluir",
-    "ITA": "Elimina"
+    "ITA": "Elimina",
+    "UKR": "Видалення"
   },
   "Entry up": {
     "JPN": "エントリをうえへ",
@@ -1737,7 +1886,8 @@
     "SPA": "Destino",
     "TUR": "Hedef",
     "POR": "Destino",
-    "ITA": "Destinazione"
+    "ITA": "Destinazione",
+    "UKR": "Об'єкт"
   },
   "Start in": {
     "JPN": "スタート",
@@ -1747,7 +1897,8 @@
     "SPA": "Iniciar en",
     "TUR": "İçinde başla",
     "POR": "Iniciar em",
-    "ITA": "Esegui in"
+    "ITA": "Esegui in",
+    "UKR": "Робоча папка"
   },
   "Run": {
     "JPN": "じっこう",
@@ -1757,7 +1908,8 @@
     "SPA": "Ejecutar",
     "TUR": "Çalıştır…",
     "POR": "Executar",
-    "ITA": "Esegui"
+    "ITA": "Esegui",
+    "UKR": "Виконати…"
   },
   "Refresh": {
     "JPN": "リフレッシュ",
@@ -1767,7 +1919,8 @@
     "SPA": "Refrescar",
     "TUR": "Yenile",
     "POR": "Atualizar",
-    "ITA": "Aggiorna"
+    "ITA": "Aggiorna",
+    "UKR": "Оновити"
   },
   "Default": {
     "JPN": "デフォルト",
@@ -1777,7 +1930,8 @@
     "SPA": "Por defecto",
     "TUR": "Varsayılan",
     "POR": "Padrão",
-    "ITA": "Default"
+    "ITA": "Default",
+    "UKR": "Стандартно"
   },
   "Normal window": {
     "JPN": "ノーマルウィンドウ",
@@ -1787,7 +1941,8 @@
     "SPA": "Ventana normal",
     "TUR": "Normal pencere",
     "POR": "Janela normal",
-    "ITA": "Finestra"
+    "ITA": "Finestra",
+    "UKR": "Звичайний розмір"
   },
   "Minimized": {
     "JPN": "さいしょう",
@@ -1797,7 +1952,8 @@
     "SPA": "Minimizado",
     "TUR": "Küçültülmüş",
     "POR": "Minimizado",
-    "ITA": "Minimizzata"
+    "ITA": "Minimizzata",
+    "UKR": "Згорнуте"
   },
   "Maximized": {
     "JPN": "さいだい",
@@ -1807,7 +1963,8 @@
     "SPA": "Maximizado",
     "TUR": "Büyütülmüş",
     "POR": "Maximizado",
-    "ITA": "Ingrandita"
+    "ITA": "Ingrandita",
+    "UKR": "Розгорнуте"
   },
   "Memory full!": {
     "JPN": "メモリがいっぱいです。",
@@ -1817,7 +1974,8 @@
     "SPA": "¡Memoria llena!",
     "TUR": "Bellek dolu!",
     "POR": "Memória cheia!",
-    "ITA": "Memoria Piena!"
+    "ITA": "Memoria Piena!",
+    "UKR": "Пам'ять переповнена!"
   },
   "There is no memory left for": {
     "JPN": "このそうさをかんりょうするための",
@@ -1827,7 +1985,8 @@
     "SPA": "No hay memoria para",
     "TUR": "Bu işlemi tamamlamak için",
     "POR": "Não há memória para",
-    "ITA": "Non c'è abbastanza memoria"
+    "ITA": "Non c'è abbastanza memoria",
+    "UKR": "Немає пам'яті для"
   },
   "completing this operation": {
     "JPN": "メモリがのこっていません。",
@@ -1837,7 +1996,8 @@
     "SPA": "completar esta operación",
     "TUR": "yeterli bellek kalmadı",
     "POR": "concluir esta operação",
-    "ITA": "per completare l'operazione"
+    "ITA": "per completare l'operazione",
+    "UKR": "завершення цієї операції"
   },
   "Too many entries! The maximum": {
     "JPN": "エントリがおおすぎます。",
@@ -1847,7 +2007,8 @@
     "SPA": "¡Demasiadas entradas! El número",
     "TUR": "Çok fazla giriş var!",
     "POR": "Muitas entradas! O máximo",
-    "ITA": "Troppe voci! Nei sottomenù"
+    "ITA": "Troppe voci! Nei sottomenù",
+    "UKR": "Забагато пунктів! Досягнуто"
   },
   "amount of entries (24) for this": {
     "JPN": "このサブメニューのさいだいすう",
@@ -1857,7 +2018,8 @@
     "SPA": "máximo de entradas (24) para este",
     "TUR": "Bu alt menü için maksimum",
     "POR": "de entradas (24) para este",
-    "ITA": "possono esserci 24 voci"
+    "ITA": "possono esserci 24 voci",
+    "UKR": "макс. кількості пунктів (24)"
   },
   "submenu has been reached": {
     "JPN": "（２４）にたっしました。",
@@ -1867,7 +2029,8 @@
     "SPA": "submenú se ha alcanzado",
     "TUR": "giriş sayısına (24) ulaşıldı",
     "POR": "submenu foi atingido",
-    "ITA": "al massimo"
+    "ITA": "al massimo",
+    "UKR": "для цього підменю"
   },
   "Too many nested submenus!": {
     "JPN": "サブメニューのかさねすぎです。",
@@ -1877,7 +2040,8 @@
     "SPA": "¡Demasiados submenús anidados!",
     "TUR": "Çok fazla iç içe alt menü var!",
     "POR": "Muitos submenus aninhados!",
-    "ITA": "Troppi sottomenù annidati"
+    "ITA": "Troppi sottomenù annidati",
+    "UKR": "Забагато вкладених підменю!"
   },
   "The deepest level for a": {
     "JPN": "サブメニューのさいしんそうは",
@@ -1887,7 +2051,8 @@
     "SPA": "El máximo nivel para un",
     "TUR": "Bir alt menünün en derin",
     "POR": "O nível mais profundo",
-    "ITA": "Puoi usarne al massimo"
+    "ITA": "Puoi usarne al massimo",
+    "UKR": "Найглибший рівень для"
   },
   "submenu is": {
     "JPN": "です。",
@@ -1896,7 +2061,8 @@
     "SPA": "submenú es",
     "TUR": "seviyesi 5'tir",
     "POR": "de submenu é",
-    "ITA": "uno dentro l'altro"
+    "ITA": "uno dentro l'altro",
+    "UKR": "підменю —"
   },
   "Date and Time": {
     "JPN": "日時",
@@ -1906,7 +2072,8 @@
     "SPA": "Fecha y Hora",
     "TUR": "Tarih ve Saat",
     "POR": "Data e Hora",
-    "ITA": "Data e Ora"
+    "ITA": "Data e Ora",
+    "UKR": "Дата та час"
   },
   "Date": {
     "JPN": "日づけ",
@@ -1916,7 +2083,8 @@
     "SPA": "Fecha",
     "TUR": "Tarih",
     "POR": "Data",
-    "ITA": "Data"
+    "ITA": "Data",
+    "UKR": "Дата"
   },
   "Zone": {
     "JPN": "タイムゾーン",
@@ -1926,7 +2094,8 @@
     "SPA": "Zona",
     "TUR": "Dilim",
     "POR": "Fuso",
-    "ITA": "Zona"
+    "ITA": "Zona",
+    "UKR": "Зона"
   },
   "W": {
     "JPN": "W",
@@ -1936,7 +2105,8 @@
     "SPA": "S",
     "TUR": "Ç",
     "POR": "D",
-    "ITA": "S"
+    "ITA": "S",
+    "UKR": "Т"
   },
   "M": {
     "JPN": "月",
@@ -1946,7 +2116,8 @@
     "SPA": "L",
     "TUR": "P",
     "POR": "S",
-    "ITA": "L"
+    "ITA": "L",
+    "UKR": "Пн"
   },
   "T": {
     "JPN": "火",
@@ -1956,7 +2127,8 @@
     "SPA": "M",
     "TUR": "S",
     "POR": "T",
-    "ITA": "M"
+    "ITA": "M",
+    "UKR": "Вв"
   },
   "F": {
     "JPN": "金",
@@ -1966,7 +2138,8 @@
     "SPA": "V",
     "TUR": "C",
     "POR": "S",
-    "ITA": "V"
+    "ITA": "V",
+    "UKR": "Пт"
   },
   "S": {
     "JPN": "土",
@@ -1976,7 +2149,8 @@
     "SPA": "S",
     "TUR": "S",
     "POR": "S",
-    "ITA": "S"
+    "ITA": "S",
+    "UKR": "Сб"
   },
   "Hour": {
     "JPN": "時",
@@ -1986,7 +2160,8 @@
     "SPA": "Hora",
     "TUR": "Saat",
     "POR": "Hora",
-    "ITA": "Ora"
+    "ITA": "Ora",
+    "UKR": "Год"
   },
   "Min": {
     "JPN": "分",
@@ -1996,7 +2171,8 @@
     "SPA": "Min",
     "TUR": "Dak",
     "POR": "Min",
-    "ITA": "Min"
+    "ITA": "Min",
+    "UKR": "Хвил"
   },
   "Sec": {
     "JPN": "秒",
@@ -2006,7 +2182,8 @@
     "SPA": "Seg",
     "TUR": "San",
     "POR": "Seg",
-    "ITA": "Sec"
+    "ITA": "Sec",
+    "UKR": "Сек"
   },
   "January": {
     "JPN": "月",
@@ -2016,7 +2193,8 @@
     "SPA": "Enero",
     "TUR": "Ocak",
     "POR": "Janeiro",
-    "ITA": "Gennaio"
+    "ITA": "Gennaio",
+    "UKR": "січень"
   },
   "February": {
     "JPN": "月",
@@ -2026,7 +2204,8 @@
     "SPA": "Febrero",
     "TUR": "Şubat",
     "POR": "Fevereiro",
-    "ITA": "Febbraio"
+    "ITA": "Febbraio",
+    "UKR": "лютий"
   },
   "March": {
     "JPN": "月",
@@ -2036,7 +2215,8 @@
     "SPA": "Marzo",
     "TUR": "Mart",
     "POR": "Março",
-    "ITA": "Marzo"
+    "ITA": "Marzo",
+    "UKR": "березень"
   },
   "April": {
     "JPN": "月",
@@ -2046,7 +2226,8 @@
     "SPA": "Abril",
     "TUR": "Nisan",
     "POR": "Abril",
-    "ITA": "Aprile"
+    "ITA": "Aprile",
+    "UKR": "квітень"
   },
   "May": {
     "JPN": "月",
@@ -2056,7 +2237,8 @@
     "SPA": "Mayo",
     "TUR": "Mayıs",
     "POR": "Maio",
-    "ITA": "Maggio"
+    "ITA": "Maggio",
+    "UKR": "травень"
   },
   "June": {
     "JPN": "月",
@@ -2066,7 +2248,8 @@
     "SPA": "Junio",
     "TUR": "Haziran",
     "POR": "Junho",
-    "ITA": "Giugno"
+    "ITA": "Giugno",
+    "UKR": "липень"
   },
   "July": {
     "JPN": "月",
@@ -2076,7 +2259,8 @@
     "SPA": "Julio",
     "TUR": "Temmuz",
     "POR": "Julho",
-    "ITA": "Luglio"
+    "ITA": "Luglio",
+    "UKR": "червень"
   },
   "August": {
     "JPN": "月",
@@ -2086,7 +2270,8 @@
     "SPA": "Agosto",
     "TUR": "Ağustos",
     "POR": "Agosto",
-    "ITA": "Agosto"
+    "ITA": "Agosto",
+    "UKR": "серпень"
   },
   "September": {
     "JPN": "月",
@@ -2096,7 +2281,8 @@
     "SPA": "Septiembre",
     "TUR": "Eylül",
     "POR": "Setembro",
-    "ITA": "Settembre"
+    "ITA": "Settembre",
+    "UKR": "вересень"
   },
   "October": {
     "JPN": "月",
@@ -2106,7 +2292,8 @@
     "SPA": "Octubre",
     "TUR": "Ekim",
     "POR": "Outubro",
-    "ITA": "Ottobre"
+    "ITA": "Ottobre",
+    "UKR": "жовтень"
   },
   "November": {
     "JPN": "月",
@@ -2116,7 +2303,8 @@
     "SPA": "Noviembre",
     "TUR": "Kasım",
     "POR": "Novembro",
-    "ITA": "Novembre"
+    "ITA": "Novembre",
+    "UKR": "листопад"
   },
   "December": {
     "JPN": "月",
@@ -2126,7 +2314,8 @@
     "SPA": "Diciembre",
     "TUR": "Aralık",
     "POR": "Dezembro",
-    "ITA": "Dicembre"
+    "ITA": "Dicembre",
+    "UKR": "грудень"
   },
   "Monday": {
     "JPN": "月ようび",
@@ -2136,7 +2325,8 @@
     "SPA": "Lunes",
     "TUR": "Pazartesi",
     "POR": "Segunda-feira",
-    "ITA": "Lunedì"
+    "ITA": "Lunedì",
+    "UKR": "понеділок"
   },
   "Tuesday": {
     "JPN": "火ようび",
@@ -2146,7 +2336,8 @@
     "SPA": "Martes",
     "TUR": "Salı",
     "POR": "Terça-feira",
-    "ITA": "Martedì"
+    "ITA": "Martedì",
+    "UKR": "вівторок"
   },
   "Wednesday": {
     "JPN": "水ようび",
@@ -2156,7 +2347,8 @@
     "SPA": "Miércoles",
     "TUR": "Çarşamba",
     "POR": "Quarta-feira",
-    "ITA": "Mercoledì"
+    "ITA": "Mercoledì",
+    "UKR": "середа"
   },
   "Thursday": {
     "JPN": "木ようび",
@@ -2166,7 +2358,8 @@
     "SPA": "Jueves",
     "TUR": "Perşembe",
     "POR": "Quinta-feira",
-    "ITA": "Giovedì"
+    "ITA": "Giovedì",
+    "UKR": "четвер"
   },
   "Friday": {
     "JPN": "金ようび",
@@ -2176,7 +2369,8 @@
     "SPA": "Viernes",
     "TUR": "Cuma",
     "POR": "Sexta-feira",
-    "ITA": "Venerdì"
+    "ITA": "Venerdì",
+    "UKR": "п'ятниця"
   },
   "Saturday": {
     "JPN": "土ようび",
@@ -2186,7 +2380,8 @@
     "SPA": "Sábado",
     "TUR": "Cumartesi",
     "POR": "Sábado",
-    "ITA": "Sabato"
+    "ITA": "Sabato",
+    "UKR": "субота"
   },
   "Sunday": {
     "JPN": "日ようび",
@@ -2196,7 +2391,8 @@
     "SPA": "Domingo",
     "TUR": "Pazar",
     "POR": "Domingo",
-    "ITA": "Domenica"
+    "ITA": "Domenica",
+    "UKR": "неділя"
   },
   "Int.Dateline": {
     "JPN": "デートライン",
@@ -2206,7 +2402,8 @@
     "SPA": "Línea int. de cambio de fecha",
     "TUR": "Int.Dateline",
     "POR": "Linha Int. de Data",
-    "ITA": "Int.Dateline"
+    "ITA": "Int.Dateline",
+    "UKR": "Міжн. лінія зм. дат"
   },
   "Midway Island": {
     "JPN": "ミッドウェーとう",
@@ -2216,7 +2413,8 @@
     "SPA": "Islas Midway",
     "TUR": "Midway Adası",
     "POR": "Ilha Midway",
-    "ITA": "Isole Midway"
+    "ITA": "Isole Midway",
+    "UKR": "Мідвей"
   },
   "Hawaii": {
     "JPN": "ハワイ",
@@ -2226,7 +2424,8 @@
     "SPA": "Hawai",
     "TUR": "Hawaii",
     "POR": "Havaí",
-    "ITA": "Hawaii"
+    "ITA": "Hawaii",
+    "UKR": "Гаваї"
   },
   "Alaska": {
     "JPN": "アラスカ",
@@ -2236,7 +2435,8 @@
     "SPA": "Alaska",
     "TUR": "Alaska",
     "POR": "Alasca",
-    "ITA": "Alaska"
+    "ITA": "Alaska",
+    "UKR": "Аляска"
   },
   "Los Angeles": {
     "JPN": "ロサンゼルス",
@@ -2246,7 +2446,8 @@
     "SPA": "Los Ángeles",
     "TUR": "Los Angeles",
     "POR": "Los Angeles",
-    "ITA": "Los Angeles"
+    "ITA": "Los Angeles",
+    "UKR": "Лос-Анджелес"
   },
   "Denver, Arizona": {
     "JPN": "デンバー、アリゾナ",
@@ -2256,7 +2457,8 @@
     "SPA": "Denver, Arizona",
     "TUR": "Denver, Arizona",
     "POR": "Denver, Arizona",
-    "ITA": "Denver, Arizona"
+    "ITA": "Denver, Arizona",
+    "UKR": "Денвер, Арізона"
   },
   "Chicago": {
     "JPN": "シカゴ",
@@ -2266,7 +2468,8 @@
     "SPA": "Chicago",
     "TUR": "Chicago",
     "POR": "Chicago",
-    "ITA": "Chicago"
+    "ITA": "Chicago",
+    "UKR": "Чикаго"
   },
   "New York": {
     "JPN": "ニューヨーク",
@@ -2276,7 +2479,8 @@
     "SPA": "Nueva York",
     "TUR": "New York",
     "POR": "Nova York",
-    "ITA": "New York"
+    "ITA": "New York",
+    "UKR": "Нью-Йорк"
   },
   "Santiago": {
     "JPN": "サンティアゴ",
@@ -2286,7 +2490,8 @@
     "SPA": "Santiago",
     "TUR": "Santiago",
     "POR": "Santiago",
-    "ITA": "Santiago"
+    "ITA": "Santiago",
+    "UKR": "Сантьяґо"
   },
   "Buenos Aires": {
     "JPN": "ブエノスアイレス",
@@ -2296,7 +2501,8 @@
     "SPA": "Ciudad de Buenos Aires",
     "TUR": "Buenos Aires",
     "POR": "Buenos Aires",
-    "ITA": "Buenos Aires"
+    "ITA": "Buenos Aires",
+    "UKR": "Буенос-Айрес"
   },
   "Middle Atlantic": {
     "JPN": "ミドルアトランティック",
@@ -2306,7 +2512,8 @@
     "SPA": "Atlántico Medio",
     "TUR": "Orta Atlantik",
     "POR": "Atlântico Médio",
-    "ITA": "Atlantico Centrale"
+    "ITA": "Atlantico Centrale",
+    "UKR": "середньоатлантичний час"
   },
   "Azores, Cabo Verde": {
     "JPN": "アゾレス、カーボベルデ",
@@ -2316,7 +2523,8 @@
     "SPA": "Azores, Cabo Verde",
     "TUR": "Azores, Cabo Verde",
     "POR": "Açores, Cabo Verde",
-    "ITA": "Azores, Cabo Verde"
+    "ITA": "Azores, Cabo Verde",
+    "UKR": "Азорські о-ви, Кабо-Верде"
   },
   "+00 London, Lissabon": {
     "JPN": "+０ ロンドン、リスボン",
@@ -2326,7 +2534,8 @@
     "SPA": "+00 Londres, Lisboa",
     "TUR": "+00 Londra, Lizbon",
     "POR": "+00 Londres, Lisboa",
-    "ITA": "+00 London, Lissabon"
+    "ITA": "+00 London, Lissabon",
+    "UKR": "+00 Лондон, Лісабон"
   },
   "+01 Amsterdam, Berlin": {
     "JPN": "+１ アムステルダム、ベルリン",
@@ -2336,7 +2545,8 @@
     "SPA": "+01 Ámsterdam, Berlín",
     "TUR": "+01 Amsterdam, Berlin",
     "POR": "+01 Amsterdã, Berlim",
-    "ITA": "+01 Amsterdam, Berlin"
+    "ITA": "+01 Amsterdam, Berlin",
+    "UKR": "+01 Амстердам, Берлін"
   },
   "+02 Kiev, Helsinki": {
     "JPN": "+２ キーエフ、ヘルシンキ",
@@ -2346,7 +2556,8 @@
     "SPA": "+02 Kiev, Helsinki",
     "TUR": "+02 Kiev, Helsinki",
     "POR": "+02 Kiev, Helsinque",
-    "ITA": "+02 Kiev, Helsinki"
+    "ITA": "+02 Kiev, Helsinki",
+    "UKR": "+02 Київ, Гельсінкі"
   },
   "+03 Constantinople": {
     "JPN": "+３ コンスタンティノープル",
@@ -2356,7 +2567,8 @@
     "SPA": "+03 Estambul",
     "TUR": "+03 İstanbul",
     "POR": "+03 Constantinopla",
-    "ITA": "+03 Instambul"
+    "ITA": "+03 Instambul",
+    "UKR": "+03 Константинополь"
   },
   "+04 Tiflis": {
     "JPN": "+４ ティフリス",
@@ -2366,7 +2578,8 @@
     "SPA": "+04 Tiflis",
     "TUR": "+04 Tiflis",
     "POR": "+04 Tíflis",
-    "ITA": "+04 Tiblisi"
+    "ITA": "+04 Tiblisi",
+    "UKR": "+04 Тбілісі"
   },
   "+05 Male": {
     "JPN": "+５ マーレ",
@@ -2376,7 +2589,8 @@
     "SPA": "+05 Malé",
     "TUR": "+05 Male",
     "POR": "+05 Malé",
-    "ITA": "+05 Malè"
+    "ITA": "+05 Malè",
+    "UKR": "+05 Мале"
   },
   "+06 Dhaka": {
     "JPN": "+６ ダッカ",
@@ -2386,7 +2600,8 @@
     "SPA": "+06 Dacca",
     "TUR": "+06 Dhaka",
     "POR": "+06 Daca",
-    "ITA": "+06 Dhaka"
+    "ITA": "+06 Dhaka",
+    "UKR": "+06 Дакка"
   },
   "+07 Bangkok, Hanoi": {
     "JPN": "+７ バンコク、ハノイ",
@@ -2396,7 +2611,8 @@
     "SPA": "+07 Bangkok, Hanói",
     "TUR": "+07 Bangkok, Hanoi",
     "POR": "+07 Bangkok, Hanói",
-    "ITA": "+07 Bangkok, Hanoi"
+    "ITA": "+07 Bangkok, Hanoi",
+    "UKR": "+07 Банґкок, Ханой"
   },
   "+08 Beijing, Perth": {
     "JPN": "+８ ペキン、パース",
@@ -2406,7 +2622,8 @@
     "SPA": "+08 Beijing, Perth",
     "TUR": "+08 Pekin, Perth",
     "POR": "+08 Pequim, Perth",
-    "ITA": "+08 Beijing, Perth"
+    "ITA": "+08 Beijing, Perth",
+    "UKR": "+08 Пекін, Перт"
   },
   "+09 Tokyo, Seoul": {
     "JPN": "+９ とうきょう、ソウル",
@@ -2416,7 +2633,8 @@
     "SPA": "+09 Tokio, Seúl",
     "TUR": "+09 Tokyo, Seul",
     "POR": "+09 Tóquio, Seul",
-    "ITA": "+09 Tokyo, Seoul"
+    "ITA": "+09 Tokyo, Seoul",
+    "UKR": "+09 Токіо, Сеул"
   },
   "+10 Sydney": {
     "JPN": "+１０ シドニー",
@@ -2426,7 +2644,8 @@
     "SPA": "+10 Sídney",
     "TUR": "+10 Sydney",
     "POR": "+10 Sydney",
-    "ITA": "+10 Sydney"
+    "ITA": "+10 Sydney",
+    "UKR": "+10 Сідней"
   },
   "+11 New Caledonia": {
     "JPN": "+１１ ニューカレドニア",
@@ -2436,7 +2655,8 @@
     "SPA": "+11 Nueva Caledonia",
     "TUR": "+11 Yeni Kaledonya",
     "POR": "+11 Nova Caledônia",
-    "ITA": "+11 Nuova Caledonia"
+    "ITA": "+11 Nuova Caledonia",
+    "UKR": "+11 Нова Каледонія"
   },
   "+12 Auckland": {
     "JPN": "+１２ オークランド",
@@ -2446,7 +2666,8 @@
     "SPA": "+12 Auckland",
     "TUR": "+12 Auckland",
     "POR": "+12 Auckland",
-    "ITA": "+12 Auckland"
+    "ITA": "+12 Auckland",
+    "UKR": "+12 Окленд"
   },
   "+13 Nuku'alofa": {
     "JPN": "+１３ ヌクアロファ",
@@ -2456,7 +2677,8 @@
     "SPA": "+13 Nuku'alofa",
     "TUR": "+13 Nuku'alofa",
     "POR": "+13 Nuku'alofa",
-    "ITA": "+13 Nuku'alofa"
+    "ITA": "+13 Nuku'alofa",
+    "UKR": "+13 Нукуалофа"
   },
   "Please close the previous": {
     "JPN": "ショートカットのダイアログを",
@@ -2465,7 +2687,8 @@
     "SPA": "Por favor, primero cierre",
     "TUR": "Lütfen önce ilk",
     "POR": "Feche o diálogo de",
-    "ITA": "Chiudi la precedente finestra"
+    "ITA": "Chiudi la precedente finestra",
+    "UKR": "Будь ласка, спочатку закрийте"
   },
   "shortcut dialogue first": {
     "JPN": "さきにとじてください。",
@@ -2474,7 +2697,8 @@
     "SPA": "el diálogo de atajo previo",
     "TUR": "kısayol diyaloğunu kapatın",
     "POR": "atalho anterior primeiro",
-    "ITA": "di dialogo sui collegamenti"
+    "ITA": "di dialogo sui collegamenti",
+    "UKR": "попереднє діалогове вікно ярлика"
   },
   "widget dialogue first": {
     "JPN": "さきにとじてください。",
@@ -2483,7 +2707,8 @@
     "SPA": "el diálogo de widget previo",
     "TUR": "widget diyaloğunu kapatın",
     "POR": "widget anterior primeiro",
-    "ITA": "di dialogo sui widget"
+    "ITA": "di dialogo sui widget",
+    "UKR": "попереднє діалогове вікно віджета"
   },
   "Error while reading file": {
     "JPN": "ファイルのよみこみエラー。",
@@ -2492,7 +2717,8 @@
     "SPA": "Error leyendo el archivo",
     "TUR": "Dosyayı okurken hata oluştu",
     "POR": "Erro ao ler arquivo",
-    "ITA": "Errore di lettura del file"
+    "ITA": "Errore di lettura del file",
+    "UKR": "Помилка читання файлу"
   },
   "Wrong widget format or disc error": {
     "JPN": "ウィジェットのフォーマットまたはディスクエラー。",
@@ -2501,7 +2727,8 @@
     "SPA": "Formato de widget erróneo o error de disco",
     "TUR": "Yanlış widget formatı veya disk hatası",
     "POR": "Erro de widget ou disco",
-    "ITA": "Formato widget errato o errore disco"
+    "ITA": "Formato widget errato o errore disco",
+    "UKR": "Некоректний формат віджету або помилка читання диску"
   },
   "Wrong icon format or disc error": {
     "JPN": "アイコンのフォーマットまたはディスクエラー。",
@@ -2510,7 +2737,8 @@
     "SPA": "Formato de icono erróneo o error de disco",
     "TUR": "Yanlış simge formatı veya disk hatası",
     "POR": "Erro de ícone ou disco",
-    "ITA": "Formato icona errato o errore disco"
+    "ITA": "Formato icona errato o errore disco",
+    "UKR": "Некоректний формат піктограми або помилка читання диску"
   },
   "Are you sure you want to delete": {
     "JPN": "このウィジェットを",
@@ -2519,7 +2747,8 @@
     "SPA": "¿Seguro que quieres borrar",
     "TUR": "Bu widget’ı silmek İstediğinize",
     "POR": "Tem certeza que deseja",
-    "ITA": "Sicuro di voler eliminare"
+    "ITA": "Sicuro di voler eliminare",
+    "UKR": "Ви впевнені що хочете"
   },
   "this widget?": {
     "JPN": "さくじょしてもよろしいですか?",
@@ -2528,7 +2757,8 @@
     "SPA": "este widget?",
     "TUR": "emin misiniz?",
     "POR": "excluir este widget?",
-    "ITA": "questo widget?"
+    "ITA": "questo widget?",
+    "UKR": "видалити цей віджет?"
   },
   "Memory full": {
     "JPN": "メモリがいっぱいです。",
@@ -2537,7 +2767,8 @@
     "SPA": "Memoria llena",
     "TUR": "Bellek doldu",
     "POR": "Memória cheia",
-    "ITA": "Memoria esaurita"
+    "ITA": "Memoria esaurita",
+    "UKR": "Пам'ять переповнена"
   },
   "There is no remaining memory": {
     "JPN": "このリンクをほぞんするための",
@@ -2546,7 +2777,8 @@
     "SPA": "No hay memoria suficiente",
     "TUR": "Bu linki kaydetmek için",
     "POR": "Não há memória disponível",
-    "ITA": "Non c'è più memoria"
+    "ITA": "Non c'è più memoria",
+    "UKR": "Немає вільної пам'яті для"
   },
   "available for saving this link": {
     "JPN": "メモリがたりません。",
@@ -2555,7 +2787,8 @@
     "SPA": "para guardar este enlace",
     "TUR": "yeterli bellek yok",
     "POR": "para salvar este link",
-    "ITA": "per salvare questo link"
+    "ITA": "per salvare questo link",
+    "UKR": "збереження цього посилання"
   },
   "available for adding this widget": {
     "JPN": "メモリがたりません。",
@@ -2564,7 +2797,8 @@
     "SPA": "para añadir este widget",
     "TUR": "yeterli bellek yok",
     "POR": "para adicionar este widget",
-    "ITA": "per aggiungere questo widget"
+    "ITA": "per aggiungere questo widget",
+    "UKR": "додавання цього віджета"
   },
   "Folders cannot be cut": {
     "JPN": "フォルダはカットできません。",
@@ -2573,7 +2807,8 @@
     "SPA": "Las carpetas no pueden cortarse",
     "TUR": "Klasörler kesilemez",
     "POR": "Pastas não podem ser cortadas",
-    "ITA": "Le cartelle non possono essere tagliate"
+    "ITA": "Le cartelle non possono essere tagliate",
+    "UKR": "Папки не можна вирізати"
   },
   "Please use copy and paste,": {
     "JPN": "コピーとペーストをつかって、",
@@ -2582,7 +2817,8 @@
     "SPA": "Por favor, usa copiar y pegar",
     "TUR": "Lütfen kopyalayın ve yapıştırın,",
     "POR": "Por favor, use copiar e colar,",
-    "ITA": "Usa copia e incolla e poi"
+    "ITA": "Usa copia e incolla e poi",
+    "UKR": "Будь ласка, скористайтеся копіюванням та"
   },
   "and then delete the old folder": {
     "JPN": "ふるいフォルダをさくじょしてください。",
@@ -2591,7 +2827,8 @@
     "SPA": "y entonces borra la carpeta antigua",
     "TUR": "sonra klasörü silin",
     "POR": "e então exclua a pasta antiga",
-    "ITA": "cancella la vecchia cartella"
+    "ITA": "cancella la vecchia cartella",
+    "UKR": "вставкою, а потім видаліть стару папку"
   },
   "Error while loading and executing": {
     "JPN": "ウィジェットのよみこみとじっこうでエラー。",
@@ -2600,7 +2837,8 @@
     "SPA": "Error al cargar y ejecutar el widget",
     "TUR": "Widget yüklenirken ve yürütülürken",
     "POR": "Erro ao carregar e executar",
-    "ITA": "Errore di caricamento ed esecuzione del"
+    "ITA": "Errore di caricamento ed esecuzione del",
+    "UKR": "Помилка під час завантаження та"
   },
   "widget. Disc error, corrupt widget": {
     "JPN": "ディスクエラー、ファイルのはそん",
@@ -2609,7 +2847,8 @@
     "SPA": "Error de disco, archivo de widget",
     "TUR": "hata oluştu Disk hatası, bozuk widget",
     "POR": "widget. Erro de disco, arquivo de",
-    "ITA": "widget. Errore disco, widget corrotto"
+    "ITA": "widget. Errore disco, widget corrotto",
+    "UKR": "запуску віджета. Помилка диску,"
   },
   "file or memory full": {
     "JPN": "またはメモリがいっぱいです。",
@@ -2618,7 +2857,8 @@
     "SPA": "corrupto o memoria llena",
     "TUR": "dosyası veya dolu bellek",
     "POR": "widget corrompido ou memória cheia",
-    "ITA": "o memoria esaurita"
+    "ITA": "o memoria esaurita",
+    "UKR": "пошкоджений файл віджету чи"
   },
   "< Back": {
     "JPN": "< もどる",
@@ -2627,7 +2867,8 @@
     "SPA": "< Volver",
     "TUR": "< Geri",
     "POR": "< Voltar",
-    "ITA": "<Precedente"
+    "ITA": "<Precedente",
+    "UKR": "< Назад"
   },
   "Next >": {
     "JPN": "つぎへ >",
@@ -2636,7 +2877,8 @@
     "SPA": "Siguiente >",
     "TUR": "İleri >",
     "POR": "Avançar >",
-    "ITA": "Prossimo>"
+    "ITA": "Prossimo>",
+    "UKR": "Далі >"
   },
   "Finish": {
     "JPN": "かんりょう",
@@ -2645,7 +2887,8 @@
     "SPA": "Terminar",
     "TUR": "Bitir",
     "POR": "Concluir",
-    "ITA": "Terminare"
+    "ITA": "Terminare",
+    "UKR": "Готово"
   },
   "[empty]": {
     "JPN": "[から]",
@@ -2659,7 +2902,8 @@
     "SPA": "Propiedades",
     "TUR": "Özellikler",
     "POR": "Propriedades",
-    "ITA": "Proprietà"
+    "ITA": "Proprietà",
+    "UKR": "Властивості"
   },
   "SymbOS security": {
     "JPN": "SymbOSセキュリティ",
@@ -2668,7 +2912,8 @@
     "SPA": "Seguridad de SymbOS",
     "TUR": "SymbOS güvenliği",
     "POR": "Segurança do SymbOS",
-    "ITA": "Sicurezza di SymbOS"
+    "ITA": "Sicurezza di SymbOS",
+    "UKR": "Безпека SymbOS"
   },
   "Use the Task Manager to close an": {
     "JPN": "おうとうしないアプリケーションをとじるには",
@@ -2677,7 +2922,8 @@
     "SPA": "Usa el Gestor de Tareas para cerrar",
     "TUR": "Yanıt vermeyen bir uygulamayı kapatmak için",
     "POR": "Use o Gerenciador de Tarefas para",
-    "ITA": "Usa il Task Manager per terminare"
+    "ITA": "Usa il Task Manager per terminare",
+    "UKR": "Використовуйте диспетчер завдань, щоб"
   },
   "application that is not responsing": {
     "JPN": "タスクマネージャーをつかってください。",
@@ -2686,7 +2932,8 @@
     "SPA": "una aplicación que no responde",
     "TUR": "Görev Yöneticisi'ni kullanın",
     "POR": "fechar um aplicativo que não responde",
-    "ITA": "un'applicazione che non risponde"
+    "ITA": "un'applicazione che non risponde",
+    "UKR": "закрити програму, яка не відповідає"
   },
   "You are logged on since": {
     "JPN": "ログオンからのけいかじかん",
@@ -2695,7 +2942,8 @@
     "SPA": "Llevas activo",
     "TUR": "Bağlı bulunduğunuz süre",
     "POR": "Você está conectado há",
-    "ITA": "Sei loggato da"
+    "ITA": "Sei loggato da",
+    "UKR": "Ви увійшли в систему"
   },
   "hours and": {
     "JPN": "時かん",
@@ -2704,7 +2952,8 @@
     "SPA": "horas y",
     "TUR": "saat ve",
     "POR": "horas e",
-    "ITA": "ore e"
+    "ITA": "ore e",
+    "UKR": "годин та"
   },
   "minutes": {
     "JPN": "分",
@@ -2713,7 +2962,8 @@
     "SPA": "minutes",
     "TUR": "dakika",
     "POR": "minutos",
-    "ITA": "minuti"
+    "ITA": "minuti",
+    "UKR": "хвилин тому"
   },
   "Logon information": {
     "JPN": "ログオンじょうほう",
@@ -2722,7 +2972,8 @@
     "SPA": "Información de Acceso",
     "TUR": "Giriş bilgileri",
     "POR": "Informações de login",
-    "ITA": "Info sulla sessione"
+    "ITA": "Info sulla sessione",
+    "UKR": "Інформація про вхід"
   },
   "Lock": {
     "JPN": "ロック",
@@ -2731,7 +2982,8 @@
     "SPA": "Bloquear",
     "TUR": "Kilitle",
     "POR": "Bloquear",
-    "ITA": "Blocca"
+    "ITA": "Blocca",
+    "UKR": "Заблокувати"
   },
   "Task Mgr": {
     "JPN": "タスクマネージャー",
@@ -2740,7 +2992,8 @@
     "SPA": "Gestor Tareas",
     "TUR": "Görev Yöneticisi",
     "POR": "Ger. Tarefas",
-    "ITA": "Task Manager"
+    "ITA": "Task Manager",
+    "UKR": "Дисп завд"
   },
   "Password": {
     "JPN": "パスワード",
@@ -2749,7 +3002,8 @@
     "SPA": "Contraseña",
     "TUR": "Parola…",
     "POR": "Senha",
-    "ITA": "Password"
+    "ITA": "Password",
+    "UKR": "Пароль…"
   },
   "Shut down": {
     "JPN": "シャットダウン",
@@ -2758,7 +3012,8 @@
     "SPA": "Apagar",
     "TUR": "Kapat…",
     "POR": "Desligar",
-    "ITA": "Spegni…"
+    "ITA": "Spegni…",
+    "UKR": "Завершити роботу…"
   },
   "Unlock computer": {
     "JPN": "コンピュータのロックかいじょ",
@@ -2767,7 +3022,8 @@
     "SPA": "Desbloquear",
     "TUR": "Bilgisayarın kilidini aç",
     "POR": "Desbloquear computador",
-    "ITA": "Sblocca il computer"
+    "ITA": "Sblocca il computer",
+    "UKR": "Розблокувати комп'ютер"
   },
   "This computer is in use and": {
     "JPN": "このコンピュータはしようちゅうで",
@@ -2776,7 +3032,8 @@
     "SPA": "Este ordenador está en uso",
     "TUR": "Bilgisayar kullanımda ve",
     "POR": "Este computador está em uso e",
-    "ITA": "Questo computer è in uso"
+    "ITA": "Questo computer è in uso",
+    "UKR": "Цей комп’ютер використовується"
   },
   "has been locked": {
     "JPN": "ロックされています。",
@@ -2785,7 +3042,8 @@
     "SPA": "y ha sido bloqueado",
     "TUR": "kilitli",
     "POR": "foi bloqueado",
-    "ITA": "ed è stato bloccato"
+    "ITA": "ed è stato bloccato",
+    "UKR": "та був заблокований"
   },
   "User name:": {
     "JPN": "ユーザーめい:",
@@ -2794,7 +3052,8 @@
     "SPA": "Nombre de usuario:",
     "TUR": "Kullanıcı adı:",
     "POR": "Nome de usuário:",
-    "ITA": "Utente:"
+    "ITA": "Utente:",
+    "UKR": "Користувач:"
   },
   "Password:": {
     "JPN": "パスワード:",
@@ -2803,7 +3062,8 @@
     "SPA": "Contraseña:",
     "TUR": "Parola:",
     "POR": "Senha:",
-    "ITA": "Password:"
+    "ITA": "Password:",
+    "UKR": "Пароль:"
   },
   "The old password is not": {
     "JPN": "ふるいパスワードが",
@@ -2812,7 +3072,8 @@
     "SPA": "La contraseña antigua no es",
     "TUR": "Önceki parola doğru değil",
     "POR": "A senha antiga não está",
-    "ITA": "La vecchia password non è"
+    "ITA": "La vecchia password non è",
+    "UKR": "Старий пароль не є коректним"
   },
   "correct. Please enter the valid": {
     "JPN": "ただしくありません。へんこうするには",
@@ -2821,7 +3082,8 @@
     "SPA": "correcta. Por favor, introduce",
     "TUR": "Lütfen değiştirmek için",
     "POR": "correta. Por favor, insira a",
-    "ITA": "corretta. Inserisci la password giusta"
+    "ITA": "corretta. Inserisci la password giusta",
+    "UKR": "Будь ласка введіть правильний"
   },
   "password to change it": {
     "JPN": "ただしいパスワードをにゅうりょくしてください。",
@@ -2830,7 +3092,8 @@
     "SPA": "la correcta para cambiarla",
     "TUR": "geçerli bir parola girin",
     "POR": "senha válida para alterá-la",
-    "ITA": "per poterla cambiare"
+    "ITA": "per poterla cambiare",
+    "UKR": "пароль для його зміни"
   },
   "Change Password": {
     "JPN": "パスワードへんこう",
@@ -2839,7 +3102,8 @@
     "SPA": "Cambiar Contraseña",
     "TUR": "Parolayı Değiştir",
     "POR": "Alterar Senha",
-    "ITA": "Cambia password:"
+    "ITA": "Cambia password:",
+    "UKR": "Змінити пароль"
   },
   "Old Password:": {
     "JPN": "きゅうパスワード:",
@@ -2848,7 +3112,8 @@
     "SPA": "Antigua Contraseña:",
     "TUR": "Eski Parola:",
     "POR": "Senha Antiga:",
-    "ITA": "Vecchia Password:"
+    "ITA": "Vecchia Password:",
+    "UKR": "Старий пароль:"
   },
   "New Password:": {
     "JPN": "しんパスワード:",
@@ -2857,7 +3122,8 @@
     "SPA": "Nueva Contraseña:",
     "TUR": "Yeni Parola:",
     "POR": "Nova Senha:",
-    "ITA": "Nuova Password:"
+    "ITA": "Nuova Password:",
+    "UKR": "Новий пароль:"
   },
   "Confirm New:": {
     "JPN": "しんパスワード(かくにん):",
@@ -2866,7 +3132,8 @@
     "SPA": "Confirmar nueva:",
     "TUR": "Yeniyi Onaylayın:",
     "POR": "Confirmar Nova:",
-    "ITA": "Conferma nuova:"
+    "ITA": "Conferma nuova:",
+    "UKR": "Підтвердження:"
   },
   "The entered passwords do not": {
     "JPN": "にゅうりょくされたパスワードが",
@@ -2875,7 +3142,8 @@
     "SPA": "Las contraseñas introducidas",
     "TUR": "Girilen parolalar birbirinden",
     "POR": "As senhas digitadas não",
-    "ITA": "Le password non"
+    "ITA": "Le password non",
+    "UKR": "Введені паролі не збігаються"
   },
   "match. Please confirm your": {
     "JPN": "いっちしません。パスワードを",
@@ -2884,7 +3152,8 @@
     "SPA": "no coinciden. Por favor, confirma",
     "TUR": "farklı. Lütfen yeni parolayı",
     "POR": "coincidem. Por favor, confirme",
-    "ITA": "corrispondono. Conferma la tua"
+    "ITA": "corrispondono. Conferma la tua",
+    "UKR": "Будь ласка, підтвердьте свій"
   },
   "new password": {
     "JPN": "かくにんしてください。",
@@ -2893,7 +3162,8 @@
     "SPA": "tu nueva contraseña",
     "TUR": "onaylayın",
     "POR": "sua nova senha",
-    "ITA": "nuova password"
+    "ITA": "nuova password",
+    "UKR": "новий пароль"
   },
   "Create Widget": {
     "JPN": "ウィジェットをつくる",
@@ -2902,7 +3172,8 @@
     "SPA": "Crear Widget",
     "TUR": "Widget Oluştur",
     "POR": "Criar Widget",
-    "ITA": "Crea Widget"
+    "ITA": "Crea Widget",
+    "UKR": "Додати віджет"
   },
   "Type the location and name of": {
     "JPN": "デスクトップについかしたい",
@@ -2911,7 +3182,8 @@
     "SPA": "Teclea la ubicación y nombre del",
     "TUR": "Masaüstüne eklemek istediğiniz",
     "POR": "Digite o local e nome do",
-    "ITA": "Inserisci l'ubicazione e il nome del"
+    "ITA": "Inserisci l'ubicazione e il nome del",
+    "UKR": "Введіть розташування та назву"
   },
   "the widget you want to add to": {
     "JPN": "ウィジェットのばしょとなまえを",
@@ -2920,7 +3192,8 @@
     "SPA": "widget que quieres añadir al",
     "TUR": "widget'ın konumunu ve adını yazın",
     "POR": "widget que você deseja adicionar",
-    "ITA": "widget da aggiungere al desktop o"
+    "ITA": "widget da aggiungere al desktop o",
+    "UKR": "віджета, який ви хочете додати на"
   },
   "the desktop. Or, search for the": {
     "JPN": "にゅうりょくしてください。または「えらぶ」で",
@@ -2929,7 +3202,8 @@
     "SPA": "escritorio. O busca el widget",
     "TUR": "Veya Gözat'a tıklayarak",
     "POR": "à área de trabalho. Ou procure",
-    "ITA": "cercalo premendo Sfoglia"
+    "ITA": "cercalo premendo Sfoglia",
+    "UKR": "робочий стіл. Або знайдіть потрібний"
   },
   "widget by clicking Browse": {
     "JPN": "ウィジェットをさがしてください。",
@@ -2938,7 +3212,8 @@
     "SPA": "haciendo clic en Explorar",
     "TUR": "widget'ı aratın",
     "POR": "o widget clicando em Procurar",
-    "ITA": "Sfoglia"
+    "ITA": "Sfoglia",
+    "UKR": "віджет, натиснувши кнопку «Огляд»"
   },
   "Widget path": {
     "JPN": "ウィジェットパス",
@@ -2947,7 +3222,8 @@
     "SPA": "Ruta del Widget",
     "TUR": "Widget yolu",
     "POR": "Caminho do widget",
-    "ITA": "Percorso del widget"
+    "ITA": "Percorso del widget",
+    "UKR": "Шлях до віджету"
   },
   "Choose a size for the widget": {
     "JPN": "ウィジェットのサイズをえらんでください。",
@@ -2956,7 +3232,8 @@
     "SPA": "Elige tamaño del widget",
     "TUR": "Widget için bir boyut seçin",
     "POR": "Escolha um tamanho para o widget",
-    "ITA": "Scegli la dimensione del widget"
+    "ITA": "Scegli la dimensione del widget",
+    "UKR": "Виберіть розмір віджету"
   },
   "The following size(s) are": {
     "JPN": "つぎのサイズが",
@@ -2965,7 +3242,8 @@
     "SPA": "Los siguientes tamaños",
     "TUR": "Şu boyutlardan biri",
     "POR": "Os seguintes tamanhos estão",
-    "ITA": "Sono disponibili le seguenti"
+    "ITA": "Sono disponibili le seguenti",
+    "UKR": "Доступні наступні"
   },
   "available:": {
     "JPN": "りようできます:",
@@ -2974,7 +3252,8 @@
     "SPA": "están disponibles:",
     "TUR": "seçilebilir:",
     "POR": "disponíveis:",
-    "ITA": "dimensioni:"
+    "ITA": "dimensioni:",
+    "UKR": "розміри:"
   },
   "Can't generate folder:": {
     "JPN": "フォルダをつくれません:",
@@ -2983,7 +3262,8 @@
     "SPA": "No se puede generar la carpeta:",
     "TUR": "Klasör oluşturulamıyor:",
     "POR": "Não é possível criar pasta:",
-    "ITA": "Impossibile creare la cartella:"
+    "ITA": "Impossibile creare la cartella:",
+    "UKR": "Неможливо створити папку:"
   },
   "Can't rename folder:": {
     "JPN": "フォルダのなまえをかえられません:",
@@ -2992,7 +3272,8 @@
     "SPA": "No se puede renombrar la carpeta:",
     "TUR": "Klasörün adı değiştirilemiyor:",
     "POR": "Não é possível renomear pasta:",
-    "ITA": "Impossibile rinominare la cartella:"
+    "ITA": "Impossibile rinominare la cartella:",
+    "UKR": "Неможливо перейменувати папку:"
   },
   "No launcher found": {
     "JPN": "ランチャーがみつかりません",
@@ -3001,7 +3282,8 @@
     "SPA": "Lanzador no encontrado",
     "TUR": "Başlatıcı bulunamadı",
     "POR": "Lançador não encontrado",
-    "ITA": "Launcher non trovato"
+    "ITA": "Launcher non trovato",
+    "UKR": "Не знайдено програму запуску"
   },
   "Disc error": {
     "JPN": "ディスクエラー",
@@ -3010,7 +3292,8 @@
     "SPA": "Error de disco",
     "TUR": "Disk hatası",
     "POR": "Erro de disco",
-    "ITA": "Errore disco"
+    "ITA": "Errore disco",
+    "UKR": "Помилка диску"
   },
   "Open": {
     "JPN": "ひらく",
@@ -3019,7 +3302,8 @@
     "SPA": "Abrir",
     "TUR": "Aç",
     "POR": "Abrir",
-    "ITA": "Apri"
+    "ITA": "Apri",
+    "UKR": "Відкрити"
   },
   "Cut": {
     "JPN": "カット",
@@ -3028,7 +3312,8 @@
     "SPA": "Cortar",
     "TUR": "Kes",
     "POR": "Recortar",
-    "ITA": "Taglia"
+    "ITA": "Taglia",
+    "UKR": "Вирізати"
   },
   "Copy": {
     "JPN": "コピー",
@@ -3038,7 +3323,7 @@
     "TUR": "Kopyala",
     "POR": "Copiar",
     "ITA": "Incolla",
-    "UKR": "Копіювати"
+    "UKR": "Копіювання"
   },
   "Create Shortcut": {
     "JPN": "ショートカットをつくる",
@@ -3047,7 +3332,8 @@
     "SPA": "Crear Atajo",
     "TUR": "Kısayol Oluştur",
     "POR": "Criar Atalho",
-    "ITA": "Crea collegamento"
+    "ITA": "Crea collegamento",
+    "UKR": "Створити ярлик"
   },
   "Rename": {
     "JPN": "なまえをかえる",
@@ -3056,7 +3342,8 @@
     "SPA": "Renombrar",
     "TUR": "Adını Değiştir",
     "POR": "Renomear",
-    "ITA": "Rinomina"
+    "ITA": "Rinomina",
+    "UKR": "Перейменувати"
   },
   "Arrange Icons": {
     "JPN": "アイコンをならべる",
@@ -3065,7 +3352,8 @@
     "SPA": "Ordenar Iconos",
     "TUR": "Simgeleri Düzenle",
     "POR": "Organizar Ícones",
-    "ITA": "Riordina icone"
+    "ITA": "Riordina icone",
+    "UKR": "Упорядкувати ярлики"
   },
   "Line Up Icons": {
     "JPN": "アイコンをせいれつ",
@@ -3074,7 +3362,8 @@
     "SPA": "Alinear Iconos",
     "TUR": "Simgeleri Sırala",
     "POR": "Alinhar Ícones",
-    "ITA": "Allinea icone"
+    "ITA": "Allinea icone",
+    "UKR": "Вирівняти ярлики"
   },
   "Paste": {
     "JPN": "ペースト",
@@ -3093,7 +3382,8 @@
     "SPA": "Nuevo",
     "TUR": "Yeni",
     "POR": "Novo",
-    "ITA": "Nuovo"
+    "ITA": "Nuovo",
+    "UKR": "Створити"
   },
   "Shortcut": {
     "JPN": "ショートカット",
@@ -3102,7 +3392,8 @@
     "SPA": "Atajo",
     "TUR": "Kısayol",
     "POR": "Atalho",
-    "ITA": "Collegamento"
+    "ITA": "Collegamento",
+    "UKR": "Ярлик"
   },
   "x 8 grid": {
     "JPN": "x 8グリッド",
@@ -3111,7 +3402,8 @@
     "SPA": "Rejilla 8 x",
     "TUR": "x 8 ızgara",
     "POR": "Grade 8 x",
-    "ITA": "x 8 griglia"
+    "ITA": "x 8 griglia",
+    "UKR": "Сітка 8 х"
   },
   "x 11 grid": {
     "JPN": "x 11グリッド",
@@ -3120,7 +3412,8 @@
     "SPA": "Rejilla 13 x",
     "TUR": "x 11 ızgara",
     "POR": "Grade 13 x",
-    "ITA": "x 11 griglia"
+    "ITA": "x 11 griglia",
+    "UKR": "Сітка 13 х"
   },
   "x 22 grid": {
     "JPN": "x 22グリッド",
@@ -3129,7 +3422,8 @@
     "SPA": "Rejilla 2 x",
     "TUR": "x 22 ızgara",
     "POR": "Grade 26 x",
-    "ITA": "x 22 griglia"
+    "ITA": "x 22 griglia",
+    "UKR": "Сітка 26 х"
   },
   "x 40 grid": {
     "JPN": "x 40グリッド",
@@ -3138,7 +3432,8 @@
     "SPA": "Rejilla 48 x",
     "TUR": "x 40 ızgara",
     "POR": "Grade 48 x",
-    "ITA": "x 40 griglia"
+    "ITA": "x 40 griglia",
+    "UKR": "Сітка 48 х"
   },
   "x 44 grid": {
     "JPN": "x 44グリッド",
@@ -3147,7 +3442,8 @@
     "SPA": "Rejilla 52 x",
     "TUR": "x 44 ızgara",
     "POR": "Grade 52 x",
-    "ITA": "x 44 griglia"
+    "ITA": "x 44 griglia",
+    "UKR": "Сітка 52 х"
   },
   "Auto arrange": {
     "JPN": "じどうせいり",
@@ -3156,7 +3452,8 @@
     "SPA": "Auto ordenar",
     "TUR": "Otomatik düzenle",
     "POR": "Organização automática",
-    "ITA": "Ordinamento automatico"
+    "ITA": "Ordinamento automatico",
+    "UKR": "Автоматично"
   },
   "Widget": {
     "JPN": "ウィジェット",
@@ -3165,7 +3462,8 @@
     "SPA": "Widget",
     "TUR": "Widget",
     "POR": "Widget",
-    "ITA": "Widget"
+    "ITA": "Widget",
+    "UKR": "Віджет"
   },
   "Folder": {
     "JPN": "フォルダ",
@@ -3174,7 +3472,8 @@
     "SPA": "Carpeta",
     "TUR": "Klasör",
     "POR": "Pasta",
-    "ITA": "Cartella"
+    "ITA": "Cartella",
+    "UKR": "Папка"
   },
   "the item you want to create a": {
     "JPN": "アイテムのばしょとなまえを",
@@ -3183,7 +3482,8 @@
     "SPA": "objeto al que quieres crear un",
     "TUR": "öğenin konumunu ve adını yazın",
     "POR": "item para o qual deseja criar",
-    "ITA": "dell'oggetto per il quale vuoi creare"
+    "ITA": "dell'oggetto per il quale vuoi creare",
+    "UKR": "елемента, для якого потрібно створити"
   },
   "shortcut to. Or, search for the": {
     "JPN": "にゅうりょくしてください。または「えらぶ」で",
@@ -3192,7 +3492,8 @@
     "SPA": "atajo. O busca el objeto",
     "TUR": "Ya da Gözat'a tıklayarak",
     "POR": "um atalho. Ou procure o item",
-    "ITA": "il collegamento o cercalo premendo"
+    "ITA": "il collegamento o cercalo premendo",
+    "UKR": "ярлик. Або знайдіть потрібний"
   },
   "item by clicking Browse": {
     "JPN": "アイテムをさがしてください。",
@@ -3201,7 +3502,8 @@
     "SPA": "haciendo clic en Explorar",
     "TUR": "öğeyi arayın",
     "POR": "clicando em Procurar",
-    "ITA": "Sfoglia"
+    "ITA": "Sfoglia",
+    "UKR": "елемент, натиснувши кнопку «Огляд»"
   },
   "Command line": {
     "JPN": "コマンドライン",
@@ -3210,7 +3512,8 @@
     "SPA": "Línea de comandos",
     "TUR": "Komut satırı",
     "POR": "Linha de comando",
-    "ITA": "Linea di comando"
+    "ITA": "Linea di comando",
+    "UKR": "Командний рядок"
   },
   "Select a name for the shortcut:": {
     "JPN": "ショートカットのなまえをえらんでください:",
@@ -3219,7 +3522,8 @@
     "SPA": "Seleccionar un nombre para el atajo:",
     "TUR": "Kısayol için bir ad seçin:",
     "POR": "Selecione um nome para o atalho:",
-    "ITA": "Seleziona un nome per il collegamento:"
+    "ITA": "Seleziona un nome per il collegamento:",
+    "UKR": "Введіть ім'я ярлика:"
   },
   "Select an icon for the shortcut:": {
     "JPN": "ショートカットのアイコンをえらんでください:",
@@ -3228,7 +3532,8 @@
     "SPA": "Seleccionar un icono para el atajo:",
     "TUR": "Kısayol için bir simge seçin:",
     "POR": "Selecione um ícone para o atalho:",
-    "ITA": "Seleziona un'icona per il collegamento:"
+    "ITA": "Seleziona un'icona per il collegamento:",
+    "UKR": "Виберіть піктограму для ярлика:"
   },
   "File name": {
     "JPN": "ファイルめい",
@@ -3237,7 +3542,8 @@
     "SPA": "Nombre de Archivo",
     "TUR": "Dosya adı",
     "POR": "Nome do arquivo",
-    "ITA": "Nome file"
+    "ITA": "Nome file",
+    "UKR": "Ім'я файлу"
   },
   "File type": {
     "JPN": "ファイルタイプ",
@@ -3246,7 +3552,8 @@
     "SPA": "Tipo de Archivo",
     "TUR": "Dosya tipi",
     "POR": "Tipo de arquivo",
-    "ITA": "Tipo file"
+    "ITA": "Tipo file",
+    "UKR": "Тип файлу"
   },
   "Open with": {
     "JPN": "ひらく",
@@ -3255,7 +3562,8 @@
     "SPA": "Abrir con",
     "TUR": "Birlikte aç",
     "POR": "Abrir com",
-    "ITA": "Apri con"
+    "ITA": "Apri con",
+    "UKR": "Застосунок"
   },
   "Location": {
     "JPN": "ばしょ",
@@ -3264,7 +3572,8 @@
     "SPA": "Ubicación",
     "TUR": "Konum",
     "POR": "Local",
-    "ITA": "Ubicazione"
+    "ITA": "Ubicazione",
+    "UKR": "Розташування"
   },
   "Size": {
     "JPN": "サイズ",
@@ -3273,7 +3582,8 @@
     "SPA": "Tamaño",
     "TUR": "Boyut",
     "POR": "Tamanho",
-    "ITA": "Dimensione"
+    "ITA": "Dimensione",
+    "UKR": "Розмір"
   },
   "Modified": {
     "JPN": "へんこう日",
@@ -3282,7 +3592,8 @@
     "SPA": "Modificado",
     "TUR": "Değiştirilmiş",
     "POR": "Modificado",
-    "ITA": "Modificato"
+    "ITA": "Modificato",
+    "UKR": "Змінено"
   },
   "Read only": {
     "JPN": "よみこみせんよう",
@@ -3291,7 +3602,8 @@
     "SPA": "Solo lectura",
     "TUR": "Salt okunabilir",
     "POR": "Somente leitura",
-    "ITA": "Sola lettura"
+    "ITA": "Sola lettura",
+    "UKR": "Лише читання"
   },
   "Hidden": {
     "JPN": "かくし",
@@ -3300,7 +3612,8 @@
     "SPA": "Oculto",
     "TUR": "Gizli",
     "POR": "Oculto",
-    "ITA": "Nascosto"
+    "ITA": "Nascosto",
+    "UKR": "Прихований"
   },
   "Archive": {
     "JPN": "アーカイブ",
@@ -3309,7 +3622,8 @@
     "SPA": "Archivo",
     "TUR": "Arşiv",
     "POR": "Arquivo",
-    "ITA": "Archivio"
+    "ITA": "Archivio",
+    "UKR": "Архівний"
   },
   "Browse target": {
     "JPN": "ターゲットをえらぶ",
@@ -3318,7 +3632,8 @@
     "SPA": "Explorar destino",
     "TUR": "Hedefe gözat…",
     "POR": "Procurar destino",
-    "ITA": "Sfoglia destinazione…"
+    "ITA": "Sfoglia destinazione…",
+    "UKR": "Вибрати об'єкт…"
   },
   "Change icon": {
     "JPN": "アイコンをかえる",
@@ -3327,7 +3642,8 @@
     "SPA": "Cambiar icono",
     "TUR": "Simgeyi değiştir…",
     "POR": "Alterar ícone",
-    "ITA": "Cambia icona…"
+    "ITA": "Cambia icona…",
+    "UKR": "Змінити піктограму…"
   },
   "EXE-file": {
     "JPN": "じっこうファイル",
@@ -3336,7 +3652,8 @@
     "SPA": "Archivo EXE",
     "TUR": "EXE-dosyası",
     "POR": "Arquivo EXE",
-    "ITA": "File EXE"
+    "ITA": "File EXE",
+    "UKR": "Застосунок"
   },
   "Move": {
     "JPN": "いどう",
@@ -3345,7 +3662,8 @@
     "SPA": "Mover",
     "TUR": "Taşı",
     "POR": "Mover",
-    "ITA": "Sposta"
+    "ITA": "Sposta",
+    "UKR": "Переміщення"
   },
   "Resize": {
     "JPN": "サイズへんこう",
@@ -3354,7 +3672,8 @@
     "SPA": "Redimensionar",
     "TUR": "Boyutunu değiştir",
     "POR": "Redimensionar",
-    "ITA": "Ridimensiona"
+    "ITA": "Ridimensiona",
+    "UKR": "Розмір"
   },
   "Favourites": {
     "JPN": "おきにいり",
@@ -3363,7 +3682,8 @@
     "SPA": "Favoritos",
     "TUR": "Favoriler",
     "POR": "Favoritos",
-    "ITA": "Fovoriti"
+    "ITA": "Fovoriti",
+    "UKR": "Уподобання"
   },
   "Programs": {
     "JPN": "フﾟロクﾞラム",
@@ -3372,7 +3692,8 @@
     "SPA": "Programas",
     "TUR": "Programlar",
     "POR": "Programas",
-    "ITA": "Programmi"
+    "ITA": "Programmi",
+    "UKR": "Програми"
   },
   "Documents": {
     "JPN": "トﾞキュメント",
@@ -3381,7 +3702,8 @@
     "SPA": "Documentos",
     "TUR": "Belgeler",
     "POR": "Documentos",
-    "ITA": "Documenti"
+    "ITA": "Documenti",
+    "UKR": "Документи"
   },
   "Help": {
     "JPN": "ヘルフﾟ",
@@ -3390,7 +3712,8 @@
     "SPA": "Ayuda",
     "TUR": "Yardım",
     "POR": "Ajuda",
-    "ITA": "Aiuto"
+    "ITA": "Aiuto",
+    "UKR": "Довідка"
   },
   "Security": {
     "JPN": "セキュリティ",
@@ -3399,14 +3722,16 @@
     "SPA": "Seguridad",
     "TUR": "Güvenlik",
     "POR": "Segurança",
-    "ITA": "Sicurezza"
+    "ITA": "Sicurezza",
+    "UKR": "Безпека"
   },
   "Layouts:": {
     "DEU": "Layouts:",
     "SPA": "Esquemas:",
     "TUR": "Yerleşim planları:",
     "POR": "Layouts:",
-    "ITA": "Layouts:"
+    "ITA": "Layouts:",
+    "UKR": "Розкладки:"
   },
   "Yes": {
     "JPN": "はい",
@@ -3415,7 +3740,8 @@
     "SPA": "Sí",
     "TUR": "Evet",
     "POR": "Sim",
-    "ITA": "Si"
+    "ITA": "Si",
+    "UKR": "Так"
   },
   "No": {
     "JPN": "いいえ",
@@ -3424,7 +3750,8 @@
     "SPA": "No",
     "TUR": "Hayır",
     "POR": "Não",
-    "ITA": "No"
+    "ITA": "No",
+    "UKR": "Ні"
   },
   "Error!": {
     "JPN": "エラー!",
@@ -3433,7 +3760,8 @@
     "SPA": "¡Error!",
     "TUR": "Hata!",
     "POR": "Erro!",
-    "ITA": "Errore!"
+    "ITA": "Errore!",
+    "UKR": "Помилка!"
   },
   "Warning": {
     "JPN": "けいこく",
@@ -3442,7 +3770,8 @@
     "SPA": "Aviso",
     "TUR": "Uyarı",
     "POR": "Aviso",
-    "ITA": "Attenzione"
+    "ITA": "Attenzione",
+    "UKR": "Увага"
   },
   "Confirmation": {
     "JPN": "かくにん",
@@ -3451,7 +3780,8 @@
     "SPA": "Confirmación",
     "TUR": "Onay",
     "POR": "Confirmação",
-    "ITA": "Conferma"
+    "ITA": "Conferma",
+    "UKR": "Підтвердження"
   },
   "Select All": {
     "JPN": "すべてせんたく",
@@ -3460,7 +3790,8 @@
     "SPA": "Seleccionar todo",
     "TUR": "Tümünü Seç",
     "POR": "Selecionar Tudo",
-    "ITA": "Seleziona tutti"
+    "ITA": "Seleziona tutti",
+    "UKR": "Позначити всі файли"
   },
   "Type the path of a program or document,": {
     "JPN": "プログラムやドキュメントのパスを",
@@ -3469,7 +3800,8 @@
     "SPA": "Teclea la ruta de un programa o documento",
     "TUR": "Bir programın veya belgenin yolunu yazın,",
     "POR": "Digite o caminho de um programa ou documento,",
-    "ITA": "Inserisci il percorso di un programma o di un"
+    "ITA": "Inserisci il percorso di un programma o di un",
+    "UKR": "Введіть ім'я програми або документа,"
   },
   "and SymbOS will open it for you": {
     "JPN": "にゅうりょくするとSymbOSがひらいてくれます。",
@@ -3478,7 +3810,8 @@
     "SPA": "y SymbOS lo abrirá por ti",
     "TUR": "SymbOS sizin için onu açacak",
     "POR": "e o SymbOS abrirá para você",
-    "ITA": "documento e SymbOS lo aprirà per te"
+    "ITA": "documento e SymbOS lo aprirà per te",
+    "UKR": "і SymbOS відкриє їх"
   },
   "Open:": {
     "JPN": "ひらく:",
@@ -3487,7 +3820,8 @@
     "SPA": "Abrir:",
     "TUR": "Aç:",
     "POR": "Abrir:",
-    "ITA": "Apri:"
+    "ITA": "Apri:",
+    "UKR": "Відкрити:"
   },
   "Shut Down SymbOS": {
     "JPN": "SymbOSをシャットダウン",
@@ -3496,7 +3830,8 @@
     "SPA": "Apagar SymbOS",
     "TUR": "SymbOS’u Kapat",
     "POR": "Desligar o SymbOS",
-    "ITA": "Chiudi SymbOS"
+    "ITA": "Chiudi SymbOS",
+    "UKR": "Завершення роботи SymbOS"
   },
   "What do you want the computer": {
     "JPN": "コンピュータに",
@@ -3505,14 +3840,16 @@
     "SPA": "¿Qué quieres que haga el",
     "TUR": "Bilgisayarın ne yapmasını",
     "POR": "O que você deseja que o",
-    "ITA": "Cosa vuoi che il computer"
+    "ITA": "Cosa vuoi che il computer",
+    "UKR": "Що ви хочете, щоб комп'ютер"
   },
   "to do?": {
     "JPN": "なにをしてほしいですか。",
     "SPA": "ordenador?",
     "TUR": "İstiyorsun?",
     "POR": "computador faça?",
-    "ITA": "faccia?"
+    "ITA": "faccia?",
+    "UKR": "зробив?"
   },
   "This application requires a newer": {
     "JPN": "このアプリケーションはあたらしいSymbOSバージョンが",
@@ -3521,7 +3858,8 @@
     "SPA": "Esta aplicación requiere una versión más",
     "TUR": "Bu uygulama daha yeni bir SymbOS",
     "POR": "Este aplicativo requer uma versão",
-    "ITA": "Questa applicazione richiede una"
+    "ITA": "Questa applicazione richiede una",
+    "UKR": "Для цієї програми потрібна новіша"
   },
   "SymbOS version. Please upgrade": {
     "JPN": "ひつようです。アップグレードしてください。",
@@ -3530,7 +3868,8 @@
     "SPA": "moderna de SymbOS. Por favor, actualiza",
     "TUR": "sürümü gerektirir. Lütfen yükseltin",
     "POR": "mais nova do SymbOS. Atualize o sistema",
-    "ITA": "versione di SymbOS più recente"
+    "ITA": "versione di SymbOS più recente",
+    "UKR": "версія SymbOS. Будь ласка, оновіть її"
   },
   "File not found:": {
     "JPN": "ファイルがみつかりません:",
@@ -3539,7 +3878,8 @@
     "SPA": "Archivo no encontrado:",
     "TUR": "Dosya bulunamadı:",
     "POR": "Arquivo não encontrado:",
-    "ITA": "File non trovato:"
+    "ITA": "File non trovato:",
+    "UKR": "Файл не знайдено:"
   },
   "The file or the path don't exist": {
     "JPN": "そのファイルまたはパスはありません。",
@@ -3548,7 +3888,8 @@
     "SPA": "El archivo o la ruta no existe",
     "TUR": "Dosya veya yol mevcut değil",
     "POR": "O arquivo ou caminho não existe",
-    "ITA": "File o percorso inseistenti"
+    "ITA": "File o percorso inseistenti",
+    "UKR": "Файл чи шлях до нього не існує"
   },
   "Please check your input": {
     "JPN": "にゅうりょくをたしかめてください。",
@@ -3557,7 +3898,8 @@
     "SPA": "Por favor, comprueba tu entrada",
     "TUR": "Lütfen girdiğiniz bilgileri kontrol edin",
     "POR": "Por favor, verifique sua entrada",
-    "ITA": "Controlla cosa hai scritto"
+    "ITA": "Controlla cosa hai scritto",
+    "UKR": "Будь ласка, перевірте введену інформацію"
   },
   "File is not executable:": {
     "JPN": "じっこうできないファイルです:",
@@ -3566,7 +3908,8 @@
     "SPA": "El archivo no es ejecutable:",
     "TUR": "Çalıştırılabilir bir dosya değil",
     "POR": "Arquivo não é executável:",
-    "ITA": "File non eseguibile:"
+    "ITA": "File non eseguibile:",
+    "UKR": "Файл не є виконуваним:"
   },
   "The selected file is not executable": {
     "JPN": "せんたくしたファイルはSymbOSかんきょうで",
@@ -3575,7 +3918,8 @@
     "SPA": "El archivo seleccionado no es ejecutable",
     "TUR": "Seçili dosya SymbOS ortamında",
     "POR": "O arquivo selecionado não é",
-    "ITA": "Il file selezionato non è utilizzabile"
+    "ITA": "Il file selezionato non è utilizzabile",
+    "UKR": "Вибраний файл не є виконуваним"
   },
   "in the SymbOS environment": {
     "JPN": "じっこうできません。",
@@ -3584,7 +3928,8 @@
     "SPA": "en el entorno de SymbOS",
     "TUR": "Çalıştırılamaz",
     "POR": "executável no ambiente SymbOS",
-    "ITA": "dall'ambiente SymbOS"
+    "ITA": "dall'ambiente SymbOS",
+    "UKR": "у середовищі SymbOS"
   },
   "Memory full:": {
     "JPN": "メモリがいっぱいです:",
@@ -3593,7 +3938,8 @@
     "SPA": "Memoria llena:",
     "TUR": "Bellek dolu:",
     "POR": "Memória cheia:",
-    "ITA": "Memoria esaurita:"
+    "ITA": "Memoria esaurita:",
+    "UKR": "Пам'ять переповнена:"
   },
   "There is not enough memory for": {
     "JPN": "アプリケーションをじっこうするための",
@@ -3602,7 +3948,8 @@
     "SPA": "No hay memoria suficiente para",
     "TUR": "Uygulamayı çalıştırmak için",
     "POR": "Não há memória suficiente para",
-    "ITA": "Non c'è abbastanza memoria per"
+    "ITA": "Non c'è abbastanza memoria per",
+    "UKR": "Недостатньо пам'яті для"
   },
   "executing the application": {
     "JPN": "メモリがたりません。",
@@ -3611,7 +3958,8 @@
     "SPA": "ejecutar esta aplicación",
     "TUR": "yeterli bellek yok",
     "POR": "executar o aplicativo",
-    "ITA": "eseguire l'applicazione"
+    "ITA": "eseguire l'applicazione",
+    "UKR": "виконання програми"
   },
   "Disc error while loading file": {
     "JPN": "ファイルよみこみちゅうにディスクエラー。",
@@ -3620,7 +3968,8 @@
     "SPA": "Error de disco al cargar archivo",
     "TUR": "Dosyayı yüklerken disk hatası",
     "POR": "Erro de disco ao carregar arquivo",
-    "ITA": "Errore disco durante il caricamento del file"
+    "ITA": "Errore disco durante il caricamento del file",
+    "UKR": "Помилка диску під час відкриття файлу"
   },
   "Error while reading directory": {
     "JPN": "ディレクトリよみこみエラー",
@@ -3629,7 +3978,8 @@
     "SPA": "Error al leer directorio",
     "TUR": "Klasörü okurken hata",
     "POR": "Erro ao ler diretório",
-    "ITA": "Errore di lettura della cartella"
+    "ITA": "Errore di lettura della cartella",
+    "UKR": "Помилка під час читання каталогу"
   },
   "Select file": {
     "JPN": "ファイルをせんたく",
@@ -3638,7 +3988,8 @@
     "SPA": "Seleccionar archivo",
     "TUR": "Dosya seç",
     "POR": "Selecionar arquivo",
-    "ITA": "Seleziona file"
+    "ITA": "Seleziona file",
+    "UKR": "Виберіть файл"
   },
   "Select folder": {
     "JPN": "フォルダをせんたく",
@@ -3647,7 +3998,8 @@
     "SPA": "Seleccionar carpeta",
     "TUR": "Klasör seç",
     "POR": "Selecionar pasta",
-    "ITA": "Seleziona cartella"
+    "ITA": "Seleziona cartella",
+    "UKR": "Виберіть папку"
   },
   "Look in:": {
     "JPN": "さがすばしょ:",
@@ -3656,7 +4008,8 @@
     "SPA": "Mirar en:",
     "TUR": "İçine bak:",
     "POR": "Procurar em:",
-    "ITA": "Guarda in:"
+    "ITA": "Guarda in:",
+    "UKR": "Папка:"
   },
   "File name:": {
     "JPN": "ファイルめい:",
@@ -3665,7 +4018,8 @@
     "SPA": "Nombre de archivo:",
     "TUR": "Dosya adı:",
     "POR": "Nome:",
-    "ITA": "Nome:"
+    "ITA": "Nome:",
+    "UKR": "Ім'я файлу:"
   },
   "File type:": {
     "JPN": "ファイルタイプ:",
@@ -3674,7 +4028,8 @@
     "SPA": "Tipo de archivo:",
     "TUR": "Dosya tipi:",
     "POR": "Tipo:",
-    "ITA": "Tipo:"
+    "ITA": "Tipo:",
+    "UKR": "Тип файлу:"
   },
   "Folder:": {
     "JPN": "フォルダ:",
@@ -3683,7 +4038,8 @@
     "SPA": "Carpeta:",
     "TUR": "Klasör:",
     "POR": "Pasta:",
-    "ITA": "Cartella:"
+    "ITA": "Cartella:",
+    "UKR": "Папка:"
   },
   "Date modified": {
     "JPN": "へんこうび",
@@ -3692,7 +4048,8 @@
     "SPA": "Fecha de modificación",
     "TUR": "Düzenleme tarihi",
     "POR": "Data de modificação",
-    "ITA": "Data modifica"
+    "ITA": "Data modifica",
+    "UKR": "Дата модифікації"
   },
   "Attr": {
     "JPN": "アトリ",
@@ -3701,7 +4058,8 @@
     "SPA": "Atributos",
     "TUR": "Attr",
     "POR": "Atrib",
-    "ITA": "Attr"
+    "ITA": "Attr",
+    "UKR": "Атриб"
   },
   "Restore": {
     "JPN": "リストア",
@@ -3710,7 +4068,8 @@
     "SPA": "Restaurar",
     "TUR": "Eski haline getir",
     "POR": "Restaurar",
-    "ITA": "Ripsristina"
+    "ITA": "Ripsristina",
+    "UKR": "Відновити"
   },
   "Minimize": {
     "JPN": "ミニマイズ",
@@ -3719,7 +4078,8 @@
     "SPA": "Minimizar",
     "TUR": "Küçült",
     "POR": "Minimizar",
-    "ITA": "Minimizza"
+    "ITA": "Minimizza",
+    "UKR": "Згорнути"
   },
   "Maximize": {
     "JPN": "マキシマイズ",
@@ -3728,7 +4088,8 @@
     "SPA": "Maximizar",
     "TUR": "Büyüt",
     "POR": "Maximizar",
-    "ITA": "Ingrandisci"
+    "ITA": "Ingrandisci",
+    "UKR": "Розгорнути"
   },
   "Unknown": {
     "JPN": "アンノウン",
@@ -3738,7 +4099,8 @@
     "SPA": "Desconocido",
     "TUR": "bilinmiyor",
     "POR": "Desconhecido",
-    "ITA": "Sconosciuto"
+    "ITA": "Sconosciuto",
+    "UKR": "невідомо"
   },
   "default": {
     "DEU": "standard",
@@ -3747,7 +4109,8 @@
     "SPA": "por defecto",
     "TUR": "varsayılan",
     "POR": "padrão",
-    "ITA": "default"
+    "ITA": "default",
+    "UKR": "за замовчуванням"
   },
   "self-defined": {
     "DEU": "definiert",
@@ -3756,7 +4119,8 @@
     "SPA": "auto-definido",
     "TUR": "kendinden-tanımlı",
     "POR": "personalizado",
-    "ITA": "automatico"
+    "ITA": "automatico",
+    "UKR": "самовизначення"
   },
   "entry is read only": {
     "JPN": "［エントリはよみとりせんようです］",
@@ -3766,7 +4130,8 @@
     "SPA": "entrada solo de lectura",
     "TUR": "giriş salt okunur",
     "POR": "somente leitura",
-    "ITA": "voce di sola lettura"
+    "ITA": "voce di sola lettura",
+    "UKR": "лише для читання"
   },
   "Help Browser for SymbOS": {
     "DEU": "Help Browser für SymbOS",
@@ -3774,7 +4139,8 @@
     "SPA": "Navegador de ayuda de SymbOS",
     "TUR": "SymbOS için Yardım Tarayıcısı",
     "POR": "Navegador de Ajuda do SymbOS",
-    "ITA": "Sistema di aiuto di SymbOS"
+    "ITA": "Sistema di aiuto di SymbOS",
+    "UKR": "Довідка та підтримка SymbOS"
   },
   "Contents": {
     "DEU": "Inhalt",
@@ -3782,7 +4148,8 @@
     "SPA": "Contenidos",
     "TUR": "İçerikler",
     "POR": "Conteúdo",
-    "ITA": "Contenuti"
+    "ITA": "Contenuti",
+    "UKR": "Зміст"
   },
   "Search": {
     "DEU": "Suchen",
@@ -3790,7 +4157,8 @@
     "SPA": "Buscar",
     "TUR": "Ara",
     "POR": "Pesquisar",
-    "ITA": "Cerca…"
+    "ITA": "Cerca…",
+    "UKR": "Пошук…"
   },
   "Keyword to find:": {
     "DEU": "Suchwort:",
@@ -3798,7 +4166,8 @@
     "SPA": "Palabra:",
     "TUR": "Bulunacak kelime:",
     "POR": "Palavra-chave:",
-    "ITA": "Parola chiave da cercare"
+    "ITA": "Parola chiave da cercare",
+    "UKR": "Ключове слово для пошуку:"
   },
   "Select Topic:": {
     "DEU": "Thema wählen:",
@@ -3806,7 +4175,8 @@
     "SPA": "Seleccionar Tema:",
     "TUR": "Konu Seç:",
     "POR": "Selecionar Tópico:",
-    "ITA": "Seleziona Argomento:"
+    "ITA": "Seleziona Argomento:",
+    "UKR": "Виберіть тему:"
   },
   "List Topics": {
     "DEU": "Themenliste",
@@ -3814,7 +4184,8 @@
     "SPA": "Lista de Temas",
     "TUR": "Konuları Listele",
     "POR": "Listar Tópicos",
-    "ITA": "Lista Argomenti"
+    "ITA": "Lista Argomenti",
+    "UKR": "Показати теми"
   },
   "Show/Next": {
     "DEU": "Zeigen/Weiter",
@@ -3822,7 +4193,8 @@
     "SPA": "Mostrar/Siguiente",
     "TUR": "Göster/Sonraki",
     "POR": "Mostrar/Próximo",
-    "ITA": "Mostra/Prossimo"
+    "ITA": "Mostra/Prossimo",
+    "UKR": "Показати/Далі"
   },
   "Printing": {
     "DEU": "Drucken",
@@ -3830,7 +4202,8 @@
     "SPA": "Imprimiendo",
     "TUR": "Yazılıyor…",
     "POR": "Imprimindo",
-    "ITA": "Stampa in corso"
+    "ITA": "Stampa in corso",
+    "UKR": "Друк…"
   },
   "Error while loading help file": {
     "DEU": "Fehler beim Laden",
@@ -3838,7 +4211,8 @@
     "SPA": "Error al cargar archivo de ayuda",
     "TUR": "Yardım dosyasını yüklerken hata",
     "POR": "Erro ao carregar arquivo de ajuda",
-    "ITA": "Errore di caricamento"
+    "ITA": "Errore di caricamento",
+    "UKR": "Помилка завантаження файлу довідки"
   },
   "A disc error or a file format error": {
     "DEU": "Datenträgerfehler oder",
@@ -3846,7 +4220,8 @@
     "SPA": "Ha ocurrido un error de disco",
     "TUR": "Disk hatası veya dosya biçimi hatası",
     "POR": "Ocorreu um erro de disco ou",
-    "ITA": "Errore disco o del formato"
+    "ITA": "Errore disco o del formato",
+    "UKR": "Сталася помилка диска або"
   },
   "occured": {
     "DEU": "beschädigte/ungültige Datei",
@@ -3854,7 +4229,8 @@
     "SPA": "o de formato de archivo",
     "TUR": "oluştu",
     "POR": "de formato de arquivo",
-    "ITA": "file"
+    "ITA": "file",
+    "UKR": "помилка формату файлу"
   },
   "No topics found": {
     "DEU": "Keine Themen gefunden",
@@ -3862,7 +4238,8 @@
     "SPA": "Tema no encontrado",
     "TUR": "Konu bulunamadı",
     "POR": "Nenhum tópico encontrado",
-    "ITA": "Argomenti non trovati"
+    "ITA": "Argomenti non trovati",
+    "UKR": "Тем не знайдено"
   },
   "This document doesn't contain": {
     "DEU": "Das Dokument enthält das",
@@ -3870,7 +4247,8 @@
     "SPA": "Este documento no contiene la",
     "TUR": "Bu belge, girdiğiniz",
     "POR": "Este documento não contém",
-    "ITA": "Questo documento non contiene"
+    "ITA": "Questo documento non contiene",
+    "UKR": "Цей документ не містить введеного"
   },
   "the keyword you entered": {
     "DEU": "eigegebene Suchwort nicht",
@@ -3878,7 +4256,8 @@
     "SPA": "palabra que has introducido",
     "TUR": "anahtar kelimeyi içermiyor",
     "POR": "a palavra-chave digitada",
-    "ITA": "la parola ricercata"
+    "ITA": "la parola ricercata",
+    "UKR": "вами ключового слова"
   },
   "Printer Daemon not found": {
     "DEU": "Kein Printer Daemon",
@@ -3887,7 +4266,8 @@
     "SPA": "Servicio de impresión no encontrado",
     "TUR": "Yazıcı Servisi bulunamadı",
     "POR": "Servidor de impressão não encontrado",
-    "ITA": "Daemon di stampa non trovato"
+    "ITA": "Daemon di stampa non trovato",
+    "UKR": "Службу принтера не знайдено"
   },
   "empty": {
     "JPN": "から",
@@ -3896,7 +4276,8 @@
     "SPA": "vacío",
     "TUR": "boş",
     "POR": "vazio",
-    "ITA": "vuoto"
+    "ITA": "vuoto",
+    "UKR": "порожній"
   },
   "Hide on startup": {
     "DEU": "Beim Start ausblenden",
@@ -3904,7 +4285,8 @@
     "SPA": "Ocultar al iniciar",
     "TUR": "Başlarken gizle",
     "POR": "Ocultar ao iniciar",
-    "ITA": "Nascondi all'avvio"
+    "ITA": "Nascondi all'avvio",
+    "UKR": "Згорнути після запуску"
   },
   "Reset all connections": {
     "DEU": "Alle Verbindungen trennen",
@@ -3912,7 +4294,8 @@
     "SPA": "Resetear todas las conexiones",
     "TUR": "Tüm bağlantıları sıfırla",
     "POR": "Redefinir todas as conexões",
-    "ITA": "Resetta tutte le connessioni"
+    "ITA": "Resetta tutte le connessioni",
+    "UKR": "Скинути всі підключення"
   },
   "Quit": {
     "DEU": "Beenden",
@@ -3920,7 +4303,8 @@
     "SPA": "Cerrar",
     "TUR": "Çıkış",
     "POR": "Sair",
-    "ITA": "Esci"
+    "ITA": "Esci",
+    "UKR": "Вийти"
   },
   "Index": {
     "DEU": "Hilfethemen",
@@ -3929,7 +4313,8 @@
     "SPA": "Índice",
     "TUR": "Dizin",
     "POR": "Índice",
-    "ITA": "Indice"
+    "ITA": "Indice",
+    "UKR": "Перегляд довідки"
   },
   "About": {
     "DEU": "Info",
@@ -3937,7 +4322,8 @@
     "SPA": "Info",
     "TUR": "Hakkında",
     "POR": "Sobre",
-    "ITA": "Info"
+    "ITA": "Info",
+    "UKR": "Про програму"
   },
   "Network daemon": {
     "DEU": "Network Daemon",
@@ -3945,7 +4331,8 @@
     "SPA": "Servicio de Red",
     "TUR": "Ağ servisi",
     "POR": "Network Daemon",
-    "ITA": "Servizio di rete"
+    "ITA": "Servizio di rete",
+    "UKR": "Мережева служба"
   },
   "Hide": {
     "DEU": "Ausblenden",
@@ -3953,7 +4340,8 @@
     "SPA": "Ocultar",
     "TUR": "Gizle",
     "POR": "Ocultar",
-    "ITA": "Nascondi"
+    "ITA": "Nascondi",
+    "UKR": "Сховати"
   },
   "Network settings": {
     "DEU": "Einstellungen",
@@ -3961,7 +4349,8 @@
     "SPA": "Opciones de Red",
     "TUR": "Ağ ayarları",
     "POR": "Configurações de rede",
-    "ITA": "Impostazioni direte"
+    "ITA": "Impostazioni direte",
+    "UKR": "Налаштування мережі"
   },
   "Driver": {
     "DEU": "Treiber",
@@ -3969,7 +4358,8 @@
     "SPA": "Driver",
     "TUR": "Sürücü",
     "POR": "Driver",
-    "ITA": "Driver"
+    "ITA": "Driver",
+    "UKR": "Драйвер"
   },
   "Network status": {
     "DEU": "Netzwerk Status",
@@ -3977,7 +4367,8 @@
     "SPA": "Estado de Red",
     "TUR": "Ağ durumu",
     "POR": "Status da rede",
-    "ITA": "Stato della rete"
+    "ITA": "Stato della rete",
+    "UKR": "Стан мережі"
   },
   "Connections": {
     "DEU": "Verbindungen",
@@ -3985,7 +4376,8 @@
     "SPA": "Conexiones",
     "TUR": "Bağlantılar",
     "POR": "Conexões",
-    "ITA": "Connessioni"
+    "ITA": "Connessioni",
+    "UKR": "Підключення"
   },
   "Maximum": {
     "DEU": "Maximal",
@@ -3993,7 +4385,8 @@
     "SPA": "Máximo",
     "TUR": "Maksimum",
     "POR": "Máximo",
-    "ITA": "Massimo"
+    "ITA": "Massimo",
+    "UKR": "Максимум"
   },
   "Sent": {
     "DEU": "Gesendet",
@@ -4001,7 +4394,8 @@
     "SPA": "Enviado",
     "TUR": "Gönderildi",
     "POR": "Enviado",
-    "ITA": "Inviato"
+    "ITA": "Inviato",
+    "UKR": "Відправлено"
   },
   "Received": {
     "DEU": "Empfangen",
@@ -4009,7 +4403,8 @@
     "SPA": "Recibido",
     "TUR": "Alındı",
     "POR": "Recebido",
-    "ITA": "Ricevuto"
+    "ITA": "Ricevuto",
+    "UKR": "Отримано"
   },
   "Type": {
     "DEU": "Typ",
@@ -4017,7 +4412,8 @@
     "SPA": "Tipo",
     "TUR": "Tip",
     "POR": "Tipo",
-    "ITA": "Tipo"
+    "ITA": "Tipo",
+    "UKR": "Тип"
   },
   "Manually set": {
     "DEU": "Manuell gesetzt",
@@ -4025,7 +4421,8 @@
     "SPA": "Establecer manualmente",
     "TUR": "Elle ayarla",
     "POR": "Configuração manual",
-    "ITA": "Impostazioni manuali"
+    "ITA": "Impostazioni manuali",
+    "UKR": "Вручну ???"
   },
   "IP settings": {
     "DEU": "IP Einstellungen",
@@ -4033,7 +4430,8 @@
     "SPA": "Opciones de IP",
     "TUR": "IP ayarları",
     "POR": "Configurações de IP",
-    "ITA": "IP setup"
+    "ITA": "IP setup",
+    "UKR": "Налаштування IP"
   },
   "DNS settings": {
     "DEU": "IP Einstellungen",
@@ -4041,7 +4439,8 @@
     "SPA": "Opciones de DNS",
     "TUR": "DNS ayarları",
     "POR": "Configurações de DNS",
-    "ITA": "DNS setup"
+    "ITA": "DNS setup",
+    "UKR": "Налаштування DNS"
   },
   "DenYoNet Settings": {
     "DEU": "DenYoNet Einstellungen",
@@ -4049,7 +4448,8 @@
     "SPA": "Opciones de DenYoNet",
     "TUR": "DenYoNet Ayarları",
     "POR": "Configurações DenYoNet",
-    "ITA": "Impostazioni DenYoNet"
+    "ITA": "Impostazioni DenYoNet",
+    "UKR": "Налаштування DenYoNet"
   },
   "Localhost Settings": {
     "DEU": "Localhost Einstellungen",
@@ -4057,7 +4457,8 @@
     "SPA": "Opciones de servidor local",
     "TUR": "Localhost Ayarları",
     "POR": "Configurações de Localhost",
-    "ITA": "Impostazioni Localhost"
+    "ITA": "Impostazioni Localhost",
+    "UKR": "Налаштування Localhost"
   },
   "GR8NET Settings": {
     "DEU": "GR8NET Einstellungen",
@@ -4065,7 +4466,8 @@
     "SPA": "Opciones de GR8NET",
     "TUR": "GR8NET Ayarları",
     "POR": "Configurações GR8NET",
-    "ITA": "GR8NET Impostazioni"
+    "ITA": "GR8NET Impostazioni",
+    "UKR": "Налаштування GR8NET"
   },
   "M4 Board Settings": {
     "DEU": "M4 Board Einstellungen",
@@ -4073,7 +4475,8 @@
     "SPA": "Opciones de Tarjeta M",
     "TUR": "M4 Board Ayarları",
     "POR": "Configurações M4 Board",
-    "ITA": "M4 Board Impostazioni"
+    "ITA": "M4 Board Impostazioni",
+    "UKR": "Налаштування M4 Board"
   },
   "Net4CPC Settings": {
     "DEU": "Net4CPC Einstellungen",
@@ -4081,7 +4484,8 @@
     "SPA": "Opciones de Net4CPC",
     "TUR": "Net4CPC Ayarları",
     "POR": "Configurações Net4CPC",
-    "ITA": "Net4CPC Impostazioni"
+    "ITA": "Net4CPC Impostazioni",
+    "UKR": "Налаштування Net4CPC"
   },
   "TCP/IP properties": {
     "DEU": "TCP/IP Eigenschaften",
@@ -4089,7 +4493,8 @@
     "SPA": "Propiedades de TCP/IP",
     "TUR": "TCP/IP Ayarları",
     "POR": "Propriedades TCP/IP",
-    "ITA": "Proprietà TCP/IP"
+    "ITA": "Proprietà TCP/IP",
+    "UKR": "Налаштування TCP/IP"
   },
   "IP address": {
     "DEU": "IP Adresse",
@@ -4097,7 +4502,8 @@
     "SPA": "Dirección IP",
     "TUR": "IP adresi",
     "POR": "Endereço IP",
-    "ITA": "Indirizzo IP"
+    "ITA": "Indirizzo IP",
+    "UKR": "IP-адреса"
   },
   "DNS & Hostname": {
     "DEU": "DNS & Hostname",
@@ -4105,7 +4511,8 @@
     "SPA": "DNS y Nombre del servidor",
     "TUR": "DNS & Ana Bilgisayar",
     "POR": "DNS e Nome do host",
-    "ITA": "DNS & Nome Host"
+    "ITA": "DNS & Nome Host",
+    "UKR": "DNS та хостнейм"
   },
   "You can get IP settings assigned automatically": {
     "DEU": "IP Adressen können automatisch zugewiesen",
@@ -4113,7 +4520,8 @@
     "SPA": "Se asignarán automáticamente las opciones",
     "TUR": "Ağınız bu özelliği destekliyorsa,",
     "POR": "As configurações de IP podem ser atribuídas",
-    "ITA": "Se la tua rete lo supporta puoi"
+    "ITA": "Se la tua rete lo supporta puoi",
+    "UKR": "Ви можете отримати автоматичне призначення"
   },
   "if your network supports this capability": {
     "DEU": "werden. Wenn das Netzwerk dies nicht",
@@ -4121,7 +4529,8 @@
     "SPA": "de IP si es soportado por tu red",
     "TUR": "IP ayarlarını otomatik olarak atayabilirsiniz",
     "POR": "automaticamente se sua rede suportar",
-    "ITA": "ottenere l'ìindirizzo IP automaticamente"
+    "ITA": "ottenere l'ìindirizzo IP automaticamente",
+    "UKR": "IP-адрес, якщо ваша мережа підтримує цю функцію"
   },
   "Otherwise, you need to ask your network admin": {
     "DEU": "unterstützt muß die korrekte IP-Einstellung",
@@ -4129,7 +4538,8 @@
     "SPA": "Si no, debes pedir las opciones de IP",
     "TUR": "Aksi takdirde, uygun IP ayarları için",
     "POR": "Caso contrário, você precisa solicitar ao",
-    "ITA": "Altrimenti devi richiedere l'IP al"
+    "ITA": "Altrimenti devi richiedere l'IP al",
+    "UKR": "В іншому випадку вам потрібно звернутися до"
   },
   "for the appropriate IP settings": {
     "DEU": "beim Netzwerk-Administrator erfragt werden",
@@ -4137,7 +4547,8 @@
     "SPA": "necesarias al administrador",
     "TUR": "ağ yöneticinize danışmanız gerekir",
     "POR": "administrador as configurações de IP corretas",
-    "ITA": "tuo amministratore di rete"
+    "ITA": "tuo amministratore di rete",
+    "UKR": "адміністратора мережі щодо відповідних IP-адрес"
   },
   "Subnet mask": {
     "DEU": "Subnetz Maske",
@@ -4145,7 +4556,8 @@
     "SPA": "Máscara de subred",
     "TUR": "Alt ağ maskesi",
     "POR": "Máscara de sub-rede",
-    "ITA": "Maschera Subnet"
+    "ITA": "Maschera Subnet",
+    "UKR": "Маска підмережі"
   },
   "Default gateway": {
     "DEU": "Gateway",
@@ -4153,7 +4565,8 @@
     "SPA": "Puerta de acceso por defecto",
     "TUR": "Varsayılan ağ geçidi",
     "POR": "Gateway padrão",
-    "ITA": "Gateway"
+    "ITA": "Gateway",
+    "UKR": "Основний шлюз"
   },
   "Hostname": {
     "DEU": "Hostname",
@@ -4161,7 +4574,8 @@
     "SPA": "Nombre del servidor",
     "TUR": "Ana bilgisayar adı",
     "POR": "Nome do host",
-    "ITA": "Nome Host"
+    "ITA": "Nome Host",
+    "UKR": "Хостнейм"
   },
   "Primary DNS": {
     "DEU": "Primärer DNS",
@@ -4169,7 +4583,8 @@
     "SPA": "DNS Primaria",
     "TUR": "Birincil DNS",
     "POR": "DNS primário",
-    "ITA": "DNS primario"
+    "ITA": "DNS primario",
+    "UKR": "Основний DNS"
   },
   "Secondary DNS": {
     "DEU": "Sekundär. DNS",
@@ -4177,7 +4592,8 @@
     "SPA": "DNS Secundaria",
     "TUR": "İkincil DNS",
     "POR": "DNS secundário",
-    "ITA": "DNS secondario"
+    "ITA": "DNS secondario",
+    "UKR": "Додатковий DNS"
   },
   "Obtain an IP address automatically": {
     "DEU": "IP Adresse automatisch zuweisen",
@@ -4185,7 +4601,8 @@
     "SPA": "Obtener dirección IP automáticamente",
     "TUR": "IP adresini otomatik olarak al",
     "POR": "Obter endereço IP automaticamente",
-    "ITA": "Ottieni automaticamente l'indirizzo IP"
+    "ITA": "Ottieni automaticamente l'indirizzo IP",
+    "UKR": "Отримувати IP автоматично"
   },
   "Use the following IP address": {
     "DEU": "IP Adresse manuell zuweisen",
@@ -4193,7 +4610,8 @@
     "SPA": "Usar la siguiente dirección IP",
     "TUR": "Aşağıdaki IP adresini kullan",
     "POR": "Usar o seguinte endereço IP",
-    "ITA": "Usa il seguente indirizzo IP"
+    "ITA": "Usa il seguente indirizzo IP",
+    "UKR": "Використовувати таку IP-адресу"
   },
   "Obtain DNS server addresses automatically": {
     "DEU": "DNS Server automatisch setzen",
@@ -4201,7 +4619,8 @@
     "SPA": "Obtener dirección del servidor DNS automáticamente",
     "TUR": "DNS sunucu adreslerini otomatik olarak al",
     "POR": "Obter endereços DNS automaticamente",
-    "ITA": "Ottieni automaticamente l'indirizzo DNS"
+    "ITA": "Ottieni automaticamente l'indirizzo DNS",
+    "UKR": "Отримувати DNS автоматично"
   },
   "Use the following DNS server addresses": {
     "DEU": "DNS Server manuell setzen",
@@ -4209,7 +4628,8 @@
     "SPA": "Usar la siguiente dirección de servidor DNS",
     "TUR": "Aşağıdaki DNS sunucu adreslerini kullan",
     "POR": "Usar os seguintes endereços DNS",
-    "ITA": "Usa il seguente indirizzo DNS"
+    "ITA": "Usa il seguente indirizzo DNS",
+    "UKR": "Використовувати такі DNS-адреси"
   },
   "Wrong IP format": {
     "DEU": "Falsches IP Format",
@@ -4217,7 +4637,8 @@
     "SPA": "Formato de IP incorrecto",
     "TUR": "Yanlış IP formatı",
     "POR": "Formato de IP inválido",
-    "ITA": "Formato IP errato"
+    "ITA": "Formato IP errato",
+    "UKR": "Невірний формат IP"
   },
   "Please enter a correct": {
     "DEU": "Bitte eine Zahl zwischen",
@@ -4225,7 +4646,8 @@
     "SPA": "Por favor, introduzca un número",
     "TUR": "Lütfen 0 ile 255 arasında",
     "POR": "Por favor, insira um número",
-    "ITA": "Inserisci un valore"
+    "ITA": "Inserisci un valore",
+    "UKR": "Введіть число від 0 до"
   },
   "number between 0 and": {
     "DEU": "und 255 eingeben",
@@ -4241,7 +4663,8 @@
     "SPA": "Volumen",
     "TUR": "Ses kontrolü",
     "POR": "Controle de volume",
-    "ITA": "Volume"
+    "ITA": "Volume",
+    "UKR": "Регулятор гучності"
   },
   "Mute": {
     "DEU": "Stumm",
@@ -4249,7 +4672,8 @@
     "SPA": "Silenciar",
     "TUR": "Sesi kapat",
     "POR": "Mudo",
-    "ITA": "Muto"
+    "ITA": "Muto",
+    "UKR": "Без звуку"
   },
   "Effects": {
     "DEU": "Effekte",
@@ -4257,7 +4681,8 @@
     "SPA": "Efectos",
     "TUR": "Efektler",
     "POR": "Efeitos",
-    "ITA": "Effetti"
+    "ITA": "Effetti",
+    "UKR": "Ефекти"
   },
   "Music": {
     "DEU": "Musik",
@@ -4265,7 +4690,8 @@
     "SPA": "Música",
     "TUR": "Müzik",
     "POR": "Música",
-    "ITA": "Musica"
+    "ITA": "Musica",
+    "UKR": "Музика"
   },
   "Preferred output device:": {
     "DEU": "Bevorzugtes Audiogerät:",
@@ -4273,7 +4699,8 @@
     "SPA": "Dispositivo de salida preferido:",
     "TUR": "Tercih edilen çıkış aygıtı:",
     "POR": "Dispositivo de saída preferido:",
-    "ITA": "Dispositivo di output preferito:"
+    "ITA": "Dispositivo di output preferito:",
+    "UKR": "Бажаний пристрій виводу:"
   },
   "Are you sure you want to": {
     "DEU": "Sicher, daß das aktuelle",
@@ -4281,7 +4708,8 @@
     "SPA": "¿Seguro que quieres resetear el",
     "TUR": "Geçerli ses şemasını",
     "POR": "Tem certeza que deseja",
-    "ITA": "Sicuro di resettare"
+    "ITA": "Sicuro di resettare",
+    "UKR": "Ви впевнені, що хочете"
   },
   "reset the current sound": {
     "DEU": "Soundschema zurückgesetzt",
@@ -4289,14 +4717,16 @@
     "SPA": "esquema de sonido actual?",
     "TUR": "sıfırlamak istediğinizden",
     "POR": "redefinir o esquema de",
-    "ITA": "lo schema di suono"
+    "ITA": "lo schema di suono",
+    "UKR": "скинути поточну звукову"
   },
   "scheme?": {
     "DEU": "werden soll?",
     "NLD": "naar standard schema?",
     "TUR": "emin misiniz?",
     "POR": "som atual?",
-    "ITA": "attuale?"
+    "ITA": "attuale?",
+    "UKR": "схему?"
   },
   "clean-up all loaded": {
     "DEU": "Musik gelöscht werden",
@@ -4304,21 +4734,24 @@
     "SPA": "toda la música cargada?",
     "TUR": "temizlemek istediğinizden",
     "POR": "limpar todas as músicas",
-    "ITA": "tutte la musica"
+    "ITA": "tutte la musica",
+    "UKR": "очистити всю завантажену"
   },
   "music?": {
     "DEU": "soll?",
     "NLD": "opschonen",
     "TUR": "emin misiniz?",
     "POR": "carregadas?",
-    "ITA": "caricata?"
+    "ITA": "caricata?",
+    "UKR": "музику?"
   },
   "effects?": {
     "DEU": "werden sollen?",
     "NLD": "resetten",
     "TUR": "emin misiniz?",
     "POR": "efeitos?",
-    "ITA": "attuali?"
+    "ITA": "attuali?",
+    "UKR": "ефекти?"
   },
   "Please quit SymAmp first!": {
     "DEU": "SymAmp zuerst beenden!",
@@ -4326,7 +4759,8 @@
     "SPA": "Primero cierra SymAmp",
     "TUR": "Lütfen önce SymAmp'ı kapatın!",
     "POR": "Por favor, feche o SymAmp primeiro!",
-    "ITA": "Prima esci da SymAmp!"
+    "ITA": "Prima esci da SymAmp!",
+    "UKR": "Будь ласка, спочатку закрийте SymAmp!"
   },
   "Then you can start the Sound": {
     "DEU": "Dann zuerst den Sound Daemon",
@@ -4334,7 +4768,8 @@
     "SPA": "y luego inicia el Servicio de Sonido",
     "TUR": "Ardından Ses Servisi’ni başlatabilir",
     "POR": "Então você pode iniciar o",
-    "ITA": "Dopo potrai riavviare il servizio"
+    "ITA": "Dopo potrai riavviare il servizio",
+    "UKR": "Потім ви можете запустити службу"
   },
   "Daemon and run SymAmp again": {
     "DEU": "und dann SymAmp starten",
@@ -4342,7 +4777,8 @@
     "SPA": "y ejecutar SymAmp en nuevo",
     "TUR": "ve SymAmp'ı tekrar çalıştırabilirsiniz",
     "POR": "Sound Daemon e executar o SymAmp novamente",
-    "ITA": "e lanciare di nuovo SymAmp"
+    "ITA": "e lanciare di nuovo SymAmp",
+    "UKR": "звуку і знову запустити SymAmp"
   },
   "Then you can quit the": {
     "DEU": "Danach kann auch der Sound",
@@ -4350,7 +4786,8 @@
     "SPA": "Entonces podrás cerrar el Servicio",
     "TUR": "Ardından Ses Servisini de",
     "POR": "Então você pode fechar o",
-    "ITA": "Dopo potrai comunque"
+    "ITA": "Dopo potrai comunque",
+    "UKR": "Тоді ви також можете"
   },
   "Sound Daemon as well": {
     "DEU": "Daemon beendet werden",
@@ -4358,7 +4795,8 @@
     "SPA": "de Sonido también",
     "TUR": "kapatabilirsiniz",
     "POR": "Sound Daemon também",
-    "ITA": "terminare il servizio audio"
+    "ITA": "terminare il servizio audio",
+    "UKR": "вийти з служби звуку"
   },
   "Wrong platform! This is for:": {
     "DEU": "Falsche Plattform, das ist für:",
@@ -4366,7 +4804,8 @@
     "SPA": "¡Plataforma incorrecta! Esto es para:",
     "TUR": "Yanlış platform! Bu şunun içindir:",
     "POR": "Plataforma errada! Isto é para:",
-    "ITA": "Piattaforma errata! Questo è per:"
+    "ITA": "Piattaforma errata! Questo è per:",
+    "UKR": "Неправильна платформа! Це для:"
   },
   "Please replace SOUNDD.EXE": {
     "DEU": "Bitte SOUNDD.EXE ersetzen",
@@ -4374,7 +4813,8 @@
     "SPA": "Reemplaza SOUNDD.EXE",
     "TUR": "Lütfen SOUNDD.EXE’yi değiştirin",
     "POR": "Por favor, substitua SOUNDD.EXE",
-    "ITA": "Sostiuisci SOUNDD.EXE"
+    "ITA": "Sostiuisci SOUNDD.EXE",
+    "UKR": "Будь ласка, замініть SOUNDD.EXE"
   },
   "Open mixer": {
     "DEU": "Mixer öffnen",
@@ -4382,7 +4822,8 @@
     "SPA": "Abrir mezclador",
     "TUR": "Mikseri aç…",
     "POR": "Abrir mixer",
-    "ITA": "Apri Mixer…"
+    "ITA": "Apri Mixer…",
+    "UKR": "Відкрити мікшер…"
   },
   "Open sound settings": {
     "DEU": "Einstellungen öffnen",
@@ -4390,7 +4831,8 @@
     "SPA": "Abrir opciones de sonido",
     "TUR": "Ses ayarlarını aç…",
     "POR": "Abrir configurações de som",
-    "ITA": "Apri impostazioni audio…"
+    "ITA": "Apri impostazioni audio…",
+    "UKR": "Відкрити параметри звуку…"
   },
   "Mute effects": {
     "DEU": "Effekte stumm",
@@ -4398,7 +4840,8 @@
     "SPA": "Silenciar efectos",
     "TUR": "Efektleri sustur",
     "POR": "Silenciar efeitos",
-    "ITA": "Silenzia gli effetti"
+    "ITA": "Silenzia gli effetti",
+    "UKR": "Вимкнути ефекти"
   },
   "Mute music": {
     "DEU": "Musik stumm",
@@ -4406,7 +4849,8 @@
     "SPA": "Silenciar música",
     "TUR": "Müziği sustur",
     "POR": "Silenciar música",
-    "ITA": "Silenzia la musica"
+    "ITA": "Silenzia la musica",
+    "UKR": "Вимкнути музику"
   },
   "Quit Sound Daemon": {
     "DEU": "Sound Daemon beenden",
@@ -4414,7 +4858,8 @@
     "SPA": "Cerrar",
     "TUR": "Ses Servisi’ni Kapat",
     "POR": "Sair do Sound Daemon",
-    "ITA": "Esci dal servizio audio"
+    "ITA": "Esci dal servizio audio",
+    "UKR": "Закрити службу звуку"
   },
   "Help topics": {
     "DEU": "Hilfethemen",
@@ -4423,7 +4868,7 @@
     "TUR": "Yardım konuları",
     "POR": "Tópicos de Ajuda",
     "ITA": "Aiuto",
-    "UKR": "Відкрити довідку"
+    "UKR": "Допомога"
   },
   "Sound daemon": {
     "DEU": "Sound Daemon",
@@ -4431,7 +4876,8 @@
     "SPA": "Sound Daemon",
     "TUR": "Ses servisi",
     "POR": "Sound Daemon",
-    "ITA": "Servizio audio"
+    "ITA": "Servizio audio",
+    "UKR": "Служба звуку"
   },
   "Mixer": {
     "DEU": "Mixer",
@@ -4439,7 +4885,8 @@
     "SPA": "Mezclador",
     "TUR": "Mikser",
     "POR": "Mixer",
-    "ITA": "Mixer"
+    "ITA": "Mixer",
+    "UKR": "Мікшер"
   },
   "System sounds": {
     "DEU": "Systemklänge",
@@ -4447,7 +4894,8 @@
     "SPA": "Sonidos de sistema",
     "TUR": "Sistem sesleri",
     "POR": "Sons do sistema",
-    "ITA": "Souni di sistema"
+    "ITA": "Souni di sistema",
+    "UKR": "Системні звуки"
   },
   "Stats": {
     "DEU": "Statistiken",
@@ -4455,7 +4903,8 @@
     "SPA": "Estadísticas",
     "TUR": "İstatistikler",
     "POR": "Estatísticas",
-    "ITA": "Statistiche"
+    "ITA": "Statistiche",
+    "UKR": "Дані"
   },
   "Events:": {
     "DEU": "Ereignis:",
@@ -4463,7 +4912,8 @@
     "SPA": "Eventos:",
     "TUR": "Olaylar:",
     "POR": "Eventos:",
-    "ITA": "Eventi:"
+    "ITA": "Eventi:",
+    "UKR": "Події:"
   },
   "Sound:": {
     "DEU": "Klang:",
@@ -4471,7 +4921,8 @@
     "SPA": "Sonido:",
     "TUR": "Ses:",
     "POR": "Som:",
-    "ITA": "Suono:"
+    "ITA": "Suono:",
+    "UKR": "Звук:"
   },
   ">> Test": {
     "DEU": ">> Test",
@@ -4479,7 +4930,8 @@
     "SPA": ">> Probar",
     "TUR": ">> Test",
     "POR": ">> Testar",
-    "ITA": ">> Test"
+    "ITA": ">> Test",
+    "UKR": ">> Перевірити"
   },
   "SymbOS startup sound": {
     "DEU": "SymbOS Startsound",
@@ -4487,7 +4939,8 @@
     "SPA": "Sonido de inicio de SymbOS",
     "TUR": "SymbOS açılış sesi",
     "POR": "Som de inicialização do SymbOS",
-    "ITA": "Esegui all'avvio di SymbOO"
+    "ITA": "Esegui all'avvio di SymbOO",
+    "UKR": "Звук запуску SymbOS"
   },
   "Sound scheme": {
     "DEU": "Soundschema",
@@ -4495,7 +4948,8 @@
     "SPA": "Esquema de sonido",
     "TUR": "Sound şeması",
     "POR": "Esquema de som",
-    "ITA": "Schema suono"
+    "ITA": "Schema suono",
+    "UKR": "Звукова схема"
   },
   "Notification - hint": {
     "DEU": "Meldung - Hinweis",
@@ -4503,7 +4957,8 @@
     "SPA": "Notificación - consejo",
     "TUR": "Bildirim - ipucu",
     "POR": "Notificação - dica",
-    "ITA": "Notifica - suggerimento"
+    "ITA": "Notifica - suggerimento",
+    "UKR": "Підказка"
   },
   "Notification - warning": {
     "DEU": "Meldung - Warnung",
@@ -4511,7 +4966,8 @@
     "SPA": "Notificación - aviso",
     "TUR": "Bildirim - uyarı",
     "POR": "Notificação - aviso",
-    "ITA": "Notifica - avviso"
+    "ITA": "Notifica - avviso",
+    "UKR": "Попередження"
   },
   "Notification - message": {
     "DEU": "Meldung - Allgemein",
@@ -4519,7 +4975,8 @@
     "SPA": "Notificación - mensaje",
     "TUR": "Bildirim - mesaj",
     "POR": "Notificação - mensagem",
-    "ITA": "Notifica - messaggio"
+    "ITA": "Notifica - messaggio",
+    "UKR": "Повідомлення"
   },
   "Window - open": {
     "DEU": "Fenster - öffnen",
@@ -4527,7 +4984,8 @@
     "SPA": "Ventana - abrir",
     "TUR": "Pencere - aç",
     "POR": "Janela - abrir",
-    "ITA": "Finestra - apri"
+    "ITA": "Finestra - apri",
+    "UKR": "Відкриття вікна"
   },
   "Window - close": {
     "DEU": "Fenster - schließen",
@@ -4535,7 +4993,8 @@
     "SPA": "Ventana - cerrar",
     "TUR": "Pencere - kapat",
     "POR": "Janela - fechar",
-    "ITA": "Finestra - chiudi"
+    "ITA": "Finestra - chiudi",
+    "UKR": "Закриття вікна"
   },
   "Window - top": {
     "DEU": "Fenster - nach oben",
@@ -4543,7 +5002,8 @@
     "SPA": "Ventana - arriba",
     "TUR": "Pencere - üstte",
     "POR": "Janela - topo",
-    "ITA": "Finestra - alto"
+    "ITA": "Finestra - alto",
+    "UKR": "Поверх усіх"
   },
   "Window - restore": {
     "DEU": "Fenster - wiederherstellen",
@@ -4551,7 +5011,8 @@
     "SPA": "Ventana - restaurar",
     "TUR": "Pencere - geri al",
     "POR": "Janela - restaurar",
-    "ITA": "Finestra - ripristina"
+    "ITA": "Finestra - ripristina",
+    "UKR": "Відновити"
   },
   "Window - maximize": {
     "DEU": "Fenster - maximieren",
@@ -4559,7 +5020,8 @@
     "SPA": "Ventana - maximizar",
     "TUR": "Pencere - büyüt",
     "POR": "Janela - maximizar",
-    "ITA": "Finestra - ingrandisci"
+    "ITA": "Finestra - ingrandisci",
+    "UKR": "Розгорнути"
   },
   "Window - minimize": {
     "DEU": "Fenster - minimieren",
@@ -4567,7 +5029,8 @@
     "SPA": "Ventana - minimizar",
     "TUR": "Pencere - küçült",
     "POR": "Janela - minimizar",
-    "ITA": "Finestra - minimizza"
+    "ITA": "Finestra - minimizza",
+    "UKR": "Згорнути"
   },
   "Window - move": {
     "DEU": "Fenster - bewegen",
@@ -4575,7 +5038,8 @@
     "SPA": "Ventana - mover",
     "TUR": "Pencere - taşı",
     "POR": "Janela - mover",
-    "ITA": "Finestra - muovi"
+    "ITA": "Finestra - muovi",
+    "UKR": "Переміщення"
   },
   "Window - resize": {
     "DEU": "Fenster - Größe ändern",
@@ -4583,7 +5047,8 @@
     "SPA": "Ventana - redimensionar",
     "TUR": "Pencere - boyutlandır",
     "POR": "Janela - redimensionar",
-    "ITA": "Finestra - ridimensiona"
+    "ITA": "Finestra - ridimensiona",
+    "UKR": "Зміна розміру"
   },
   "Menu - open": {
     "DEU": "Menü - öffnen",
@@ -4591,7 +5056,8 @@
     "SPA": "Menú - abrir",
     "TUR": "Menü - aç",
     "POR": "Menu - abrir",
-    "ITA": "Menu - apri"
+    "ITA": "Menu - apri",
+    "UKR": "Відкриття меню"
   },
   "Menu - entry hover": {
     "DEU": "Menü - anwählen",
@@ -4599,7 +5065,8 @@
     "SPA": "Menú - entrada seleccionada",
     "TUR": "Menü - giriş üzerine gel",
     "POR": "Menu - item sob cursor",
-    "ITA": "Menu - voce al passaggio mouse"
+    "ITA": "Menu - voce al passaggio mouse",
+    "UKR": "Наведення на пункт"
   },
   "Menu - entry clicked": {
     "DEU": "Menü - klicken",
@@ -4607,7 +5074,8 @@
     "SPA": "Menú - entrada elegida",
     "TUR": "Menü - giriş tıkla",
     "POR": "Menu - item clicado",
-    "ITA": "Menu - voce selezionata"
+    "ITA": "Menu - voce selezionata",
+    "UKR": "Натискання пункту"
   },
   "Click - button/tab": {
     "DEU": "Klick - Knopf/Reiter",
@@ -4615,7 +5083,8 @@
     "SPA": "Clic - botón/pestaña",
     "TUR": "Tıklama - button/tab",
     "POR": "Clique - botão/aba",
-    "ITA": "Click - bottone/tab"
+    "ITA": "Click - bottone/tab",
+    "UKR": "Клік – кнопка/вкладка"
   },
   "Click - bitmap": {
     "DEU": "Klick - Grafik",
@@ -4623,7 +5092,8 @@
     "SPA": "Clic - mapa de bits",
     "TUR": "Tıklama - bitmap",
     "POR": "Clique - bitmap",
-    "ITA": "Click - immagine"
+    "ITA": "Click - immagine",
+    "UKR": "Клік – зображення"
   },
   "Click - slider": {
     "DEU": "Klick - Regler",
@@ -4631,7 +5101,8 @@
     "SPA": "Clic - deslizador",
     "TUR": "Tıklama - kaydırıcı",
     "POR": "Clique - controle",
-    "ITA": "Click - slider"
+    "ITA": "Click - slider",
+    "UKR": "Клік – повзунок"
   },
   "Click - list": {
     "DEU": "Klick - Liste",
@@ -4639,7 +5110,8 @@
     "SPA": "Clic - listado",
     "TUR": "Tıklama - liste",
     "POR": "Clique - lista",
-    "ITA": "Click - lista"
+    "ITA": "Click - lista",
+    "UKR": "Клік – список"
   },
   "Click - text": {
     "DEU": "Klick - Text",
@@ -4647,7 +5119,8 @@
     "SPA": "Clic - texto",
     "TUR": "Tıklama - metin",
     "POR": "Clique - texto",
-    "ITA": "Click - testo"
+    "ITA": "Click - testo",
+    "UKR": "Клік – текст"
   },
   "(None)": {
     "DEU": "(Nichts)",
@@ -4655,7 +5128,8 @@
     "SPA": "(Ninguno)",
     "TUR": "(Hiçbiri)",
     "POR": "(Nenhum)",
-    "ITA": "(nessuno)"
+    "ITA": "(nessuno)",
+    "UKR": "(немає)"
   },
   "Click": {
     "DEU": "Klick",
@@ -4663,7 +5137,8 @@
     "SPA": "Clic",
     "TUR": "Tıklama",
     "POR": "Clique",
-    "ITA": "Click"
+    "ITA": "Click",
+    "UKR": "Клацання"
   },
   "Beep": {
     "DEU": "Piep",
@@ -4671,7 +5146,8 @@
     "SPA": "Pitido",
     "TUR": "Bip",
     "POR": "Bipe",
-    "ITA": "Beep"
+    "ITA": "Beep",
+    "UKR": "Сигнал"
   },
   "Ring": {
     "DEU": "Klingeln",
@@ -4679,7 +5155,8 @@
     "SPA": "Timbre",
     "TUR": "Zil",
     "POR": "Toque",
-    "ITA": "Timbro"
+    "ITA": "Timbro",
+    "UKR": "Дзвінок"
   },
   "Alert": {
     "DEU": "Alarm",
@@ -4687,7 +5164,8 @@
     "SPA": "Alerta",
     "TUR": "Uyarı",
     "POR": "Alerta",
-    "ITA": "Allarme"
+    "ITA": "Allarme",
+    "UKR": "Сповіщення"
   },
   "Slide": {
     "DEU": "Gleiten",
@@ -4695,7 +5173,8 @@
     "SPA": "Deslizador",
     "TUR": "Kayma",
     "POR": "Deslizar",
-    "ITA": "Slide"
+    "ITA": "Slide",
+    "UKR": "Ковзання"
   },
   "Raise up": {
     "DEU": "Aufsteigen",
@@ -4703,7 +5182,8 @@
     "SPA": "Subir",
     "TUR": "Yükselt",
     "POR": "Subir",
-    "ITA": "Alza"
+    "ITA": "Alza",
+    "UKR": "Підйом??"
   },
   "Raise down": {
     "DEU": "Absteigen",
@@ -4711,7 +5191,8 @@
     "SPA": "Bajar",
     "TUR": "Aşağı indir",
     "POR": "Descer",
-    "ITA": "Abbassa"
+    "ITA": "Abbassa",
+    "UKR": "Спуск??"
   },
   "Pop up": {
     "DEU": "Aufploppen",
@@ -4719,7 +5200,8 @@
     "SPA": "Desplegar",
     "TUR": "Belirme",
     "POR": "Aparecer",
-    "ITA": "Pop up"
+    "ITA": "Pop up",
+    "UKR": "Випливання"
   },
   "Shrink": {
     "DEU": "Schrumpfen",
@@ -4727,7 +5209,8 @@
     "SPA": "Plegar",
     "TUR": "Küçülme",
     "POR": "Encolher",
-    "ITA": "Stringi"
+    "ITA": "Stringi",
+    "UKR": "Стискання"
   },
   "Tick": {
     "DEU": "Ticken",
@@ -4735,7 +5218,8 @@
     "SPA": "Tick",
     "TUR": "Tik",
     "POR": "Tique",
-    "ITA": "Tick"
+    "ITA": "Tick",
+    "UKR": "Тікання 1??"
   },
   "Shoot": {
     "DEU": "Schießen",
@@ -4743,7 +5227,8 @@
     "SPA": "Disparo",
     "TUR": "Ateş etme",
     "POR": "Disparo",
-    "ITA": "Sparo"
+    "ITA": "Sparo",
+    "UKR": "Постріл"
   },
   "Explosion": {
     "DEU": "Explosion",
@@ -4751,7 +5236,8 @@
     "SPA": "Explosión",
     "TUR": "Patlama",
     "POR": "Explosão",
-    "ITA": "Esplosione"
+    "ITA": "Esplosione",
+    "UKR": "Вибух"
   },
   "Step": {
     "DEU": "Schritt",
@@ -4759,7 +5245,8 @@
     "SPA": "Paso",
     "TUR": "Adım",
     "POR": "Passo",
-    "ITA": "Passo"
+    "ITA": "Passo",
+    "UKR": "Крок"
   },
   "Lose": {
     "DEU": "Verlieren",
@@ -4767,7 +5254,8 @@
     "SPA": "Perder",
     "TUR": "Kaybetme",
     "POR": "Perder",
-    "ITA": "Perdi"
+    "ITA": "Perdi",
+    "UKR": "Програш"
   },
   "Win": {
     "DEU": "Gewinnen",
@@ -4775,7 +5263,8 @@
     "SPA": "Ganar",
     "TUR": "Kazanma",
     "POR": "Ganhar",
-    "ITA": "Vinci"
+    "ITA": "Vinci",
+    "UKR": "Перемога"
   },
   "Volume": {
     "DEU": "Lautstärke",
@@ -4783,7 +5272,8 @@
     "SPA": "Volumen",
     "TUR": "Ses yüksekliği",
     "POR": "Volume",
-    "ITA": "Volume"
+    "ITA": "Volume",
+    "UKR": "Гучність"
   },
   "|||||||| max": {
     "DEU": "|||||||| max",
@@ -4791,7 +5281,8 @@
     "SPA": "|||||||| máx",
     "TUR": "|||||||| maks",
     "POR": "|||||||| máx",
-    "ITA": "|||||||| max"
+    "ITA": "|||||||| max",
+    "UKR": "|||||||| макс"
   },
   "|      min": {
     "DEU": "|      min",
@@ -4799,7 +5290,8 @@
     "SPA": "|      mín",
     "TUR": "|      min",
     "POR": "|      mín",
-    "ITA": "|      min"
+    "ITA": "|      min",
+    "UKR": "|      мін"
   },
   "PSG effect channel": {
     "DEU": "PSG Effekt Kanal",
@@ -4807,7 +5299,8 @@
     "SPA": "Canal de efectos de PSG",
     "TUR": "PSG efekt kanalı",
     "POR": "Canal de efeitos PSG",
-    "ITA": "PSG canale effetti"
+    "ITA": "PSG canale effetti",
+    "UKR": "Канал ефектів PSG"
   },
   "use all": {
     "DEU": "Alle",
@@ -4815,7 +5308,8 @@
     "SPA": "Todos",
     "TUR": "hepsini kullan",
     "POR": "usar todos",
-    "ITA": "Usa tutti"
+    "ITA": "Usa tutti",
+    "UKR": "виуористовувати все"
   },
   "left": {
     "DEU": "Links",
@@ -4823,7 +5317,8 @@
     "SPA": "izquierda",
     "TUR": "sol",
     "POR": "esquerdo",
-    "ITA": "sinistra"
+    "ITA": "sinistra",
+    "UKR": "лівий"
   },
   "middle": {
     "DEU": "Zentral",
@@ -4831,7 +5326,8 @@
     "SPA": "central",
     "TUR": "orta",
     "POR": "central",
-    "ITA": "centro"
+    "ITA": "centro",
+    "UKR": "центральний"
   },
   "right": {
     "DEU": "Rechts",
@@ -4839,7 +5335,8 @@
     "SPA": "derecha",
     "TUR": "sağ",
     "POR": "direito",
-    "ITA": "destra"
+    "ITA": "destra",
+    "UKR": "правий"
   },
   "System sound file": {
     "DEU": "Systemsound-Datei",
@@ -4847,7 +5344,8 @@
     "SPA": "Sonido de sistema",
     "TUR": "Sistem ses dosyası",
     "POR": "Arquivo de som do sistema",
-    "ITA": "Suono di sistema"
+    "ITA": "Suono di sistema",
+    "UKR": "Файл системних звуків"
   },
   "Disable music": {
     "DEU": "Musik deaktivieren",
@@ -4855,7 +5353,8 @@
     "SPA": "Desactivar música",
     "TUR": "Müziği devre dışı bırak",
     "POR": "Desativar música",
-    "ITA": "Disattiva musica"
+    "ITA": "Disattiva musica",
+    "UKR": "Вимкнути музику"
   },
   "Memory usage": {
     "DEU": "Speichernutzung",
@@ -4863,7 +5362,8 @@
     "SPA": "Uso de memoria",
     "TUR": "Bellek kullanımı",
     "POR": "Uso de memória",
-    "ITA": "Memoria utilizzata"
+    "ITA": "Memoria utilizzata",
+    "UKR": "Використання пам'яті"
   },
   "Total": {
     "DEU": "Gesamt",
@@ -4871,7 +5371,8 @@
     "SPA": "Total",
     "TUR": "Toplam",
     "POR": "Total",
-    "ITA": "Totali"
+    "ITA": "Totali",
+    "UKR": "Разом"
   },
   "Free": {
     "DEU": "Frei",
@@ -4879,7 +5380,8 @@
     "SPA": "Libre",
     "TUR": "Serbest bırak",
     "POR": "Livre",
-    "ITA": "Liberi"
+    "ITA": "Liberi",
+    "UKR": "Вільно"
   },
   "Clean-up music": {
     "DEU": "Musik bereinigen",
@@ -4887,7 +5389,8 @@
     "SPA": "Eliminar músicas",
     "TUR": "Müziği temizle",
     "POR": "Limpar músicas",
-    "ITA": "Azzera musica"
+    "ITA": "Azzera musica",
+    "UKR": "Очистити музику"
   },
   "Clean-up effects": {
     "DEU": "Effekte bereinigen",
@@ -4895,7 +5398,8 @@
     "SPA": "Eliminar efectos",
     "TUR": "Efektleri temizle",
     "POR": "Limpar efeitos",
-    "ITA": "Azzera effetti"
+    "ITA": "Azzera effetti",
+    "UKR": "Очистити ефекти"
   },
   "SymbOS TASK MANAGER": {
     "DEU": "SymbOS TASK MANAGER",
@@ -4903,7 +5407,8 @@
     "SPA": "GESTOR DE TAREAS de SymbOS",
     "TUR": "SymbOS GÖREV YÖNETİCİSİ",
     "POR": "GERENCIADOR DE TAREFAS SymbOS",
-    "ITA": "SymbOS TASK MANAGER"
+    "ITA": "SymbOS TASK MANAGER",
+    "UKR": "Диспетчер завдань SymbOS"
   },
   "Copyright <c> 2025 SymbiosiS": {
     "DEU": "Copyright <c> 2025 SymbiosiS",
@@ -4912,7 +5417,8 @@
     "SPA": "Copyright <c> 2025 SymbiosiS",
     "TUR": "Copyright <c> 2025 SymbiosiS",
     "POR": "Copyright <c> 2025 SymbiosiS",
-    "ITA": "Copyright <c> 2025 SymbiosiS"
+    "ITA": "Copyright <c> 2025 SymbiosiS",
+    "UKR": "© 2025 SymbiosiS. Усі права захищено"
   },
   "Do you want to change the priority?": {
     "DEU": "Priorität ändern?",
@@ -4920,7 +5426,8 @@
     "SPA": "¿Quieres cambiar la prioridad?",
     "TUR": "Önceliği değiştirmek ister misiniz?",
     "POR": "Deseja alterar a prioridade?",
-    "ITA": "Vuoi modificare la priorità?"
+    "ITA": "Vuoi modificare la priorità?",
+    "UKR": "Бажаєте змінити пріоритет?"
   },
   "Changing the proirity could": {
     "DEU": "Kann zur System",
@@ -4928,7 +5435,8 @@
     "SPA": "Cambiar la prioridad puede",
     "TUR": "Öncelik sırasının değiştirilmesi sistem",
     "POR": "Alterar a prioridade pode",
-    "ITA": "Modificarla può causare"
+    "ITA": "Modificarla può causare",
+    "UKR": "Зміна пріоритету може призвести"
   },
   "cause system instability": {
     "DEU": "Instabilität führen",
@@ -4936,7 +5444,8 @@
     "SPA": "provocar inestabilidad del sistema",
     "TUR": "istikrarsızlığına neden olabilir",
     "POR": "causar instabilidade no sistema",
-    "ITA": "instabilità del sistema"
+    "ITA": "instabilità del sistema",
+    "UKR": "до нестабільної роботи системи"
   },
   "Task Manager": {
     "DEU": "Task Manager",
@@ -4944,7 +5453,8 @@
     "SPA": "Gestor de Tareas",
     "TUR": "Görev Yöneticisi",
     "POR": "Gerenciador de Tarefas",
-    "ITA": "Task Manager"
+    "ITA": "Task Manager",
+    "UKR": "Диспетчер завдань"
   },
   "New Task (Run...)": {
     "DEU": "Neuen Task ausführen",
@@ -4952,7 +5462,8 @@
     "SPA": "Nueva Tarea…",
     "TUR": "Yeni Görev (Çalıştır...)",
     "POR": "Nova Tarefa (Executar...)",
-    "ITA": "Nuovo Task (esegui..)"
+    "ITA": "Nuovo Task (esegui..)",
+    "UKR": "Нове завдання (Виконати…)"
   },
   "Exit Task Manager": {
     "DEU": "Beenden",
@@ -4960,7 +5471,8 @@
     "SPA": "Salir",
     "TUR": "Görev Yöneticisi’nden Çık",
     "POR": "Sair",
-    "ITA": "Esci da Task Manager"
+    "ITA": "Esci da Task Manager",
+    "UKR": "Вихід із диспетчера завдань"
   },
   "View": {
     "DEU": "Anzeige",
@@ -4970,7 +5482,7 @@
     "TUR": "Görüntüle",
     "POR": "Visualizar",
     "ITA": "Visualizza",
-    "UKR": "Вигляд"
+    "UKR": "Перегляд"
   },
   "Refresh Now": {
     "DEU": "Aktualisieren",
@@ -4978,7 +5490,8 @@
     "SPA": "Actualizar",
     "TUR": "Şimdi Tazele",
     "POR": "Atualizar Agora",
-    "ITA": "Aggiorna"
+    "ITA": "Aggiorna",
+    "UKR": "Оновити"
   },
   "Update Speed": {
     "DEU": "Aktualis.Rate",
@@ -4986,7 +5499,8 @@
     "SPA": "Actualizar Velocidad",
     "TUR": "Hızı Güncelle",
     "POR": "Velocidade de Atualização",
-    "ITA": "Aggiorna velocità"
+    "ITA": "Aggiorna velocità",
+    "UKR": "Швидкість оновлення"
   },
   "Paused": {
     "DEU": "Angehalten",
@@ -4994,7 +5508,8 @@
     "SPA": "Pausado",
     "TUR": "Duraklatıldı",
     "POR": "Pausado",
-    "ITA": "Pausa"
+    "ITA": "Pausa",
+    "UKR": "Призупинити"
   },
   "Only when focus": {
     "DEU": "Nur im Vordergrund",
@@ -5002,7 +5517,8 @@
     "SPA": "Solo cuando activo",
     "TUR": "Sadece odaklanıldığında",
     "POR": "Apenas quando ativo",
-    "ITA": "Solo quando attivo"
+    "ITA": "Solo quando attivo",
+    "UKR": "Лише коли активно"
   },
   "Help Topics": {
     "DEU": "Hilfe",
@@ -5010,7 +5526,8 @@
     "SPA": "Ayuda",
     "TUR": "Yardım Konuları",
     "POR": "Tópicos de Ajuda",
-    "ITA": "Aiuto"
+    "ITA": "Aiuto",
+    "UKR": "Довідка"
   },
   "Kill process": {
     "DEU": "Prozess beenden",
@@ -5018,7 +5535,8 @@
     "SPA": "Terminar",
     "TUR": "İşlemi öldür",
     "POR": "Encerrar processo",
-    "ITA": "Termina processo"
+    "ITA": "Termina processo",
+    "UKR": "Завершити процес"
   },
   "Send to sleep": {
     "DEU": "Schlafen legen",
@@ -5026,7 +5544,8 @@
     "SPA": "Poner en reposo",
     "TUR": "Uykuya gönder",
     "POR": "Suspender",
-    "ITA": "Metti in pausa"
+    "ITA": "Metti in pausa",
+    "UKR": "Приспати"
   },
   "Set priority": {
     "DEU": "Priorität ändern",
@@ -5034,7 +5553,8 @@
     "SPA": "Establecer prioridad",
     "TUR": "Öncelik belirle",
     "POR": "Definir prioridade",
-    "ITA": "Imposta priorità"
+    "ITA": "Imposta priorità",
+    "UKR": "Пріоритет"
   },
   "Realtime": {
     "DEU": "Echtzeit",
@@ -5042,7 +5562,8 @@
     "SPA": "Tiempo real",
     "TUR": "Gerçek zamanlı",
     "POR": "Tempo real",
-    "ITA": "Tempo reale"
+    "ITA": "Tempo reale",
+    "UKR": "Реального часу"
   },
   "Above normal": {
     "DEU": "Höher",
@@ -5050,7 +5571,8 @@
     "SPA": "Por encima de normal",
     "TUR": "Normalin üzerinde",
     "POR": "Acima do normal",
-    "ITA": "Normale+"
+    "ITA": "Normale+",
+    "UKR": "+"
   },
   "Below normal": {
     "DEU": "Niedriger",
@@ -5066,7 +5588,8 @@
     "SPA": "Aplic",
     "TUR": "Uygulamalar",
     "POR": "Aplic",
-    "ITA": "Apps"
+    "ITA": "Apps",
+    "UKR": "Застос"
   },
   "Proces": {
     "DEU": "Prozesse",
@@ -5074,7 +5597,8 @@
     "SPA": "Proc",
     "TUR": "İşlemler",
     "POR": "Proc",
-    "ITA": "Proces"
+    "ITA": "Proces",
+    "UKR": "Процеси"
   },
   "Performance": {
     "DEU": "Leistung",
@@ -5082,7 +5606,8 @@
     "SPA": "Rendimiento",
     "TUR": "Performans",
     "POR": "Desempenho",
-    "ITA": "Performance"
+    "ITA": "Performance",
+    "UKR": "Продуктивність"
   },
   "Totals": {
     "DEU": "Insgesamt",
@@ -5090,7 +5615,8 @@
     "SPA": "Totales",
     "TUR": "Toplamlar",
     "POR": "Totais",
-    "ITA": "Totali"
+    "ITA": "Totali",
+    "UKR": "Підсумки"
   },
   "Memory (KB)": {
     "DEU": "Speicher (KB)",
@@ -5098,7 +5624,8 @@
     "SPA": "Memoria (KB)",
     "TUR": "Bellek (KB)",
     "POR": "Memória (KB)",
-    "ITA": "Memoria (KB)"
+    "ITA": "Memoria (KB)",
+    "UKR": "Пам'ять (кБ)"
   },
   "Applications": {
     "DEU": "Anwendungen",
@@ -5106,7 +5633,8 @@
     "SPA": "Aplicaciones",
     "TUR": "Uygulamalar",
     "POR": "Aplicativos",
-    "ITA": "Applicazioni"
+    "ITA": "Applicazioni",
+    "UKR": "Застосунків"
   },
   "Processes": {
     "DEU": "Prozesse",
@@ -5114,7 +5642,8 @@
     "SPA": "Procesos",
     "TUR": "İşlemler",
     "POR": "Processos",
-    "ITA": "Processi"
+    "ITA": "Processi",
+    "UKR": "Процесів"
   },
   "Timers": {
     "DEU": "Timer",
@@ -5122,7 +5651,8 @@
     "SPA": "Contadores",
     "TUR": "Zamanlayıcılar",
     "POR": "Timers",
-    "ITA": "Timers"
+    "ITA": "Timers",
+    "UKR": "Таймерів"
   },
   "Used": {
     "DEU": "Belegt",
@@ -5130,7 +5660,8 @@
     "SPA": "Usado",
     "TUR": "Kullanılan",
     "POR": "Usado",
-    "ITA": "Usata"
+    "ITA": "Usata",
+    "UKR": "Використано"
   },
   "Available": {
     "DEU": "Verfügbar",
@@ -5138,7 +5669,8 @@
     "SPA": "Disponible",
     "TUR": "Boşta",
     "POR": "Disponível",
-    "ITA": "Disponibile"
+    "ITA": "Disponibile",
+    "UKR": "Доступна"
   },
   "CPU": {
     "DEU": "CPU",
@@ -5146,7 +5678,8 @@
     "SPA": "CPU",
     "TUR": "CPU",
     "POR": "CPU",
-    "ITA": "CPU"
+    "ITA": "CPU",
+    "UKR": "ЦП"
   },
   "Memory": {
     "DEU": "Speicher",
@@ -5154,7 +5687,8 @@
     "SPA": "Memoria",
     "TUR": "Bellek",
     "POR": "Memória",
-    "ITA": "Memoria (KB)"
+    "ITA": "Memoria (KB)",
+    "UKR": "Пам'ять"
   },
   "ID": {
     "DEU": "ID",
@@ -5162,7 +5696,8 @@
     "SPA": "ID",
     "TUR": "ID",
     "POR": "ID",
-    "ITA": "ID"
+    "ITA": "ID",
+    "UKR": "ІП"
   },
   "Pri": {
     "DEU": "Pri",
@@ -5170,7 +5705,8 @@
     "SPA": "Pri",
     "TUR": "Önc",
     "POR": "Pri",
-    "ITA": "Pri"
+    "ITA": "Pri",
+    "UKR": "Пріор"
   },
   "Prc": {
     "DEU": "Prz",
@@ -5178,7 +5714,8 @@
     "SPA": "Proc",
     "TUR": "İşl",
     "POR": "Proc",
-    "ITA": "Prc"
+    "ITA": "Prc",
+    "UKR": "Проц"
   },
   "Mem": {
     "DEU": "Spei",
@@ -5186,7 +5723,8 @@
     "SPA": "Mem",
     "TUR": "Bel",
     "POR": "Mem",
-    "ITA": "Mem"
+    "ITA": "Mem",
+    "UKR": "Пам'ять"
   },
   "Timer": {
     "DEU": "Timer",
@@ -5194,7 +5732,8 @@
     "SPA": "Contador",
     "TUR": "Zamanlayıcı",
     "POR": "Timer",
-    "ITA": "Timer"
+    "ITA": "Timer",
+    "UKR": "Таймер"
   },
   "Sleep": {
     "DEU": "Stopp",
@@ -5202,7 +5741,8 @@
     "SPA": "Reposo",
     "TUR": "Uyku",
     "POR": "Suspenso",
-    "ITA": "Paus"
+    "ITA": "Paus",
+    "UKR": "Призуп"
   },
   "Idle": {
     "DEU": "Leerl",
@@ -5210,7 +5750,8 @@
     "SPA": "Inactivo",
     "TUR": "Boşta",
     "POR": "Ocioso",
-    "ITA": "Idle"
+    "ITA": "Idle",
+    "UKR": "Очікування"
   },
   "Work": {
     "DEU": "Arbeit",
@@ -5218,7 +5759,8 @@
     "SPA": "Trabajando",
     "TUR": "Görev",
     "POR": "Ativo",
-    "ITA": "Attivo"
+    "ITA": "Attivo",
+    "UKR": "Виконується"
   },
   "Application": {
     "DEU": "Anwendung",
@@ -5226,7 +5768,8 @@
     "SPA": "Aplicación",
     "TUR": "Uygulama",
     "POR": "Aplicativo",
-    "ITA": "Applicazione"
+    "ITA": "Applicazione",
+    "UKR": "Застосунки"
   },
   "Kill": {
     "DEU": "Beenden",
@@ -5234,7 +5777,8 @@
     "SPA": "Terminar",
     "TUR": "Öldür",
     "POR": "Encerrar",
-    "ITA": "Termina"
+    "ITA": "Termina",
+    "UKR": "Завершити"
   },
   "Switch": {
     "DEU": "Wechs",
@@ -5242,7 +5786,8 @@
     "SPA": "Cambiar",
     "TUR": "Geçiş yap",
     "POR": "Alternar",
-    "ITA": "Scambia"
+    "ITA": "Scambia",
+    "UKR": "Переключитись"
   },
   "End App": {
     "DEU": "Beenden",
@@ -5250,7 +5795,8 @@
     "SPA": "Terminar",
     "TUR": "Uyg. Bitir",
     "POR": "Encerrar",
-    "ITA": "Fine App"
+    "ITA": "Fine App",
+    "UKR": "Завершити"
   },
   "Find next": {
     "DEU": "Suchen",
@@ -5259,7 +5805,8 @@
     "SPA": "Encontrar siguiente",
     "TUR": "Sonrakini bul",
     "POR": "Localizar próximo",
-    "ITA": "Trova successivo"
+    "ITA": "Trova successivo",
+    "UKR": "Знайти далі"
   },
   "Replace": {
     "DEU": "Ersetzen",
@@ -5268,7 +5815,8 @@
     "SPA": "Reemplazar",
     "TUR": "Değiştir",
     "POR": "Substituir",
-    "ITA": "Sostituisci"
+    "ITA": "Sostituisci",
+    "UKR": "Замінити"
   },
   "Replace all": {
     "DEU": "Alle ersetz",
@@ -5277,7 +5825,8 @@
     "SPA": "Reemplazar todo",
     "TUR": "Tümünü değiştir",
     "POR": "Substituir tudo",
-    "ITA": "Sostituisci tutto"
+    "ITA": "Sostituisci tutto",
+    "UKR": "Замінити все"
   },
   "Notepad for SymbOS": {
     "DEU": "Notepad für SymbOS",
@@ -5291,7 +5840,8 @@
     "SPA": "Lín Col Tam Mrc",
     "TUR": "Sat Süt Boy Mrk",
     "POR": "Lin Col Tam Mrc",
-    "ITA": "Lin Col Siz Mrk"
+    "ITA": "Lin Col Siz Mrk",
+    "UKR": "Рд ствп розм вибр"
   },
   "Textbuffer full. Only a part of": {
     "DEU": "Textspeicher voll. Nur ein",
@@ -5300,7 +5850,8 @@
     "SPA": "Búfer de texto lleno. Solo parte del",
     "TUR": "Metin arabelleği dolu. Belgenin",
     "POR": "Buffer de texto cheio. Apenas parte",
-    "ITA": "Buffer pieno. Solo una parte"
+    "ITA": "Buffer pieno. Solo una parte",
+    "UKR": "Текстовий буфер заповнений"
   },
   "the document has been loaded": {
     "DEU": "Teil konnte geladen werden",
@@ -5309,7 +5860,8 @@
     "SPA": "documento ha sido cargado",
     "TUR": "yalnızca bir kısmı yüklendi",
     "POR": "do documento foi carregado",
-    "ITA": "del documento è stata caricata"
+    "ITA": "del documento è stata caricata",
+    "UKR": "Завантажено лише частину документа"
   },
   "Error while loading file!": {
     "DEU": "Fehler beim Laden!",
@@ -5318,7 +5870,8 @@
     "SPA": "¡Error al cargar archivo!",
     "TUR": "Dosya yüklenirken hata!",
     "POR": "Erro ao carregar arquivo!",
-    "ITA": "Errore di lettura del file!"
+    "ITA": "Errore di lettura del file!",
+    "UKR": "Помилка завантаження файлу!"
   },
   "Error while saving file!": {
     "DEU": "Fehler beim Speichern!",
@@ -5327,7 +5880,8 @@
     "SPA": "¡Error al guardar archivo!",
     "TUR": "Dosya kaydedilirken hata!",
     "POR": "Erro ao salvar arquivo!",
-    "ITA": "Errore di salvataggio del file!"
+    "ITA": "Errore di salvataggio del file!",
+    "UKR": "Помилка збереження файлу!"
   },
   "Device full. Only a part of": {
     "DEU": "Datenträger voll. Nur ein Teil",
@@ -5336,7 +5890,8 @@
     "SPA": "Dispositivo lleno. Solo parte del",
     "TUR": "Aygıt dolu. Belgenin yalnızca",
     "POR": "Dispositivo cheio. Apenas parte",
-    "ITA": "Dispositivo pieno. Solo un  parte del"
+    "ITA": "Dispositivo pieno. Solo un  parte del",
+    "UKR": "Пристрій заповнений. Збережено"
   },
   "the document has been saved": {
     "DEU": "konnte gespeichert werden",
@@ -5345,7 +5900,8 @@
     "SPA": "documento ha sido guardado",
     "TUR": "bir kısmı kaydedildi",
     "POR": "do documento foi salvo",
-    "ITA": "documento è stata salvata"
+    "ITA": "documento è stata salvata",
+    "UKR": "лише частину документа"
   },
   "Save changes?": {
     "DEU": "Änderungen speichern?",
@@ -5354,7 +5910,8 @@
     "SPA": "Guardar cambios?",
     "TUR": "Değişiklikleri kaydet?",
     "POR": "Salvar alterações?",
-    "ITA": "Salvare le modifiche?"
+    "ITA": "Salvare le modifiche?",
+    "UKR": "Зберегти зміни?"
   },
   "Font type": {
     "DEU": "Schriftart",
@@ -5363,7 +5920,8 @@
     "SPA": "Tipo de fuente",
     "TUR": "Font tipi",
     "POR": "Tipo de fonte",
-    "ITA": "Tipo font"
+    "ITA": "Tipo font",
+    "UKR": "Тип шрифту"
   },
   "Font colour": {
     "DEU": "Farben",
@@ -5372,7 +5930,8 @@
     "SPA": "Color de fuente",
     "TUR": "Font rengi",
     "POR": "Cor da fonte",
-    "ITA": "Colore font"
+    "ITA": "Colore font",
+    "UKR": "Колір шрифту"
   },
   "Options": {
     "DEU": "Optionen",
@@ -5381,7 +5940,8 @@
     "SPA": "Opciones",
     "TUR": "Seçenekler…",
     "POR": "Opções",
-    "ITA": "Opzioni"
+    "ITA": "Opzioni",
+    "UKR": "Параметри"
   },
   "Word wrap at window border": {
     "DEU": "Umbruch am Fensterende",
@@ -5390,7 +5950,8 @@
     "SPA": "Ajuste de línea al marco de la ventana",
     "TUR": "Pencere kenarında kelime kaydırma",
     "POR": "Quebra de linha na borda da janela",
-    "ITA": "Giustifica"
+    "ITA": "Giustifica",
+    "UKR": "Перенос на межі вікна"
   },
   "Word wrap at": {
     "DEU": "Umbruch bei",
@@ -5399,7 +5960,8 @@
     "SPA": "Ajuste de línea a",
     "TUR": "Kelime kaydırma",
     "POR": "Quebra de linha em",
-    "ITA": "Allinea a"
+    "ITA": "Allinea a",
+    "UKR": "Перенос на"
   },
   "px": {
     "DEU": "px",
@@ -5408,7 +5970,8 @@
     "SPA": "px",
     "TUR": "px",
     "POR": "px",
-    "ITA": "px"
+    "ITA": "px",
+    "UKR": "пікс"
   },
   "No word wrap": {
     "DEU": "Kein Umbruch",
@@ -5417,7 +5980,8 @@
     "SPA": "Sin ajuste de línea",
     "TUR": "Kelime kaydırma yok",
     "POR": "Sem quebra de linha",
-    "ITA": "Nessuna distribuzione testo"
+    "ITA": "Nessuna distribuzione testo",
+    "UKR": "Без переносу"
   },
   "Tabstop width": {
     "DEU": "Tabstop Breite",
@@ -5426,7 +5990,8 @@
     "SPA": "Ancho de tabulación",
     "TUR": "Sekme durağı genişliği",
     "POR": "Largura da tabulação",
-    "ITA": "Tabulazione"
+    "ITA": "Tabulazione",
+    "UKR": "Ширина табуляції"
   },
   "chars": {
     "DEU": "Zeichen",
@@ -5435,7 +6000,8 @@
     "SPA": "caracteres",
     "TUR": "karakter",
     "POR": "caracteres",
-    "ITA": "Caratt"
+    "ITA": "Caratt",
+    "UKR": "символів"
   },
   "Pen": {
     "DEU": "Schrift",
@@ -5444,7 +6010,8 @@
     "SPA": "Color",
     "TUR": "Kalem",
     "POR": "Caneta",
-    "ITA": "Colore"
+    "ITA": "Colore",
+    "UKR": "Перо"
   },
   "Paper": {
     "DEU": "Hinterg",
@@ -5453,7 +6020,8 @@
     "SPA": "Fondo",
     "TUR": "Kağıt",
     "POR": "Papel",
-    "ITA": "Sfondo"
+    "ITA": "Sfondo",
+    "UKR": "Папір"
   },
   "Find": {
     "DEU": "Suchen",
@@ -5462,7 +6030,8 @@
     "SPA": "Buscar",
     "TUR": "Bul",
     "POR": "Localizar",
-    "ITA": "Trova"
+    "ITA": "Trova",
+    "UKR": "Знайти"
   },
   "Go to": {
     "DEU": "Gehe zu",
@@ -5471,7 +6040,8 @@
     "SPA": "Ir a",
     "TUR": "Git",
     "POR": "Ir para",
-    "ITA": "Vai a"
+    "ITA": "Vai a",
+    "UKR": "Перейти"
   },
   "Find what": {
     "DEU": "Suchtext",
@@ -5480,7 +6050,8 @@
     "SPA": "Qué buscar",
     "TUR": "Arama metni",
     "POR": "Localizar",
-    "ITA": "Trova"
+    "ITA": "Trova",
+    "UKR": "Знайти:"
   },
   "Replace with": {
     "DEU": "Ersetze mit",
@@ -5489,7 +6060,8 @@
     "SPA": "Reemplazar con",
     "TUR": "Şununla değiştir",
     "POR": "Substituir por",
-    "ITA": "Sostituisci"
+    "ITA": "Sostituisci",
+    "UKR": "Замінити на:"
   },
   "Match case": {
     "DEU": "Groß/Klein",
@@ -5498,7 +6070,8 @@
     "SPA": "Coincidir Mayús/minúsc",
     "TUR": "Büyük küçük harfe uy",
     "POR": "Diferenciar maiúsculas",
-    "ITA": "Confronta maiusc/minusc"
+    "ITA": "Confronta maiusc/minusc",
+    "UKR": "Враховувати регістр"
   },
   "Whole word only": {
     "DEU": "Nur ganze Wörter",
@@ -5507,7 +6080,8 @@
     "SPA": "Solo palabra completa",
     "TUR": "Sadece tüm kelime",
     "POR": "Palavra inteira",
-    "ITA": "Solo parola intera"
+    "ITA": "Solo parola intera",
+    "UKR": "Лише цілі слова"
   },
   "Entire document": {
     "DEU": "Alle ab Anfang",
@@ -5516,7 +6090,8 @@
     "SPA": "Todo el documento",
     "TUR": "Tüm belge",
     "POR": "Documento inteiro",
-    "ITA": "In tutto il documento"
+    "ITA": "In tutto il documento",
+    "UKR": "Весь документ"
   },
   "Line": {
     "DEU": "Zeile",
@@ -5525,7 +6100,8 @@
     "SPA": "Línea",
     "TUR": "Satır",
     "POR": "Linha",
-    "ITA": "Linea"
+    "ITA": "Linea",
+    "UKR": "Рядок"
   },
   "Column": {
     "DEU": "Spalte",
@@ -5534,7 +6110,8 @@
     "SPA": "Columna",
     "TUR": "Sütun",
     "POR": "Coluna",
-    "ITA": "Colonna"
+    "ITA": "Colonna",
+    "UKR": "Стовпець"
   },
   "Text not found!": {
     "DEU": "Text nicht gefunden!",
@@ -5543,7 +6120,8 @@
     "SPA": "¡Texto no encontrado!",
     "TUR": "Metin bulunamadı!",
     "POR": "Texto não encontrado!",
-    "ITA": "Testo non trovato!"
+    "ITA": "Testo non trovato!",
+    "UKR": "Текст не знайдено!"
   },
   "Textbuffer full. Couldn't": {
     "DEU": "Speicher voll. Nicht alles",
@@ -5552,7 +6130,8 @@
     "SPA": "Búfer de texto lleno. No se",
     "TUR": "Metin arabelleği dolu. Bir veya",
     "POR": "Buffer de texto cheio. Não foi",
-    "ITA": "Buffer pieno. Non posso sostituire"
+    "ITA": "Buffer pieno. Non posso sostituire",
+    "UKR": "Текстовий буфер переповнений. Не вдалося"
   },
   "replace one or more entries": {
     "DEU": "konnte ersetzt werden",
@@ -5561,7 +6140,8 @@
     "SPA": "reemplazaron una o más entradas",
     "TUR": "daha fazla girdi değiştirilemedi",
     "POR": "possível substituir uma ou mais entradas",
-    "ITA": "una o più voci"
+    "ITA": "una o più voci",
+    "UKR": "замінити один або декілька записів"
   },
   "Invalid number": {
     "DEU": "Ungültige Nummer",
@@ -5570,7 +6150,8 @@
     "SPA": "Número no válido",
     "TUR": "Geçersiz sayı",
     "POR": "Número inválido",
-    "ITA": "Numero non valido"
+    "ITA": "Numero non valido",
+    "UKR": "Недійсний номер"
   },
   "Save As": {
     "DEU": "Speichern unter",
@@ -5579,7 +6160,8 @@
     "SPA": "Guardar como",
     "TUR": "Farklı Kaydet…",
     "POR": "Salvar como",
-    "ITA": "Salva come…"
+    "ITA": "Salva come…",
+    "UKR": "Зберегти як…"
   },
   "Exit": {
     "DEU": "Beenden",
@@ -5588,7 +6170,8 @@
     "SPA": "Salir",
     "TUR": "Çıkış",
     "POR": "Sair",
-    "ITA": "Esci"
+    "ITA": "Esci",
+    "UKR": "Вихід"
   },
   "Edit": {
     "DEU": "Bearbeiten",
@@ -5607,7 +6190,8 @@
     "SPA": "Buscar de nuevo",
     "TUR": "Tekrar Bul",
     "POR": "Localizar novamente",
-    "ITA": "Trova ancora"
+    "ITA": "Trova ancora",
+    "UKR": "Знайти далі"
   },
   "Go To": {
     "DEU": "Gehe zu",
@@ -5616,7 +6200,8 @@
     "SPA": "Ir a",
     "TUR": "Git…",
     "POR": "Ir para",
-    "ITA": "Vai a"
+    "ITA": "Vai a",
+    "UKR": "Перейти…"
   },
   "Time/Date": {
     "DEU": "Zeit/Datum",
@@ -5625,7 +6210,8 @@
     "SPA": "Fecha/Hora",
     "TUR": "Saat/Tarih",
     "POR": "Hora/Data",
-    "ITA": "Ora/Data"
+    "ITA": "Ora/Data",
+    "UKR": "Час/дата"
   },
   "Format": {
     "DEU": "Format",
@@ -5634,7 +6220,8 @@
     "SPA": "Formato",
     "TUR": "Biçim",
     "POR": "Formatar",
-    "ITA": "Formato"
+    "ITA": "Formato",
+    "UKR": "Формат"
   },
   "Auto word wrap": {
     "DEU": "Automatischer Umbruch",
@@ -5643,7 +6230,8 @@
     "SPA": "Ajuste de línea automático",
     "TUR": "Otomatik kelime kaydırma",
     "POR": "Quebra automática",
-    "ITA": "Allineamento automatico"
+    "ITA": "Allineamento automatico",
+    "UKR": "Перенос по словах"
   },
   "Status bar": {
     "DEU": "Statusleiste",
@@ -5652,7 +6240,8 @@
     "SPA": "Barra de estado",
     "TUR": "Durum çubuğu",
     "POR": "Barra de status",
-    "ITA": "Barra di stato"
+    "ITA": "Barra di stato",
+    "UKR": "Рядок стану"
   },
   "About Wordpad": {
     "DEU": "Über Wordpad",
@@ -5661,7 +6250,8 @@
     "SPA": "Acerca de Wordpad",
     "TUR": "Wordpad hakkında…",
     "POR": "Sobre o Wordpad",
-    "ITA": "Info su Wordpad"
+    "ITA": "Info su Wordpad",
+    "UKR": "Про програму…"
   },
   "Calculator": {
     "DEU": "Rechner",
@@ -5777,7 +6367,8 @@
     "SPA": "El dispositivo no existe",
     "TUR": "Aygıt mevcut değil",
     "POR": "Dispositivo não existe",
-    "ITA": "Dispositivo inesistente"
+    "ITA": "Dispositivo inesistente",
+    "UKR": "Пристрій не знайдено"
   },
   "OK": {
     "DEU": "OK",
@@ -5785,7 +6376,8 @@
     "SPA": "Aceptar",
     "TUR": "OK",
     "POR": "OK",
-    "ITA": "OK"
+    "ITA": "OK",
+    "UKR": "Гаразд"
   },
   "Device not initialised": {
     "DEU": "Gerät nicht initialisiert",
@@ -5793,7 +6385,8 @@
     "SPA": "Dispositivo no iniciado",
     "TUR": "Aygıt başlatılmadı",
     "POR": "Dispositivo não inicializado",
-    "ITA": "Dispositivo non inizializzato"
+    "ITA": "Dispositivo non inizializzato",
+    "UKR": "Пристрій не ініціалізовано"
   },
   "Media is damaged": {
     "DEU": "Medium beschädigt",
@@ -5801,7 +6394,8 @@
     "SPA": "Datos dañados",
     "TUR": "Medya hasar görmüş",
     "POR": "Mídia danificada",
-    "ITA": "Supporto danneggiato"
+    "ITA": "Supporto danneggiato",
+    "UKR": "Носій пошкоджений"
   },
   "Partition does not exist": {
     "DEU": "Partition existiert nicht",
@@ -5809,7 +6403,8 @@
     "SPA": "La partición no existe",
     "TUR": "Bölümleme mevcut değil",
     "POR": "Partição não existe",
-    "ITA": "Partizione inesistente"
+    "ITA": "Partizione inesistente",
+    "UKR": "Розділ не існує"
   },
   "Unsupported media or partition": {
     "DEU": "Nicht unterstütztes Medium/Partition",
@@ -5817,7 +6412,8 @@
     "SPA": "Partición o medio no soportados",
     "TUR": "Desteklenmeyen medya veya bölümleme",
     "POR": "Mídia ou partição não suportada",
-    "ITA": "Supporto o partizione non supportate"
+    "ITA": "Supporto o partizione non supportate",
+    "UKR": "Непідтримуваний носій або розділ"
   },
   "Error while sector read/write": {
     "DEU": "Fehler beim Sektor-Zugriff",
@@ -5825,7 +6421,8 @@
     "SPA": "Error al leer/escribir sector",
     "TUR": "Sektör okuma/yazma sırasında hata",
     "POR": "Erro ao ler/gravar setor",
-    "ITA": "Errore di lettura/scrittura del settore"
+    "ITA": "Errore di lettura/scrittura del settore",
+    "UKR": "Помилка читання/запису сектору"
   },
   "Error while positioning": {
     "DEU": "Positionierungsfehler",
@@ -5833,7 +6430,8 @@
     "SPA": "Error al posicionar",
     "TUR": "Konumlandırma sırasında hata",
     "POR": "Erro ao posicionar",
-    "ITA": "Errore di posizionamento"
+    "ITA": "Errore di posizionamento",
+    "UKR": "Помилка позиціонування"
   },
   "Abort while volume access": {
     "DEU": "Abbruch beim Datenträger-Zugriff",
@@ -5841,7 +6439,8 @@
     "SPA": "Abortar mientras se accede al volumen",
     "TUR": "Birime erişim sırasında iptal",
     "POR": "Acesso ao volume abortado",
-    "ITA": "Errore durante l'accesso al volume"
+    "ITA": "Errore durante l'accesso al volume",
+    "UKR": "Перерваний доступ до тому диску"
   },
   "Unknown volume error": {
     "DEU": "Unbekannter Datenträger-Fehler",
@@ -5849,7 +6448,8 @@
     "SPA": "Error de volumen desconocido",
     "TUR": "Bilinmeyen birim hatası",
     "POR": "Erro de volume desconhecido",
-    "ITA": "Errore sconosciuto sul volume"
+    "ITA": "Errore sconosciuto sul volume",
+    "UKR": "Невідома помилка тому диску"
   },
   "No free filehandler": {
     "DEU": "Kein freier Dateihandler",
@@ -5857,7 +6457,8 @@
     "SPA": "No hay gestor de archivo libre",
     "TUR": "Boşta dosya işleyici yok",
     "POR": "Nenhum gestor de arquivo livre",
-    "ITA": "Nessun gestore di archivio libero"
+    "ITA": "Nessun gestore di archivio libero",
+    "UKR": "Немає вільних дескрипторів файлів"
   },
   "Path does not exist": {
     "DEU": "Pfad existiert nicht",
@@ -5865,7 +6466,8 @@
     "SPA": "La ruta no existe",
     "TUR": "Yol mevcut değil",
     "POR": "Caminho não existe",
-    "ITA": "Percorso inesistente"
+    "ITA": "Percorso inesistente",
+    "UKR": "Шлях не існує"
   },
   "File does not exist": {
     "DEU": "Datei existiert nicht",
@@ -5873,7 +6475,8 @@
     "SPA": "El archivo no existe",
     "TUR": "Dosya mevcut değil",
     "POR": "Arquivo não existe",
-    "ITA": "File inesistente"
+    "ITA": "File inesistente",
+    "UKR": "Файл не існує"
   },
   "Access is forbidden": {
     "DEU": "Zugriff untersagt",
@@ -5881,7 +6484,8 @@
     "SPA": "Acceso no permitido",
     "TUR": "Erişim yasak",
     "POR": "Acesso negado",
-    "ITA": "Accesso negato"
+    "ITA": "Accesso negato",
+    "UKR": "Доступ заборонено"
   },
   "Invalid path or filename": {
     "DEU": "Falscher Pfad/Dateiname",
@@ -5889,7 +6493,8 @@
     "SPA": "Ruta o nombre de archivo no válido",
     "TUR": "Geçersiz yol veya dosya ismi",
     "POR": "Caminho ou nome de arquivo inválido",
-    "ITA": "Percorso o nome file invalido"
+    "ITA": "Percorso o nome file invalido",
+    "UKR": "Недійсний шлях або ім'я файлу"
   },
   "Filehandler does not exist": {
     "DEU": "Dateihandler existiert nicht",
@@ -5897,7 +6502,8 @@
     "SPA": "El gestor de archivo no existe",
     "TUR": "Dosya işleyici mevcut değil",
     "POR": "Gestor de arquivo não existe",
-    "ITA": "Gestore di archivio inesistente"
+    "ITA": "Gestore di archivio inesistente",
+    "UKR": "Дескриптор файлу не уснує"
   },
   "Device slot already occupied": {
     "DEU": "Geräteslot bereits belegt",
@@ -5905,7 +6511,8 @@
     "SPA": "Ranura de dispositivo ya en uso",
     "TUR": "Cihaz yuvası zaten dolu",
     "POR": "Slot do dispositivo já ocupado",
-    "ITA": "Slot del dispositivo già occupato"
+    "ITA": "Slot del dispositivo già occupato",
+    "UKR": "Слот пристрою вже зайнятий"
   },
   "Error in file organisation": {
     "DEU": "Fehler in Dateiorganisation",
@@ -5913,7 +6520,8 @@
     "SPA": "Error en la organización de archivo",
     "TUR": "Dosya organizasyonunda hata",
     "POR": "Erro na organização do arquivo",
-    "ITA": "Errore nell'organizzazione dell'archivio"
+    "ITA": "Errore nell'organizzazione dell'archivio",
+    "UKR": "Помилка в організації файлів"
   },
   "Invalid destination name": {
     "DEU": "Ungültiger Zielname",
@@ -5921,7 +6529,8 @@
     "SPA": "Nombre de destino no válido",
     "TUR": "Geçersiz hedef adı",
     "POR": "Nome de destino inválido",
-    "ITA": "Nome destinazione non valido"
+    "ITA": "Nome destinazione non valido",
+    "UKR": "Недійсне ім'я призначення"
   },
   "File/path already exist": {
     "DEU": "Pfad/Dateiname existiert bereits",
@@ -5929,7 +6538,8 @@
     "SPA": "Archivo/ruta ya existe",
     "TUR": "Dosya/yol zaten mevcut",
     "POR": "Arquivo/caminho já existe",
-    "ITA": "File o percorso già esistente"
+    "ITA": "File o percorso già esistente",
+    "UKR": "Файл/шлях вже існує"
   },
   "Wrong sub command code": {
     "DEU": "Falscher Unterbefehl-Code",
@@ -5937,7 +6547,8 @@
     "SPA": "Código de sub comando erróneo",
     "TUR": "Yanlış alt komut kodu",
     "POR": "Código de subcomando incorreto",
-    "ITA": "Codice di sub comando errato"
+    "ITA": "Codice di sub comando errato",
+    "UKR": "Некоректний код підкоманди"
   },
   "Wrong attribute": {
     "DEU": "Falsches Attribut",
@@ -5945,7 +6556,8 @@
     "SPA": "Atributo erróneo",
     "TUR": "Yanlış attribute",
     "POR": "Atributo incorreto",
-    "ITA": "Attributo errato"
+    "ITA": "Attributo errato",
+    "UKR": "Некоректний атрибут"
   },
   "Directory full": {
     "DEU": "Verzeichnis voll",
@@ -5953,7 +6565,8 @@
     "SPA": "Directorio lleno",
     "TUR": "Dizin dolu",
     "POR": "Diretório cheio",
-    "ITA": "Cartella piena"
+    "ITA": "Cartella piena",
+    "UKR": "Каталог заповнений"
   },
   "Media full": {
     "DEU": "Datenträger voll",
@@ -5961,7 +6574,8 @@
     "SPA": "Medio lleno",
     "TUR": "Medya dolu",
     "POR": "Mídia cheia",
-    "ITA": "Disco pieno"
+    "ITA": "Disco pieno",
+    "UKR": "Носій заповнений"
   },
   "Media is write protected": {
     "DEU": "Datenträger schreibgeschützt",
@@ -5969,7 +6583,8 @@
     "SPA": "Medio protegido para escritura",
     "TUR": "Medya yazmaya karşı korumalı",
     "POR": "Mídia protegida contra gravação",
-    "ITA": "Disco protetto da scrittura"
+    "ITA": "Disco protetto da scrittura",
+    "UKR": "Носій захищений від запису"
   },
   "Device is not ready": {
     "DEU": "Gerät nicht bereit",
@@ -5977,7 +6592,8 @@
     "SPA": "El dispositivo no está listo",
     "TUR": "Aygıt hazır değil",
     "POR": "Dispositivo não está pronto",
-    "ITA": "Dispositivo non pronto"
+    "ITA": "Dispositivo non pronto",
+    "UKR": "Пристрій не готовий"
   },
   "Directory is not empty": {
     "DEU": "Verzeichnis nicht leer",
@@ -5985,7 +6601,8 @@
     "SPA": "El directorio no está vacío",
     "TUR": "Dizin boş değil",
     "POR": "Diretório não está vazio",
-    "ITA": "La cartella non è vuota"
+    "ITA": "La cartella non è vuota",
+    "UKR": "Каталог не порожній"
   },
   "Invalid destination device": {
     "DEU": "Ungültiges Zielgerät",
@@ -5993,7 +6610,8 @@
     "SPA": "Dispositivo de destino no válido",
     "TUR": "Geçersiz hedef aygıt",
     "POR": "Dispositivo de destino inválido",
-    "ITA": "Destinazione dispositivo non valida"
+    "ITA": "Destinazione dispositivo non valida",
+    "UKR": "Недійсний пристрій призначення"
   },
   "Not supported by file system": {
     "DEU": "Vom Dateisystem nicht unterstützt",
@@ -6001,7 +6619,8 @@
     "SPA": "No soportado por el sistema de archivos",
     "TUR": "Dosya sistemi tarafından desteklenmiyor",
     "POR": "Não suportado pelo sistema de arquivos",
-    "ITA": "Non supportato dal File System"
+    "ITA": "Non supportato dal File System",
+    "UKR": "Не підтримується файловою системою"
   },
   "Unsupported device": {
     "DEU": "Nicht unterstütztes Gerät",
@@ -6009,7 +6628,8 @@
     "SPA": "Dispositivo no soportado",
     "TUR": "Desteklenmeyen aygıt",
     "POR": "Dispositivo não suportado",
-    "ITA": "Dispositivo non supportato"
+    "ITA": "Dispositivo non supportato",
+    "UKR": "Непідтримуваний пристрій"
   },
   "File is read only": {
     "DEU": "Datei ist schreibgeschützt",
@@ -6017,7 +6637,8 @@
     "SPA": "El archivo es de solo lectura",
     "TUR": "Salt okunur dosya",
     "POR": "Arquivo somente leitura",
-    "ITA": "il file è di sola lettura"
+    "ITA": "il file è di sola lettura",
+    "UKR": "Файл доступний лише для читання"
   },
   "Device channel is not available": {
     "DEU": "Gerätekanal nicht verfügbar",
@@ -6025,7 +6646,8 @@
     "SPA": "Canal de dispositivo no disponible",
     "TUR": "Aygıt kanalı kullanılamıyor",
     "POR": "Canal do dispositivo não disponível",
-    "ITA": "Canale del dispositivo non disponibile"
+    "ITA": "Canale del dispositivo non disponibile",
+    "UKR": "Канал пристрою недоступний"
   },
   "*Undefined Error*": {
     "DEU": "*Undefinierter Fehler*",
@@ -6033,7 +6655,8 @@
     "SPA": "*Error no definido*",
     "TUR": "*Tanımlanmamış Hata*",
     "POR": "*Erro indefinido*",
-    "ITA": "*Errore sconosciuto*"
+    "ITA": "*Errore sconosciuto*",
+    "UKR": "*Невизначена помилка*"
   },
   "*Unknown Error*": {
     "DEU": "*Unbekannter Fehler*",
@@ -6041,7 +6664,8 @@
     "SPA": "*Error desconocido*",
     "TUR": "*Bilinmeyen Hata*",
     "POR": "*Erro desconhecido*",
-    "ITA": "*Errore indefinito*"
+    "ITA": "*Errore indefinito*",
+    "UKR": "*Невідома помилка*"
   },
   "Files": {
     "DEU": "Dateien",
@@ -6049,7 +6673,8 @@
     "SPA": "Archivos",
     "TUR": "Dosyalar",
     "POR": "Arquivos",
-    "ITA": "Files"
+    "ITA": "Files",
+    "UKR": "Файли"
   },
   "Change Attributes": {
     "DEU": "Attribute ändern",
@@ -6057,7 +6682,8 @@
     "SPA": "Cambiar Atributos",
     "TUR": "Attribute değiştir…",
     "POR": "Alterar Atributos",
-    "ITA": "Cambia attributi"
+    "ITA": "Cambia attributi",
+    "UKR": "Змінити атрибути…"
   },
   "Drive information": {
     "DEU": "Laufwerks-Information",
@@ -6065,7 +6691,8 @@
     "SPA": "Información de Unidad",
     "TUR": "Sürücü bilgileri",
     "POR": "Informações da unidade",
-    "ITA": "Drive info"
+    "ITA": "Drive info",
+    "UKR": "Інформація пристрою"
   },
   "Split File": {
     "DEU": "Datei aufspalten",
@@ -6073,7 +6700,8 @@
     "SPA": "Dividir Archivo",
     "TUR": "Dosyayı Böl…",
     "POR": "Dividir Arquivo",
-    "ITA": "Dividi file…"
+    "ITA": "Dividi file…",
+    "UKR": "Розділити файл…"
   },
   "Combine Files": {
     "DEU": "Dateien zusammenführen",
@@ -6081,7 +6709,8 @@
     "SPA": "Combinar Archivos",
     "TUR": "Dosyaları Birleştir…",
     "POR": "Combinar Arquivos",
-    "ITA": "Combina file…"
+    "ITA": "Combina file…",
+    "UKR": "Об'єднати файли…"
   },
   "Mark": {
     "DEU": "Markieren",
@@ -6089,7 +6718,8 @@
     "SPA": "Marcar",
     "TUR": "İşaretle",
     "POR": "Marcar",
-    "ITA": "Segna"
+    "ITA": "Segna",
+    "UKR": "Позначити"
   },
   "Select Group": {
     "DEU": "Gruppe markieren",
@@ -6097,7 +6727,8 @@
     "SPA": "Seleccionar Grupo",
     "TUR": "Grup Seç",
     "POR": "Selecionar Grupo",
-    "ITA": "Seleziona gruppo…"
+    "ITA": "Seleziona gruppo…",
+    "UKR": "Позначити групу…"
   },
   "Unselect Group": {
     "DEU": "Gruppenauswahl rückgängig",
@@ -6105,7 +6736,8 @@
     "SPA": "Deseleccionar Grupo",
     "TUR": "Grup Seçimini Kaldır…",
     "POR": "Desmarcar Grupo",
-    "ITA": "Deseleziona gruppo…"
+    "ITA": "Deseleziona gruppo…",
+    "UKR": "Зняти позначення з групи…"
   },
   "Unselect All": {
     "DEU": "Nichts markieren",
@@ -6113,7 +6745,8 @@
     "SPA": "Deseleccionar Todo",
     "TUR": "Tümünü Seçimi Kaldır",
     "POR": "Desmarcar Tudo",
-    "ITA": "Deseleziona tutto"
+    "ITA": "Deseleziona tutto",
+    "UKR": "Зняти позначення з усіх"
   },
   "Invert Selection": {
     "DEU": "Auswahl umkehren",
@@ -6121,7 +6754,8 @@
     "SPA": "Invertir Selección",
     "TUR": "Seçimi Tersine Çevir",
     "POR": "Inverter Seleção",
-    "ITA": "Inverti selezione"
+    "ITA": "Inverti selezione",
+    "UKR": "Інверсія позначення"
   },
   "Compare Directories": {
     "DEU": "Verzeichnisse vergleichen",
@@ -6129,7 +6763,8 @@
     "SPA": "Comparar Directorios",
     "TUR": "Dizinleri Karşılaştır",
     "POR": "Comparar Diretórios",
-    "ITA": "Confronta cartelle"
+    "ITA": "Confronta cartelle",
+    "UKR": "Порівняти каталоги"
   },
   "Commands": {
     "DEU": "Befehle",
@@ -6137,7 +6772,8 @@
     "SPA": "Comandos",
     "TUR": "Komutlar",
     "POR": "Comandos",
-    "ITA": "Comandi"
+    "ITA": "Comandi",
+    "UKR": "Команди"
   },
   "Copy Files": {
     "DEU": "Dateien kopieren",
@@ -6145,7 +6781,8 @@
     "SPA": "Copiar Archivos",
     "TUR": "Dosyaları Kopyala…",
     "POR": "Copiar Arquivos",
-    "ITA": "Copia Files"
+    "ITA": "Copia Files",
+    "UKR": "Копіювання…"
   },
   "Move Files": {
     "DEU": "Dateien bewegen",
@@ -6153,7 +6790,8 @@
     "SPA": "Mover Archivos",
     "TUR": "Dosyaları Taşı…",
     "POR": "Mover Arquivos",
-    "ITA": "Sposta Files…"
+    "ITA": "Sposta Files…",
+    "UKR": "Переміщення…"
   },
   "Delete Files": {
     "DEU": "Dateien löschen",
@@ -6161,7 +6799,8 @@
     "SPA": "Borrar Archivos",
     "TUR": "Dosyaları Sil",
     "POR": "Excluir Arquivos",
-    "ITA": "Elimina Files"
+    "ITA": "Elimina Files",
+    "UKR": "Видалення"
   },
   "New Folder": {
     "DEU": "Neues Verzeichnis",
@@ -6169,7 +6808,8 @@
     "SPA": "Nueva Carpeta",
     "TUR": "Yeni Klasör…",
     "POR": "Nova Pasta",
-    "ITA": "Nuova Cartella…"
+    "ITA": "Nuova Cartella…",
+    "UKR": "Нова папка…"
   },
   "View File": {
     "DEU": "Datei anzeigen",
@@ -6177,7 +6817,8 @@
     "SPA": "Ver Archivo",
     "TUR": "Dosyayı Görüntüle",
     "POR": "Visualizar Arquivo",
-    "ITA": "Leggi File"
+    "ITA": "Leggi File",
+    "UKR": "Перегляд"
   },
   "Edit File": {
     "DEU": "Datei bearbeiten",
@@ -6185,7 +6826,8 @@
     "SPA": "Editar Archivo",
     "TUR": "Dosyayı Düzenle",
     "POR": "Editar Arquivo",
-    "ITA": "Edita File"
+    "ITA": "Edita File",
+    "UKR": "Редагування"
   },
   "Source <-> Target": {
     "DEU": "Fenster tauschen",
@@ -6193,7 +6835,8 @@
     "SPA": "Origen<-> Destino",
     "TUR": "Kaynak <-> Hedef",
     "POR": "Origem <-> Destino",
-    "ITA": "Origine <-> Destinazione"
+    "ITA": "Origine <-> Destinazione",
+    "UKR": "Поміняти панелі <->"
   },
   "Target = Source": {
     "DEU": "Fenster angleichen",
@@ -6201,7 +6844,8 @@
     "SPA": "Destino = Origen",
     "TUR": "Hedef = Kaynak",
     "POR": "Destino = Origem",
-    "ITA": "Destinazione = Origine"
+    "ITA": "Destinazione = Origine",
+    "UKR": "Цільова = Джерелу"
   },
   "Show": {
     "DEU": "Ansicht",
@@ -6209,7 +6853,8 @@
     "SPA": "Mostrar",
     "TUR": "Göster",
     "POR": "Mostrar",
-    "ITA": "Mostra"
+    "ITA": "Mostra",
+    "UKR": "Вигляд"
   },
   "All Files": {
     "DEU": "Alles",
@@ -6217,7 +6862,8 @@
     "SPA": "Todos los Archivos",
     "TUR": "Tüm Dosyalar",
     "POR": "Todos os Arquivos",
-    "ITA": "Tutti i file"
+    "ITA": "Tutti i file",
+    "UKR": "Усі файли"
   },
   "Custom": {
     "DEU": "Benutzerdefiniert",
@@ -6225,7 +6871,8 @@
     "SPA": "Filtrar",
     "TUR": "Özel…",
     "POR": "Personalizado",
-    "ITA": "Personalizza"
+    "ITA": "Personalizza",
+    "UKR": "Фільтр…"
   },
   "Sort By Name": {
     "DEU": "Nach Name sortieren",
@@ -6233,7 +6880,8 @@
     "SPA": "Ordenar por Nombre",
     "TUR": "Ada Göre Sırala",
     "POR": "Ordenar por Nome",
-    "ITA": "Ordina per Nome"
+    "ITA": "Ordina per Nome",
+    "UKR": "По імені"
   },
   "Sort By Size": {
     "DEU": "Nach Größe sortieren",
@@ -6241,7 +6889,8 @@
     "SPA": "Ordenar por Tamaño",
     "TUR": "Boyuta Göre Sırala",
     "POR": "Ordenar por Tamanho",
-    "ITA": "Ordina per Dimensione"
+    "ITA": "Ordina per Dimensione",
+    "UKR": "По розміру"
   },
   "Sort By Date": {
     "DEU": "Nach Datum sortieren",
@@ -6249,7 +6898,8 @@
     "SPA": "Ordenar por Fecha",
     "TUR": "Tarihe Göre Sırala",
     "POR": "Ordenar por Data",
-    "ITA": "Ordina per Data"
+    "ITA": "Ordina per Data",
+    "UKR": "По даті"
   },
   "Reversed Order": {
     "DEU": "Absteigend sortieren",
@@ -6257,7 +6907,8 @@
     "SPA": "Orden inverso",
     "TUR": "Ters Sıra",
     "POR": "Ordem Inversa",
-    "ITA": "Ordine inverso"
+    "ITA": "Ordine inverso",
+    "UKR": "Зворотній порядок"
   },
   "Reread Source": {
     "DEU": "Quelle neu einlesen",
@@ -6265,7 +6916,8 @@
     "SPA": "Recargar origen",
     "TUR": "Kaynağı Tekrar Oku",
     "POR": "Reler Origem",
-    "ITA": "Rileggi origine"
+    "ITA": "Rileggi origine",
+    "UKR": "Оновити вміст"
   },
   "Configuration": {
     "DEU": "Konfigurieren",
@@ -6273,7 +6925,8 @@
     "SPA": "Configuración",
     "TUR": "Yapılandırma",
     "POR": "Configuração",
-    "ITA": "Configurazione"
+    "ITA": "Configurazione",
+    "UKR": "Параметри"
   },
   "Save Settings": {
     "DEU": "Einstellungen speichern",
@@ -6281,7 +6934,8 @@
     "SPA": "Guardar Opciones",
     "TUR": "Ayarları Kaydet",
     "POR": "Salvar Configurações",
-    "ITA": "Salva configurazione"
+    "ITA": "Salva configurazione",
+    "UKR": "Зберегти параметри"
   },
   "About SymCommander": {
     "DEU": "Über SymCommander",
@@ -6289,7 +6943,8 @@
     "SPA": "Acerca de SymCommander",
     "TUR": "SymCommander Hakkında…",
     "POR": "Sobre o SymCommander",
-    "ITA": "Info su SymCommander…"
+    "ITA": "Info su SymCommander…",
+    "UKR": "Про SymCommander…"
   },
   "Created": {
     "DEU": "Angelegt",
@@ -6297,7 +6952,8 @@
     "SPA": "Creado",
     "TUR": "Oluşturma",
     "POR": "Criado",
-    "ITA": "Creato"
+    "ITA": "Creato",
+    "UKR": "Створено"
   },
   "Attributes": {
     "DEU": "Attribute",
@@ -6305,7 +6961,8 @@
     "SPA": "Atributos",
     "TUR": "Attribute’ler",
     "POR": "Atributos",
-    "ITA": "Attributi"
+    "ITA": "Attributi",
+    "UKR": "Атрибути"
   },
   "directory": {
     "DEU": "Verzeichnis",
@@ -6313,7 +6970,8 @@
     "SPA": "directorio",
     "TUR": "dizin",
     "POR": "diretório",
-    "ITA": "Cartella"
+    "ITA": "Cartella",
+    "UKR": "папка"
   },
   "Change attributes": {
     "DEU": "Attribute ändern",
@@ -6321,7 +6979,8 @@
     "SPA": "Cambiar atributos",
     "TUR": "Attribute’leri değiştir",
     "POR": "Alterar atributos",
-    "ITA": "Cambia attributi"
+    "ITA": "Cambia attributi",
+    "UKR": "Змінити атрибути"
   },
   "Date and time": {
     "DEU": "Datum und Uhrzeit",
@@ -6329,7 +6988,8 @@
     "SPA": "Fecha y hora",
     "TUR": "Tarih ve saat",
     "POR": "Data e hora",
-    "ITA": "Data e ora"
+    "ITA": "Data e ora",
+    "UKR": "Дата й час"
   },
   "Change date/time:": {
     "DEU": "Datum/Zeit ändern:",
@@ -6337,7 +6997,8 @@
     "SPA": "Cambiar fecha/hora",
     "TUR": "Tarih/saat değiştir:",
     "POR": "Alterar data/hora:",
-    "ITA": "Modifica data/ora:"
+    "ITA": "Modifica data/ora:",
+    "UKR": "Змінити дату/час:"
   },
   "set": {
     "DEU": "an",
@@ -6345,7 +7006,8 @@
     "SPA": "establecer",
     "TUR": "ayarla",
     "POR": "definir",
-    "ITA": "set"
+    "ITA": "set",
+    "UKR": "вст"
   },
   "reset": {
     "DEU": "aus",
@@ -6353,7 +7015,8 @@
     "SPA": "resetear",
     "TUR": "sıfırla",
     "POR": "redefinir",
-    "ITA": "reset"
+    "ITA": "reset",
+    "UKR": "скин"
   },
   "unchng": {
     "DEU": "lassen",
@@ -6361,7 +7024,8 @@
     "SPA": "no cambiado",
     "TUR": "izin ver",
     "POR": "manter",
-    "ITA": "uguale"
+    "ITA": "uguale",
+    "UKR": "без змін"
   },
   "Date:": {
     "DEU": "Datum:",
@@ -6369,7 +7033,8 @@
     "SPA": "Fecha:",
     "TUR": "Tarih:",
     "POR": "Data:",
-    "ITA": "Data:"
+    "ITA": "Data:",
+    "UKR": "Дата:"
   },
   "Time:": {
     "DEU": "Zeit:",
@@ -6377,7 +7042,8 @@
     "SPA": "Hora:",
     "TUR": "Saat:",
     "POR": "Hora:",
-    "ITA": "Ora:"
+    "ITA": "Ora:",
+    "UKR": "Час:"
   },
   "Current": {
     "DEU": "Aktuell",
@@ -6385,7 +7051,8 @@
     "SPA": "Actual",
     "TUR": "Mevcut",
     "POR": "Atual",
-    "ITA": "Attuale"
+    "ITA": "Attuale",
+    "UKR": "Поточний"
   },
   "Max. list entries": {
     "DEU": "Listeneinträge",
@@ -6393,7 +7060,8 @@
     "SPA": "Máx. Entradas en lista",
     "TUR": "Maks. liste girişleri",
     "POR": "Máx. entradas da lista",
-    "ITA": "Max n° voci"
+    "ITA": "Max n° voci",
+    "UKR": "Довжина списку"
   },
   "List buffer size": {
     "DEU": "Listenbuffer",
@@ -6401,7 +7069,8 @@
     "SPA": "Tamaño de búfer de lista",
     "TUR": "Arabellek boyutunu listele",
     "POR": "Tamanho do buffer da lista",
-    "ITA": "Dimensione del buffer"
+    "ITA": "Dimensione del buffer",
+    "UKR": "Буфер списку"
   },
   "Copy buffer size": {
     "DEU": "Kopierbuffer",
@@ -6409,7 +7078,8 @@
     "SPA": "Tamaño de búfer de copia",
     "TUR": "Arabellek boyutunu kopyala",
     "POR": "Tamanho do buffer de cópia",
-    "ITA": "Copia dimenzione buffer"
+    "ITA": "Copia dimenzione buffer",
+    "UKR": "Буфер копіюв-ня"
   },
   "bytes": {
     "DEU": "bytes",
@@ -6417,7 +7087,8 @@
     "SPA": "bytes",
     "TUR": "byte",
     "POR": "bytes",
-    "ITA": "bytes"
+    "ITA": "bytes",
+    "UKR": "байт"
   },
   "files": {
     "DEU": "Dateien",
@@ -6425,7 +7096,8 @@
     "SPA": "Archivos",
     "TUR": "dosya",
     "POR": "arquivos",
-    "ITA": "files"
+    "ITA": "files",
+    "UKR": "файлів"
   },
   "Show hidden/system files": {
     "DEU": "zeige System/versteckte Dateien",
@@ -6433,7 +7105,8 @@
     "SPA": "Mostrar archivos ocultos/sistema",
     "TUR": "Gizli/sistem dosyalarını göster",
     "POR": "Mostrar arquivos ocultos/sistema",
-    "ITA": "Mostra files nascosti/di sistema"
+    "ITA": "Mostra files nascosti/di sistema",
+    "UKR": "Показати приховані/сист. файли"
   },
   "Ask before overwriting files": {
     "DEU": "vor Überschreibung fragen",
@@ -6441,7 +7114,8 @@
     "SPA": "Preguntar antes de sobrescribir",
     "TUR": "Dosyaların üzerine yazmadan önce sor",
     "POR": "Perguntar antes de sobrescrever",
-    "ITA": "Chiedi prima di sovrascrivere"
+    "ITA": "Chiedi prima di sovrascrivere",
+    "UKR": "Запитувати перед перезаписом"
   },
   "Copy:": {
     "DEU": "Kopieren:",
@@ -6449,7 +7123,8 @@
     "SPA": "Copiar:",
     "TUR": "Kopyala:",
     "POR": "Copiar:",
-    "ITA": "Copia:"
+    "ITA": "Copia:",
+    "UKR": "Копіювання:"
   },
   "Move:": {
     "DEU": "Bewegen:",
@@ -6457,7 +7132,8 @@
     "SPA": "Mover:",
     "TUR": "Taşı:",
     "POR": "Mover:",
-    "ITA": "Sposta:"
+    "ITA": "Sposta:",
+    "UKR": "Переміщення:"
   },
   "From:": {
     "DEU": "Von:",
@@ -6465,7 +7141,8 @@
     "SPA": "De:",
     "TUR": "Kimden:",
     "POR": "De:",
-    "ITA": "Da:"
+    "ITA": "Da:",
+    "UKR": "З:"
   },
   "To:": {
     "DEU": "Nach:",
@@ -6473,7 +7150,8 @@
     "SPA": "A:",
     "TUR": "Kime:",
     "POR": "Para:",
-    "ITA": "A:"
+    "ITA": "A:",
+    "UKR": "В:"
   },
   "already exist. What to do?": {
     "DEU": "existiert bereits",
@@ -6481,7 +7159,8 @@
     "SPA": "… ya existe. ¿Qué hacemos?",
     "TUR": "zaten mevcut. Ne yapmak istersiniz?",
     "POR": "já existe. O que fazer?",
-    "ITA": "…il file eiste già. Cosa fare?"
+    "ITA": "…il file eiste già. Cosa fare?",
+    "UKR": "…вже існує"
   },
   "Overwrite": {
     "DEU": "Ersetzen",
@@ -6489,7 +7168,8 @@
     "SPA": "Sobrescribir",
     "TUR": "Üzerine yaz",
     "POR": "Sobrescrever",
-    "ITA": "Sovrascrivi"
+    "ITA": "Sovrascrivi",
+    "UKR": "Замінити"
   },
   "Overwrite all": {
     "DEU": "Alle ersetzen",
@@ -6497,7 +7177,8 @@
     "SPA": "Sobrescribir todo",
     "TUR": "Tümünü üzerine yaz",
     "POR": "Sobrescrever tudo",
-    "ITA": "Sovrascrivi tutti"
+    "ITA": "Sovrascrivi tutti",
+    "UKR": "Замінити усі"
   },
   "Skip": {
     "DEU": "Überspringen",
@@ -6505,7 +7186,8 @@
     "SPA": "Saltar",
     "TUR": "Atla",
     "POR": "Pular",
-    "ITA": "Salta"
+    "ITA": "Salta",
+    "UKR": "Пропустити"
   },
   "Skip all": {
     "DEU": "Alle überspr",
@@ -6513,7 +7195,8 @@
     "SPA": "Saltar todo",
     "TUR": "Tümünü atla",
     "POR": "Pular tudo",
-    "ITA": "Salta tutti"
+    "ITA": "Salta tutti",
+    "UKR": "Проп. усі"
   },
   "Drive": {
     "DEU": "Laufwerk",
@@ -6521,7 +7204,8 @@
     "SPA": "Unidad",
     "TUR": "Sürücü",
     "POR": "Unidade",
-    "ITA": "Drive"
+    "ITA": "Drive",
+    "UKR": "Диск"
   },
   "#": {
     "DEU": "#",
@@ -6529,7 +7213,8 @@
     "SPA": "#",
     "TUR": "#",
     "POR": "#",
-    "ITA": "#"
+    "ITA": "#",
+    "UKR": "#"
   },
   "unknown": {
     "DEU": "unbekannt",
@@ -6537,7 +7222,8 @@
     "SPA": "desconocido",
     "TUR": "bilinmiyor",
     "POR": "desconhecido",
-    "ITA": "sconosciuto"
+    "ITA": "sconosciuto",
+    "UKR": "невідомо"
   },
   "Floppy Single Side": {
     "DEU": "Diskette SS",
@@ -6545,7 +7231,8 @@
     "SPA": "Disquetera una cara",
     "TUR": "Tek Taraflı Floppy",
     "POR": "Disquete Face Simples",
-    "ITA": "Floppy SS"
+    "ITA": "Floppy SS",
+    "UKR": "Гнучкий (односторонній)"
   },
   "Floppy Double Side": {
     "DEU": "Diskette DS",
@@ -6553,7 +7240,8 @@
     "SPA": "Disquetera dos caras",
     "TUR": "Çift Taraflı Floppy",
     "POR": "Disquete Face Dupla",
-    "ITA": "Floppy DS"
+    "ITA": "Floppy DS",
+    "UKR": "Гнучкий (двосторонній)"
   },
   "SD/MMC card": {
     "DEU": "SD/MMC Karte",
@@ -6561,7 +7249,8 @@
     "SPA": "Tarjeta SD/MMC",
     "TUR": "SD/MMC kart",
     "POR": "Cartão SD/MMC",
-    "ITA": "Scheda SD/MMC"
+    "ITA": "Scheda SD/MMC",
+    "UKR": "SD/MMC-карта"
   },
   "USB device": {
     "DEU": "USB Gerät",
@@ -6569,7 +7258,8 @@
     "SPA": "Dispositivo USB",
     "TUR": "USB aygıt",
     "POR": "Dispositivo USB",
-    "ITA": "Dispositivo USB"
+    "ITA": "Dispositivo USB",
+    "UKR": "USB-пристрій"
   },
   "File system": {
     "DEU": "Dateisystem",
@@ -6577,7 +7267,8 @@
     "SPA": "Sistema de archivos",
     "TUR": "Dosya sistemi",
     "POR": "Sistema de arquivos",
-    "ITA": "File system"
+    "ITA": "File system",
+    "UKR": "Файлова система"
   },
   "examining": {
     "DEU": "untersuchen",
@@ -6585,7 +7276,8 @@
     "SPA": "examinando",
     "TUR": "inceleniyor",
     "POR": "examinando",
-    "ITA": "esamino…"
+    "ITA": "esamino…",
+    "UKR": "підрахунок…"
   },
   "Error": {
     "DEU": "Fehler",
@@ -6593,7 +7285,8 @@
     "SPA": "Error",
     "TUR": "Hata",
     "POR": "Erro",
-    "ITA": "Errore"
+    "ITA": "Errore",
+    "UKR": "Помилка"
   },
   "KBytes": {
     "DEU": "KBytes",
@@ -6601,7 +7294,8 @@
     "SPA": "Kbytes",
     "TUR": "KByte",
     "POR": "KBytes",
-    "ITA": "KBytes"
+    "ITA": "KBytes",
+    "UKR": "кБайт"
   },
   "Capacity": {
     "DEU": "Gesamt",
@@ -6609,7 +7303,8 @@
     "SPA": "Capacidad",
     "TUR": "Kapasite",
     "POR": "Capacidade",
-    "ITA": "Capacità"
+    "ITA": "Capacità",
+    "UKR": "Місткість"
   },
   "(not removable)": {
     "DEU": "(nicht wechselbar)",
@@ -6617,7 +7312,8 @@
     "SPA": "(no extraíble)",
     "TUR": "(çıkarılamaz)",
     "POR": "(não removível)",
-    "ITA": "(non rimovibile)"
+    "ITA": "(non rimovibile)",
+    "UKR": "(не змінний)"
   },
   "(removable)": {
     "DEU": "(Wechselmedium)",
@@ -6625,7 +7321,8 @@
     "SPA": "(extraíble)",
     "TUR": "(çıkarılabilir)",
     "POR": "(removível)",
-    "ITA": "(rimovibile)"
+    "ITA": "(rimovibile)",
+    "UKR": "(змінний)"
   },
   "Enter file type (e.g. *.exe, *.txt)": {
     "DEU": "Dateityp (z.B. *.exe, *.txt)",
@@ -6633,7 +7330,8 @@
     "SPA": "Introducir tipo de archivo (p.e. *.exe, *.txt)",
     "TUR": "Dosya türünü girin (ör. *.exe, *.txt)",
     "POR": "Digite o tipo de arquivo (ex: *.exe, *.txt)",
-    "ITA": "Indica tipo file (es: *.exe, *.txt)"
+    "ITA": "Indica tipo file (es: *.exe, *.txt)",
+    "UKR": "Введіть тип файлу (напр. *.exe, *.txt)"
   },
   "??? file(s) to": {
     "DEU": "??? Datei(en) nach",
@@ -6641,7 +7339,8 @@
     "SPA": "??? archivo(s) a",
     "TUR": "??? dosya(lar) şuraya",
     "POR": "??? arquivo(s) para",
-    "ITA": "??? file(s) da"
+    "ITA": "??? file(s) da",
+    "UKR": "??? елемент(ів) в"
   },
   "file(s) to": {
     "DEU": "Datei(en) nach",
@@ -6649,7 +7348,8 @@
     "SPA": "archivo(s) a",
     "TUR": "dosya(lar) şuraya",
     "POR": "arquivo(s) para",
-    "ITA": "file(s) da"
+    "ITA": "file(s) da",
+    "UKR": "елемент(ів) в"
   },
   "Rename file/directory to": {
     "DEU": "Umbenennen in",
@@ -6657,7 +7357,8 @@
     "SPA": "Renombrar archivo/directorio a",
     "TUR": "Dosya/klasörü yeniden adlandır",
     "POR": "Renomear arquivo/diretório para",
-    "ITA": "Rinomina file/cartella da"
+    "ITA": "Rinomina file/cartella da",
+    "UKR": "Перейменувати файл/папку в"
   },
   "New directory": {
     "DEU": "Neues Verzeichnis",
@@ -6665,7 +7366,8 @@
     "SPA": "Nuevo directorio",
     "TUR": "Yeni dizin",
     "POR": "Novo diretório",
-    "ITA": "Nuova Cartella…"
+    "ITA": "Nuova Cartella…",
+    "UKR": "Нова папка"
   },
   "Split the file to directory:": {
     "DEU": "Datei auspalten nach:",
@@ -6673,7 +7375,8 @@
     "SPA": "Dividir el archivo al directorio:",
     "TUR": "Dosyayı dizine ayır:",
     "POR": "Dividir arquivo para o diretório:",
-    "ITA": "Dividi file nella cartella:"
+    "ITA": "Dividi file nella cartella:",
+    "UKR": "Розділити файл у папку:"
   },
   "KBytes per file:": {
     "DEU": "KB pro Datei:",
@@ -6681,7 +7384,8 @@
     "SPA": "Kbytes por archivo",
     "TUR": "KByte dosya başına:",
     "POR": "KBytes por arquivo:",
-    "ITA": "KBytes per file:"
+    "ITA": "KBytes per file:",
+    "UKR": "кБайт на файл:"
   },
   "Combine selection to file:": {
     "DEU": "Zusammenfügen in Datei:",
@@ -6689,7 +7393,8 @@
     "SPA": "Combinar selección a archivo:",
     "TUR": "Seçimi dosyaya birleştir:",
     "POR": "Combinar seleção em arquivo:",
-    "ITA": "Combina i selezionati nel file:"
+    "ITA": "Combina i selezionati nel file:",
+    "UKR": "Об'єднати вибране у файл:"
   },
   "Do you really want to delete the": {
     "DEU": "Sollen wirklich die",
@@ -6697,7 +7402,8 @@
     "SPA": "¿Seguro que quieres borrar los",
     "TUR": "Seçili dosya(lar)/kalasör(ler)",
     "POR": "Voce realmente quer apagá-los",
-    "ITA": "Vuoi davvero eliminare"
+    "ITA": "Vuoi davvero eliminare",
+    "UKR": "Ви дійсно бажаєте видалити"
   },
   "???": {
     "DEU": "??? Dateien/",
@@ -6705,7 +7411,8 @@
     "SPA": "???",
     "TUR": "???",
     "POR": "???",
-    "ITA": "???"
+    "ITA": "???",
+    "UKR": "???"
   },
   "selected file(s)/directorie(s)?": {
     "DEU": "Verzeichnisse gelöscht werden?",
@@ -6713,7 +7420,8 @@
     "SPA": "archivo/directorios seleccionados?",
     "TUR": "gerçekten silmek istiyor musunuz?",
     "POR": "arquivo(s)/diretório(s) selecionado(s)?",
-    "ITA": "file/cartelle selezionati"
+    "ITA": "file/cartelle selezionati",
+    "UKR": "виділених файл(ів)/каталог(ів)?"
   },
   "Wordpad for SymbOS": {
     "DEU": "Wordpad für SymbOS",
@@ -6722,7 +7430,8 @@
     "SPA": "Wordpad para SymbOS",
     "TUR": "SymbOS için Wordpad",
     "POR": "Wordpad para SymbOS",
-    "ITA": "Wordpad per SymbOS"
+    "ITA": "Wordpad per SymbOS",
+    "UKR": "Wordpad для SymbOS"
   },
   "Print": {
     "DEU": "Drucken",
@@ -6731,7 +7440,8 @@
     "SPA": "Imprimir",
     "TUR": "Yazdır…",
     "POR": "Imprimir",
-    "ITA": "Stampa…"
+    "ITA": "Stampa…",
+    "UKR": "Друк…"
   },
   "x240x": {
     "JPN": "x２４０x",
@@ -6769,7 +7479,8 @@
     "SPA": "Aceleración",
     "TUR": "Hızlanma",
     "POR": "Aceleração",
-    "ITA": "Acceleraz"
+    "ITA": "Acceleraz",
+    "UKR": "Прискор"
   },
   "DoubleClick": {
     "JPN": "ダブクリ",
@@ -6779,7 +7490,8 @@
     "SPA": "Doble Clic",
     "TUR": "Çift tıklama",
     "POR": "Clique duplo",
-    "ITA": "Doppio Click"
+    "ITA": "Doppio Click",
+    "UKR": "Подв.клік"
   },
   "Full": {
     "DEU": "Voll",
@@ -6787,7 +7499,8 @@
     "SPA": "Todo",
     "TUR": "Dolu",
     "POR": "Cheio",
-    "ITA": "Pieno"
+    "ITA": "Pieno",
+    "UKR": "Повний екран"
   },
   "SymSee": {
     "DEU": "SymSee",
@@ -6795,7 +7508,8 @@
     "SPA": "SymSee",
     "TUR": "SymSee",
     "POR": "SymSee",
-    "ITA": "SymSee"
+    "ITA": "SymSee",
+    "UKR": "SymSee"
   },
   "Can't display selected graphic": {
     "DEU": "Bild nicht anzeigbar",
@@ -6803,7 +7517,8 @@
     "SPA": "No se puede mostrar la imagen",
     "TUR": "Seçilen grafik görüntülenemiyor",
     "POR": "Não é possível exibir a imagem selecionada",
-    "ITA": "Non posso visualizzare l'immagine"
+    "ITA": "Non posso visualizzare l'immagine",
+    "UKR": "Не вдається відобразити вибране зображення"
   },
   "Not enough memory": {
     "DEU": "Speicher voll",
@@ -6811,7 +7526,8 @@
     "SPA": "No hay memoria suficiente",
     "TUR": "Yeterli bellek yok",
     "POR": "Memória insuficiente",
-    "ITA": "Memoria insufficiente"
+    "ITA": "Memoria insufficiente",
+    "UKR": "Недостатньо пам'яті"
   },
   "No image loaded": {
     "DEU": "Nichts geladen",
@@ -6819,7 +7535,8 @@
     "SPA": "Sin imagen",
     "TUR": "İmaj yüklenmedi",
     "POR": "Nenhuma imagem carregada",
-    "ITA": "Nessuna immagine"
+    "ITA": "Nessuna immagine",
+    "UKR": "Зображення відсутнє"
   },
   "Image:": {
     "DEU": "Bild:",
@@ -6827,7 +7544,8 @@
     "SPA": "Imagen:",
     "TUR": "İmaj:",
     "POR": "Imagem:",
-    "ITA": "Immagine:"
+    "ITA": "Immagine:",
+    "UKR": "Зображення:"
   },
   "colours)": {
     "DEU": "Farben)",
@@ -6835,7 +7553,8 @@
     "SPA": "colores)",
     "TUR": "renkler)",
     "POR": "cores)",
-    "ITA": "colori)"
+    "ITA": "colori)",
+    "UKR": "кольорів)"
   },
   "Start Slideshow": {
     "DEU": "Diaschau starten",
@@ -6843,7 +7562,8 @@
     "SPA": "Iniciar Presentación",
     "TUR": "Slayt gösterisini başlat",
     "POR": "Iniciar Apresentação",
-    "ITA": "Inizia Presentazione"
+    "ITA": "Inizia Presentazione",
+    "UKR": "Розпочати слайд-шоу"
   },
   "Use as background": {
     "DEU": "Als Hintergrund",
@@ -6851,7 +7571,8 @@
     "SPA": "Usar como fondo",
     "TUR": "Arkaplan olarak kullan",
     "POR": "Usar como plano de fundo",
-    "ITA": "Usa come sfondo"
+    "ITA": "Usa come sfondo",
+    "UKR": "Установити як фон робочого столу"
   },
   "Image": {
     "DEU": "Bild",
@@ -6859,7 +7580,8 @@
     "SPA": "Imagen",
     "TUR": "İmaj",
     "POR": "Imagem",
-    "ITA": "Immagine"
+    "ITA": "Immagine",
+    "UKR": "Зображення"
   },
   "Resolution:": {
     "DEU": "Auflösung:",
@@ -6867,7 +7589,8 @@
     "SPA": "Resolución:",
     "TUR": "Çözünürlük:",
     "POR": "Resolução:",
-    "ITA": "Risoluzione:"
+    "ITA": "Risoluzione:",
+    "UKR": "Розміри:"
   },
   "Slideshow": {
     "DEU": "Diashow",
@@ -6875,7 +7598,8 @@
     "SPA": "Presentación",
     "TUR": "Slayt gösterisi",
     "POR": "Apresentação",
-    "ITA": "Presentazione"
+    "ITA": "Presentazione",
+    "UKR": "Слайд-шоу"
   },
   "Image path": {
     "DEU": "Bilderpfad",
@@ -6883,7 +7607,8 @@
     "SPA": "Ruta",
     "TUR": "İmaj yolu",
     "POR": "Caminho",
-    "ITA": "Percorso"
+    "ITA": "Percorso",
+    "UKR": "Шлях до зображень"
   },
   "Display duration": {
     "DEU": "Anzeigedauer",
@@ -6891,7 +7616,8 @@
     "SPA": "Mostrar durante",
     "TUR": "Görüntülenme süresi",
     "POR": "Duração da exibição",
-    "ITA": "Durata"
+    "ITA": "Durata",
+    "UKR": "Тривалість відображення"
   },
   "sec": {
     "DEU": "Sek",
@@ -6899,7 +7625,8 @@
     "SPA": "seg",
     "TUR": "San",
     "POR": "seg",
-    "ITA": "sec"
+    "ITA": "sec",
+    "UKR": "сек"
   },
   "Run in fullscreen": {
     "DEU": "Vollbildmodus",
@@ -6907,7 +7634,8 @@
     "SPA": "Pantalla completa",
     "TUR": "Tam ekran çalıştır",
     "POR": "Executar em tela cheia",
-    "ITA": "Esegui a pieno schermo"
+    "ITA": "Esegui a pieno schermo",
+    "UKR": "На повний екран"
   },
   "Random order": {
     "DEU": "zufällige Reihenfolge",
@@ -6915,16 +7643,24 @@
     "SPA": "Orden aleatorio",
     "TUR": "Rastgele sırala",
     "POR": "Ordem aleatória",
-    "ITA": "Ordine casuale"
+    "ITA": "Ordine casuale",
+    "UKR": "Випадковий порядок"
   },
   "Error while loading font!": {
     "POR": "Erro ao carregar fonte!",
-    "ITA": "Errore di lettura del font!"
+    "ITA": "Errore di lettura del font!",
+    "UKR": "Помилка завантаження шрифту!",
+    "DEU": "Fehler beim Schrift-Laden!",
+    "SPA": "¡Error al cargar fuente!",
+    "TUR": "Font yüklenirken hata!"
   },
   "Loaded": {
     "POR": "Carregado",
     "DEU": "Geladen",
-    "ITA": "Loaded"
+    "ITA": "Loaded",
+    "UKR": "Зовн",
+    "SPA": "Cargado",
+    "TUR": "Yüklendi"
   },
   "Word wrap": {
     "DEU": "Optionen",
@@ -6933,7 +7669,8 @@
     "SPA": "Opciones",
     "TUR": "Kelime kaydırma",
     "POR": "Quebra de linha",
-    "ITA": "Allinea testo"
+    "ITA": "Allinea testo",
+    "UKR": "Перенос по словах"
   },
   "Tool bar": {
     "DEU": "Statusleiste",
@@ -6941,22 +7678,33 @@
     "JPN": "ステータス バー",
     "SPA": "Barra de estado",
     "POR": "Barra de ferramentas",
-    "ITA": "Barra degli strumenti"
+    "ITA": "Barra degli strumenti",
+    "UKR": "Панель інструментів",
+    "TUR": "Araç çubuğu"
   },
   "Line numbers": {
     "POR": "Números de linha",
     "ITA": "Numeri di linea",
-    "DEU": "Zeilennummern"
+    "DEU": "Zeilennummern",
+    "UKR": "Номери рядків",
+    "SPA": "Números de línea",
+    "TUR": "Satır numaraları"
   },
   "Load from": {
     "POR": "Carregar de",
     "DEU": "Schriftart",
-    "ITA": "Carica da"
+    "ITA": "Carica da",
+    "UKR": "Завантажити з",
+    "SPA": "Cargar desde",
+    "TUR": "Şuradan yükle:"
   },
   "Fontfile": {
     "POR": "Arquivo de fonte",
     "DEU": "laden",
-    "ITA": "File font"
+    "ITA": "File font",
+    "UKR": "файлу шрифту",
+    "SPA": "Archivo",
+    "TUR": "Font dosyası"
   },
   "International keyboard mode": {
     "DEU": "Internationaler Tastaturmodus",
@@ -6965,7 +7713,8 @@
     "SPA": "Modo de teclado internacional",
     "TUR": "Uluslararası klavye modu",
     "POR": "Modo de teclado internacional",
-    "ITA": "Tastiere internazionali"
+    "ITA": "Tastiere internazionali",
+    "UKR": "Міжнародний режим клавіатури"
   },
   "not selected": {
     "DEU": "nicht ausgewählt",
@@ -6973,30 +7722,50 @@
     "SPA": "no seleccionado",
     "TUR": "seçili değil",
     "POR": "não selecionado",
-    "ITA": "non selezionato"
+    "ITA": "non selezionato",
+    "UKR": "не вибрано"
   },
   "Language requires FNT/KEX": {
     "DEU": "Für die Sprache benötigten",
     "POR": "Idioma requires FNT/KEX",
-    "ITA": "La lingua richiede FNT/KEX"
+    "ITA": "La lingua richiede FNT/KEX",
+    "UKR": "Для роботи мови потрібні",
+    "SPA": "El idioma requiere archivos",
+    "TUR": "Dil, /i18n/ dizininde eksik olan"
   },
   "files, which are missing from": {
     "DEU": "FNT/KEX Dateien fehlen im",
     "POR": "arquivos ausentes do",
-    "ITA": "mancanti nella cartella"
+    "ITA": "mancanti nella cartella",
+    "UKR": "файли FNT/KEX, яких немає",
+    "SPA": "FNT/KEX que faltan del",
+    "TUR": "FNT/KEX dosyalarını gerektiriyor"
   },
   "/i18n/ directory. Please check": {
     "DEU": "/i18n/ Verzeichnis",
     "POR": "diretório /i18n/. Verifique",
-    "ITA": "/i18n/. Correggi"
+    "ITA": "/i18n/. Correggi",
+    "UKR": "в папці /i18n/. Перевірте будь ласка",
+    "SPA": "directorio /i18n/. Comprubelo",
+    "TUR": "Lütfen kontrol edin"
   },
   "A restart is required for the": {},
   "language change to take effect": {
-    "DEU": "und Neustart ausführen"
+    "DEU": "und Neustart ausführen",
+    "UKR": "щоб зміна мови набула чинності",
+    "POR": "mudanças de idioma tenham efeito",
+    "SPA": "de idioma tenga efecto",
+    "TUR": "sistemi yeniden başlatın",
+    "ITA": "cambiamento di lingua abbia effetto"
   },
   "in all parts of the system": {},
   "Please save the settings and": {
-    "DEU": "Für die Sprachänderung"
+    "DEU": "Für die Sprachänderung",
+    "UKR": "Будь ласка, збережіть налашту",
+    "POR": "Por favor, salve as configurações e",
+    "SPA": "Guarde las selecciones y reinicie",
+    "TUR": "Dil değişikliğinin etkinleşmesi için",
+    "ITA": "Per favore salvare le impostazioni e"
   },
   "restart the system for the language": {
     "DEU": "Einstellungen speichern"
@@ -7011,34 +7780,156 @@
     "SPA": "Menú",
     "TUR": "Menüsü",
     "POR": "Menu",
-    "ITA": "Menù"
+    "ITA": "Menù",
+    "UKR": "Меню"
   },
   "Button": {
-    "DEU": "Knopf"
+    "DEU": "Knopf",
+    "UKR": "Кнопка",
+    "POR": "Botão",
+    "SPA": "Botón",
+    "TUR": "Buton",
+    "ITA": "Pulsante"
   },
   "Icon width": {
-    "DEU": "Symbolbreite"
+    "DEU": "Symbolbreite",
+    "UKR": "Ширина піктограми",
+    "POR": "Tamanho do ícone",
+    "SPA": "Ancho de icono",
+    "TUR": "Simge genişliği",
+    "ITA": "Larghezza icona"
   },
   "Total width": {
-    "DEU": "Gesamtbreite"
+    "DEU": "Gesamtbreite",
+    "UKR": "Загальна ширина",
+    "POR": "Tamanho total",
+    "SPA": "Ancho total",
+    "TUR": "Toplam genişlik",
+    "ITA": "Larghezza totale"
   },
   "Caption": {
-    "DEU": "Beschriftung"
+    "DEU": "Beschriftung",
+    "UKR": "Заголовок",
+    "POR": "Legenda",
+    "SPA": "Captura",
+    "TUR": "Altyazı",
+    "ITA": "Legenda"
   },
   "Import SGX": {
-    "DEU": "SGX importieren"
+    "DEU": "SGX importieren",
+    "UKR": "Імпорт SGX",
+    "POR": "Importar SGX",
+    "SPA": "Importar SGX",
+    "TUR": "SGX'i içe aktar",
+    "ITA": "Importa SGX"
   },
   "Export SGX": {
-    "DEU": "SGX exportieren"
+    "DEU": "SGX exportieren",
+    "UKR": "Експорт SGX",
+    "POR": "Exportar SGX",
+    "SPA": "Exportar SGX",
+    "TUR": "SGX'i dışa aktar",
+    "ITA": "Esporta SGX"
   },
   "restart the system for the": {
-    "DEU": "Einstellungen speichern"
+    "DEU": "Einstellungen speichern",
+    "UKR": "вання та перезавантажте систему,",
+    "POR": "reinicie o sistema para as",
+    "SPA": "el sistema para que el cambio",
+    "TUR": "lütfen ayarları kaydedin ve",
+    "ITA": "riavviare il sistema perché il"
   },
-  "Replaced": {},
+  "Replaced": {
+    "UKR": "Замінено",
+    "POR": "substituído",
+    "SPA": "Reemplazado",
+    "TUR": "Değiştirildi",
+    "ITA": "Sostituito"
+  },
   "????? times": {
-    "DEU": "????? mal ersetzt"
+    "DEU": "????? mal ersetzt",
+    "UKR": "????? раз",
+    "POR": "????? vezes",
+    "SPA": "????? veces",
+    "TUR": "????? defa",
+    "ITA": "????? volte"
   },
   "times": {
-    "DEU": "mal ersetzt"
+    "DEU": "mal ersetzt",
+    "UKR": "раз",
+    "POR": "vezes",
+    "SPA": "veces",
+    "TUR": "defa",
+    "ITA": "volte"
+  },
+  "colours": {
+    "JPN": "カラー",
+    "DEU": "Farben",
+    "NLD": "kleuren",
+    "ELL": "χρ",
+    "SPA": "colores",
+    "TUR": "renk",
+    "POR": "cores",
+    "ITA": "colori",
+    "UKR": "кольори"
+  },
+  "normal": {
+    "JPN": "ノーマル",
+    "DEU": "normal",
+    "NLD": "Normaal",
+    "ELL": "κανον",
+    "SPA": "normal",
+    "TUR": "normal",
+    "POR": "normal",
+    "ITA": "normale",
+    "UKR": "звичайний"
+  },
+  "virtual": {
+    "JPN": "バーチャル",
+    "DEU": "virtuell",
+    "NLD": "virt",
+    "ELL": "εικ",
+    "SPA": "virtual",
+    "TUR": "sanal",
+    "POR": "virtual",
+    "ITA": "virtuali",
+    "UKR": "віртуальний"
+  },
+  "???-file": {
+    "UKR": "??? файл",
+    "DEU": "??? Datei",
+    "NLD": "???-bestand",
+    "SPA": "Archivo ???",
+    "TUR": "???-dosyası",
+    "POR": "Arquivo ???",
+    "ITA": "File ???",
+    "JPN": "じっこうファイル"
+  },
+  "Copy @@@@ file(s) to": {
+    "UKR": "Копіювати елементи (@@@@ шт.) в:",
+    "DEU": "Kopiere @@@@ Datei(en) nach",
+    "NLD": "Kopiëren @@@@ bestand(en) naar",
+    "SPA": "Copiar @@@@ archivo(s) a",
+    "TUR": "Kopyala @@@@ dosya(lar) şuraya",
+    "POR": "Copiar @@@@ arquivo(s) para",
+    "ITA": "Copia @@@@ file(s) da"
+  },
+  "Move @@@@ file(s) to": {
+    "UKR": "Перемістити елементи (@@@@ шт.) в:",
+    "DEU": "Bewege @@@@ Datei(en) nach",
+    "NLD": "Verplaatsen @@@@ bestand(en) naar",
+    "SPA": "Mover @@@@ archivo(s) a",
+    "TUR": "Taşı @@@@ dosya(lar) şuraya",
+    "POR": "Mover @@@@ arquivo(s) para",
+    "ITA": "Sposta @@@@ file(s) da"
+  },
+  "Do you really want to delete the @@@@": {
+    "UKR": "Видалити вибрані елементи",
+    "DEU": "Sollen wirklich die @@@@ Dateien/",
+    "NLD": "Wilt u echt verwijderen @@@@",
+    "SPA": "¿Seguro que quieres borrar los @@@@",
+    "TUR": "Seçili dosya(lar)/kalasör(ler) @@@@",
+    "POR": "Voce realmente quer apagá-los @@@@",
+    "ITA": "Vuoi davvero eliminare @@@@"
   }
 }
