@@ -1,0 +1,178 @@
+﻿
+あ A
+い I
+う U WU
+え E
+お O
+か KA CA
+き KI
+く KU CU QU
+け KE
+こ KO CO
+さ SA
+し SI SHI
+す SU
+せ SE
+そ SO
+た TA
+ち TI CHI
+つ TU TSU
+て TE
+と TO
+な NA
+に NI
+ぬ NU
+ね NE
+の NO
+は HA
+ひ HI
+ふ HU FU
+へ HE
+ほ HO
+ま MA
+み MI
+む MU
+め ME
+も MO
+や YA
+ゆ YU
+いぇ YE
+よ YO
+ら RA LA
+り RI LI
+る RU LU
+れ RE LE
+ろ RO LO
+わ WA
+を WO
+ん NN
+が GA
+ぎ GI
+ぐ GU
+げ GE
+ご GO
+ざ ZA
+じ ZI JI
+ず ZU
+ぜ ZE
+ぞ ZO
+だ DA
+ぢ DI
+づ DU
+で DE
+ど DO
+ば BA
+び BI
+ぶ BU
+べ BE
+ぼ BO
+ぱ PA
+ぴ PI
+ぷ PU
+ぺ PE
+ぽ PO
+ぁ XA 
+ぃ XI 
+ぅ XU 
+ぇ XE 
+ぉ XO 
+ヵ XKA 
+っ XTU 
+ヶ XKE 
+ゃ XYA 
+ゅ XYU 
+ょ XYO 
+ゎ XWA
+きゃ KYA
+きぃ KYI
+きゅ KYU
+きぇ KYE
+きょ KYO
+くゎ QWA KWA QA
+くぃ QWI KWI QI
+くぅ QWU KWU
+くぇ QWE KWE QE
+くぉ QWO KWO QO
+しゃ SYA SHA
+しぃ SYI
+しゅ SYU SHU
+しぇ SYE SHE
+しょ SYO SHO
+ちゃ TYA CYA CHA
+ちぃ TYI CYI
+ちゅ TYU CYU CHU
+ちぇ TYE CYE
+ちょ TYO CYO CHO
+つぁ TSA
+つぃ TSI
+つぇ TSE
+つぉ TSO
+てゃ THA
+てぃ THI
+てゅ THU
+てぇ THE
+てょ THO
+にゃ NYA
+にぃ NYI
+にゅ NYU
+にぇ NYE
+にょ NYO
+ひゃ HYA
+ひぃ HYI
+ひゅ HYU
+ひぇ HYE
+ひょ HYO
+ふぁ FA
+ふぃ FI
+ふぇ FE
+ふぉ FO
+みゃ MYA
+みぃ MYI
+みゅ MYU
+みぇ MYE
+みょ MYO
+りゃ RYA LYA
+りぃ RYI LYI
+りゅ RYU LYU
+りぇ RYE LYE
+りょ RYO LYO
+ぎゃ GYA
+ぎぃ GYI
+ぎゅ GYU
+ぎぇ GYE
+ぎょ GYO
+ぐゎ GWA
+ぐぃ GWI
+ぐぅ GWU
+ぐぇ GWE
+ぐぉ GWO
+じゃ ZYA JYA JA
+じぃ ZYI JYI
+じゅ ZYU JYU JU
+じぇ ZYE JYE JE
+じょ ZYO JYO JO
+ぢゃ DYA
+ぢぃ DYI
+ぢゅ DYU
+ぢぇ DYE
+ぢょ DYO
+でゃ DHA
+でぃ DHI
+でゅ DHU
+でぇ DHE
+でょ DHO
+びゃ BYA
+びぃ BYI
+びゅ BYU
+びぇ BYE
+びょ BYO
+ぴゃ PYA
+ぴぃ PYI
+ぴゅ PYU
+ぴぇ PYE
+ぴょ PYO
+ぶぁ VA
+ぶぃ VI
+ぶぅ VU
+ぶぇ VE
+ぶぉ VO

@@ -1,0 +1,33 @@
+TRANSLATING SYMBOS
+
+The operating system and application translations are based on very simple CSV tables. You'll find them in the subfolders, sorted by importance. Everything is in Unicode characters and UTF-8 encoded, todays standard for any Windows/Linux/Mac apps/spreadsheets.
+
+At first glance it may seem like a lot of work, but in the end you will see that you usually only need a maximum of 20 minutes or less per table; at least that was the experience so far.
+
+The first column contains the unique labels, the second column the expressions in English. Columns three, four, etc., are filled with the other languages. The column headers at the very beginning of the table contain the 3-letter ISO-639 code for each language.
+
+You just start with your new column, which is the empty third one, directly next to the english one. Translate the English texts, cell by cell, downwards. Just ignore the rows with "###PACK..." at the beginning.
+
+Some texts may be split across several consecutive cells; this always applies to multi-line text in message boxes and similar formats. Here, care should be taken to distribute the expressions as evenly as possible across the two or three cells.
+
+English is a compact language, and the SymbOS GUI was originally optimized for it, but now tolerates longer expressions. Nevertheless, it can be tricky for other languages to estimate the length of an expression so that it still fits within the screen area. If there are already other translations, these can be used as a guide, and shortening is necessary if needed. If that's too annoying, you can simply ignore it, look at the screenshots afterward, and optimize the expressions.
+
+As an additional guide, I have added screenshots with English text to the important table, in case you are unsure what it is about when translating. We can do the same later for the less important ones.
+
+
+
+There are now two ways to do the translation.
+
+
+1.) Simply translate the CSV tables and send them back
+
+You translate the English text into a new column, and send the CSV back. I will then generate a new LNG file for the app, take a screenshot of each screen, and send it back to you. You then decide whether everything looks good, or whether any expressions make no sense, look too ugly, or simply don't fit. In that case, the CSV file will be corrected again, and you can review the result once more.
+
+
+2.) Translate and test locally
+
+[currently not prefered, as some preparations are necessary first]
+
+Once you've translated the CSV file, run a Python script and test the application locally in SymbOS using the generated LNG file. If you find any discrepancies, correct the CSV, regenerate the LNG, and check again in SymbOS to see if everything is correct. Only then you send the CSV file back. This requires a SymbOS installation, Python, and, of course, the knowledge of how to do it.
+
+I'll write more detailed instructions for step 2 for those who want to do this directly locally and test it.

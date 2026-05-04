@@ -1,0 +1,528 @@
+﻿
+あ a
+い i
+う u wu
+え e
+お o
+か ka ca
+き ki
+く ku cu qu
+け ke
+こ ko co
+さ sa
+し si shi
+す su
+せ se
+そ so
+た ta
+ち ti chi
+つ tu tsu
+て te
+と to
+な na
+に ni
+ぬ nu
+ね ne
+の no
+は ha
+ひ hi
+ふ hu fu
+へ he
+ほ ho
+ま ma
+み mi
+む mu
+め me
+も mo
+や ya
+ゆ yu
+いぇ ye
+よ yo
+ら ra la
+り ri li
+る ru lu
+れ re le
+ろ ro lo
+わ wa
+を wo
+ん nn
+が ga
+ぎ gi
+ぐ gu
+げ ge
+ご go
+ざ za
+じ zi ji
+ず zu
+ぜ ze
+ぞ zo
+だ da
+ぢ di
+づ du
+で de
+ど do
+ば ba
+び bi
+ぶ bu
+べ be
+ぼ bo
+ぱ pa
+ぴ pi
+ぷ pu
+ぺ pe
+ぽ po
+ぁ xa 
+ぃ xi 
+ぅ xu 
+ぇ xe 
+ぉ xo 
+ヵ xka 
+っ xtu 
+ヶ xke 
+ゃ xya 
+ゅ xyu 
+ょ xyo 
+ゎ xwa
+きゃ kya
+きぃ kyi
+きゅ kyu
+きぇ kye
+きょ kyo
+くゎ qwa kwa qa
+くぃ qwi kwi qi
+くぅ qwu kwu
+くぇ qwe kwe qe
+くぉ qwo kwo qo
+しゃ sya sha
+しぃ syi
+しゅ syu shu
+しぇ sye she
+しょ syo sho
+ちゃ tya cya cha
+ちぃ tyi cyi
+ちゅ tyu cyu chu
+ちぇ tye cye
+ちょ tyo cyo cho
+つぁ tsa
+つぃ tsi
+つぇ tse
+つぉ tso
+てゃ tha
+てぃ thi
+てゅ thu
+てぇ the
+てょ tho
+にゃ nya
+にぃ nyi
+にゅ nyu
+にぇ nye
+にょ nyo
+ひゃ hya
+ひぃ hyi
+ひゅ hyu
+ひぇ hye
+ひょ hyo
+ふぁ fa
+ふぃ fi
+ふぇ fe
+ふぉ fo
+みゃ mya
+みぃ myi
+みゅ myu
+みぇ mye
+みょ myo
+りゃ rya lya
+りぃ ryi lyi
+りゅ ryu lyu
+りぇ rye lye
+りょ ryo lyo
+ぎゃ gya
+ぎぃ gyi
+ぎゅ gyu
+ぎぇ gye
+ぎょ gyo
+ぐゎ gwa
+ぐぃ gwi
+ぐぅ gwu
+ぐぇ gwe
+ぐぉ gwo
+じゃ zya jya ja
+じぃ zyi jyi
+じゅ zyu jyu ju
+じぇ zye jye je
+じょ zyo jyo jo
+ぢゃ dya
+ぢぃ dyi
+ぢゅ dyu
+ぢぇ dye
+ぢょ dyo
+でゃ dha
+でぃ dhi
+でゅ dhu
+でぇ dhe
+でょ dho
+びゃ bya
+びぃ byi
+びゅ byu
+びぇ bye
+びょ byo
+ぴゃ pya
+ぴぃ pyi
+ぴゅ pyu
+ぴぇ pye
+ぴょ pyo
+ぶぁ va
+ぶぃ vi
+ぶぅ vu
+ぶぇ ve
+ぶぉ vo
+ア A
+イ I
+ウ U WU
+エ E
+オ O
+カ KA CA
+キ KI
+ク KU CU QU
+ケ KE
+コ KO CO
+サ SA
+シ SI SHI
+ス SU
+セ SE
+ソ SO
+タ TA
+チ TI CHI
+ツ TU TSU
+テ TE
+ト TO
+ナ NA
+ニ NI
+ヌ NU
+ネ NE
+ノ NO
+ハ HA
+ヒ HI
+フ HU FU
+ヘ HE
+ホ HO
+マ MA
+ミ MI
+ム MU
+メ ME
+モ MO
+ヤ YA
+ユ YU
+イェ YE
+ヨ YO
+ラ RA LA
+リ RI LI
+ル RU LU
+レ RE LE
+ロ RO LO
+ワ WA
+ヲ WO
+ン NN
+ガ GA
+ギ GI
+グ GU
+ゲ GE
+ゴ GO
+ザ ZA
+ジ ZI JI
+ズ ZU
+ゼ ZE
+ゾ ZO
+ダ DA
+ヂ DI
+ヅ DU
+デ DE
+ド DO
+バ BA
+ビ BI
+ブ BU
+ベ BE
+ボ BO
+パ PA
+ピ PI
+プ PU
+ペ PE
+ポ PO
+ァ XA 
+ィ XI 
+ゥ XU 
+ェ XE 
+ォ XO 
+ヵ XKA 
+ッ XTU 
+ヶ XKE 
+ャ XYA 
+ュ XYU 
+ョ XYO 
+ヮ XWA
+キャ KYA
+キィ KYI
+キュ KYU
+キェ KYE
+キョ KYO
+クヮ QWA KWA QA
+クィ QWI KWI QI
+クゥ QWU KWU
+クェ QWE KWE QE
+クォ QWO KWO QO
+シャ SYA SHA
+シィ SYI
+シュ SYU SHU
+シェ SYE SHE
+ショ SYO SHO
+チャ TYA CYA CHA
+チィ TYI CYI
+チュ TYU CYU CHU
+チェ TYE CYE
+チョ TYO CYO CHO
+ツァ TSA
+ツィ TSI
+ツェ TSE
+ツォ TSO
+テャ THA
+ティ THI
+テュ THU
+テェ THE
+テョ THO
+ニャ NYA
+ニィ NYI
+ニュ NYU
+ニェ NYE
+ニョ NYO
+ヒャ HYA
+ヒィ HYI
+ヒュ HYU
+ヒェ HYE
+ヒョ HYO
+ファ FA
+フィ FI
+フェ FE
+フォ FO
+ミャ MYA
+ミィ MYI
+ミュ MYU
+ミェ MYE
+ミョ MYO
+リャ RYA LYA
+リィ RYI LYI
+リュ RYU LYU
+リェ RYE LYE
+リョ RYO LYO
+ギャ GYA
+ギィ GYI
+ギュ GYU
+ギェ GYE
+ギョ GYO
+グヮ GWA
+グィ GWI
+グゥ GWU
+グェ GWE
+グォ GWO
+ジャ ZYA JYA JA
+ジィ ZYI JYI
+ジュ ZYU JYU JU
+ジェ ZYE JYE JE
+ジョ ZYO JYO JO
+ヂャ DYA
+ヂィ DYI
+ヂュ DYU
+ヂェ DYE
+ヂョ DYO
+デャ DHA
+ディ DHI
+デュ DHU
+デェ DHE
+デョ DHO
+ビャ BYA
+ビィ BYI
+ビュ BYU
+ビェ BYE
+ビョ BYO
+ピャ PYA
+ピィ PYI
+ピュ PYU
+ピェ PYE
+ピョ PYO
+ヴァ VA
+ヴィ VI
+ヴ VU
+ヴェ VE
+ヴォ VO
+ウ wU
+カ kA cA
+キ kI
+ク kU cU qU
+ケ kE
+コ kO cO
+サ sA
+シ sI shI
+ス sU
+セ sE
+ソ sO
+タ tA
+チ tI chI
+ツ tU tsU
+テ tE
+ト tO
+ナ nA
+ニ nI
+ヌ nU
+ネ nE
+ノ nO
+ハ hA
+ヒ hI
+フ hU fU
+ヘ hE
+ホ hO
+マ mA
+ミ mI
+ム mU
+メ mE
+モ mO
+ヤ yA
+ユ yU
+イェ yE
+ヨ yO
+ラ rA lA
+リ rI lI
+ル rU lU
+レ rE lE
+ロ rO lO
+ワ wA
+ヲ wO
+ン nN
+ガ gA
+ギ gI
+グ gU
+ゲ gE
+ゴ gO
+ザ zA
+ジ zI jI
+ズ zU
+ゼ zE
+ゾ zO
+ダ dA
+ヂ dI
+ヅ dU
+デ dE
+ド dO
+バ bA
+ビ bI
+ブ bU
+ベ bE
+ボ bO
+パ pA
+ピ pI
+プ pU
+ペ pE
+ポ pO
+ァ xa 
+ィ xi 
+ゥ xu 
+ェ xe 
+ォ xo 
+ヵ xka 
+ッ xtu 
+ヶ xke 
+ャ xya 
+ュ xyu 
+ョ xyo 
+ヮ xwA
+キャ kyA
+キィ kyI
+キュ kyU
+キェ kyE
+キョ kyO
+クヮ qwA kwA qA
+クィ qwI kwI qI
+クゥ qwU kwU
+クェ qwE kwE qE
+クォ qwO kwO qO
+シャ syA shA
+シィ syI
+シュ syU shU
+シェ syE shE
+ショ syO shO
+チャ tyA cyA chA
+チィ tyI cyI
+チュ tyU cyU chU
+チェ tyE cyE
+チョ tyO cyO chO
+ツァ tsA
+ツィ tsI
+ツェ tsE
+ツォ tsO
+テャ thA
+ティ thI
+テュ thU
+テェ thE
+テョ thO
+ニャ nyA
+ニィ nyI
+ニュ nyU
+ニェ nyE
+ニョ nyO
+ヒャ hyA
+ヒィ hyI
+ヒュ hyU
+ヒェ hyE
+ヒョ hyO
+ファ fA
+フィ fI
+フェ fE
+フォ fO
+ミャ myA
+ミィ myI
+ミュ myU
+ミェ myE
+ミョ myO
+リャ ryA lyA
+リィ ryI lyI
+リュ ryU lyU
+リェ ryE lyE
+リョ ryO lyO
+ギャ gyA
+ギィ gyI
+ギュ gyU
+ギェ gyE
+ギョ gyO
+グヮ gwA
+グィ gwI
+グゥ gwU
+グェ gwE
+グォ gwO
+ジャ zyA jyA jA
+ジィ zyI jyI
+ジュ zyU jyU jU
+ジェ zyE jyE jE
+ジョ zyO jyO jO
+ヂャ dyA
+ヂィ dyI
+ヂュ dyU
+ヂェ dyE
+ヂョ dyO
+デャ dhA
+ディ dhI
+デュ dhU
+デェ dhE
+デョ dhO
+ビャ byA
+ビィ byI
+ビュ byU
+ビェ byE
+ビョ byO
+ピャ pyA
+ピィ pyI
+ピュ pyU
+ピェ pyE
+ピョ pyO
+ヴァ vA
+ヴィ vI
+ヴ vU
+ヴェ vE
+ヴォ vO
