@@ -1,5 +1,5 @@
 labels,ENG,JPN,DEU,NLD,ELL,SPA,TUR,POR,ITA,UKR
-### pack0,134,2058
+### pack0,133,2036
 prgerrlod,Error while loading.,ロードちゅうにエラーがはっせいしました。,Fehler beim Laden.,Fout bij laden.,Σφάλμα κατά τη φόρτωση.,Error al cargar.,Yüklerken hata oluştu.,Erro ao carregar.,Errore durante il caricamento.,Помилка завантаження.
 prgwintit,Control Panel,コントロールパネル,Systemsteuerung,Configuratiescherm,Πίνακας Ελέγχου,Panel de Control,Yönetim Paneli,Painel de Controle,Pannello di controllo,Панель керування
 prgwinsta,8 Object(s),８オブジェクト,8 Element(e),8 objecten,8 Αντικείμενα,8 Objeto(s),8 Nesne,8 objeto(s),8 elementi,Елементів: 8
@@ -19,8 +19,8 @@ prgicndsp3a,Display,テﾞィスフﾟレイ,Anzeige,Weergave,Οθόνη,Pantall
 prgicndsp3b,,,,,,,,,,
 prgicntim4a,Date and,日時,Datum &,Datum en,Ημερομ.,Fecha y,Tarih,Data e,Data e,Дата та
 prgicntim4b,Time,,Uhrzeit,Tijd,και Ώρα,Hora,ve Saat,Hora,Ora,час
-prgicnfnt5a,Font and,フォント and,Schriftart,Lettertype,Γραμ ,Fuente e ,Font,Fonte e,Carattere,Шрифт та
-prgicnfnt5b,Language,#TRANSLATE#,& Sprache,en taal,και Γλώσσα,Idioma,ve Dil,Idioma,e Lingua,мова
+prgicnfnt5a,Font and,フォントと,Schriftart,Lettertype,Γραμ ,Fuente e ,Font,Fonte e,Carattere,Шрифт та
+prgicnfnt5b,Language,げんご,& Sprache,en taal,και Γλώσσα,Idioma,ve Dil,Idioma,e Lingua,мова
 prgicnsys6a,System,システム,System,Systeem,Σύστημα,Sistema,Sistem,Sistema,Sistema,Система
 prgicnsys6b,,,,,,,,,,
 prgicndev7a,Mass,マス,Massen-,Opslag,Μαζική,Almacena-,Yığın,Armazena-,Dischi,Диски
@@ -31,7 +31,7 @@ prgicnlnk8c,Startmenu,スタートメニュー,Startmenü,Startmenu,Μενού,M
 prgicnlnk8d,,,,,,,Menüsü,Iniciar,,"""Пуск"""
 prgtitkey,Keyboard,キーホﾞートﾞ,Tastatur,Toetsenbord,Πληκτρολόγιο,Teclado,Klavye,Teclado,Tastiera,Клавіатура
 prgtitmou,Mouse,マウス,Maus,Muis,Ποντίκι,Ratón,Fare,Mouse,Mouse,Миша
-prgtitfnt,Font and Language,フォント,Schriftart und Sprache,Lettertype en taal,Γραμματοσειρά και Γλώσσα,Fuente e Idioma,Font ve Dil,Fonte e idioma,Carattere e Lingua,Шрифт та мова
+prgtitfnt,Font and Language,フォントとげんご,Schriftart und Sprache,Lettertype en taal,Γραμματοσειρά και Γλώσσα,Fuente e Idioma,Font ve Dil,Fonte e idioma,Carattere e Lingua,Шрифт та мова
 prgtitsys,System,システム,System,Systeem,Σύστημα,Sistema,Sistem,Sistema,Sistema,Система
 prgtitlnk,Desktop and Startmenu Links,デスクトップとスタートメニューのリンク,Verknüpfungen,Bureaublad en Startmenu,Συντομεύσεις,Atajos,Bağlantılar,Atalhos,Desktop e collegamenti del menù avvio,-
 prgbuttxt1,Ok,OK,Ok,OK,ΟΚ,Aceptar,Ok,Ok,Ok,Гаразд
@@ -103,37 +103,36 @@ prgtxtsys3a,System path,システムパス,Systempfad,Systeempad,Διαδρ. σ�
 prgtxtsys3d,(these options require a reboot),（リブートがひつようです）,(Optionen erfordern Neustart),(vereist herstart),(απαιτ. επανεκκ.),(Es necesario reiniciar),(Yeniden başlatma gerekli),(Reinicialização necessária),(è necessario un riavvio),(необхідне перезавантаження)
 prgtxtsys3b,Boot Extended Desktop,エクステンデッドデスクトップ,lade Extended Desktop,Gebruik Extended Desktop,Εκκίν. εκτ. επιφ.,Escritorio Extendido,Genişletilmiş Masaüstü Başlat,Área de trabalho estendida,Desktop esteso all'avvio,Розширений робочий стіл
 prgtxtsys3j,File browser uses max memory,ブラウザのさいだいメモリ,max.Speicher für Dateibrowser,max.bestandsbrowsergeheugen,Διαχ. αρχ. μέγ. μνήμ.,Explorador: Memoria máx,maks.tarayıcı depolama alanı,Memória máxima do navegador,Memoria massima al browser,Макс. ОЗП для файл. браузера
-prgtxtsys3k,Show alternative Startbutton,べつのスタートボタンをひょうじ,alternativer Startknopf,Alternatieve Startknop tonen,Εμφ. εναλ. κουμπ. Έναρ.,Botón de inicio alternativo,Alternatif Başlat Menüsü göster,Botão Iniciar alternativo,Pulsante Start alternativo,"Альтернативна кнопка ""Пуск"""
 prgtxtsys3e,Autoexec,Autoexec,Autoexec,Autoexec,Autoexec,Autoexec,Autoexec,Autoexec,Autoexec,Автозапуск
 prgtxtsys3h,Boot drive,ブートドライブ,Bootlaufwerk,Opstartstation,Μον. εκκ.,Arranque,Boot sürücüsü,Unid. de boot,Drive di avvio,Сист. диск:
 prgtxtlnk9a,Extension(s),エクステンション,Dateiendung(en),Extensie(s),Επεκτ.,Extension(es),Uzantı(lar),Extensão(ões),Estensioni,Розширення:
 prgtxtlnk9b,Application path,アプリケーションパス,Öffnen mit,Applicatiepad,Διαδρ. εφαρμ.,Ruta de Aplicación,Uygulama yolu,Caminho d.aplicativo,Percorso dell'app,Програма:
 prgtxtlnk4,Edit entry,エントリをへんしゅう,Bearbeiten,Bewerken,Επεξ. καταχ.,Editar entrada,Girişi düzenle,Editar entrada,Settaggi,Редагування
 prgtxtlnk5c,Browse...,せんたく...,Wählen...,Bladeren,Αναζήτ...,Explorar...,Gözat…,Buscar…,Sfoglia,Огляд…
-prgtxtfnt1f,characters),#TRANSLATE#,Zeichen),tekens),χαρ.),caracteres),karakter),caracteres),caratteri),символів)
+prgtxtfnt1f,characters),もじ),Zeichen),tekens),χαρ.),caracteres),karakter),caracteres),caratteri),символів)
 prgtxtfnt0b,Load new font,あたらしいフォントをロード,Schriftart laden,Nieuw lettertype laden,Νέα γραμ/ρά,Cargar nueva fuente,Yeni font yükle,Carregar nova fonte,Aggiungi nuovo font,Завантажити новий шрифт
 prgtxtfnt3a,Use enhanced 255 characters font,かくちょう２５５もじフォントをしよう,auf 255 Zeichen erweitern,Verbeterd 255-tekens lettertype,Ενισχ. 255 χαρ.,Usar fuente para 255 caracteres,Gelişmiş 255 karakterlik font kullan.,Usar fonte estendida de 255 caracteres,Usa font avanzato da 255 caratteri,Використ. 255-символьний шрифт
-prgtxtfnt4a,[not selected],#TRANSLATE#,[nicht ausgewählt],[niet geselecteerd],#TRANSLATE#,[no seleccionado],[seçili değil],[não selecionado],[non selezionato],[не вибрано]
+prgtxtfnt4a,[not selected],[みせんたく],[nicht ausgewählt],[niet geselecteerd],#TRANSLATE#,[no seleccionado],[seçili değil],[não selecionado],[non selezionato],[не вибрано]
 prgtxtfnt1e,The five boxing wizards jump quickly.,いろはにほへと ちりぬるを わかよたれそ つねならむ ういのおくやま けふこえて あさきゆめみし えひもせす,Zwölf laxe Typen qualmen verdächtig süße Objekte.,Op brute wijze ving de schooljuf de quasi-kalme lynx.,Ξεσκεπάζω την ψυχοφθόρα σας βδελυγμία.,Whisky bueno: ¡excitad mi frágil pequeña vejez!,Pijamalı hasta yağız şoföre çabucak güvendi.,Vejo galã sexy pôr quinze kiwis à força em baú achatado.,Quel vituperabile xenofobo zelante assaggia il whisky ed esclama: alleluja!,Хвацький юшковар Філіп щодня на ґанку готує сім'ї вечерю з жаб.
 prgtxtfntta,Font,フォント,Schriftart,Lettertype,Γραμ/ρά,Fuente,Font,Fonte,Caratteri,Шрифт
-prgtxtfnttb,Language,#TRANSLATE#,Sprache,Taal,Γλώσσα,Idioma,Dil,Idioma,Lingue,Мова
-prgtxtlng3a,Primary,#TRANSLATE#,Primär,Primair,Κύρια,Primario,Birincil,Primário,Primario,Головна
-prgtxtlng3b,Fallback,#TRANSLATE#,Ersatz,Fallback,Εφεδρ.,Sustituto,Yedek,Reserva,Riserva,Резервна
-prgtxtlng1a,Language packages,#TRANSLATE#,Sprachpakete,Taalpakketten,Πακέτα γλώσ.,Paquetes de Idioma,Dil paketleri,Pacotes de idioma,Pacchetto lingua,Мова інтерфейсу
-prgobjlng3d_df,[default],#TRANSLATE#,[standard],[standaard],[προεπ.],[por defecto],[varsayılan],[padrão],[default],[за замовчуванням]
-prgobjlng3d_sd,[self-defined],#TRANSLATE#,[definiert],[eigen],[ορισμ. χρήστ.],[auto-definido],[tanımlı],[personalizado],[definire],[самовизначення]
-prgtxtfnt5a,International keyboard mode,#TRANSLATE#,Internationaler Tastaturmodus,Internationale toetsenbordmodus,Ενισχ. διατ. πλήκτρ.,Modo de teclado internacional,Uluslararası klavye modu,Modo de teclado internacional,Tastiere internazionali,Міжнародна клавіатура
-prgtxtlng5b,Activate,#TRANSLATE#,Aktivieren,#TRANSLATE#,Ενεργ.,Activar,Etkinleştir,Ativar,Attivare,Увімкнути
-prgtxtlng5d,Show layout icon,#TRANSLATE#,Zeige Symbol,#TRANSLATE#,Εικον. διάταξης,Mostrar icono de esquema,Düzen simgesini göster,Mostrar ícone do layout,Mostra lo schema icone,Показати значок розкладки
-prgerrfnt1,Selected keyboard is not,#TRANSLATE#,Tastaturlayout passt nicht zum,#TRANSLATE#,Το πλήκτρ. δεν είναι,El teclado no es compatible con,"Seçilen klavye, yazı sistemiyle",O teclado selecionado não,La tastiera selezionata non,Вибрана клавіатура несумісна
-prgerrfnt2,compatible with the writing system.,#TRANSLATE#,Schriftsystem. Bitte Zeichensatz,#TRANSLATE#,συμβατό με το σύστ. γραφής.,sistema de escritura.,uyumlu değil.,é compatível com a escrita.,è compatibile con il sistema di scrittura,із системою письма
-prgerrfnt3,Please adjust font or keyboard.,#TRANSLATE#,oder Tastatur anpassen.,#TRANSLATE#,Ρύθμ. γραμ/ρά ή πλήκτρ.,Ajuste la fuente o el teclado.,Lütfen fontu veya klavyeyi ayarlayın.,Ajuste fonte ou teclado.,Cambia font o tastiera,Налаштуйте шрифт або клавіатуру.
-prgerrlng1,Language requires FNT/KEX,#TRANSLATE#,Für die Sprache benötigten,#TRANSLATE#,#TRANSLATE#,El idioma requiere archivos,"Dil, /i18n/ dizininde eksik olan",Idioma requires FNT/KEX,La lingua richiede FNT/KEX,Для цієї мови потрібні
-prgerrlng2,"files, which are missing from",#TRANSLATE#,FNT/KEX Dateien fehlen im,#TRANSLATE#,#TRANSLATE#,FNT/KEX que faltan del,FNT/KEX dosyalarını gerektiriyor.,arquivos ausentes do,mancanti nella cartella,"файли FNT/KEX, яких немає"
-prgerrlng3,/i18n/ directory. Please check.,#TRANSLATE#,/i18n/ Verzeichnis.,#TRANSLATE#,#TRANSLATE#,directorio /i18n/. Comprubelo,Lütfen kontrol edin.,diretório /i18n/. Verifique.,/i18n/. Correggi,в папці /i18n/. Перевірте будь ласка.
-prgbotlng1,Please save the settings and,#TRANSLATE#,Für die Sprachänderung,#TRANSLATE#,#TRANSLATE#,Guarde las selecciones y reinicie,Dil değişikliğinin etkinleşmesi için,"Por favor, salve as configurações e",Per favore salvare le impostazioni e,"Будь ласка, збережіть налашту-"
-prgbotlng2,restart the system for the,#TRANSLATE#,Einstellungen speichern,#TRANSLATE#,#TRANSLATE#,el sistema para que el cambio de,lütfen ayarları kaydedin ve,reinicie o sistema para as,riavviare il sistema perché il,"вання та перезавантажте систему,"
-prgbotlng3,language change to take effect.,#TRANSLATE#,und Neustart ausführen.,#TRANSLATE#,#TRANSLATE#,idioma tenga efecto.,sistemi yeniden başlatın.,mudanças de idioma tenham efeito.,cambiamento di lingua abbia effetto,щоб зміна мови набула чинності.
+prgtxtfnttb,Language,げんご,Sprache,Taal,Γλώσσα,Idioma,Dil,Idioma,Lingue,Мова
+prgtxtlng3a,Primary,Primary,Primär,Primair,Κύρια,Primario,Birincil,Primário,Primario,Головна
+prgtxtlng3b,Fallback,Fallback,Ersatz,Fallback,Εφεδρ.,Sustituto,Yedek,Reserva,Riserva,Резервна
+prgtxtlng1a,Language packages,げんごパック,Sprachpakete,Taalpakketten,Πακέτα γλώσ.,Paquetes de Idioma,Dil paketleri,Pacotes de idioma,Pacchetto lingua,Мова інтерфейсу
+prgobjlng3d_df,[default],[デフォルト],[standard],[standaard],[προεπ.],[por defecto],[varsayılan],[padrão],[default],[за замовчуванням]
+prgobjlng3d_sd,[self-defined],[ユーザーていぎ],[definiert],[eigen],[ορισμ. χρήστ.],[auto-definido],[tanımlı],[personalizado],[definire],[самовизначення]
+prgtxtfnt5a,International keyboard mode,こくさいKBモード,Internationaler Tastaturmodus,Internationale toetsenbordmodus,Ενισχ. διατ. πλήκτρ.,Modo de teclado internacional,Uluslararası klavye modu,Modo de teclado internacional,Tastiere internazionali,Міжнародна клавіатура
+prgtxtlng5b,Activate,アクティブ,Aktivieren,#TRANSLATE#,Ενεργ.,Activar,Etkinleştir,Ativar,Attivare,Увімкнути
+prgtxtlng5d,Show layout icon,レイアウトアイコン,Zeige Symbol,#TRANSLATE#,Εικον. διάταξης,Mostrar icono de esquema,Düzen simgesini göster,Mostrar ícone do layout,Mostra lo schema icone,Показати значок розкладки
+prgerrfnt1,Selected keyboard is not,このキーボードはげんごに,Tastaturlayout passt nicht zum,#TRANSLATE#,Το πλήκτρ. δεν είναι,El teclado no es compatible con,"Seçilen klavye, yazı sistemiyle",O teclado selecionado não,La tastiera selezionata non,Вибрана клавіатура несумісна
+prgerrfnt2,compatible with the writing system.,たいおうしていません。,Schriftsystem. Bitte Zeichensatz,#TRANSLATE#,συμβατό με το σύστ. γραφής.,sistema de escritura.,uyumlu değil.,é compatível com a escrita.,è compatibile con il sistema di scrittura,із системою письма
+prgerrfnt3,Please adjust font or keyboard.,フォントかキーボードをかえてください。,oder Tastatur anpassen.,#TRANSLATE#,Ρύθμ. γραμ/ρά ή πλήκτρ.,Ajuste la fuente o el teclado.,Lütfen fontu veya klavyeyi ayarlayın.,Ajuste fonte ou teclado.,Cambia font o tastiera,Налаштуйте шрифт або клавіатуру.
+prgerrlng1,Language requires FNT/KEX,このげんごに ひつような,Für die Sprache benötigten,#TRANSLATE#,#TRANSLATE#,El idioma requiere archivos,"Dil, /i18n/ dizininde eksik olan",Idioma requires FNT/KEX,La lingua richiede FNT/KEX,Для цієї мови потрібні
+prgerrlng2,"files, which are missing from",FNT/KEX が i18n に,FNT/KEX Dateien fehlen im,#TRANSLATE#,#TRANSLATE#,FNT/KEX que faltan del,FNT/KEX dosyalarını gerektiriyor.,arquivos ausentes do,mancanti nella cartella,"файли FNT/KEX, яких немає"
+prgerrlng3,/i18n/ directory. Please check.,ありません。かくにんしてください。,/i18n/ Verzeichnis.,#TRANSLATE#,#TRANSLATE#,directorio /i18n/. Comprubelo,Lütfen kontrol edin.,diretório /i18n/. Verifique.,/i18n/. Correggi,в папці /i18n/. Перевірте будь ласка.
+prgbotlng1,Please save the settings and,せっていで セーブして,Für die Sprachänderung,#TRANSLATE#,#TRANSLATE#,Guarde las selecciones y reinicie,Dil değişikliğinin etkinleşmesi için,"Por favor, salve as configurações e",Per favore salvare le impostazioni e,"Будь ласка, збережіть налашту-"
+prgbotlng2,restart the system for the,システムを　さいきどうすると,Einstellungen speichern,#TRANSLATE#,#TRANSLATE#,el sistema para que el cambio de,lütfen ayarları kaydedin ve,reinicie o sistema para as,riavviare il sistema perché il,"вання та перезавантажте систему,"
+prgbotlng3,language change to take effect.,げんごが　へんこうされます,und Neustart ausführen.,#TRANSLATE#,#TRANSLATE#,idioma tenga efecto.,sistemi yeniden başlatın.,mudanças de idioma tenham efeito.,cambiamento di lingua abbia effetto,щоб зміна мови набула чинності.
 ### pack1,64,767
 prgtitdsp,Display,ディスプレイ,Anzeige,Beeldscherm,Οθόνη,Pantalla,Ekran,Tela,Display,Дисплей
 prgtitcol,Palette,パレット,Palette,Palet,Παλέτα,Paleta,Palet,Paleta,Palette,Палітра
@@ -225,8 +224,8 @@ prgcnctxt,Cancel,キャンセル,Abbruch,Annuleer,Άκυρο,Cancelar,İptal,Can
 prgapltxt,Apply,てきよう,Überneh,Bevestig,Εφαρμ,Aplicar,Uygula,Aplicar,Applica,Задіяти
 stmtxttit,Startmenu Editor,スタートメニューエディター,Startmenu Editor,Startmenu-editor,Επεξ. Μενού Έναρξης,Editor de Menú Inicio,Başlat Menüsü Düzenleyici,Editor do Menu Iniciar,Editor menù start,"Редактор меню ""Пуск"""
 stmtxtcls,Close,とじる,Schließen,Sluiten,Κλείσιμο,Cerrar,Kapat,Fechar,Chiudi,Закрити
-tabmentxt,Menu,#TRANSLATE#,Menü,Menu,Μενού,Menú,Menüsü,Menu,Menù,Меню
-tabbuttxt,Button,#TRANSLATE#,Knopf,#TRANSLATE#,#TRANSLATE#,Botón,Buton,Botão,Pulsante,Кнопка
+tabmentxt,Menu,メニュー,Menü,Menu,Μενού,Menú,Menüsü,Menu,Menù,Меню
+tabbuttxt,Button,ボタン,Knopf,#TRANSLATE#,#TRANSLATE#,Botón,Buton,Botão,Pulsante,Кнопка
 stmtxtasc,Add shortcut,リンクをついか,Neue Verkn.,Nieuwe snelk.,Προσθ. συντ.,Añadir atajo,Kısayol ekle,+ Atalho,+Collegamento,+ Ярлик
 stmtxtasm,Add submenu,メニューをついか,Neues Menü,Nieuw menu,Προσθ. υπομ.,Añadir menú,Alt menü ekle,+ Submenu,+Sottomenù,+ Підменю
 stmtxtedi,Edit entry,エントリをへんしゅう,Bearbeiten,Bewerken,Επεξ. καταχ.,Editar entrada,Girişi düzenle,Editar entrada,Impostazioni,Параметри пункту
@@ -252,14 +251,14 @@ errsubtxt1,Too many nested submenus!,サブメニューのかさねすぎです�
 errsubtxt2,The deepest level for a,サブメニューのさいしんそうは,Das Maximum von 5 wurde,Het maximaal aantal items voor,Μέγ. βάθος 5.,anidados!,Alt menünün en derin,O nível mais profundo,Puoi usarne al massimo 5,Найглибший рівень для
 errsubtxt3,submenu is 5.,５です。,überschritten.,submenu's is 5.,,El máximo es 5.,seviyesi 5'tir.,de submenu é 5.,uno dentro l'altro.,підменю — 5.
 icnfrmtxt,Icon,アイコン,Symbol,Icoon,Εικον,Icono,Simge,Ícone,Icona,Піктограма
-butfrmtxt,Button,#TRANSLATE#,Knopf,#TRANSLATE#,#TRANSLATE#,Botón,Buton,Botão,Pulsante,Кнопка
+butfrmtxt,Button,ボタン,Knopf,#TRANSLATE#,#TRANSLATE#,Botón,Buton,Botão,Pulsante,Кнопка
 icncoltxt,Colour,カラー,Farbe,Kleur,Χρώμα,Color,Renk,Cor,Colore,Колір
-butwditxt,Icon width,#TRANSLATE#,Symbolbreite,#TRANSLATE#,#TRANSLATE#,Ancho de icono,Simge genişliği,Tamanho do ícone,Larghezza icona,Ширина піктограми
-butwdttxt,Total width,#TRANSLATE#,Gesamtbreite,#TRANSLATE#,#TRANSLATE#,Ancho total,Toplam genişlik,Tamanho total,Larghezza totale,Ширина кнопки
-butcpttxt,Caption,#TRANSLATE#,Beschriftung,#TRANSLATE#,#TRANSLATE#,Captura,Altyazı,Legenda,Legenda,Заголовок
+butwditxt,Icon width,アイコン Width,Symbolbreite,#TRANSLATE#,#TRANSLATE#,Ancho de icono,Simge genişliği,Tamanho do ícone,Larghezza icona,Ширина піктограми
+butwdttxt,Total width,トータル Width,Gesamtbreite,#TRANSLATE#,#TRANSLATE#,Ancho total,Toplam genişlik,Tamanho total,Larghezza totale,Ширина кнопки
+butcpttxt,Caption,キャプション,Beschriftung,#TRANSLATE#,#TRANSLATE#,Captura,Altyazı,Legenda,Legenda,Заголовок
 butprttxt,Preview,プレビュー,Vorschau,Voorbeeld,Προεπ,Vista preliminar,Önizleme,Visualizar,Anteprima,Перегляд
-icnlodtxt,Import SGX,#TRANSLATE#,SGX importieren,#TRANSLATE#,#TRANSLATE#,Importar SGX,SGX'i içe aktar,Importar SGX,Importa SGX,Імпорт SGX
-icnsavtxt,Export SGX,#TRANSLATE#,SGX exportieren,#TRANSLATE#,#TRANSLATE#,Exportar SGX,SGX'i dışa aktar,Exportar SGX,Esporta SGX,Експорт SGX
+icnlodtxt,Import SGX,インポート SGX,SGX importieren,#TRANSLATE#,#TRANSLATE#,Importar SGX,SGX'i içe aktar,Importar SGX,Importa SGX,Імпорт SGX
+icnsavtxt,Export SGX,エクスポート SGX,SGX exportieren,#TRANSLATE#,#TRANSLATE#,Exportar SGX,SGX'i dışa aktar,Exportar SGX,Esporta SGX,Експорт SGX
 ### pack4,63,854
 prgbuttxt1,Ok,OK,Ok,OK,ΟΚ,Aceptar,Ok,Ok,Ok,Гаразд
 prgbuttxt2,Cancel,キャンセル,Abbruch,Annuleer,Άκυρο,Canc.,İptal,Cancel.,Annulla,Скасувати

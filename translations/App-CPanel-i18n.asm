@@ -159,7 +159,6 @@ prgtxtsys3d   db 1:dw prgtxtsys3d_eng
 
 prgtxtsys3b   db 1:dw prgtxtsys3b_eng
 prgtxtsys3j   db 1:dw prgtxtsys3j_eng
-prgtxtsys3k   db 1:dw prgtxtsys3k_eng
 
 prgtxtsys3e   db 1:dw prgtxtsys3e_eng
 prgtxtsys3h   db 1:dw prgtxtsys3h_eng
@@ -355,7 +354,6 @@ prgtxtsys3d_eng db "(these options require a reboot)",0
 
 prgtxtsys3b_eng db "Boot Extended Desktop",0
 prgtxtsys3j_eng db "File browser uses max memory",0
-prgtxtsys3k_eng db "Show alternative Startbutton",0
 
 prgtxtsys3e_eng db "Autoexec",0
 prgtxtsys3h_eng db "Boot drive",0
@@ -401,4 +399,4 @@ prgbotlng3_eng  db "language change to take effect.",0
 
 
 ;### RESERVE
-ds 0
+ds 10
