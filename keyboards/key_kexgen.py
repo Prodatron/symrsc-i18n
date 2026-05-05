@@ -263,7 +263,7 @@ def kex_write(out_name, codepage, layouts, maps, trees, bin_data):
     bin_out = bytearray([ord("K"),ord("X"),0, flags, len(bin_data) % 256, int(len(bin_data)/256), layouts, maps, trees, codepage, langid]) + bytearray(13) + bin_text(out_name, 24) + bin_data
 
     filnam = out_name[:7].rstrip(" ")
-    bin_save(filnam + ".KEX", bin_out)
+    bin_save("K_" + filnam + ".KEX", bin_out)
 
 
 ### ---------------------------------------------------------------------------
