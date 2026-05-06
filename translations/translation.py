@@ -736,17 +736,22 @@ def i18n_translate_miss_all():
     with open(FILE_GLOBAL_CONFIG, "r") as f:
         global_config = json.load(f)
     for language in global_config["languages"]:
-        print(language)
+        print("\n" + language)
+        compl = True
         for config_file in global_config["app_configs"]:
             miss = i18n_translate_miss_combo(language, config_file)
             if miss == -1:
+                compl = False
                 print(os.path.basename(config_file).replace("json","csv") + ":not translated")
             else:
                 lines = 0
                 for pack in miss:
                     lines += len(pack)
                 if lines > 0:
+                    compl = False
                     print(os.path.basename(config_file).replace("json","csv") + ":" + str(lines))
+        if compl:
+            print("*complete*")
 
 
 
