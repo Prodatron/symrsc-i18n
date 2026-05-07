@@ -8,7 +8,7 @@ prgtxtfrp,Replace,Ersetzen,Vervangen,ちかん,Reemplazar,Değiştir,Substituir,
 prgtxtfra,Replace all,Alle ersetz.,Alles vervangen,すべて ちかん,Reempl.todo,Tümünü değiştir,Subst. tudo,Sost. tutto,Замінити все
 prgtxtinf1,Wordpad for SymbOS,Wordpad für SymbOS,Wordpad voor SymbOS,Wordpad for SymbOS,Wordpad para SymbOS,SymbOS için Wordpad,Wordpad para SymbOS,Wordpad per SymbOS,Wordpad для SymbOS
 prgtxtinf3, Copyright <c> 2025 SymbiosiS, Copyright <c> 2025 SymbiosiS, Copyright <c> 2025 SymbiosiS, Copyright <c> 2025 SymbiosiS, Copyright <c> 2025 SymbiosiS, Copyright <c> 2025 SymbiosiS, Copyright <c> 2025 SymbiosiS, Copyright <c> 2025 SymbiosiS, © 2025 SymbiosiS
-_edtchgm,Lin Col Siz Mrk ,Zei Spa Grö Mrk ,Reg Kol Gro Mkr ,リン  コル  シズ マーク ,Lín Col Tam Mrc ,Sat Süt Boy Mrk ,Lin Col Tam Mrc ,Lin Col Dim Seg ,Рд  стп рзм виб 
+_edtchgm,Lin Col Siz Mrk ,Zei Spa Grö Mrk ,Reg Kol Gro Mkr ,ぎょうけた  サイズマーク ,Lín Col Tam Mrc ,Sat Süt Boy Mrk ,Lin Col Tam Mrc ,Lin Col Dim Seg ,Рд  стп рзм виб 
 prgtxterra,Textbuffer full. Only a part of,Textspeicher voll. Nur ein,Tekstbuffer vol. Slechts een deel van,テキストバッファー が いっぱい です。,Búfer de texto lleno. Solo parte,Metin arabelleği dolu. Belgenin,Buffer de texto cheio. Apenas parte,Buffer pieno. Solo una parte,Текстовий буфер заповнений.
 prgtxterrb,the document has been loaded.,Teil konnte geladen werden.,document geladen.,ドキュメント の いちぶ だけ が よみこみ されました。,del documento ha sido cargado.,yalnızca bir kısmı yüklendi.,do documento foi carregado.,del documento è stata caricata.,Файл завантажений частково.
 prgtxterrc,Error while loading file!,Fehler beim Laden!,Fout bij laden van bestand!,ファイル よみこみ エラー！,¡Error al cargar archivo!,Dosya yüklenirken hata!,Erro ao carregar arquivo!,Errore di lettura del file!,Помилка завантаження файлу!
@@ -47,7 +47,7 @@ fndwintxt3,Match case,Groß/Klein,Hoofdlettergevoelig,おおもじこもじの�
 fndwintxt4,Whole word only,Nur ganze Wörter,Alleen hele woorden,かんぜんいっち,Solo palabra completa,Sadece tüm kelime,Palavra inteira,Solo parola intera,Лише цілі слова
 fndwintxt5,Entire document,Alle ab Anfang,Gehele document,ぶんしょうぜんたい,Todo el documento,Tüm belge,Documento inteiro,In tutto il documento,Весь документ
 fndwintxt6,Line,Zeile,Regel,ぎょう,Línea,Satır,Linha,Linea,Рядок
-fndwintxt7,Column,Spalte,Kolom,れつ,Columna,Sütun,Coluna,Colonna,Стовпець
+fndwintxt7,Column,Spalte,Kolom,けた,Columna,Sütun,Coluna,Colonna,Стовпець
 fndmsgtxt1,Text not found!,Text nicht gefunden!,Tekst niet gevonden!,テキスト が みつかりません！,¡Texto no encontrado!,Metin bulunamadı!,Texto não encontrado!,Testo non trovato!,Текст не знайдено!
 fndmsgtxt3a,Textbuffer full. Couldn't,Speicher voll. Nicht alles,Tekstbuffer vol. Kon niet,テキストバッファー が いっぱい,Búfer de texto lleno. No se,Metin arabelleği dolu. Bir veya,Buffer de texto cheio. Não foi,Buffer pieno. Non posso sostituire,Текстовий буфер переповнений. Не вдалося
 fndmsgtxt3b,replace one or more entries.,konnte ersetzt werden.,één of meer items vervangen.,で、いくつか の エントリー を リプレイス できません。,reemplazaron una o más entradas.,daha fazla girdi değiştirilemedi.,possível substituir uma ou mais entradas.,una o più voci.,виконати заміну деяких елементів.
@@ -61,7 +61,7 @@ prgwinmen1tx2, Open..., Öffnen..., Openen..., ひらく, Abrir..., Aç…, Abri
 prgwinmen1tx3, Save, Speichern, Opslaan, ほぞん, Guardar, Kaydet, Salvar, Salva, Зберегти
 prgwinmen1tx4, Save As..., Speichern unter..., Opslaan als..., なまえをつけてほぞん, Guardar como..., Farklı Kaydet…, Salvar como..., Salva come…, Зберегти як…
 prgwinmen1tx5, Print..., Drucken..., Afdrukken..., いんさつ, Imprimir..., Yazdır…, Imprimir..., Stampa…, Друк…
-prgwinmen1tx6, Exit, Beenden, Afsluiten, でる, Salir, Çıkış, Sair, Esci, Вихід
+prgwinmen1tx6, Exit, Beenden, Afsluiten, しゅうりょう, Salir, Çıkış, Sair, Esci, Вихід
 prgwinmentx2,Edit,Bearbeiten,Bewerken,へんしゅう,Edición,Düzenle,Editar,Modifica,Редагування
 prgwinmen2tx1, Cut, Ausschneiden, Knippen, きりとり, Cortar, Kes, Recortar, Taglia, Вирізати
 prgwinmen2tx2, Copy, Kopieren, Kopiëren, コピー, Copiar, Kopyala, Copiar, Copia, Копіювати
@@ -72,9 +72,9 @@ prgwinmen2tx6, Find Again, Weitersuchen, Opnieuw zoeken, さいけんさく, Bus
 prgwinmen2tx7, Replace..., Ersetzen..., Vervangen..., ちかん, Reemplazar…, Değiştir…, Substituir..., Sostituisci…, Замінити…
 prgwinmen2tx8, Go To..., Gehe zu..., Ga naar..., ジャンプ, Ir a..., Git…, Ir para..., Vai a, Перейти…
 prgwinmen2tx9, Select All, Alles markieren, Alles selecteren, すべて, Seleccionar todo, Tümünü Seç, Selecionar tudo, Seleziona tutto, Виділити все
-prgwinmen2txa, Time/Date, Zeit/Datum, Tijd/datum, 時/日, Fecha/Hora, Saat/Tarih, Hora/Data, Ora/Data, Час/дата
-prgwinmentx3,Format,Format,Opmaak,フォーマット,Formato,Biçim,Formatar,Formato,Формат
-prgwinmen3tx1, Auto word wrap, Automatischer Umbruch, Automatische woordafbreking, オート ワードラップ, Ajuste de línea automático, Otomatik kelime kaydırma, Quebra automática, Allineamento automatico, Перенос по словах
+prgwinmen2txa, Time/Date, Zeit/Datum, Tijd/datum, 日時, Fecha/Hora, Saat/Tarih, Hora/Data, Ora/Data, Час/дата
+prgwinmentx3,Format,Format,Opmaak, フォーマット,Formato,Biçim,Formatar,Formato,Формат
+prgwinmen3tx1, Auto word wrap, Automatischer Umbruch, Automatische woordafbreking, オート Word wrap, Ajuste de línea automático, Otomatik kelime kaydırma, Quebra automática, Allineamento automatico, Перенос по словах
 prgwinmen3tx2, Settings..., Einstellungen..., Instellingen..., せってい, Opciones..., Ayarlar…, Configurações..., Impostazioni…, Налаштування…
 prgwinmentx4,View,Ansicht,Beeld,ひょうじ,Ver,Görünüm,Exibir,Visualizza,Вигляд
 prgwinmen4tx1, Tool bar, Statusleiste, Statusbalk, ステータス バー, Barra de estado, Araç çubuğu, Barra de ferramentas, Barra degli strumenti, Панель інструментів
