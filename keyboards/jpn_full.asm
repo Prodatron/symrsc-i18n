@@ -1,9 +1,9 @@
 org #0000
 nolist
 
-write"jpn_full.kex"
+write"k_jpnful.kex"
 
-incbin"jpn.kex"
+incbin"k_jpn.kex"
 
 list
 dw tree1-$-2

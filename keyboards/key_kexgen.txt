@@ -1,4 +1,4 @@
-﻿#name;codepage;layouts;maps;trees;deadkey_flag
+﻿#name;codepage;number_of_layouts;number_of_maps;number_of_trees;flag_if_deadkeys
 #name;map;tree
 
 DEU     Deutsch;2;1;1;1;1
