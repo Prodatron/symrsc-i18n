@@ -18,13 +18,13 @@ FIRST LINE OF A DEFINITION BLOCK
 
 - name: it contains a 8 char short form and the full language name written in
 the specific language
-- codepage:
-    2 : Latin 1
-    3 : Japanese
-    4 : Greek
-    5 : Cherokee
-    6 : Cyrillic
-    7 : Latin 2
+- codepage (see "SymbOS-Multilingual-Codepages.txt"):
+    2 = Latin 1
+    3 = Japanese
+    4 = Greek
+    5 = Cherokee
+    6 = Cyrillic
+    7 = Latin 2
 - number_of_layouts: The number of switchable keyboard layouts for this country.
 A layout is defined by a keyboard map, optional definitions for dead keys, and
 optional trees.
@@ -87,3 +87,8 @@ by the two characters that must be pressed to obtain the first one.
 
 Each dead character definition, as well as each complete country-specific
 definition, ends with a line consisting of 13 "#" characters.
+
+
+TREE FOR THE JAPANESE ROMAJI INPUT METHOD
+
+[...Description coming soon...]
