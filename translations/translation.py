@@ -709,24 +709,44 @@ def i18n_translate_miss_combo(language, config_file):
 ### display missing phrases for one languages
 ### ---------------------------------------------------------------------------
 def i18n_translate_miss_one(language):
+    txtout1 = ""
+    txtout2 = ""
     with open(FILE_GLOBAL_CONFIG, "r") as f:
         global_config = json.load(f)
-    print(language)
     for config_file in global_config["app_configs"]:
         miss = i18n_translate_miss_combo(language, config_file)
         if miss == -1:
-            print(f"\n{os.path.basename(config_file).replace('json','csv')} -> NOT TRANSLATED")
+            txtout2 += f"{os.path.basename(config_file).replace('json','csv')} -> NOT TRANSLATED\n"
         else:
             lines = 0
             for pack in miss:
                 lines += len(pack)
             if lines > 0:
-                print(f"\n{os.path.basename(config_file).replace('json','csv')}")
+                txtout1 += f"{os.path.basename(config_file).replace('json','csv')}\n"
                 pack_cnt = 0
                 for pack in miss:
                     for label in pack:
-                        print(f"Pack {pack_cnt} -> {label}: {pack[label]}")
+                        txtout1 += f"Pack {pack_cnt} -> {label}: {pack[label]}\n"
                     pack_cnt += 1
+                txtout1 += f"\n"
+
+    return txtout1,txtout2
+
+
+### ---------------------------------------------------------------------------
+### count and display missing phrases for all languages
+### ---------------------------------------------------------------------------
+def i18n_translate_incomplete():
+    with open(FILE_GLOBAL_CONFIG, "r") as f:
+        global_config = json.load(f)
+    txtout = ""
+    for language in global_config["languages"]:
+        txtout1,txtout2 = i18n_translate_miss_one(language)
+        if (txtout1 != "") or (txtout2 != ""):
+            txtout += f"\n{language}\n------------------------------------------------\n\n{txtout1}{txtout2}"
+    fil_txt = open("#incomplete.txt", "w")
+    fil_txt.write(txtout)
+    fil_txt.close()
 
 
 ### ---------------------------------------------------------------------------
@@ -760,7 +780,10 @@ if len(sys.argv) == 2:
     if sys.argv[1] == "stats":
         i18n_translate_miss_all()
     elif sys.argv[1][:5] == "miss:":
-        i18n_translate_miss_one(sys.argv[1][5:].upper())
+        txtout1,txtout2 = i18n_translate_miss_one(sys.argv[1][5:].upper())
+        print(f"{sys.argv[1][5:].upper()}\n\n{txtout1}{txtout2}")
+    elif sys.argv[1] == "missall":
+       i18n_translate_incomplete()
     else:
         files = glob.glob(sys.argv[1])
         for file in files:
@@ -772,4 +795,6 @@ else:
     print("\npython3 translation.py stats")
     print("    shows overview of missing translations for all apps")
     print("\npython3 translation.py miss:[LNG]")
-    print("    shows missing translations for all language, [LNG]=three character identifier, e.g. miss:SPA")
+    print("    shows missing translations for one language, [LNG]=three character identifier, e.g. miss:SPA")
+    print("\npython3 translation.py missall")
+    print("    shows missing translations for all languages")

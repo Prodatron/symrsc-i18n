@@ -1,3 +1,4 @@
+
 NLD
 ------------------------------------------------
 
@@ -42,15 +43,9 @@ App-OSExtend-i18n.csv
 Pack 0 -> keytxtinf2: Layouts:
 
 App-Help-i18n.csv -> NOT TRANSLATED
-
 App-Taskmgr-i18n.csv -> NOT TRANSLATED
-
 Dmn-Network-i18n.csv -> NOT TRANSLATED
-
 Dmn-Sound-i18n.csv -> NOT TRANSLATED
-
 App-Calc-i18n.csv -> NOT TRANSLATED
-
 App-Commander-i18n.csv -> NOT TRANSLATED
-
 App-SymSee-i18n.csv -> NOT TRANSLATED
