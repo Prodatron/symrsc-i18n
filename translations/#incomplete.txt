@@ -1,51 +1,10 @@
 
-NLD
-------------------------------------------------
-
-App-OSExtend-i18n.csv
-Pack 0 -> keytxtinf2: Layouts:
-
-App-CPanel-i18n.csv
-Pack 0 -> prgtxtlng5b: Activate
-Pack 0 -> prgtxtlng5d: Show layout icon
-Pack 0 -> prgerrfnt1: Selected keyboard is not
-Pack 0 -> prgerrfnt2: compatible with the writing system.
-Pack 0 -> prgerrfnt3: Please adjust font or keyboard.
-Pack 0 -> prgerrlng1: Language requires FNT/KEX
-Pack 0 -> prgerrlng2: files, which are missing from
-Pack 0 -> prgerrlng3: /i18n/ directory. Please check.
-Pack 0 -> prgbotlng1: Please save the settings and
-Pack 0 -> prgbotlng2: restart the system for the
-Pack 0 -> prgbotlng3: language change to take effect.
-Pack 3 -> tabbuttxt: Button
-Pack 3 -> butfrmtxt: Button
-Pack 3 -> butwditxt: Icon width
-Pack 3 -> butwdttxt: Total width
-Pack 3 -> butcpttxt: Caption
-Pack 3 -> icnlodtxt: Import SGX
-Pack 3 -> icnsavtxt: Export SGX
-
-App-Wordpad-i18n.csv
-Pack 0 -> prgtxterrh: Error while loading font!
-Pack 0 -> fnttxtext: [Loaded]
-Pack 0 -> cfgwintxt10: Load from
-Pack 0 -> cfgwintxt11: Fontfile
-Pack 0 -> _fndmsgtxt2a: Replaced 
-Pack 0 -> fndmsgtxt2b: ????? times.
-Pack 0 -> fndmsgtxt2c:  times.
-Pack 0 -> prgwinmen4tx3:  Line numbers
-
-
 JPN
 ------------------------------------------------
 
 App-OSExtend-i18n.csv
 Pack 0 -> keytxtinf2: Layouts:
 
-App-Help-i18n.csv -> NOT TRANSLATED
-App-Taskmgr-i18n.csv -> NOT TRANSLATED
-Dmn-Network-i18n.csv -> NOT TRANSLATED
 Dmn-Sound-i18n.csv -> NOT TRANSLATED
-App-Calc-i18n.csv -> NOT TRANSLATED
 App-Commander-i18n.csv -> NOT TRANSLATED
 App-SymSee-i18n.csv -> NOT TRANSLATED

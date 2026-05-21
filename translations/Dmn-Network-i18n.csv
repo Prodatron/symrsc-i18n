@@ -1,53 +1,53 @@
-labels,ENG,DEU,NLD,SPA,TUR,POR,ITA,UKR
+labels,ENG,DEU,NLD,JPN,SPA,TUR,POR,ITA,UKR
 ### pack0,51,1059
-prgtxtoky,Ok,Ok,OK,Aceptar,Ok,Ok,Ok,Гаразд
-prgtxtcnc,Cancel,Abbruch,Annuleer,Cancelar,İptal,Cancelar,Annulla,Скасувати
-stamentxt1,File,Datei,Bestand,Archivo,Dosya,Arquivo,File,Файл
-stamentxt2,?,?,?,?,?,?,?,?
-stamentxt11, Hide on startup, Beim Start ausblenden, Verbergen bij opstarten, Ocultar al iniciar, Başlarken gizle, Ocultar ao iniciar, Nascondi all'avvio, Згорнути після запуску
-stamentxt12, Reset all connections, Alle Verbindungen trennen, Alle verbindingen resetten, Resetear todas las conexiones, Tüm bağlantıları sıfırla, Redefinir conexões, Resetta tutte le connessioni, Скинути всі підключення
-stamentxt13, Quit, Beenden, Afsluiten, Quitar, Çıkış, Sair, Esci, Вийти
-stamentxt21, Index, Hilfethemen, Index, Índice, Dizin, Índice, Indice, Індекс
-stamentxt22, About, Info, Over, Info, Hakkında, Sobre, Info, Про програму
-statxttit,Network daemon,Network Daemon,Netwerkdaemon,Servicio de Red,Ağ servisi,Network Daemon,Servizio di rete,Мережева служба
-statxtbta,Hide,Ausblenden,Verbergen,Ocultar,Gizle,Ocultar,Nascondi,Згорнути
-statxtbtb,Network settings,Einstellungen,Netwerkinstellingen,Opciones de Red,Ağ ayarları,Configurações,Impostazioni direte,Налаштування мережі
-statxtbtc,Apply,Überneh.,Toepassen,Aplicar,Uygula,Aplicar,Applica,Задіяти
-statxttba1,Status,Status,Status,Estado,Durum,Status,Status,Стан
-statxttba3,Driver,Treiber,Stuurprogramma,Driver,Sürücü,Driver,Driver,Драйвер
-statxtfra,Network status,Netzwerk Status,Netwerkstatus,Estado de Red,Ağ durumu,Status da rede,Stato della rete,Стан мережі
-statxttxc,Status,Status,Status,Estado,Durum,Status,Stato,Стан:
-statxttxd,Connections,Verbindungen,Verbindingen,Conexiones,Bağlantılar,Conexões,Connessioni,Підключення:
-statxttxe,Maximum,Maximal,Maximum,Máximo,Maksimum,Máximo,Massimo,Максимум:
-statxttxf,Sent,Gesendet,Verzonden,Enviado,Gönderildi,Enviado,Inviato,Відправлено:
-statxttxg,Received,Empfangen,Ontvangen,Recibido,Alındı,Recebido,Ricevuto,Отримано:
-statxttxh,Type,Typ,Type,Teclear,Tip,Tipo,Tipo,Тип:
-statxttxh1,Manually set,Manuell gesetzt,Handmatig,Manualmente ,Elle ayarla,Manual,Manualmente,Вручну
-statxtfrb,IP settings,IP Einstellungen,IP-instellingen,Opciones de IP,IP ayarları,Configurações de IP,Configurazione IP,Налаштування IP
-statxtfrc,DNS settings,DNS Einstellungen,DNS-instellingen,Opciones de DNS,DNS ayarları,Configurações de DNS,Impostazioni DNS,Налаштування DNS
-statxtfrd,Status,Status,Status,Estado,Durum,Status,Stato,Стан
-statxtfre,DenYoNet Settings,DenYoNet Einstellungen,DenYoNet-instellingen,Opciones de DenYoNet,DenYoNet Ayarları,Configurações DenYoNet,Impostazioni DenYoNet,Налаштування DenYoNet
-statxtfrf,Localhost Settings,Localhost Einstellungen,Localhost-instellingen ,Opciones de servidor local,Localhost Ayarları,Configurações de Localhost,Impostazioni Localhost,Налаштування Localhost
-statxtfrg,GR8NET Settings,GR8NET Einstellungen,GR8NET-instellingen,Opciones de GR8NET,GR8NET Ayarları,Configurações GR8NET,GR8NET Impostazioni,Налаштування GR8NET
-statxtfrh,M4 Board Settings,M4 Board Einstellungen,M4 Board-instellingen,Opciones de Tarjeta M4,M4 Board Ayarları,Configurações M4 Board,M4 Board Impostazioni,Налаштування M4 Board
-statxtfri,Net4CPC Settings,Net4CPC Einstellungen,Net4CPC-instellingen,Opciones de Net4CPC,Net4CPC Ayarları,Configurações Net4CPC,Net4CPC Impostazioni,Налаштування Net4CPC
-cfgtxttit,TCP/IP properties,TCP/IP Eigenschaften,TCP/IP-eigenschappen,Propiedades de TCP/IP,TCP/IP Ayarları,Propriedades TCP/IP,Proprietà TCP/IP,Налаштування TCP/IP
-cfgtxttba1,IP address,IP Adresse,IP-adres,Dirección IP,IP adresi,Endereço IP,Indirizzo IP,IP-адреса
-cfgtxttba2,DNS & Hostname,DNS & Hostname,DNS & Hostnaam,DNS y Nombre del servidor,DNS & Ana Bilgisayar,DNS e Nome do host,DNS & Nome Host,DNS та ім'я комп'ютера
-cfgtxttxa,You can get IP settings assigned automatically,IP Adressen können automatisch zugewiesen,IP-instellingen kunnen automatisch worden,Se asignarán automáticamente las opciones,"Ağınız bu özelliği destekliyorsa,",As configurações de IP podem ser atribuídas,Se la tua rete lo supporta puoi,Параметри протоколу IP можуть призначатись
-cfgtxttxb,if your network supports this capability.,werden. Wenn das Netzwerk dies nicht,toegewezen als je netwerk dit ondersteunt.,de IP si es soportado por tu red.,IP ayarlarını otomatik olarak atayabilirsiniz.,automaticamente se sua rede suportar.,ottenere l'ìindirizzo IP automaticamente,"автоматично, якщо ваша мережа це підтримує."
-cfgtxttxc,"Otherwise, you need to ask your network admin",unterstützt muß die korrekte IP-Einstellung,Anders vraag je je netwerkbeheerder,"Si no, debes pedir las opciones de IP","Aksi takdirde, uygun IP ayarları için ağ","Caso contrário, você precisa solicitar ao",Altrimenti devi richiedere l'IP al,В іншому разі слід отримати параметри IP
-cfgtxttxd,for the appropriate IP settings.,beim Netzwerk-Administrator erfragt werden.,om de juiste IP-instellingen.,necesarias al administrador.,yöneticinize danışmanız gerekir.,administrador as configurações de IP corretas.,tuo amministratore di rete.,в адміністратора вашої мережі.
-cfgtxttxf,IP address,IP Adresse,IP-adres,Dirección IP,IP adresi,Endereço IP,Indirizzo IP,IP-адреса:
-cfgtxttxg,Subnet mask,Subnetz Maske,Subnet,Subred,Alt ağ maskesi,Sub-rede,Subnet,Маска підмережі:
-cfgtxttxh,Default gateway,Gateway,Gateway,Gateway,Ağ geçidi,Gateway padrão,Gateway,Основний шлюз:
-cfgtxttxi,Hostname,Hostname,Hostnaam,Host,Ana bilgisayar adı,Nome do host,Nome Host,Ім'я комп'ютера:
-cfgtxttxj,Primary DNS,Primärer DNS,Primaire DNS,DNS Primaria,Birincil DNS,DNS primário,DNS primario,Основний DNS:
-cfgtxttxk,Secondary DNS,Sekundär. DNS,Secundaire DNS,DNS Sec.,İkincil DNS,DNS secundário,DNS secondario,Резервний DNS:
-cfgtxtrda,Obtain an IP address automatically,IP Adresse automatisch zuweisen,IP-adres automatisch verkrijgen,IP automática ,IP adresini otomatik olarak al,Obter endereço IP automaticamente,Ottieni automaticamente l'indirizzo IP,Отримувати IP-адресу автоматично
-cfgtxtrdb,Use the following IP address ,IP Adresse manuell zuweisen,Gebruik het volgende IP-adres,Usar la siguiente dirección IP,Aşağıdaki IP adresini kullan,Usar o seguinte endereço IP ,Usa il seguente indirizzo IP,Використовувати таку IP-адресу
-cfgtxtrdc,Obtain DNS server addresses automatically,DNS Server automatisch setzen,DNS-adressen automatisch verkrijgen,DNS automático ,DNS sunucu adreslerini otomatik olarak al,Obter endereços DNS automaticamente,Ottieni automaticamente l'indirizzo DNS,Отримувати DNS автоматично
-cfgtxtrdd,Use the following DNS server addresses ,DNS Server manuell setzen,Gebruik de volgende DNS-adressen,Usar la siguiente dirección de servidor DNS,Aşağıdaki DNS sunucu adreslerini kullan,Usar os seguintes endereços DNS ,Usa il seguente indirizzo DNS,Використовувати такі адреси DNS
-cfgerrtxt0,Wrong IP format,Falsches IP Format,Ongeldig IP-formaat,Formato de IP incorrecto,Yanlış IP formatı,Formato de IP inválido,Formato IP errato,Невірний формат IP.
-cfgerrtxt1,Please enter a correct,Bitte eine Zahl zwischen,Voer een geldig,"Por favor, introduzca un número",Lütfen 0 ile 255 arasında,"Por favor, insira um número",Inserisci un valore,Введіть число від 0 до 255.
-cfgerrtxt2,number between 0 and 255.,0 und 255 eingeben.,getal in tussen 0 en 255.,correcto entre 0 y 255.,bir sayı girin.,correto entre 0 e 255.,compreso fra 0 e 255,
+prgtxtoky,Ok,Ok,OK,Ok,Aceptar,Ok,Ok,Ok,Гаразд
+prgtxtcnc,Cancel,Abbruch,Annuleer,キャンセル,Cancelar,İptal,Cancelar,Annulla,Скасувати
+stamentxt1,File,Datei,Bestand,ファイル,Archivo,Dosya,Arquivo,File,Файл
+stamentxt2,?,?,?,？,?,?,?,?,?
+stamentxt11, Hide on startup, Beim Start ausblenden, Verbergen bij opstarten, きどうじにかくす, Ocultar al iniciar, Başlarken gizle, Ocultar ao iniciar, Nascondi all'avvio, Згорнути після запуску
+stamentxt12, Reset all connections, Alle Verbindungen trennen, Alle verbindingen resetten, すべてのせつぞくをリセット, Resetear todas las conexiones, Tüm bağlantıları sıfırla, Redefinir conexões, Resetta tutte le connessioni, Скинути всі підключення
+stamentxt13, Quit, Beenden, Afsluiten, しゅうりょう, Quitar, Çıkış, Sair, Esci, Вийти
+stamentxt21, Index, Hilfethemen, Index, インデックス, Índice, Dizin, Índice, Indice, Індекс
+stamentxt22, About, Info, Over, じょうほう, Info, Hakkında, Sobre, Info, Про програму
+statxttit,Network daemon,Network Daemon,Netwerkdaemon,ネットワークデーモン,Servicio de Red,Ağ servisi,Network Daemon,Servizio di rete,Мережева служба
+statxtbta,Hide,Ausblenden,Verbergen,かくす,Ocultar,Gizle,Ocultar,Nascondi,Згорнути
+statxtbtb,Network settings,Einstellungen,Netwerkinstellingen,ネットワークのせってい,Opciones de Red,Ağ ayarları,Configurações,Impostazioni direte,Налаштування мережі
+statxtbtc,Apply,Überneh.,Toepassen,てきよう,Aplicar,Uygula,Aplicar,Applica,Задіяти
+statxttba1,Status,Status,Status,じょうたい,Estado,Durum,Status,Status,Стан
+statxttba3,Driver,Treiber,Stuurprogramma,ドライバー,Driver,Sürücü,Driver,Driver,Драйвер
+statxtfra,Network status,Netzwerk Status,Netwerkstatus,ネットワークのじょうたい,Estado de Red,Ağ durumu,Status da rede,Stato della rete,Стан мережі
+statxttxc,Status,Status,Status,じょうたい,Estado,Durum,Status,Stato,Стан:
+statxttxd,Connections,Verbindungen,Verbindingen,せつぞくすう,Conexiones,Bağlantılar,Conexões,Connessioni,Підключення:
+statxttxe,Maximum,Maximal,Maximum,さいだい,Máximo,Maksimum,Máximo,Massimo,Максимум:
+statxttxf,Sent,Gesendet,Verzonden,そうしん,Enviado,Gönderildi,Enviado,Inviato,Відправлено:
+statxttxg,Received,Empfangen,Ontvangen,じゅしん,Recibido,Alındı,Recebido,Ricevuto,Отримано:
+statxttxh,Type,Typ,Type,タイプ,Teclear,Tip,Tipo,Tipo,Тип:
+statxttxh1,Manually set,Manuell gesetzt,Handmatig,しゅどうせってい,Manualmente ,Elle ayarla,Manual,Manualmente,Вручну
+statxtfrb,IP settings,IP Einstellungen,IP-instellingen,IPのせってい,Opciones de IP,IP ayarları,Configurações de IP,Configurazione IP,Налаштування IP
+statxtfrc,DNS settings,DNS Einstellungen,DNS-instellingen,DNSのせってい,Opciones de DNS,DNS ayarları,Configurações de DNS,Impostazioni DNS,Налаштування DNS
+statxtfrd,Status,Status,Status,じょうたい,Estado,Durum,Status,Stato,Стан
+statxtfre,DenYoNet Settings,DenYoNet Einstellungen,DenYoNet-instellingen,DenYoNetのせってい,Opciones de DenYoNet,DenYoNet Ayarları,Configurações DenYoNet,Impostazioni DenYoNet,Налаштування DenYoNet
+statxtfrf,Localhost Settings,Localhost Einstellungen,Localhost-instellingen ,ローカルホストのせってい,Opciones de servidor local,Localhost Ayarları,Configurações de Localhost,Impostazioni Localhost,Налаштування Localhost
+statxtfrg,GR8NET Settings,GR8NET Einstellungen,GR8NET-instellingen,GR8NETのせってい,Opciones de GR8NET,GR8NET Ayarları,Configurações GR8NET,GR8NET Impostazioni,Налаштування GR8NET
+statxtfrh,M4 Board Settings,M4 Board Einstellungen,M4 Board-instellingen,M4 Boardのせってい,Opciones de Tarjeta M4,M4 Board Ayarları,Configurações M4 Board,M4 Board Impostazioni,Налаштування M4 Board
+statxtfri,Net4CPC Settings,Net4CPC Einstellungen,Net4CPC-instellingen,Net4CPSCのせってい,Opciones de Net4CPC,Net4CPC Ayarları,Configurações Net4CPC,Net4CPC Impostazioni,Налаштування Net4CPC
+cfgtxttit,TCP/IP properties,TCP/IP Eigenschaften,TCP/IP-eigenschappen,TCP/IPのプロパティ,Propiedades de TCP/IP,TCP/IP Ayarları,Propriedades TCP/IP,Proprietà TCP/IP,Налаштування TCP/IP
+cfgtxttba1,IP address,IP Adresse,IP-adres,IPアドレス,Dirección IP,IP adresi,Endereço IP,Indirizzo IP,IP-адреса
+cfgtxttba2,DNS & Hostname,DNS & Hostname,DNS & Hostnaam,DNSとホストめい,DNS y Nombre del servidor,DNS & Ana Bilgisayar,DNS e Nome do host,DNS & Nome Host,DNS та ім'я комп'ютера
+cfgtxttxa,You can get IP settings assigned automatically,IP Adressen können automatisch zugewiesen,IP-instellingen kunnen automatisch worden,ルーターがじどうわりあてにたいおうしていれば,Se asignarán automáticamente las opciones,"Ağınız bu özelliği destekliyorsa,",As configurações de IP podem ser atribuídas,Se la tua rete lo supporta puoi,Параметри протоколу IP можуть призначатись
+cfgtxttxb,if your network supports this capability.,werden. Wenn das Netzwerk dies nicht,toegewezen als je netwerk dit ondersteunt.,IPがじどうしゅとくできます,de IP si es soportado por tu red.,IP ayarlarını otomatik olarak atayabilirsiniz.,automaticamente se sua rede suportar.,ottenere l'ìindirizzo IP automaticamente,"автоматично, якщо ваша мережа це підтримує."
+cfgtxttxc,"Otherwise, you need to ask your network admin",unterstützt muß die korrekte IP-Einstellung,Anders vraag je je netwerkbeheerder,そうでないばあいは ただしいIPアドレスを,"Si no, debes pedir las opciones de IP","Aksi takdirde, uygun IP ayarları için ağ","Caso contrário, você precisa solicitar ao",Altrimenti devi richiedere l'IP al,В іншому разі слід отримати параметри IP
+cfgtxttxd,for the appropriate IP settings.,beim Netzwerk-Administrator erfragt werden.,om de juiste IP-instellingen.,かくにんしてください,necesarias al administrador.,yöneticinize danışmanız gerekir.,administrador as configurações de IP corretas.,tuo amministratore di rete.,в адміністратора вашої мережі.
+cfgtxttxf,IP address,IP Adresse,IP-adres,IPアドレス,Dirección IP,IP adresi,Endereço IP,Indirizzo IP,IP-адреса:
+cfgtxttxg,Subnet mask,Subnetz Maske,Subnet,サブネットマスク,Subred,Alt ağ maskesi,Sub-rede,Subnet,Маска підмережі:
+cfgtxttxh,Default gateway,Gateway,Gateway,デフォルトゲートウェイ,Gateway,Ağ geçidi,Gateway padrão,Gateway,Основний шлюз:
+cfgtxttxi,Hostname,Hostname,Hostnaam,ホストめい,Host,Ana bilgisayar adı,Nome do host,Nome Host,Ім'я комп'ютера:
+cfgtxttxj,Primary DNS,Primärer DNS,Primaire DNS,プライマリDNS,DNS Primaria,Birincil DNS,DNS primário,DNS primario,Основний DNS:
+cfgtxttxk,Secondary DNS,Sekundär. DNS,Secundaire DNS,セカンダリDNS,DNS Sec.,İkincil DNS,DNS secundário,DNS secondario,Резервний DNS:
+cfgtxtrda,Obtain an IP address automatically,IP Adresse automatisch zuweisen,IP-adres automatisch verkrijgen,IPアドレスをじどうでしゅとく,IP automática ,IP adresini otomatik olarak al,Obter endereço IP automaticamente,Ottieni automaticamente l'indirizzo IP,Отримувати IP-адресу автоматично
+cfgtxtrdb,Use the following IP address ,IP Adresse manuell zuweisen,Gebruik het volgende IP-adres,つぎのIPアドレスをつかう,Usar la siguiente dirección IP,Aşağıdaki IP adresini kullan,Usar o seguinte endereço IP ,Usa il seguente indirizzo IP,Використовувати таку IP-адресу
+cfgtxtrdc,Obtain DNS server addresses automatically,DNS Server automatisch setzen,DNS-adressen automatisch verkrijgen,DNSアドレスをじどうでしゅとく,DNS automático ,DNS sunucu adreslerini otomatik olarak al,Obter endereços DNS automaticamente,Ottieni automaticamente l'indirizzo DNS,Отримувати DNS автоматично
+cfgtxtrdd,Use the following DNS server addresses ,DNS Server manuell setzen,Gebruik de volgende DNS-adressen,つぎのDNSアドレスをつかう,Usar la siguiente dirección de servidor DNS,Aşağıdaki DNS sunucu adreslerini kullan,Usar os seguintes endereços DNS ,Usa il seguente indirizzo DNS,Використовувати такі адреси DNS
+cfgerrtxt0,Wrong IP format,Falsches IP Format,Ongeldig IP-formaat,IPアドレスをまちがえています,Formato de IP incorrecto,Yanlış IP formatı,Formato de IP inválido,Formato IP errato,Невірний формат IP.
+cfgerrtxt1,Please enter a correct,Bitte eine Zahl zwischen,Voer een geldig,０から255のあいだの,"Por favor, introduzca un número",Lütfen 0 ile 255 arasında,"Por favor, insira um número",Inserisci un valore,Введіть число від 0 до 255.
+cfgerrtxt2,number between 0 and 255.,0 und 255 eingeben.,getal in tussen 0 en 255.,ただしいすうじをいれてください,correcto entre 0 y 255.,bir sayı girin.,correto entre 0 e 255.,compreso fra 0 e 255,

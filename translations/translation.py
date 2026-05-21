@@ -782,7 +782,7 @@ if len(sys.argv) == 2:
     elif sys.argv[1][:5] == "miss:":
         txtout1,txtout2 = i18n_translate_miss_one(sys.argv[1][5:].upper())
         print(f"{sys.argv[1][5:].upper()}\n\n{txtout1}{txtout2}")
-    elif sys.argv[1] == "missall":
+    elif sys.argv[1] == "miss":
        i18n_translate_incomplete()
     else:
         files = glob.glob(sys.argv[1])
@@ -796,5 +796,5 @@ else:
     print("    shows overview of missing translations for all apps")
     print("\npython3 translation.py miss:[LNG]")
     print("    shows missing translations for one language, [LNG]=three character identifier, e.g. miss:SPA")
-    print("\npython3 translation.py missall")
+    print("\npython3 translation.py miss")
     print("    shows missing translations for all languages")

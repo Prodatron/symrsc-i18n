@@ -13,13 +13,13 @@ prgtxterra,Textbuffer full. Only a part of,Textspeicher voll. Nur ein,Tekstbuffe
 prgtxterrb,the document has been loaded.,Teil konnte geladen werden.,document geladen.,ドキュメント の いちぶ だけ が よみこみ されました。,del documento ha sido cargado.,yalnızca bir kısmı yüklendi.,do documento foi carregado.,del documento è stata caricata.,Файл завантажений частково.
 prgtxterrc,Error while loading file!,Fehler beim Laden!,Fout bij laden van bestand!,ファイル よみこみ エラー！,¡Error al cargar archivo!,Dosya yüklenirken hata!,Erro ao carregar arquivo!,Errore di lettura del file!,Помилка завантаження файлу!
 prgtxterrd,Error while saving file!,Fehler beim Speichern!,Fout bij opslaan van bestand!,ファイル ほぞん エラー！,¡Error al guardar archivo!,Dosya kaydedilirken hata!,Erro ao salvar arquivo!,Errore di salvataggio del file!,Помилка збереження файлу!
-prgtxterrh,Error while loading font!,Fehler beim Schrift-Laden!,#TRANSLATE#,フォントよみこみエラー！,¡Error al cargar fuente!,Font yüklenirken hata!,Erro ao carregar fonte!,Errore di lettura del font!,Помилка завантаження шрифту!
+prgtxterrh,Error while loading font!,Fehler beim Schrift-Laden!,Fout bij laden van het lettertype!,フォントよみこみエラー！,¡Error al cargar fuente!,Font yüklenirken hata!,Erro ao carregar fonte!,Errore di lettura del font!,Помилка завантаження шрифту!
 prgtxterre,Device full. Only a part of,Datenträger voll. Nur ein Teil,Apparaat vol.Slechts een deel van,デバイス が いっぱい です。,Dispositivo lleno. Solo parte del,Aygıt dolu. Belgenin yalnızca,Dispositivo cheio. Apenas parte,Dispositivo pieno. Solo un  parte del,Диск заповнений. Збережено
 prgtxterrf,the document has been saved.,konnte gespeichert werden.,document opgeslagen.,ドキュメント の いちぶ だけ が ほぞん されました。,documento ha sido guardado.,bir kısmı kaydedildi.,do documento foi salvo.,documento è stata salvata.,лише частину документа.
 prgtxterrg,Printer Daemon not found.,Kein Printer Daemon.,Printer Daemon niet gevonden.,プリンター デーモン が みつかりません。,Sin Printer Daemon.,Yazıcı Servisi bulunamadı.,Servidor de impressão não encontrado.,Daemon di stampa non trovato.,Службу принтера не знайдено.
 prgtxtsav1,Save changes?,Änderungen speichern?,Wijzigingen opslaan?,こうしんを ほぞんしますか？,Guardar cambios?,Değişiklikleri kaydet?,Salvar alterações?,Salvare le modifiche?,Зберегти зміни?
 fnttxtdef,Default,Standard,Standaard,デフォルト,Por defecto,Varsayılan,Padrão,Default,Звичайний
-fnttxtext,[Loaded],[Geladen],#TRANSLATE#,[よみこみ],[Cargado],[Yüklendi],[Carregado],[Caricato],[Зовн.]
+fnttxtext,[Loaded],[Geladen],[Geladen],[よみこみ],[Cargado],[Yüklendi],[Carregado],[Caricato],[Зовн.]
 txtcfgfnt,Font,Schriftart,Lettertype,フォント,Fuente,Font ,Fonte,Font,Шрифт
 txtcfgopt,Options,Optionen,Opties,オプション,Opciones,Seçenekler,Opções,Opzioni,Параметри
 cfgwintit,Settings,Einstellungen,Instellingen,せってい,Opciones,Ayarlar,Configurações,Impostazioni,Налаштування
@@ -35,8 +35,8 @@ cfgwintxt8,chars,Zeichen,tekens,もじ,caracteres,karakter,caracteres,Caratt.,с
 cfgwintxt9,Pen,Schrift,Pen,ペン,Color,Kalem,Caneta,Colore,Перо
 cfgwintxta,Paper,Hinterg.,Papier,かみ,Fondo,Kağıt,Papel,Sfondo,Папір
 cfgwintxtb,Preview,Vorschau,Voorbeeld,プレビュー,Previa ,Önizleme,Prévia ,Anteprima,Перегляд
-cfgwintxt10,Load from,Schriftart,#TRANSLATE#,よみこむ,Cargar,Şuradan yükle:,Carregar,Carica da,Додати
-cfgwintxt11,Fontfile,laden,#TRANSLATE#,フォントファイル,Archivo,Font dosyası,fonte,File carattere,шрифт
+cfgwintxt10,Load from,Schriftart,Lettertype,よみこむ,Cargar,Şuradan yükle:,Carregar,Carica da,Додати
+cfgwintxt11,Fontfile,laden,laden,フォントファイル,Archivo,Font dosyası,fonte,File carattere,шрифт
 cfgwintxt12,Miscellaneous,Allgemein,Diversen,そのた,Varios,Çeşitli,Diversos,Varie,Різне
 fndwintit,Find,Suchen,Zoeken,けんさく,Buscar,Bul,Localizar,Trova,Знайти
 repwintit,Replace,Ersetzen,Vervangen,ちかん,Reemplazar,Değiştir,Substituir,Sostituisci,Замінити
@@ -52,9 +52,9 @@ fndmsgtxt1,Text not found!,Text nicht gefunden!,Tekst niet gevonden!,テキス�
 fndmsgtxt3a,Textbuffer full. Couldn't,Speicher voll. Nicht alles,Tekstbuffer vol. Kon niet,テキストバッファー が いっぱい,Búfer de texto lleno. No se,Metin arabelleği dolu. Bir veya,Buffer de texto cheio. Não foi,Buffer pieno. Non posso sostituire,Текстовий буфер переповнений. Не вдалося
 fndmsgtxt3b,replace one or more entries.,konnte ersetzt werden.,één of meer items vervangen.,で、いくつか の エントリー を リプレイス できません。,reemplazaron una o más entradas.,daha fazla girdi değiştirilemedi.,possível substituir uma ou mais entradas.,una o più voci.,виконати заміну деяких елементів.
 fndmsgtxt4,Invalid number,Ungültige Nummer,Ongeldig getal,むこうな ナンバー,Número no válido,Geçersiz sayı,Número inválido,Numero non valido,Недійсний номер
-_fndmsgtxt2a,Replaced ,,#TRANSLATE#,ちかん,Reemplazado ,Değiştirildi ,Substituído ,Sostituito,Зроблено 
-fndmsgtxt2b,????? times.,????? mal ersetzt.,#TRANSLATE#,????? かい,????? veces.,????? defa.,????? vezes.,????? volte,????? замін.
-fndmsgtxt2c, times., mal ersetzt.,#TRANSLATE#, かい, veces., defa., vezes.,volte., замін.
+_fndmsgtxt2a,Replaced ,,,ちかん,Reemplazado ,Değiştirildi ,Substituído ,Sostituito,Зроблено 
+fndmsgtxt2b,????? times.,????? mal ersetzt.,????? keer vervangen.,????? かい,????? veces.,????? defa.,????? vezes.,????? volte,????? замін.
+fndmsgtxt2c, times., mal ersetzt., keer vervangen., かい, veces., defa., vezes.,volte., замін.
 prgwinmentx1,File,Datei,Bestand,ファイル,Archivo,Dosya,Arquivo,File,Файл
 prgwinmen1tx1, New, Neu, Nieuwe, しんき, Nuevo, Yeni, Novo, Nuovo, Створити
 prgwinmen1tx2, Open..., Öffnen..., Openen..., ひらく, Abrir..., Aç…, Abrir..., Apri…, Відкрити…
@@ -79,7 +79,7 @@ prgwinmen3tx2, Settings..., Einstellungen..., Instellingen..., せってい, Opc
 prgwinmentx4,View,Ansicht,Beeld,ひょうじ,Ver,Görünüm,Exibir,Visualizza,Вигляд
 prgwinmen4tx1, Tool bar, Statusleiste, Statusbalk, ステータス バー, Barra de estado, Araç çubuğu, Barra de ferramentas, Barra degli strumenti, Панель інструментів
 prgwinmen4tx2, Status bar, Statusleiste, Statusbalk, ステータス バー, Barra de estado, Durum çubuğu, Barra de status, Barra di stato, Рядок стану
-prgwinmen4tx3, Line numbers, Zeilennummern,#TRANSLATE#, ぎょう,  Números de línea, Satır numaraları, Números de linha, Numeri di linea, Номери рядків
+prgwinmen4tx3, Line numbers, Zeilennummern, Regelnummers, ぎょう,  Números de línea, Satır numaraları, Números de linha, Numeri di linea, Номери рядків
 prgwinmentx5,?,?,?,?,?,?,?,?,?
 prgwinmen5tx1, Index, Hilfethemen, Index, インデックス, Índice, İndeks, Índice, Indice, Перегляд довідки
 prgwinmen5tx2, About Wordpad..., Über Wordpad..., Over Wordpad..., ワードパッド に ついて..., Acerca de Wordpad..., Wordpad hakkında…, Sobre o Wordpad..., Info su Wordpad, Про програму…

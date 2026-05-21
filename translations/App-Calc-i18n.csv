@@ -1,20 +1,20 @@
-labels,ENG,DEU,NLD,SPA,TUR,POR,ITA,UKR
+labels,ENG,DEU,NLD,JPN,SPA,TUR,POR,ITA,UKR
 ### pack0,18,264
-prgwintit,Calculator,Rechner,Calculator,Calculadora,Hesap Makinesi,Calculadora,Calcolatrice,Калькулятор
-prgwinmentx1,Edit,Bearbeiten,Bewerken,Editar,Düzenle,Editar,Modifica,Редагування
-prgwinmen1tx1,Copy,Kopieren,Kopiëren,Copiar,Kopyala,Copiar,Copia,Копіювати
-prgwinmen1tx2,Paste,Einfügen,Plakken,Pegar,Yapıştır,Colar,Incolla,Вставити
-prgwinmentx2,View,Ansicht,Beeld,Ver,Görüntüle,Exibir,Vedi,Вигляд
-prgwinmen2tx1,Standard,Standard,Standaard,Estándar,Standart,Padrão,Standard,Звичайний
-prgwinmen2tx2,Scientific,Wissenschaftlich,Wetenschappelijk,Científica,Bilimsel,Científica,Scientifica,Інженерний
-prgwinmen2tx3,Deg,Deg,Deg,Gra,Deg,Graus,Gra,Градуси
-prgwinmen2tx4,Rad,Rad,Rad,Rad,Rad,Rad,Rad,Радіани
-prgwinmen2tx5,Group digits,1000er gruppieren,Groeperen,Dígitos de grupo,Grup rakamları,Agrupar dígitos,Digitazione di gruppo,Групувати цифри
-prgwinmen2tx6,US point format,englisches Format,US-puntnotatie,Formato de punto US,ABD nokta formatı,Formato com ponto,Decimale US,Десяткова крапка (US)
-prgwinmentx3,?,?,?,?,?,?,?,?
-prgwinmen3tx1,Help topics,Hilfethemen,Help,Ayuda,Yardım Konuları,Ajuda,Aiuto,Довідка
-prgwinmen3tx2,About Pocket Calculator,Info,Over Zakrekenmachine,Info,Hakkında,Info,Info su Calcolatrice,Про програму
-errtxtzer,Division by zero,Geteilt durch 0,Deling door nul,División por cero,Sıfıra bölme,Divisão por zero,Divisione per 0,Ділення на нуль
-errtxtovf,Overflow,Überlauf,Overloop,Desbordamiento,Taşma,Estouro,Troppi dati,Переповнення
-errtxtimp,Improper number,Unzulässige Zahl,Ongeldig getal,Número inadecuado,Yanlış sayı,Número inválido,Numero improprio,Некоректне число
-errtxtstk,Stack full,Stapel voll,Stack vol,Pila llena,Yığın dolu,Pilha cheia,Stack pieno,Стек повний
+prgwintit,Calculator,Rechner,Calculator,でんたく,Calculadora,Hesap Makinesi,Calculadora,Calcolatrice,Калькулятор
+prgwinmentx1,Edit,Bearbeiten,Bewerken,へんしゅう,Editar,Düzenle,Editar,Modifica,Редагування
+prgwinmen1tx1,Copy,Kopieren,Kopiëren,コピー,Copiar,Kopyala,Copiar,Copia,Копіювати
+prgwinmen1tx2,Paste,Einfügen,Plakken,はりつけ,Pegar,Yapıştır,Colar,Incolla,Вставити
+prgwinmentx2,View,Ansicht,Beeld,ひょうじ,Ver,Görüntüle,Exibir,Vedi,Вигляд
+prgwinmen2tx1,Standard,Standard,Standaard,ひょうじゅん,Estándar,Standart,Padrão,Standard,Звичайний
+prgwinmen2tx2,Scientific,Wissenschaftlich,Wetenschappelijk,かんすうでんたく,Científica,Bilimsel,Científica,Scientifica,Інженерний
+prgwinmen2tx3,Deg,Deg,Deg,ど,Gra,Deg,Graus,Gra,Градуси
+prgwinmen2tx4,Rad,Rad,Rad,ラジアン,Rad,Rad,Rad,Rad,Радіани
+prgwinmen2tx5,Group digits,1000er gruppieren,Groeperen,けたくぎり,Dígitos de grupo,Grup rakamları,Agrupar dígitos,Digitazione di gruppo,Групувати цифри
+prgwinmen2tx6,US point format,englisches Format,US-puntnotatie,USしょうすうてん,Formato de punto US,ABD nokta formatı,Formato com ponto,Decimale US,Десяткова крапка (US)
+prgwinmentx3,?,?,?,？,?,?,?,?,?
+prgwinmen3tx1,Help topics,Hilfethemen,Help,ヘルプ,Ayuda,Yardım Konuları,Ajuda,Aiuto,Довідка
+prgwinmen3tx2,About Pocket Calculator,Info,Over Zakrekenmachine,じょうほう,Info,Hakkında,Info,Info su Calcolatrice,Про програму
+errtxtzer,Division by zero,Geteilt durch 0,Deling door nul,ゼロじょざん,División por cero,Sıfıra bölme,Divisão por zero,Divisione per 0,Ділення на нуль
+errtxtovf,Overflow,Überlauf,Overloop,オーバーフロー,Desbordamiento,Taşma,Estouro,Troppi dati,Переповнення
+errtxtimp,Improper number,Unzulässige Zahl,Ongeldig getal,ふせいなすうち,Número inadecuado,Yanlış sayı,Número inválido,Numero improprio,Некоректне число
+errtxtstk,Stack full,Stapel voll,Stack vol,スタックがいっぱい,Pila llena,Yığın dolu,Pilha cheia,Stack pieno,Стек повний

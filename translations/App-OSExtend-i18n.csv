@@ -139,7 +139,7 @@ stmtoptxtc,Date and Time,Дата та час,にちしﾞ,Datum & Uhrzeit,Datum
 stmtoptxtd,Startmenu,"Меню ""Пуск""",スタートメニュー,Startmenü,Startmenu,Menú Inicio,Başlat Menüsü,Menu Iniciar,Menù Avvio
 stmtoptxte,Load,Завантажити,ロード,Laden,Laden,Cargar,Yükle,Carregar,Carica
 stmtoptxtf,Save,Зберегти,セーブ,Speichern,Opslaan,Guardar,Kaydet,Salvar,Salva
-keytxtinf2,Layouts:,Розкладки:,#TRANSLATE#,Layouts:,#TRANSLATE#,Esquemas:,Yerleşim planları:,Layouts:,Layout:
+keytxtinf2,Layouts:,Розкладки:,#TRANSLATE#,Layouts:,Indelingen:,Esquemas:,Yerleşim planları:,Layouts:,Layout:
 ### pack1,53,898
 sysbutok,Ok,Гаразд,Ok,Ok,OK,Aceptar,Ok,Ok,Ok
 sysbutcnc,Cancel,Скасувати,キャンセル,Abbruch,Annuleer,Cancelar,İptal,Cancelar,Annulla
